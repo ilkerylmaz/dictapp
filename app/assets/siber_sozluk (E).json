@@ -1,0 +1,557 @@
+{
+    "siberGuvenlikKavramlari": [
+  
+  {
+    "kavram": "Eavesdropping (Dinleme)",
+    "aciklama": "Gizli veya özel bilgilerin, yetkisiz bir şekilde dinlenmesi veya izlenmesi. Örneğin, ağ trafiği dinlenmesi."
+  },
+  {
+    "kavram": "Endpoint Security (Uç Nokta Güvenliği)",
+    "aciklama": "Ağda kullanılan cihazların (bilgisayarlar, akıllı telefonlar, tabletler vb.) güvenliğini sağlamaya yönelik önlemler."
+  },
+  {
+    "kavram": "Encryption (Şifreleme)",
+    "aciklama": "Verilerin, sadece yetkili kişiler tarafından erişilebilmesi için okunamaz hale getirilmesi işlemi."
+  },
+  {
+    "kavram": "Exploit (Sömürü)",
+    "aciklama": "Bir güvenlik açığından yararlanarak, bir sisteme izinsiz erişim sağlama."
+  },
+  {
+    "kavram": "Exposure (Maruziyet)",
+    "aciklama": "Bir sistemin, zayıf yönlerinin veya hassas verilerinin kötüye kullanımına açık olması durumu."
+  },
+  {
+    "kavram": "Error Handling (Hata Yönetimi)",
+    "aciklama": "Yazılımda meydana gelen hataların tespit edilmesi, yönetilmesi ve düzeltilmesi."
+  },
+  {
+    "kavram": "Email Security (E-posta Güvenliği)",
+    "aciklama": "E-posta mesajlarının şifrelenmesi, kimlik doğrulama ve spam filtresi gibi tekniklerle korunması."
+  },
+  {
+    "kavram": "Egress Filtering (Çıkış Filtrelemesi)",
+    "aciklama": "Ağdan dışarıya veri çıkışını kontrol etme ve izinsiz veri çıkışını engelleme."
+  },
+  {
+    "kavram": "Exfiltration (Veri Çıkartma)",
+    "aciklama": "Kötü niyetli bir kişinin, sistemden hassas verileri çalması."
+  },
+  {
+    "kavram": "Epidemic Propagation (Epidemik Yayılma)",
+    "aciklama": "Kötü amaçlı yazılımların ağlar veya sistemler içinde hızla yayılma süreci."
+  },
+  {
+    "kavram": "Enterprise Security (Kurumsal Güvenlik)",
+    "aciklama": "Bir organizasyonun tüm dijital varlıklarının güvenliğini sağlamaya yönelik kapsamlı strateji."
+  },
+  {
+    "kavram": "Event Logging (Olay Kaydı)",
+    "aciklama": "Sistem ve ağ aktivitelerinin kaydedilmesi ve incelenmesi amacıyla log (kayıt) tutma işlemi."
+  },
+  {
+    "kavram": "Endpoint Detection and Response (EDR) (Uç Nokta Tespiti ve Yanıt)",
+    "aciklama": "Uç noktalardaki tehditleri tespit etmek ve bunlara anında yanıt vermek için kullanılan güvenlik çözümleri."
+  },
+  {
+    "kavram": "Encrypted Backup (Şifreli Yedekleme)",
+    "aciklama": "Yedeklenen verilerin şifrelenerek güvenli bir şekilde saklanması."
+  },
+  {
+    "kavram": "Escalation of Privilege (Yetki Artırma)",
+    "aciklama": "Bir kullanıcının, sistemdeki yetkilerini kötüye kullanarak daha yüksek seviyede erişim elde etmesi."
+  },
+  {
+    "kavram": "End-to-End Encryption (E2EE) (Uçtan Uca Şifreleme)",
+    "aciklama": "Verinin kaynaktan hedefe kadar şifrelenmesi, arada bir üçüncü tarafın erişimine izin verilmemesi."
+  },
+  {
+    "kavram": "External Attack Surface Management (EASM) (Dış Salgın Yüzeyi Yönetimi)",
+    "aciklama": "Organizasyonların dış tehditlere karşı savunmasız oldukları yüzeyleri yönetmek."
+  },
+  {
+    "kavram": "Emergency Response (Acil Yanıt)",
+    "aciklama": "Güvenlik olaylarına karşı anında ve etkili bir şekilde müdahale etme planı."
+  },
+  {
+    "kavram": "Ethical Hacking (Etik Hacking)",
+    "aciklama": "Yasal ve etik sınırlar içinde, sistemlerdeki güvenlik açıklarını bulmak için yapılan hackleme faaliyetleri."
+  },
+  {
+    "kavram": "Evading Detection (Tespiti Atlatma)",
+    "aciklama": "Kötü amaçlı yazılımların, güvenlik sistemleri tarafından tespit edilmeden çalışmasını sağlama."
+  },
+  {
+    "kavram": "Encryption Algorithm (Şifreleme Algoritması)",
+    "aciklama": "Verileri şifrelemek ve deşifrelemek için kullanılan matematiksel işlem."
+  },
+  {
+    "kavram": "Exposure Management (Maruziyet Yönetimi)",
+    "aciklama": "Bir sistemin zayıf noktalarını tespit etmek ve bu zayıflıkları azaltmaya yönelik stratejiler geliştirme."
+  },
+  {
+    "kavram": "Email Spoofing (E-posta Sahteciliği)",
+    "aciklama": "Gönderenin kimliğini taklit ederek e-posta göndermek, genellikle phishing saldırılarında kullanılır."
+  },
+  {
+    "kavram": "Elderly Security Awareness (Yaşlı Güvenlik Farkındalığı)",
+    "aciklama": "Yaşlı bireylerin dijital güvenlik risklerine karşı bilinçlendirilmesi."
+  },
+  {
+    "kavram": "Escalating Cyber Threats (Artan Siber Tehditler)",
+    "aciklama": "Teknolojinin gelişmesiyle birlikte daha sofistike ve etkili hale gelen siber tehditler."
+  },
+  {
+    "kavram": "Encryption Key Management (Şifreleme Anahtarı Yönetimi)",
+    "aciklama": "Şifreleme anahtarlarının güvenli bir şekilde oluşturulması, saklanması ve dağıtılması işlemi."
+  },
+  {
+    "kavram": "Emergency Response Plan (Acil Durum Müdahale Planı)",
+    "aciklama": "Bir siber güvenlik olayına karşı hızlı ve etkili müdahale sağlayacak plan."
+  },
+  {
+    "kavram": "Endpoint Protection Platform (EPP) (Uç Nokta Koruma Platformu)",
+    "aciklama": "Uç noktalarda gerçekleşebilecek tehditlere karşı koruma sağlayan bir yazılım platformu."
+  },
+  {
+    "kavram": "Email Filtering (E-posta Filtreleme)",
+    "aciklama": "Zararlı, spam veya istenmeyen e-postaların engellenmesi için kullanılan teknikler."
+  },
+  {
+    "kavram": "Egress Traffic Monitoring (Çıkış Trafiği İzleme)",
+    "aciklama": "Bir ağdan dışarıya gönderilen verilerin izlenmesi ve denetlenmesi."
+  },
+  {
+    "kavram": "Exploitation Framework (Sömürü Çerçevesi)",
+    "aciklama": "Saldırganların sistemlerdeki güvenlik açıklarından yararlanmak için kullandığı araçlar ve tekniklerin seti."
+  },
+  {
+    "kavram": "Endpoint Threat Detection (Uç Nokta Tehdit Tespiti)",
+    "aciklama": "Uç noktalarda gerçekleşebilecek tehditlerin tespiti için kullanılan yazılım ve teknikler."
+  },
+  {
+    "kavram": "Encrypted Communication (Şifreli İletişim)",
+    "aciklama": "Verilerin güvenli bir şekilde iletilmesi için kullanılan şifreleme teknikleri."
+  },
+  {
+    "kavram": "Emergency Response Team (ERT) (Acil Durum Müdahale Ekibi)",
+    "aciklama": "Güvenlik olaylarına ve acil durumlara müdahale etmek üzere eğitilmiş profesyonel ekip."
+  },
+  {
+    "kavram": "Exfiltration Prevention (Veri Çıkartma Önleme)",
+    "aciklama": "Kötü niyetli aktörlerin veriyi çalmasını engellemek için alınan önlemler."
+  },
+  {
+    "kavram": "Evasion Techniques (Kaçınma Teknikleri)",
+    "aciklama": "Güvenlik sistemlerinden kaçmak ve tespit edilmemek için kullanılan yöntemler."
+  },
+  {
+    "kavram": "Extended Validation Certificates (EV Certificates) (Genişletilmiş Doğrulama Sertifikaları)",
+    "aciklama": "Yüksek güvenlikli internet siteleri için kullanılan ve sitenin kimliğini doğrulayan dijital sertifikalar."
+  },
+  {
+    "kavram": "Enclaved Network (Kapanmış Ağ)",
+    "aciklama": "Diğer ağlardan tamamen izole edilmiş ve dışa kapalı olan ağ yapısı."
+  },
+  {
+    "kavram": "Elastomeric Security (Elastomerik Güvenlik)",
+    "aciklama": "Güvenlik tedbirlerinin, tehditlere karşı uyum sağlamak amacıyla esnek bir şekilde ayarlandığı güvenlik stratejisi."
+  },
+  {
+    "kavram": "External Penetration Testing (Dış Penetrasyon Testi)",
+    "aciklama": "Bir organizasyonun dış sınırlarına yönelik yapılan, potansiyel güvenlik açıklarını tespit etmeye yönelik testler."
+  },
+  {
+    "kavram": "Exploit Kits (Sömürü Kitleri)",
+    "aciklama": "Saldırganların sistemlerdeki güvenlik açıklarından yararlanmak için kullandığı kötü amaçlı yazılım araçları."
+  },
+  {
+    "kavram": "Emergency Response Time (Acil Müdahale Süresi)",
+    "aciklama": "Bir güvenlik olayına müdahale etmek için geçen süre."
+  },
+  {
+    "kavram": "Endpoint Forensics (Uç Nokta Adli Bilişim)",
+    "aciklama": "Uç noktalarda yapılan güvenlik incelemeleri, veri analizi ve suçları tespit etmek için kullanılan teknikler."
+  },
+  {
+    "kavram": "Encrypted Data Storage (Şifreli Veri Depolama)",
+    "aciklama": "Verilerin güvenli bir şekilde şifrelenerek depolanması."
+  },
+  {
+    "kavram": "Enhanced Security Architecture (Gelişmiş Güvenlik Mimarisi)",
+    "aciklama": "Güvenliği artırmak amacıyla yapılandırılmış ve entegre edilmiş güvenlik çözümleri."
+  },
+  {
+    "kavram": "End User Security Awareness (Son Kullanıcı Güvenlik Farkındalığı)",
+    "aciklama": "Son kullanıcıların güvenlik riskleri konusunda eğitilmesi ve bilinçlendirilmesi."
+  },
+  {
+    "kavram": "Executive Cybersecurity Training (Yönetici Siber Güvenlik Eğitimi)",
+    "aciklama": "Yöneticilerin siber güvenlik konusunda eğitilmesi ve organizasyonları koruma stratejilerinin öğretilmesi."
+  },
+  {
+    "kavram": "External Threat Intelligence (Dış Tehdit İstihbaratı)",
+    "aciklama": "Dış kaynaklardan elde edilen, organizasyonun güvenliğini tehdit edebilecek bilgilerin toplanması."
+  },
+  {
+    "kavram": "Endpoint Firewall (Uç Nokta Güvenlik Duvarı)",
+    "aciklama": "Uç noktalarda gerçekleşebilecek tehditlere karşı koruma sağlamak için kullanılan güvenlik duvarı."
+  },
+  {
+    "kavram": "Elevated Privileges (Yükseltilmiş Yetkiler)",
+    "aciklama": "Bir kullanıcının sistemde normalde sahip olamayacağı daha fazla erişim hakkına sahip olması durumu."
+  },
+  {
+    "kavram": "Evolving Cybersecurity Landscape (Evrilen Siber Güvenlik Manzarası)",
+    "aciklama": "Siber güvenlik tehditlerinin sürekli olarak değişen ve evrilen doğası. Yeni teknolojiler, saldırı yöntemleri ve savunma stratejileri bu manzarayı şekillendirir."
+  },
+  {
+    "kavram": "End-to-End Security (Uçtan Uca Güvenlik)",
+    "aciklama": "Veri iletişiminin her iki uç noktası arasında, iletim sırasında tam güvenlik sağlanmasını ifade eder. Bu, verinin yalnızca şifrelenmiş olarak iletilmesini değil, verinin alıcısına kadar güvenli bir şekilde ulaşmasını sağlar."
+  },
+  {
+    "kavram": "Encryption Standards (Şifreleme Standartları)",
+    "aciklama": "Şifreleme işlemlerinin nasıl yapılacağına dair belirlenen standartlar ve protokoller. Bu standartlar, verinin güvenli bir şekilde şifrelenmesini ve gerektiğinde şifresinin çözülmesini sağlar."
+  },
+  {
+    "kavram": "Enterprise Risk Management (Kurumsal Risk Yönetimi)",
+    "aciklama": "Bir kuruluşun karşılaşabileceği riskleri belirleme, değerlendirme ve bu risklerle başa çıkma stratejilerini geliştirme sürecidir."
+  },
+  {
+    "kavram": "Elaboration Attack (Açıklama Saldırısı)",
+    "aciklama": "Bir saldırganın hedef sistemin zayıflıklarını anlamak için daha fazla bilgi toplama amacıyla gerçekleştirilen saldırıdır."
+  },
+  {
+    "kavram": "Email Phishing (E-posta Phishing)",
+    "aciklama": "Dolandırıcıların, genellikle güvenilir bir kaynaktan geliyormuş gibi görünen e-postalar aracılığıyla kişisel bilgileri çalmaya çalıştığı saldırı türüdür."
+  },
+  {
+    "kavram": "Eldercare Security (Yaşlı Bakım Güvenliği)",
+    "aciklama": "Yaşlı bireylerin sağlık ve güvenliğini korumak için kullanılan teknoloji ve güvenlik önlemleri."
+  },
+  {
+    "kavram": "Encrypted File Transfer (Şifreli Dosya Transferi)",
+    "aciklama": "Dosyaların güvenli bir şekilde aktarılması amacıyla şifrelenerek gönderilmesidir."
+  },
+  {
+    "kavram": "Event Correlation (Olay Korelasyonu)",
+    "aciklama": "Güvenlik sistemlerinde meydana gelen olayların analiz edilerek birbirleriyle ilişkilendirilmesi ve bu sayede daha fazla bilgi ve güvenlik tehditlerinin tespit edilmesidir."
+  },
+  {
+    "kavram": "Emergency Cyber Incident Plan (Acil Siber Olay Planı)",
+    "aciklama": "Siber güvenlik tehditlerine karşı hızlı ve etkili müdahale için önceden hazırlanan bir plan."
+  },
+  {
+    "kavram": "Escalation Protocols (Yükseltme Protokolleri)",
+    "aciklama": "Bir güvenlik olayının daha üst düzey müdahaleye ihtiyaç duyduğunda uygulanacak adımların belirlenmesidir."
+  },
+  {
+    "kavram": "Electronic Fund Transfer (EFT) Security (Elektronik Fon Transferi Güvenliği)",
+    "aciklama": "Elektronik ortamda gerçekleştirilen para transferlerinin güvenliğini sağlamak için kullanılan yöntem ve protokollerdir."
+  },
+  {
+    "kavram": "Event Management (Olay Yönetimi)",
+    "aciklama": "Güvenlik olaylarının izlenmesi, analiz edilmesi ve yönetilmesi sürecidir."
+  },
+  {
+    "kavram": "Encrypted Communication Channel (Şifreli İletişim Kanalı)",
+    "aciklama": "Verilerin, şifreli bir şekilde iletildiği iletişim yoludur. Bu sayede iletilen veri sadece yetkili kişiler tarafından okunabilir."
+  },
+  {
+    "kavram": "Ethical Phishing Simulation (Etik Phishing Simülasyonu)",
+    "aciklama": "Şirket içindeki çalışanların phishing saldırılarına karşı eğitilmesi amacıyla gerçekleştirilen testlerdir."
+  },
+  {
+    "kavram": "Excessive Privilege Detection (Aşırı Yetki Tespiti)",
+    "aciklama": "Bir kullanıcının veya uygulamanın, gerekli olandan daha fazla yetkiye sahip olup olmadığının belirlenmesidir."
+  },
+  {
+    "kavram": "Exploitable Vulnerability (Sömürülebilir Zayıflık)",
+    "aciklama": "Saldırganların yararına kullanılabilecek, sistemdeki güvenlik açığıdır."
+  },
+  {
+    "kavram": "Encryption Key Escrow (Şifreleme Anahtarı Arşivleme)",
+    "aciklama": "Şifreleme anahtarlarının güvenli bir ortamda saklanmasıdır, genellikle bir üçüncü taraf tarafından yönetilir."
+  },
+  {
+    "kavram": "Extended Security Features (Genişletilmiş Güvenlik Özellikleri)",
+    "aciklama": "Bir güvenlik sistemine eklenen ekstra özellikler, örneğin gelişmiş şifreleme ya da kullanıcı doğrulama protokolleri."
+  },
+  {
+    "kavram": "Exploit Development (Sömürü Geliştirme)",
+    "aciklama": "Bir güvenlik açığından faydalanarak, sistemin kontrolünü ele geçirebilmek için yazılım geliştirilmesidir."
+  },
+  {
+    "kavram": "Encrypted Backup Storage (Şifreli Yedekleme Depolama)",
+    "aciklama": "Verilerin yedeklerinin, güvenli bir şekilde şifrelenerek saklanması işlemidir."
+  },
+  {
+    "kavram": "Event-driven Security (Olay Tabanlı Güvenlik)",
+    "aciklama": "Güvenlik olaylarının ortaya çıkmasına bağlı olarak tepki veren bir güvenlik yaklaşımıdır."
+  },
+  {
+    "kavram": "End-user Device Management (Son Kullanıcı Cihaz Yönetimi)",
+    "aciklama": "Çalışanların kullandığı cihazların güvenliğini sağlamak amacıyla yapılan yönetim ve denetim işlemleridir."
+  },
+  {
+    "kavram": "Excessive Data Sharing (Aşırı Veri Paylaşımı)",
+    "aciklama": "Verilerin, güvenlik politikalarına aykırı olarak fazla kişi veya sistemle paylaşılmasıdır."
+  },
+  {
+    "kavram": "External Database Security (Dış Veritabanı Güvenliği)",
+    "aciklama": "Dışarıdan erişilen veritabanlarının güvenliğini sağlamaya yönelik önlemler."
+  },
+  {
+    "kavram": "Elevated Attack Surface (Yükseltilmiş Saldırı Yüzeyi)",
+    "aciklama": "Sistem ya da ağda, saldırganların erişebileceği yeni ve potansiyel olarak tehlikeli alanların açılmasıdır."
+  },
+  {
+    "kavram": "Encryption Algorithm Selection (Şifreleme Algoritması Seçimi)",
+    "aciklama": "Verilerin şifrelenmesinde kullanılacak algoritmaların seçilmesi işlemidir."
+  },
+  {
+    "kavram": "Enterprise-Level Cybersecurity Framework (Kurumsal Düzeyde Siber Güvenlik Çerçevesi)",
+    "aciklama": "Büyük ölçekli kuruluşlar için güvenlik politikaları ve stratejilerinin çerçevesini oluşturur."
+  },
+  {
+    "kavram": "Early Detection of Intrusions (İzinsiz Girişlerin Erken Tespiti)",
+    "aciklama": "Sistemlere yetkisiz erişimin mümkün olan en erken aşamada fark edilmesi için kullanılan teknikler."
+  },
+  {
+    "kavram": "Evading Anti-virus Software (Antivirüs Yazılımlarını Atlatma)",
+    "aciklama": "Kötü amaçlı yazılımların, antivirüs yazılımlarını aşarak tespit edilmeden sistemlere zarar vermesi."
+  },
+  {
+    "kavram": "End-to-End Privacy (Uçtan Uca Gizlilik)",
+    "aciklama": "Verinin her iki uç noktası arasında, sadece yetkili kullanıcılar tarafından erişilebilmesini sağlayan gizlilik önlemi."
+  },
+  {
+    "kavram": "Escalation of Attack Severity (Saldırı Ciddiyetinin Yükselmesi)",
+    "aciklama": "Bir siber saldırının etkilerinin giderek daha yıkıcı hale gelmesi durumu."
+  },
+  {
+    "kavram": "Electronic Voting Security (Elektronik Oy Güvenliği)",
+    "aciklama": "Elektronik oylama sistemlerinin güvenliğini sağlamak amacıyla kullanılan teknikler ve protokoller."
+  },
+  {
+    "kavram": "Enterprise Application Security (Kurumsal Uygulama Güvenliği)",
+    "aciklama": "Kurumsal yazılımların güvenliğini sağlamak için kullanılan yöntemler, güvenlik testleri ve önlemler."
+  },
+  {
+    "kavram": "End-to-End Malware Protection (Uçtan Uca Kötü Amaçlı Yazılım Koruması)",
+    "aciklama": "Kötü amaçlı yazılımların, verinin her aşamasında tespit edilmesi ve engellenmesi."
+  },
+  {
+    "kavram": "Event-Triggered Monitoring (Olay Tetiklemeli İzleme)",
+    "aciklama": "Güvenlik olaylarının gerçekleşmesine dayalı olarak, izleme ve tepki gösterme sistemidir."
+  },
+  {
+    "kavram": "Eagle Eye Surveillance (Kartal Gözlü Gözetim)",
+    "aciklama": "Yüksek çözünürlüklü ve kapsamlı gözetleme yöntemleri, çok büyük alanları tek bir bakışta izleme imkânı sağlar."
+  },
+  {
+    "kavram": "Elderly Fraud Protection (Yaşlı Dolandırıcılığı Koruma)",
+    "aciklama": "Yaşlı bireyleri hedef alan dolandırıcılık faaliyetlerinden korumak için uygulanan güvenlik önlemleri."
+  },
+  {
+    "kavram": "Earnings Data Security (Kazanç Verisi Güvenliği)",
+    "aciklama": "Bireylerin veya kuruluşların gelir verilerinin, izinsiz erişim ve kötüye kullanımdan korunması."
+  },
+  {
+    "kavram": "Excessive Privilege Escalation (Aşırı Yetki Yükselmesi)",
+    "aciklama": "Bir kullanıcının, sahip olduğu yetkilerin gereğinden fazla artırılmasıdır."
+  },
+  {
+    "kavram": "Execution Prevention (Çalıştırma Önleme)",
+    "aciklama": "Zararlı yazılımların ya da kodların sistemde çalıştırılmasını engellemeye yönelik güvenlik önlemleri."
+  },
+  {
+    "kavram": "Enterprise Security Suite (Kurumsal Güvenlik Paketi)",
+    "aciklama": "Kurumsal güvenlik önlemlerini kapsayan yazılım ve araçlar topluluğu."
+  },
+  {
+    "kavram": "Email Authentication (E-posta Kimlik Doğrulaması)",
+    "aciklama": "E-posta mesajlarının, gönderenin kimliğini doğrulamak için kullanılan yöntemler."
+  },
+  {
+    "kavram": "Enterprise Data Protection (Kurumsal Veri Koruma)",
+    "aciklama": "Kurumsal verilerin korunması amacıyla uygulanan stratejiler, şifreleme ve erişim denetimleri."
+  },
+  {
+    "kavram": "Event Data Collection (Olay Verisi Toplama)",
+    "aciklama": "Güvenlik olaylarının kaydedilmesi ve analiz edilmesi amacıyla verilerin toplanması."
+  },
+  {
+    "kavram": "External Network Monitoring (Dış Ağ İzleme)",
+    "aciklama": "Kuruluş dışındaki ağların izlenmesi, olası dış tehditlerin tespit edilmesi."
+  },
+  {
+    "kavram": "Encrypted Database Storage (Şifreli Veritabanı Depolama)",
+    "aciklama": "Veritabanındaki verilerin, yetkisiz erişime karşı şifreli bir biçimde saklanması."
+  },
+  {
+    "kavram": "End-to-End Authentication (Uçtan Uca Kimlik Doğrulama)",
+    "aciklama": "İletişimdeki her iki tarafın kimliklerinin doğrulanması işlemidir."
+  },
+  {
+    "kavram": "Escalating System Threats (Yükselen Sistem Tehditleri)",
+    "aciklama": "Sistemi tehdit eden güvenlik açıklarının zaman içinde artması."
+  },
+  {
+    "kavram": "Enterprise Security Monitoring (Kurumsal Güvenlik İzleme)",
+    "aciklama": "Kuruluşların ağ ve sistemlerinin güvenliğini izlemek amacıyla kullanılan yöntemler ve araçlar."
+  },
+  {
+    "kavram": "Encrypted Traffic Analysis (Şifreli Trafik Analizi)",
+    "aciklama": "Şifrelenmiş ağ trafiğinin, potansiyel güvenlik tehditlerini analiz etme amacıyla incelenmesidir."
+  },
+  {
+    "kavram": "Ethical Hacker Engagement (Etik Hacker Katılımı)",
+    "aciklama": "Bir kuruluşun sistem güvenliğini test etmek amacıyla etik hackerlarla yapılan işbirliği."
+  },
+  {
+    "kavram": "End-user Behavior Monitoring (Son Kullanıcı Davranış İzleme)",
+    "aciklama": "Son kullanıcıların ağ üzerinde gerçekleştirdiği eylemlerin izlenmesi ve değerlendirilmesi."
+  },
+  {
+    "kavram": "Enterprise Application Authentication (Kurumsal Uygulama Kimlik Doğrulaması)",
+    "aciklama": "Kurumsal yazılımlara erişim için kullanılan kimlik doğrulama yöntemleri."
+  },
+  {
+    "kavram": "Encrypted Email Communication (Şifreli E-posta İletişimi)",
+    "aciklama": "E-posta mesajlarının içeriğinin şifrelenerek gönderilmesi."
+  },
+  {
+    "kavram": "Event Logging (Olay Günlüğü Tutma)",
+    "aciklama": "Güvenlik olayları ve diğer önemli sistem etkinliklerinin kaydedilmesidir."
+  },
+  {
+    "kavram": "Encrypted Data Sharing (Şifreli Veri Paylaşımı)",
+    "aciklama": "Verilerin güvenli bir biçimde, şifrelenerek paylaşılmasıdır."
+  },
+  {
+    "kavram": "Enterprise Security Monitoring (Kurumsal Güvenlik İzleme)",
+    "aciklama": "Kurumsal güvenlik açıklarını izlemek, tespit etmek ve yönetmek için kullanılan sürekli izleme süreçleri ve araçları."
+  },
+  {
+    "kavram": "Exploit Mitigation (Sömürü Azaltma)",
+    "aciklama": "Bilgisayar sistemlerinde bulunan açıkların saldırıya dönüşmesini engellemek için alınan önlemler."
+  },
+  {
+    "kavram": "External Security Audit (Dış Güvenlik Denetimi)",
+    "aciklama": "Bir organizasyonun dış kaynaklardan gelen uzmanlar tarafından yapılan güvenlik incelemeleri."
+  },
+  {
+    "kavram": "End-User Authentication (Son Kullanıcı Kimlik Doğrulama)",
+    "aciklama": "Sistemlere yalnızca yetkilendirilmiş kullanıcıların erişebilmesi için kimlik doğrulama işlemi."
+  },
+  {
+    "kavram": "Emergency Cybersecurity Measures (Acil Siber Güvenlik Önlemleri)",
+    "aciklama": "Olası bir siber saldırı veya güvenlik açığı durumunda hızlıca alınan güvenlik önlemleri."
+  },
+  {
+    "kavram": "Ethical Hacker Toolkit (Etik Hacker Araç Seti)",
+    "aciklama": "Bilgisayar güvenliğini test etmek amacıyla etik hackerların kullandığı yazılımlar ve araçlar."
+  },
+  {
+    "kavram": "Escalating Attacks Detection (Saldırıların Yükselmesi Tespiti)",
+    "aciklama": "Bir saldırının büyüyüp daha ciddi hale gelmesini izleyerek tespit etme süreci."
+  },
+  {
+    "kavram": "Exploit Prevention (Sömürü Önleme)",
+    "aciklama": "Bilgisayar sistemlerindeki zayıf noktaları sömürülmeden önce engellemek için alınan önlemler."
+  },
+  {
+    "kavram": "Encrypted File System (Şifreli Dosya Sistemi)",
+    "aciklama": "Verilerin şifrelenerek depolandığı ve yalnızca yetkilendirilmiş kullanıcıların erişebildiği dosya sistemi."
+  },
+  {
+    "kavram": "Emergency Alert System (Acil Uyarı Sistemi)",
+    "aciklama": "Olası bir acil durumda kullanıcılara ve kurumlara uyarılar gönderen sistemler."
+  },
+  {
+    "kavram": "End User Behavior Monitoring (Son Kullanıcı Davranışı İzleme)",
+    "aciklama": "Son kullanıcıların sistemlerdeki aktivitelerini izleyerek potansiyel güvenlik tehditlerini tespit etme."
+  },
+  {
+    "kavram": "Evading Detection Tools (Tespit Araçlarından Kaçınma)",
+    "aciklama": "Saldırganların güvenlik sistemlerini atlatmak amacıyla kullandıkları yazılımlar."
+  },
+  {
+    "kavram": "Event Data Management (Olay Verisi Yönetimi)",
+    "aciklama": "Sistemlerdeki güvenlik olaylarının ve aktivitelerinin toplanması, analiz edilmesi ve saklanması."
+  },
+  {
+    "kavram": "Email Threat Protection (E-posta Tehdit Koruması)",
+    "aciklama": "E-posta yoluyla gelen zararlı yazılımlara ve phishing saldırılarına karşı koruma sağlayan sistemler."
+  },
+  {
+    "kavram": "Enabling Two-Factor Authentication (Çift Faktörlü Kimlik Doğrulama Etkinleştirme)",
+    "aciklama": "Sisteme erişim için ikinci bir doğrulama aşaması ekleyerek güvenliği artırma."
+  },
+  {
+    "kavram": "End-to-End Authentication Protocols (Uçtan Uca Kimlik Doğrulama Protokolleri)",
+    "aciklama": "Kullanıcı kimlik doğrulama işlemlerini tamamen güvenli ve şifreli bir şekilde gerçekleştiren protokoller."
+  },
+  {
+    "kavram": "Exploiting Misconfigurations (Yanlış Yapılandırmaları Sömürme)",
+    "aciklama": "Sistem yapılandırmalarındaki hataları kullanarak siber saldırı gerçekleştirme."
+  },
+  {
+    "kavram": "Extranet Security (Ekstranet Güvenliği)",
+    "aciklama": "Şirket dışındaki kullanıcıların sisteme güvenli bir şekilde erişebilmesini sağlamak için alınan önlemler."
+  },
+  {
+    "kavram": "Endpoint Detection and Blocking (Uç Nokta Tespiti ve Engelleme)",
+    "aciklama": "Uç nokta cihazlarında (bilgisayarlar, mobil cihazlar) kötü amaçlı yazılımlar ve tehditler tespit edilip engellenmesi."
+  },
+  {
+    "kavram": "Emergency Response Testing (Acil Müdahale Testi)",
+    "aciklama": "Bir güvenlik olayına karşı acil müdahale planının ne kadar etkin olduğunu test etme."
+  },
+  {
+    "kavram": "Escalation of Attack Detection (Saldırı Yükselmesi Tespiti)",
+    "aciklama": "Saldırganların saldırılarının ciddiyetinin arttığını ve bu yükselmenin izlenmesi."
+  },
+  {
+    "kavram": "End-to-End Security Monitoring (Uçtan Uca Güvenlik İzleme)",
+    "aciklama": "Sistemlerin tamamında güvenlik tehditlerini tespit etmek için yapılan izleme süreçleri."
+  },
+  {
+    "kavram": "Email Spoofing Detection (E-posta Sahteciliği Tespiti)",
+    "aciklama": "E-posta adresi sahteciliğini tespit etmek için kullanılan yöntemler."
+  },
+  {
+    "kavram": "Enterprise Mobile Security (Kurumsal Mobil Güvenlik)",
+    "aciklama": "Kurumsal mobil cihazların güvenliğini sağlamak için alınan önlemler."
+  },
+  {
+    "kavram": "End-to-End Authentication Systems (Uçtan Uca Kimlik Doğrulama Sistemleri)",
+    "aciklama": "Sistemdeki tüm veri akışlarında kimlik doğrulamanın uçtan uca yapılmasını sağlayan sistemler."
+  },
+  {
+    "kavram": "Encrypted Communication Software (Şifreli İletişim Yazılımı)",
+    "aciklama": "Veri iletimini şifreleyerek iletişim güvenliğini sağlamak için kullanılan yazılımlar."
+  },
+  {
+    "kavram": "End-to-End Backup Solutions (Uçtan Uca Yedekleme Çözümleri)",
+    "aciklama": "Verilerin kaybolması durumunda geri yüklenebilmesi için güvenli bir şekilde yedeklenmesini sağlayan çözümler."
+  },
+  {
+    "kavram": "Escalating Attack Response (Saldırı Cevaplarının Yükseltilmesi)",
+    "aciklama": "Bir saldırının büyüdükçe daha etkin müdahale yöntemleriyle karşılanması."
+  },
+  {
+    "kavram": "Enterprise Data Leak Prevention (Kurumsal Veri Sızıntısı Önleme)",
+    "aciklama": "Kurum içindeki verilerin yetkisiz kişiler tarafından dışarıya sızmasını engelleyen güvenlik önlemleri."
+  },
+  {
+    "kavram": "Enterprise Data Loss Prevention (Kurumsal Veri Kaybı Önleme)",
+    "aciklama": "Kurum verilerinin kaybolmasını engellemek amacıyla yapılan önlemler."
+  }
+
+
+
+
+ ]
+}

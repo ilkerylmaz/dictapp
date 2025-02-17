@@ -1,0 +1,283 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "XSS (Cross-Site Scripting) (Site Arası Script Çalıştırma)",
+            "aciklama": "Web uygulamalarında, kötü niyetli kullanıcıların, bir kullanıcının tarayıcısında çalışacak zararlı JavaScript kodları yerleştirmesidir. Bu tür saldırılar, kullanıcıların oturum açma bilgilerini çalmayı veya kötü içerik göstermeyi amaçlar."
+          },
+          {
+            "kavram": "XML (Extensible Markup Language) (Genişletilebilir İşaretleme Dili)",
+            "aciklama": "Veri taşımak ve depolamak için kullanılan, insan ve makine tarafından okunabilir bir biçimde tasarlanmış işaretleme dilidir. XML, yapılandırılmış verilerin taşınması için yaygın olarak kullanılır."
+          },
+          {
+            "kavram": "XML Injection (XML Enjeksiyonu)",
+            "aciklama": "Web uygulamalarında, kötü niyetli kullanıcıların XML verilerini değiştirmesidir. Bu tür saldırılar, uygulamanın veri işleme fonksiyonlarına zarar vermek için kullanılabilir."
+          },
+          {
+            "kavram": "XOR (Exclusive OR) (Özel VEYA)",
+            "aciklama": "İki girdi arasında, yalnızca birinin doğru olması durumunda doğru (1) döndüren bir mantıksal işlemidir. Şifreleme ve veri gizliliği alanında kullanılır."
+          },
+          {
+            "kavram": "X.509 Certificate (X.509 Sertifikası)",
+            "aciklama": "Dijital sertifikaların bir standardıdır. Web sunucuları ve istemciler arasındaki güvenli iletişimi sağlamak için kullanılır."
+          },
+          {
+            "kavram": "Xbee (Kablosuz İletişim Modülü)",
+            "aciklama": "Kablosuz cihazlar arasındaki veri iletimini sağlamak için kullanılan bir protokol ve modüldür. Genellikle IoT (Nesnelerin İnterneti) uygulamalarında kullanılır."
+          },
+          {
+            "kavram": "XSRF (Cross-Site Request Forgery) (Site Arası İstek Sahteciliği)",
+            "aciklama": "Bir web sitesinin, kullanıcının tarayıcısını kandırarak, yetkisiz işlemler yapmasını sağlayan bir saldırı türüdür."
+          },
+          {
+            "kavram": "XSS Attack (XSS Saldırısı)",
+            "aciklama": "Bir web uygulamasındaki zayıflıklardan yararlanarak, kullanıcıların tarayıcılarında kötü amaçlı JavaScript kodları çalıştırmayı hedefleyen bir saldırıdır."
+          },
+          {
+            "kavram": "X.500 (Dizin Hizmeti Protokolü)",
+            "aciklama": "Ağ üzerindeki dizin hizmetleri için kullanılan bir protokoldür. Özellikle LDAP (Lightweight Directory Access Protocol) ile bağlantılıdır ve ağ üzerindeki kaynaklara erişimi yönetir."
+          },
+          {
+            "kavram": "X-Frame-Options (X-Çerçeve Seçenekleri)",
+            "aciklama": "Web sayfalarının başka bir sayfa içinde gömülmesine karşı korunmasını sağlayan HTTP başlığıdır. Bu, clickjacking saldırılarını engellemeye yardımcı olur."
+          },
+          {
+            "kavram": "XSS Filter (XSS Filtreleme)",
+            "aciklama": "Web uygulamalarında, XSS saldırılarını tespit etmek ve engellemek için kullanılan bir güvenlik mekanizmasıdır."
+          },
+          {
+            "kavram": "Xen (Sanallaştırma Platformu)",
+            "aciklama": "Bir açık kaynaklı sanallaştırma platformudur. Fiziksel makineleri sanal makineler olarak çalıştırmak için kullanılır ve genellikle bulut hizmetlerinde tercih edilir."
+          },
+          {
+            "kavram": "XenServer (Xen Tabanlı Sanallaştırma Sunucusu)",
+            "aciklama": "Xen sanallaştırma platformunu kullanan bir sunucu sanallaştırma yazılımıdır. Veritabanları ve sanal makineler gibi sistemleri sanal ortamda çalıştırmak için kullanılır."
+          },
+          {
+            "kavram": "X.400 (Elektronik Posta Protokolü)",
+            "aciklama": "Elektronik posta iletimi için kullanılan eski bir protokoldür. Özellikle kurumsal ve askeri ağlarda kullanılır."
+          },
+          {
+            "kavram": "X11 (X Window System) (X Pencere Sistemi)",
+            "aciklama": "Grafiksel kullanıcı arayüzü (GUI) için kullanılan bir pencere sistemidir. X11, özellikle Unix tabanlı işletim sistemlerinde yaygın olarak kullanılır."
+          },
+          {
+            "kavram": "XML-RPC (XML Uzaktan Prosedür Çağrısı)",
+            "aciklama": "Uzak sunucularda prosedür çağrılarını gerçekleştirmek için kullanılan bir protokoldür. XML formatında veri gönderilir ve alınır."
+          },
+          {
+            "kavram": "X.25 Protocol (X.25 Protokolü)",
+            "aciklama": "Paket anahtarlamalı iletişim için kullanılan eski bir iletişim protokolüdür. Daha çok bankacılık ve ticari uygulamalarda kullanılır."
+          },
+          {
+            "kavram": "XSS Filter Bypass (XSS Filtre Atlatma)",
+            "aciklama": "XSS filtrelerini aşarak, kötü niyetli kullanıcıların zararlı JavaScript kodlarını çalıştırmalarına imkan tanımayı amaçlayan saldırılardır."
+          },
+          {
+            "kavram": "X-Forecasting (X-Tahminleme)",
+            "aciklama": "Veri analizi ve modelleme tekniklerini kullanarak gelecekteki eğilimleri veya olayları tahmin etme sürecidir."
+          },
+          {
+            "kavram": "XSS Payload (XSS Yükü)",
+            "aciklama": "Bir XSS saldırısının içinde yer alan ve hedef sisteme zarar vermek amacıyla kullanılan zararlı JavaScript kodlarıdır."
+          },
+          {
+            "kavram": "Xen Hypervisor (Xen Hipervizörü)",
+            "aciklama": "Xen sanallaştırma platformunun temel bileşenidir. Fiziksel makineleri sanal makinelerde çalıştırmak için kullanılır."
+          },
+          {
+            "kavram": "X.400 Message Store (X.400 Mesaj Depolama)",
+            "aciklama": "X.400 protokolüyle iletilen elektronik postaların depolandığı bir veri deposudur."
+          },
+          {
+            "kavram": "Xor Encryption (XOR Şifrelemesi)",
+            "aciklama": "XOR mantığına dayalı basit bir şifreleme yöntemidir. Aynı anahtar kullanılarak veri şifrelenir ve şifresi çözülür."
+          },
+          {
+            "kavram": "XSS Exploit (XSS İstismarı)",
+            "aciklama": "XSS zafiyetinden yararlanarak yapılan saldırıdır. Bu, zararlı JavaScript kodlarının web uygulamalarına enjekte edilmesiyle gerçekleşir."
+          },
+          {
+            "kavram": "XSS Attack Vector (XSS Saldırı Vektörü)",
+            "aciklama": "XSS saldırısının gerçekleştirilebileceği zayıf noktalardır. Web formları veya URL parametreleri gibi alanlar bu tür saldırılar için vektör olabilir."
+          },
+          {
+            "kavram": "XSS Payload Injection (XSS Yük Enjeksiyonu)",
+            "aciklama": "XSS yüklerini, web uygulamasına enjekte etmek amacıyla yapılan saldırıdır."
+          },
+          {
+            "kavram": "XDR (Extended Detection and Response) (Genişletilmiş Tespit ve Yanıt)",
+            "aciklama": "Kötü niyetli etkinlikleri tespit etmek, izlemek ve yanıt vermek için kullanılan bir güvenlik çözümüdür. Endüstri çapında veri kayıplarını ve tehditleri analiz eder."
+          },
+          {
+            "kavram": "XAML (Extensible Application Markup Language) (Genişletilebilir Uygulama İşaretleme Dili)",
+            "aciklama": "Microsoft tarafından geliştirilen ve özellikle Windows uygulamalarının arayüzlerini tanımlamak için kullanılan bir işaretleme dilidir."
+          },
+          {
+            "kavram": "Xen App (Xen Uygulaması)",
+            "aciklama": "Xen sanallaştırma platformunda çalışan sanal uygulamadır. Uygulamalar fiziksel makinelerden bağımsız olarak sanal ortamda çalışır."
+          },
+          {
+            "kavram": "XOR Cipher (XOR Şifrelemesi)",
+            "aciklama": "XOR işlemi ile gerçekleştirilen bir şifreleme tekniğidir. Bu, veri gizliliğini sağlamak amacıyla kullanılır."
+          },
+          {
+            "kavram": "XSS Attack Prevention (XSS Saldırı Öncesi Koruma)",
+            "aciklama": "XSS saldırılarının önlenmesi amacıyla uygulanan güvenlik önlemleri ve filtreleme teknikleridir."
+          },
+          {
+            "kavram": "XSS Vulnerability (XSS Açığı)",
+            "aciklama": "Bir web uygulamasındaki, kötü niyetli JavaScript kodlarının çalıştırılmasına olanak tanıyan güvenlik açığıdır."
+          },
+          {
+            "kavram": "X-Tunnel (X-Tünel)",
+            "aciklama": "Ağ trafiğini gizlemek ve güvenli hale getirmek için kullanılan bir tünelleme aracıdır."
+          },
+          {
+            "kavram": "X.500 Directory Services (X.500 Dizin Hizmetleri)",
+            "aciklama": "Ağ üzerindeki kaynaklar ve verilerin yönetilmesini sağlayan bir dizin hizmetleri sistemidir."
+          },
+          {
+            "kavram": "XML Signature (XML İmzası)",
+            "aciklama": "XML verilerinin bütünlüğünü ve kaynağını doğrulamak için kullanılan dijital imzadır."
+          },
+          {
+            "kavram": "XML Schema (XML Şeması)",
+            "aciklama": "XML verilerinin yapısını tanımlayan bir şemadır. Bu, verinin doğru formatta olup olmadığını kontrol etmeye yardımcı olur."
+          },
+          {
+            "kavram": "Xamarin (C# ile Mobil Uygulama Geliştirme Platformu)",
+            "aciklama": "Mobil uygulama geliştirmek için kullanılan, özellikle C# dilini kullanan bir platformdur."
+          },
+          {
+            "kavram": "Xen Server (Xen Tabanlı Sunucu Sanallaştırma)",
+            "aciklama": "Xen sanallaştırma teknolojisini kullanarak, sunucuları sanal makinelerde çalıştırmak için kullanılan bir platformdur."
+          },
+          {
+            "kavram": "XSS Filtering (XSS Filtreleme)",
+            "aciklama": "XSS saldırılarını engellemek için uygulanan filtreleme teknikleridir."
+          },
+          {
+            "kavram": "XOR Logic (XOR Mantığı)",
+            "aciklama": "XOR (Exclusive OR) işlemi mantığına dayalı bir karar verme veya şifreleme yöntemidir."
+          },
+          {
+            "kavram": "Xenial (Xen İşletim Sistemi Dağıtımı)",
+            "aciklama": "Xen sanallaştırma platformu için özel olarak oluşturulmuş bir Linux dağıtımıdır."
+          },
+          {
+            "kavram": "XDR Protection (XDR Koruması)",
+            "aciklama": "Kötü niyetli etkinlikleri tespit etmek ve yanıt vermek için kullanılan koruma yöntemleridir."
+          },
+          {
+            "kavram": "XML DTD (Document Type Definition) (XML DTD (Belge Tipi Tanımlaması))",
+            "aciklama": "XML belgesinin yapısını tanımlayan bir sistemdir. XML verilerinin doğruluğunu sağlar."
+          },
+          {
+            "kavram": "Xen Hypervisor Security (Xen Hipervizörü Güvenliği)",
+            "aciklama": "Xen hipervizörünü ve sanallaştırma platformunu kötü amaçlı yazılımlar ve dış tehditlerden korumaya yönelik güvenlik önlemleridir."
+          },
+          {
+            "kavram": "XML External Entity (XXE) Attack (XML Dış Varlık (XXE) Saldırısı)",
+            "aciklama": "XML dış varlıkları, uygulamaların dışarıdan gelen verileri işleyerek içerdikleri verilere zarar verebileceği bir güvenlik açığı yaratabilir. XXE saldırıları, dış varlıklar aracılığıyla hassas bilgilerin açığa çıkmasına neden olabilir."
+          },
+          {
+            "kavram": "X-Content-Type-Options: nosniff (X-İçerik-Tipi-Seçeneği: nosniff)",
+            "aciklama": "Bu HTTP başlığı, tarayıcıya, sunucudan gelen içeriğin belirtilen MIME türüne uygun olduğundan emin olmasını söyler. Bu, kötü niyetli bir kullanıcı tarafından içeriğin yanlış yorumlanmasını engellemeye yardımcı olur."
+          },
+          {
+            "kavram": "XSS Mitigation (XSS Azaltma)",
+            "aciklama": "XSS saldırılarının etkisini azaltmak amacıyla kullanılan güvenlik önlemleri. Bu önlemler, kullanıcının girdiği verileri doğru şekilde filtrelemeyi ve temizlemeyi içerir."
+          },
+          {
+            "kavram": "XSS Protection (XSS Koruması)",
+            "aciklama": "Web uygulamalarında XSS saldırılarından korunmak amacıyla alınan güvenlik önlemleridir. XSS koruması, kullanıcıdan gelen kötü amaçlı kodların çalıştırılmasını engellemeye yardımcı olur."
+          },
+          {
+            "kavram": "XOR Decryption (XOR Şifre Çözme)",
+            "aciklama": "XOR şifreleme algoritmasıyla şifrelenmiş verilerin çözümlenmesi işlemidir. XOR, her bitin tersine çevrilmesiyle veriyi şifreler."
+          },
+          {
+            "kavram": "X509 Certificate Authentication (X509 Sertifika Kimlik Doğrulaması)",
+            "aciklama": "X.509 standardına dayanan dijital sertifikalar aracılığıyla kimlik doğrulaması yapılır. Bu, kullanıcıların veya sistemlerin güvenli bir şekilde doğrulamasını sağlar."
+          },
+          {
+            "kavram": "XOR-based Cryptography (XOR Tabanlı Kriptografi)",
+            "aciklama": "XOR şifrelemesi, veriyi şifrelerken mantıksal 'Exclusive OR' (XOR) işlemi kullanır. Bu yöntem genellikle daha basit şifreleme algoritmalarında kullanılır."
+          },
+          {
+            "kavram": "X-Direction Attack (X-Yönlü Saldırı)",
+            "aciklama": "Bu, bilgisayar güvenliği bağlamında özel bir terim olmayabilir, ancak bir saldırı türü olarak sistemin yönüne, yani hangi şekilde çalıştığına dair manipülasyonları içerebilir."
+          },
+          {
+            "kavram": "XSS Reverse Shell (XSS Ters Kabuk)",
+            "aciklama": "XSS saldırılarıyla kurulan ters bağlantı (reverse shell) üzerinden, saldırganın hedef sistem üzerinde uzaktan komut çalıştırmasına olanak tanır."
+          },
+          {
+            "kavram": "Xen Operating System (Xen İşletim Sistemi)",
+            "aciklama": "Xen, sanallaştırma teknolojileri sunan bir açık kaynak işletim sistemidir. Aynı fiziksel makinede birden fazla sanal makineyi çalıştırmaya olanak tanır."
+          },
+          {
+            "kavram": "XMPP (Extensible Messaging and Presence Protocol) (Genişletilebilir Mesajlaşma ve Varlık Protokolü)",
+            "aciklama": "XMPP, anlık mesajlaşma ve varlık bilgisi iletimi için kullanılan açık kaynak bir protokoldür. Özellikle sohbet uygulamalarında yaygın olarak kullanılır."
+          },
+          {
+            "kavram": "XOR Function (XOR Fonksiyonu)",
+            "aciklama": "XOR, iki ikili değeri karşılaştırarak her bir bit için mantıksal 'exclusive OR' işlemi yapar. Genellikle şifreleme ve hata düzeltme algoritmalarında kullanılır."
+          },
+          {
+            "kavram": "X-Frame-Options Header (X-Çerçeve-Seçenekleri Başlığı)",
+            "aciklama": "Bu HTTP başlığı, web sayfasının başka bir web sayfasının içinde 'iframe' olarak görüntülenip görüntülenemeyeceğini belirler. CSRF ve clickjacking gibi saldırıları engellemek için kullanılır."
+          },
+          {
+            "kavram": "Xfinity Security (Xfinity Güvenliği)",
+            "aciklama": "Xfinity, bir internet servis sağlayıcısıdır ve bu terim, Xfinity kullanıcıları için sunulan güvenlik önlemleri ve hizmetlerini ifade eder."
+          },
+          {
+            "kavram": "XSS Exploit Detection (XSS İstismarı Tespiti)",
+            "aciklama": "Web uygulamalarında XSS istismarlarını tespit etmek için kullanılan araçlar ve yöntemlerdir. Bu, zararlı verilerin sızmasını engellemek için önemli bir adımdır."
+          },
+          {
+            "kavram": "XML Firewall (XML Güvenlik Duvarı)",
+            "aciklama": "XML verilerini tarayarak kötü niyetli XML içeriği ile karşılaşıldığında bunu engelleyen bir güvenlik duvarı türüdür."
+          },
+          {
+            "kavram": "XML Binding (XML Bağlantısı)",
+            "aciklama": "XML verilerini, bir programın işleyebileceği verilere dönüştüren bir işlem. Genellikle veri aktarımı için kullanılır."
+          },
+          {
+            "kavram": "XML SOAP (Simple Object Access Protocol) (XML SOAP (Basit Nesne Erişim Protokolü))",
+            "aciklama": "XML formatında veri iletimi için kullanılan bir protokoldür. Web servisleriyle etkileşimde bulunmak için yaygın olarak kullanılır."
+          },
+          {
+            "kavram": "XOR Key (XOR Anahtarı)",
+            "aciklama": "XOR şifreleme algoritmalarında kullanılan şifreleme anahtarıdır. Bu anahtar, şifreleme ve şifre çözme işlemi için aynı anahtar kullanılacak şekilde veriyi işler."
+          },
+          {
+            "kavram": "X.25 Packet-Switched Network (X.25 Paket Anahtarlamalı Ağ)",
+            "aciklama": "X.25, paket anahtarlama teknolojisi kullanan eski bir iletişim protokolüdür. Veri iletimi için güvenli ve güvenilir bir yöntem sunar."
+          },
+          {
+            "kavram": "XSS Payload Injector (XSS Yük Enjektörü)",
+            "aciklama": "XSS saldırılarında kullanılan kötü amaçlı yüklerin web sayfasına enjekte edilmesi işlemi. Bu, saldırganın hedef sayfada zararlı kod çalıştırmasına yol açar."
+          },
+          {
+            "kavram": "XSRF Token (XSRF Token'ı)",
+            "aciklama": "Cross-Site Request Forgery (XSRF) saldırılarına karşı koruma amacıyla kullanılan bir güvenlik token'ıdır. Bu token, geçerli bir kullanıcı işlemi doğrulaması sağlar."
+          },
+          {
+            "kavram": "Xen Security Team (Xen Güvenlik Ekibi)",
+            "aciklama": "Xen sanallaştırma platformunun güvenliğini sağlamakla görevli ekip. Bu ekip, potansiyel açıkları tespit eder ve sistem güvenliğini iyileştirmek için çalışır."
+          },
+          {
+            "kavram": "XSS Authentication Bypass (XSS Kimlik Doğrulama Atlatma)",
+            "aciklama": "XSS saldırılarının kullanılarak kimlik doğrulama mekanizmalarının bypass edilmesidir. Bu, saldırganın sisteme yetkisiz erişim sağlamasına yol açabilir."
+          },
+          {
+            "kavram": "XPS (XML Paper Specification) (XPS (XML Kağıt Özellikleri))",
+            "aciklama": "XPS, Microsoft tarafından geliştirilmiş bir sayfa tanımlama biçimidir. Yazdırılacak içerik için kullanılan bir dosya formatıdır."
+          }
+
+
+    ]
+}

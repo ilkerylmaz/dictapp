@@ -1,0 +1,196 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "Quantum Cryptography (Kuantum Kriptografisi)",
+            "aciklama": "Kuantum mekaniği prensiplerini kullanarak bilgi güvenliğini sağlamak için geliştirilen bir kriptografi dalıdır. Kuantum kriptografisi, özellikle verilerin güvenliğini korumak için kullanılan ileri düzey şifreleme yöntemlerini içerir."
+          },
+          {
+            "kavram": "Quorum (Kvorum)",
+            "aciklama": "Bir grup içerisinde karar alabilmek için gereken minimum sayıda üye veya katılım. Çoğunlukla dağıtık sistemlerde veya blok zinciri ağlarında kullanılan bir terimdir."
+          },
+          {
+            "kavram": "Quick Response Code (QR Code) (Hızlı Yanıt Kodu)",
+            "aciklama": "İçerdiği bilgiyi hızlıca taranabilmesi için iki boyutlu bir şekilde kodlanmış bir barkod türüdür. Genellikle telefonlar veya tabletler ile taranarak URL, metin veya iletişim bilgilerine yönlendirme yapar."
+          },
+          {
+            "kavram": "Quality of Service (QoS) (Hizmet Kalitesi)",
+            "aciklama": "Ağırlıklı olarak ağ ve internet hizmetlerinde, veri iletimindeki performansı ölçen ve yöneten bir teknolojidir. QoS, veri trafiği üzerinde önceliklendirme yaparak kritik verilerin öncelikli bir şekilde iletilmesini sağlar."
+          },
+          {
+            "kavram": "Quantum Key Distribution (QKD) (Kuantum Anahtar Dağıtımı)",
+            "aciklama": "Kuantum mekaniği kullanarak güvenli anahtar değişimi sağlayan bir yöntemdir. Bu teknoloji, üçüncü şahısların iletişimi dinlemesini imkansız hale getirir."
+          },
+          {
+            "kavram": "Query (Sorgu)",
+            "aciklama": "Veritabanlarında veya sistemlerde bilgi aramak için yapılan bir istek veya komuttur."
+          },
+          {
+            "kavram": "Quarantine (Karantina)",
+            "aciklama": "Potansiyel olarak zararlı olabilecek bir yazılım, dosya veya veriyi izolasyona alma sürecidir. Bu, sistemin zarar görmesini önlemek amacıyla yapılır."
+          },
+          {
+            "kavram": "Query Language (Sorgu Dili)",
+            "aciklama": "Veritabanlarında bilgi sorgulamak için kullanılan dildir. SQL, en yaygın kullanılan sorgu dilidir."
+          },
+          {
+            "kavram": "Quotient Filter (Bölüm Filtresi)",
+            "aciklama": "Veritabanlarında veya veri yapılarını optimize etmek için kullanılan bir filtreleme algoritmasıdır. Büyük veri kümelerinde daha hızlı arama yapılmasını sağlar."
+          },
+          {
+            "kavram": "Qualys (Bir bulut güvenlik çözümü)",
+            "aciklama": "Bulut tabanlı güvenlik hizmetleri sağlayan bir platformdur. Genellikle zafiyet taraması, uyumluluk ve ağ güvenliği hizmetleri sunar."
+          },
+          {
+            "kavram": "Qualitative Risk Assessment (Niteliksel Risk Değerlendirmesi)",
+            "aciklama": "Risklerin niceliksel veriler yerine niteliksel yöntemlerle değerlendirildiği bir risk değerlendirme türüdür. Bu yaklaşımda riskler, sıklık ve etki açısından tanımlanır."
+          },
+          {
+            "kavram": "Quick Attack (Hızlı Saldırı)",
+            "aciklama": "Kısa bir süre içinde hedefe gerçekleştirilen hızlı ve etkili bir siber saldırıdır."
+          },
+          {
+            "kavram": "Qualcomm Security (Qualcomm Güvenliği)",
+            "aciklama": "Qualcomm, mobil cihazlar için yonga seti üreten bir firmadır ve bu şirketin ürünlerinde kullanılan güvenlik teknolojilerini ifade eder."
+          },
+          {
+            "kavram": "Quantum Computing Security (Kuantum Hesaplama Güvenliği)",
+            "aciklama": "Kuantum hesaplama teknolojilerinin siber güvenlik üzerindeki etkilerini ele alan bir alandır. Bu teknoloji, şifreleme yöntemlerini bozabilecek potansiyele sahiptir."
+          },
+          {
+            "kavram": "Quicksand Attack (QuickSand Saldırısı)",
+            "aciklama": "Yavaşça etkisini gösteren, ancak uzun vadede büyük hasarlara yol açabilen bir tür siber saldırıdır."
+          },
+          {
+            "kavram": "Query Injection (Sorgu Enjeksiyonu)",
+            "aciklama": "Saldırganların kötü amaçlı verilerle sorgu sistemlerini manipüle ettiği bir güvenlik açığı türüdür."
+          },
+          {
+            "kavram": "Quality Assurance (QA) (Kalite Güvencesi)",
+            "aciklama": "Ürün veya hizmetin kalite standartlarına uygunluğunu sağlamak için yapılan denetim ve test süreçlerini içerir."
+          },
+          {
+            "kavram": "Quantum Resistant Algorithms (Kuantum Dirençli Algoritmalar)",
+            "aciklama": "Kuantum bilgisayarlarının kırmasını zorlaştıran algoritmalardır. Bu algoritmalar, mevcut şifreleme sistemlerinin kuantum bilgisayarlarla kırılmasını engellemek amacıyla geliştirilmiştir."
+          },
+          {
+            "kavram": "Quick Response Team (Hızlı Müdahale Ekibi)",
+            "aciklama": "Olası acil durumlara hızlı ve etkili bir şekilde yanıt verecek şekilde organize edilmiş bir ekip."
+          },
+          {
+            "kavram": "Quasi-static Attacks (Yarı statik Saldırılar)",
+            "aciklama": "Sistemdeki verilerin zaman içinde statik olmayan, ancak tamamen dinamik de olmayan bir yapıya sahip olduğu durumlarda gerçekleştirilen saldırılardır."
+          },
+          {
+            "kavram": "Quotient Hashing (Bölüm Karma)",
+            "aciklama": "Veriyi benzersiz bir şekilde tanımlamak için kullanılan bir karma fonksiyonudur. Veri yapıları içinde arama işlemlerini optimize etmek için kullanılır."
+          },
+          {
+            "kavram": "Query Optimization (Sorgu Optimizasyonu)",
+            "aciklama": "Veritabanı sorgularını daha verimli hale getirmek için yapılan işlemler ve tekniklerdir."
+          },
+          {
+            "kavram": "Quorum-Based Consensus (Kvorum Temelli Mutabakat)",
+            "aciklama": "Dağıtık sistemlerde, kararların veya işlemlerin onaylanabilmesi için belirli bir sayıda katılımcının görüş birliği sağladığı mutabakat yöntemidir."
+          },
+          {
+            "kavram": "Quasi-Delay Insensitive Logic (QDI) (Yarı Gecikme Bağımsız Mantık)",
+            "aciklama": "Dijital devrelerde, mantık elemanlarının gecikme sürelerine bağımlılığı en aza indirerek tasarlanan bir mantık türüdür."
+          },
+          {
+            "kavram": "Query Filtering (Sorgu Filtreleme)",
+            "aciklama": "Belirli kriterlere göre sorgu sonuçlarının daraltılması işlemidir."
+          },
+          {
+            "kavram": "Quasi-Synchronous Attacks (Yarı Senkronize Saldırılar)",
+            "aciklama": "Saldırganların sistemi senkronize olmayan bir şekilde etkileyerek sistem üzerinde zamanlamaya dayalı manipülasyonlar yaptığı saldırılardır."
+          },
+          {
+            "kavram": "Quantum Safe Cryptography (Kuantum Güvenli Kriptografi)",
+            "aciklama": "Kuantum bilgisayarlarıyla kırılmayacak şekilde şifreleme yapan teknolojidir."
+          },
+          {
+            "kavram": "Quantum Network Security (Kuantum Ağ Güvenliği)",
+            "aciklama": "Kuantum bilgisayarların güvenlik açığı yaratmasını engellemek için geliştirilmiş ağ güvenliği protokolleridir."
+          },
+          {
+            "kavram": "Query Analysis (Sorgu Analizi)",
+            "aciklama": "Sorguların veritabanı üzerindeki performansını ve etkinliğini inceleyen süreçtir."
+          },
+          {
+            "kavram": "Quantum Entanglement (Kuantum Dolaşıklığı)",
+            "aciklama": "Kuantum mekaniğinde, iki veya daha fazla parçacığın birbirleriyle bağımsız olarak hareket etmemesi durumudur. Bu özellik, güvenli iletişim için kuantum kriptografi sistemlerinde kullanılır."
+          },
+          {
+            "kavram": "Query Caching (Sorgu Önbelleğe Alma)",
+            "aciklama": "Veritabanı sorgularının sonuçlarının geçici olarak saklanarak, aynı sorgular tekrar yapıldığında daha hızlı cevap verilmesini sağlayan bir tekniktir."
+          },
+          {
+            "kavram": "Qualitative Threat Modeling (Niteliksel Tehdit Modelleme)",
+            "aciklama": "Tehditlerin, zafiyetlerin ve risklerin niteliksel yöntemlerle analiz edilmesidir."
+          },
+          {
+            "kavram": "Quick Malware Detection (Hızlı Zararlı Yazılım Tespiti)",
+            "aciklama": "Zararlı yazılımların hızlı bir şekilde tespit edilmesi için kullanılan teknikler ve araçlardır."
+          },
+          {
+            "kavram": "Quotient Attack (Bölüm Saldırısı)",
+            "aciklama": "Sistem veya algoritmalar üzerinde bölme işlemi ile zayıf noktaların keşfedildiği bir saldırı türüdür."
+          },
+          {
+            "kavram": "Query Security (Sorgu Güvenliği)",
+            "aciklama": "Veritabanı sorgularının güvenliğini sağlamaya yönelik alınan önlemleri ifade eder."
+          },
+          {
+            "kavram": "Quick Response Security Protocol (Hızlı Yanıt Güvenlik Protokolü)",
+            "aciklama": "Güvenlik tehditlerine karşı hızlı yanıt vermek için tasarlanmış protokoldür."
+          },
+          {
+            "kavram": "Qualitative Vulnerability Assessment (Niteliksel Zafiyet Değerlendirmesi)",
+            "aciklama": "Zafiyetlerin değerlendirilmesinde niceliksel değil, niteliksel yöntemlerin kullanıldığı bir süreçtir."
+          },
+          {
+            "kavram": "Quantum Communication Protocol (Kuantum İletişim Protokolü)",
+            "aciklama": "Kuantum bilgisayarları kullanarak güvenli iletişim sağlamak için tasarlanmış bir protokoldür."
+          },
+          {
+            "kavram": "Quantum-Resistant Encryption (Kuantum Dirençli Şifreleme)",
+            "aciklama": "Kuantum bilgisayarların şifreleme algoritmalarını kırmasını engelleyen şifreleme teknikleridir."
+          },
+          {
+            "kavram": "Quality Assurance Testing (Kalite Güvencesi Testi)",
+            "aciklama": "Ürünlerin kalite standartlarına uygunluklarını doğrulamak için yapılan testlerdir."
+          },
+          {
+            "kavram": "Quantum Immunity (Kuantum Bağışıklığı)",
+            "aciklama": "Kuantum bilgisayarlarının etkilerine karşı dayanıklılığı ifade eder."
+          },
+          {
+            "kavram": "Query String Manipulation (Sorgu Dizesi Manipülasyonu)",
+            "aciklama": "Web uygulamalarında sorgu dizesinin manipüle edilmesiyle veri hırsızlığı veya saldırı gerçekleştirilen bir tekniktir."
+          },
+          {
+            "kavram": "Quantum Bit Error Rate (Kuantum Bit Hata Oranı)",
+            "aciklama": "Kuantum sistemlerde iletilen verilerde meydana gelen hataların oranını ifade eder."
+          },
+          {
+            "kavram": "Quarantine Environment (Karantina Ortamı)",
+            "aciklama": "Zararlı yazılım veya şüpheli verilerin sistemden izole edilerek incelendiği güvenli bir ortamdır."
+          },
+          {
+            "kavram": "Query Parameter Manipulation (Sorgu Parametresi Manipülasyonu)",
+            "aciklama": "Saldırganların URL parametrelerini değiştirerek bir sisteme zarar verme girişimidir."
+          },
+          {
+            "kavram": "Quantum Key Agreement (Kuantum Anahtar Anlaşması)",
+            "aciklama": "Kuantum mekanikleri kullanarak güvenli anahtar paylaşımı sağlayan protokoldür."
+          },
+          {
+            "kavram": "Query Execution (Sorgu Yürütme)",
+            "aciklama": "Veritabanı veya sistem üzerindeki sorguların çalıştırılması işlemidir."
+          }
+
+
+
+    ]
+}

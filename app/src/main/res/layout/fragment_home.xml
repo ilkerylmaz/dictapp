@@ -101,6 +101,17 @@
 
         </com.google.android.material.card.MaterialCardView>
 
+        <!-- Kategoriler Grid üstüne logo ekleyelim -->
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/siberlogo"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"/>
+
     </LinearLayout>
 
 </androidx.core.widget.NestedScrollView> 

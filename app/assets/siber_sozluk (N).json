@@ -1,0 +1,510 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "Network Security (Ağ Güvenliği)",
+            "aciklama": "Ağları, sistemleri ve verileri yetkisiz erişim, saldırılar ve diğer tehditlerden korumak amacıyla kullanılan güvenlik önlemleri bütünüdür."
+          },
+          {
+            "kavram": "Network Attack (Ağ Saldırısı)",
+            "aciklama": "Bir ağ üzerindeki bilgisayarlar, sunucular veya cihazlara yapılan yetkisiz giriş ve zarar verme amacı güden saldırılardır."
+          },
+          {
+            "kavram": "Network Intrusion Detection System (NIDS) (Ağ Sızma Tespit Sistemi)",
+            "aciklama": "Ağ üzerinde kötü niyetli veya şüpheli aktiviteleri tespit etmek amacıyla kullanılan yazılım veya donanım sistemidir."
+          },
+          {
+            "kavram": "Network Access Control (NAC) (Ağ Erişim Kontrolü)",
+            "aciklama": "Ağa kimlerin erişebileceğini belirlemek için kullanılan bir güvenlik önlemidir, bu sistem kullanıcıları veya cihazları doğrulamak ve kontrol etmek için uygulanır."
+          },
+          {
+            "kavram": "Network Protocol (Ağ Protokolü)",
+            "aciklama": "Ağlar üzerinde veri iletimi için belirli kurallar ve formatlar sağlayan bir iletişim protokolüdür."
+          },
+          {
+            "kavram": "Network Monitoring (Ağ İzleme)",
+            "aciklama": "Ağ altyapısının performansını, sağlığını ve güvenliğini izleyerek ağda meydana gelen olası sorunları tespit etme sürecidir."
+          },
+          {
+            "kavram": "Network Traffic Analysis (Ağ Trafiği Analizi)",
+            "aciklama": "Ağda gerçekleşen veri iletimini analiz ederek ağ performansını iyileştirme ve güvenlik tehditlerini tespit etme işlemi."
+          },
+          {
+            "kavram": "Non-repudiation (İnkar Edilemezlik)",
+            "aciklama": "Bir işlemin gerçekleştirilmiş olduğunu, ilgili kişilerin inkar edemeyeceği şekilde kanıtlayabilmeyi sağlayan güvenlik özelliğidir."
+          },
+          {
+            "kavram": "Network Address Translation (NAT) (Ağ Adresi Çevirisi)",
+            "aciklama": "Bir ağın içindeki özel IP adreslerini, dış dünya ile iletişimde olan bir genel IP adresine dönüştürme işlemi."
+          },
+          {
+            "kavram": "Network Layer (Ağ Katmanı)",
+            "aciklama": "OSI modelinde, veri paketlerinin ağ üzerinde doğru şekilde iletilmesi ve yönlendirilmesinden sorumlu olan katmandır."
+          },
+          {
+            "kavram": "Node (Düğüm)",
+            "aciklama": "Bir ağda veri iletimi ve alımı yapan her türlü cihaz ya da sistem elemanıdır."
+          },
+          {
+            "kavram": "Network Segmentation (Ağ Segmantasyonu)",
+            "aciklama": "Ağı daha küçük parçalara bölerek, güvenlik ve performans iyileştirmeleri sağlama işlemidir."
+          },
+          {
+            "kavram": "Network Topology (Ağ Topolojisi)",
+            "aciklama": "Bir ağdaki cihazların fiziksel veya mantıksal yerleşimini tanımlar, ağın yapısal düzenini ifade eder."
+          },
+          {
+            "kavram": "Network Forensics (Ağ Adli Tıbbı)",
+            "aciklama": "Ağdaki güvenlik ihlallerini ve saldırıları tespit etmek ve analiz etmek amacıyla ağ verilerinin toplandığı ve incelendiği süreçtir."
+          },
+          {
+            "kavram": "Network Isolation (Ağ İzolasyonu)",
+            "aciklama": "Bir ağın, potansiyel olarak tehdit oluşturan bileşenlerden veya diğer ağlardan ayrılması işlemidir."
+          },
+          {
+            "kavram": "NoSQL Database (NoSQL Veritabanı)",
+            "aciklama": "Büyük veri ve hızlı erişim gereksinimlerini karşılamak amacıyla tasarlanmış, geleneksel SQL tabanlı olmayan veritabanı sistemleridir."
+          },
+          {
+            "kavram": "Null Pointer Dereference (Null Göstergeci Belirtimi)",
+            "aciklama": "Bir null pointer'ın dereference edilmesi, yani işaret ettiği bellek adresine erişilmeye çalışılmasıdır, bu da genellikle yazılım hatalarına yol açar."
+          },
+          {
+            "kavram": "Non-Maskable Interrupt (NMI) (Maskelenemeyen Kesinti)",
+            "aciklama": "Bir işlemcinin çalışması sırasında, yazılım tarafından engellenemeyen, doğrudan müdahale edilen acil kesintilerdir."
+          },
+          {
+            "kavram": "Network Sniffing (Ağ Dinlemesi)",
+            "aciklama": "Ağ trafiğini dinlemek, izlemek ve analiz etmek amacıyla yapılan kötü niyetli veya izinsiz veri toplama işlemidir."
+          },
+          {
+            "kavram": "Network Vulnerability (Ağ Zafiyeti)",
+            "aciklama": "Ağın tasarımında veya yapılandırmasında var olan ve potansiyel saldırganlar tarafından kullanılabilecek zayıf noktalardır."
+          },
+          {
+            "kavram": "Native Code (Yerli Kod)",
+            "aciklama": "Doğrudan bir işlemci üzerinde çalışan, makine diline yakın olan kodlardır. Genellikle belirli bir platformda çalışacak şekilde yazılır."
+          },
+          {
+            "kavram": "Network Encryption (Ağ Şifrelemesi)",
+            "aciklama": "Ağ üzerinden iletilen verilerin, kötü niyetli kişiler tarafından okunamayacak şekilde şifrelenmesi işlemidir."
+          },
+          {
+            "kavram": "Network Service (Ağ Servisi)",
+            "aciklama": "Bir ağ üzerinden kullanıcıların erişebileceği ve kullanabileceği hizmetlerdir, örneğin web sunucuları veya e-posta servisleri."
+          },
+          {
+            "kavram": "Network Load Balancing (Ağ Yük Dengeleme)",
+            "aciklama": "Bir ağda gelen trafiği, birden çok sunucu veya kaynağa yönlendirerek, sistemin performansını ve verimliliğini artırmaya yönelik bir tekniktir."
+          },
+          {
+            "kavram": "Network Firewall (Ağ Güvenlik Duvarı)",
+            "aciklama": "Ağa gelen ve giden trafiği kontrol etmek için kullanılan, ağ güvenliğini sağlayan yazılım veya donanım cihazıdır."
+          },
+          {
+            "kavram": "Non-Volatile Memory (NVM) (Volatıl Olmayan Bellek)",
+            "aciklama": "Güç kaybolduğunda bile verileri tutabilen bellek türüdür, örneğin SSD veya flash bellek."
+          },
+          {
+            "kavram": "Network Isolation Protocol (Ağ İzolasyon Protokolü)",
+            "aciklama": "Ağ elemanlarının bir ağdan diğerine veri akışını kısıtlayan, güvenliği artırmaya yönelik bir protokoldür."
+          },
+          {
+            "kavram": "Network Operations Center (NOC) (Ağ Operasyon Merkezi)",
+            "aciklama": "Bir ağın durumunu sürekli izlemek, bakımını yapmak ve arızalara karşı müdahale etmek amacıyla kullanılan merkezi kontrol noktasıdır."
+          },
+          {
+            "kavram": "Nmap (Ağ Tarama Aracı)",
+            "aciklama": "Ağdaki cihazları ve açık portları tarayarak ağ güvenliği değerlendirmesi yapmaya yarayan açık kaynaklı bir yazılımdır."
+          },
+          {
+            "kavram": "Neural Network Security (Sinir Ağı Güvenliği)",
+            "aciklama": "Sinir ağı tabanlı modellerin güvenliğini sağlamak için alınan önlemler ve yöntemlerdir."
+          },
+          {
+            "kavram": "Network Protocol Analyzer (Ağ Protokol Analizörü)",
+            "aciklama": "Ağdaki protokolleri analiz etmek ve çözümlemek için kullanılan yazılımdır."
+          },
+          {
+            "kavram": "Network Simulation (Ağ Simülasyonu)",
+            "aciklama": "Ağ davranışlarını simüle ederek ağ tasarımını test etmek ve olası problemleri önceden tespit etmek amacıyla yapılan simülasyon işlemidir."
+          },
+          {
+            "kavram": "Next-Generation Firewall (NGFW) (Yeni Nesil Güvenlik Duvarı)",
+            "aciklama": "Geleneksel güvenlik duvarlarına ek olarak, ağ trafiği analizi, kötü amaçlı yazılım tespiti ve uygulama düzeyinde güvenlik sağlayan gelişmiş güvenlik duvarıdır."
+          },
+          {
+            "kavram": "Network Configuration (Ağ Yapılandırması)",
+            "aciklama": "Bir ağın doğru çalışabilmesi için yapılan ayarlamalar ve yapılandırmalardır."
+          },
+          {
+            "kavram": "NTP Spoofing (NTP Taklit Etme)",
+            "aciklama": "Ağ zaman protokolü (NTP) üzerinden sahte zaman bilgisi göndererek, sistemlerin yanlış zamanla çalışmasını sağlama saldırısıdır."
+          },
+          {
+            "kavram": "Network Security Policy (Ağ Güvenliği Politikası)",
+            "aciklama": "Bir organizasyonun ağ altyapısını korumak amacıyla belirlenen güvenlik ilkeleri ve kuralları. Bu politikalar, ağ güvenliğini sağlamak için uygulanan yöntemleri belirler."
+          },
+          {
+            "kavram": "Network Access Point (Ağ Erişim Noktası)",
+            "aciklama": "Bir ağ cihazının veya kullanıcıların bir ağa bağlanmasını sağlayan fiziksel veya sanal nokta. Wi-Fi erişim noktası bunun örneklerinden biridir."
+          },
+          {
+            "kavram": "Network Performance (Ağ Performansı)",
+            "aciklama": "Bir ağın etkinliği ve verimliliği. Bu, ağın hızını, bant genişliğini, gecikmesini ve genel kullanım performansını kapsar."
+          },
+          {
+            "kavram": "Network Address (Ağ Adresi)",
+            "aciklama": "Bir cihazın bir ağdaki kimliğini tanımlayan benzersiz numara. IP adresi, ağ adresi türlerinden biridir."
+          },
+          {
+            "kavram": "Name Resolution (İsim Çözümleme)",
+            "aciklama": "İnsan tarafından okunabilir bir ismin, bilgisayarın anlayabileceği bir IP adresine dönüştürülmesi işlemi. DNS (Domain Name System) bu işlemi gerçekleştirir."
+          },
+          {
+            "kavram": "Null Byte Injection (Null Bayt Enjeksiyonu)",
+            "aciklama": "Bir saldırganın, veri içine null bayt karakteri ekleyerek uygulamaları kandırdığı bir saldırı türü. Bu, güvenlik açıkları yaratabilir."
+          },
+          {
+            "kavram": "Network Authentication (Ağ Kimlik Doğrulama)",
+            "aciklama": "Ağ üzerindeki cihazların veya kullanıcıların kimliklerini doğrulamak için kullanılan süreç. Bu, genellikle şifre, biyometrik veriler veya iki faktörlü doğrulama ile yapılır."
+          },
+          {
+            "kavram": "Network Access Management (Ağ Erişim Yönetimi)",
+            "aciklama": "Ağ kaynaklarına kimlerin erişebileceğini kontrol etme süreci. Bu, kullanıcı erişim haklarını yönetmek için çeşitli güvenlik önlemleri kullanılır."
+          },
+          {
+            "kavram": "Network Key (Ağ Anahtarı)",
+            "aciklama": "Bir ağda güvenli iletişimi sağlamak için kullanılan şifreleme anahtarı. Bu anahtar, verilerin gizliliğini ve bütünlüğünü korur."
+          },
+          {
+            "kavram": "Network Data Loss (Ağ Veri Kaybı)",
+            "aciklama": "Bir ağda iletilen verilerin kaybolması durumu. Bu, veri iletim hataları veya kötü amaçlı saldırılar nedeniyle meydana gelebilir."
+          },
+          {
+            "kavram": "NAT Traversal (NAT Geçişi)",
+            "aciklama": "Ağda yerel adresler kullanılarak dışa erişimin sağlanabilmesi için kullanılan bir tekniktir. NAT, yerel ağları internete bağlamak için kullanılır, ancak bazı durumlarda NAT geçişi gereklidir."
+          },
+          {
+            "kavram": "Network Interface Card (NIC) (Ağ Bağlantı Kartı)",
+            "aciklama": "Bir bilgisayarın veya cihazın ağlara bağlanmasını sağlayan donanım bileşeni. NIC, cihazlar arasında veri iletimi ve alımını yönetir."
+          },
+          {
+            "kavram": "Network Security Monitoring (NSM) (Ağ Güvenlik İzleme)",
+            "aciklama": "Ağ üzerinde olası güvenlik tehditlerini izlemek ve tespit etmek için kullanılan sürekli izleme süreci. Bu, saldırıları önceden belirleyip engellemeye yardımcı olur."
+          },
+          {
+            "kavram": "Native Application (Yerli Uygulama)",
+            "aciklama": "Bir platformda, o platforma özgü olarak geliştirilen ve yalnızca o platformda çalışan uygulamalar. Örneğin, iOS için geliştirilmiş bir uygulama."
+          },
+          {
+            "kavram": "Non-Disclosure Agreement (NDA) (Gizlilik Sözleşmesi)",
+            "aciklama": "Taraflar arasında paylaşılan gizli bilgilerin üçüncü şahıslarla paylaşılmaması için yapılan sözleşme. Genellikle iş anlaşmalarında kullanılır."
+          },
+          {
+            "kavram": "Network Service Provider (Ağ Servis Sağlayıcı)",
+            "aciklama": "İnternet bağlantısı, ağ yönetimi ve diğer ağ hizmetlerini sağlayan şirket veya kuruluş. Bu sağlayıcılar, ağ altyapısı sunar."
+          },
+          {
+            "kavram": "Network Troubleshooting (Ağ Sorun Giderme)",
+            "aciklama": "Ağdaki sorunları teşhis etme ve çözme süreci. Bu, ağ bağlantılarını, performansı ve güvenlik açıklarını kontrol etmeyi içerir."
+          },
+          {
+            "kavram": "Network Hacking (Ağ Hackleme)",
+            "aciklama": "Bir ağın yetkisiz bir şekilde ele geçirilmesi veya zarar görmesi amacıyla yapılan kötü niyetli faaliyet. Ağ güvenliği ihlalleri, veri hırsızlığı veya servis kesintileri oluşturabilir."
+          },
+          {
+            "kavram": "Network Routing (Ağ Yönlendirmesi)",
+            "aciklama": "Verilerin bir ağda doğru bir şekilde yönlendirilmesi. Bu, veri paketlerinin doğru hedeflere ulaşmasını sağlamak için yönlendiriciler ve protokoller kullanır."
+          },
+          {
+            "kavram": "Network Access Layer (Ağ Erişim Katmanı)",
+            "aciklama": "Ağ protokol katmanlarından biri olan bu katman, cihazların ağ üzerindeki fiziksel bağlantılarını yönetir. Ethernet ve Wi-Fi gibi teknolojiler bu katmanda yer alır."
+          },
+          {
+            "kavram": "NIST Cybersecurity Framework (NIST Siber Güvenlik Çerçevesi)",
+            "aciklama": "Ulusal Standartlar ve Teknoloji Enstitüsü (NIST) tarafından geliştirilen, organizasyonların siber güvenlik risklerini yönetmelerine yardımcı olan bir çerçeve."
+          },
+          {
+            "kavram": "Network Caching (Ağ Önbellekleme)",
+            "aciklama": "Ağ üzerindeki veri taleplerinin hızlandırılması için veri önceden depolanır. Bu, sıklıkla erişilen verilerin daha hızlı alınmasını sağlar."
+          },
+          {
+            "kavram": "New Malware (Yeni Kötü Amaçlı Yazılım)",
+            "aciklama": "Yeni keşfedilen veya henüz yaygın olarak bilinen kötü amaçlı yazılımlar. Bu tür yazılımlar, genellikle savunmasız sistemlere saldırmak için geliştirilir."
+          },
+          {
+            "kavram": "Non-Repudiation Services (İnkar Edilemezlik Hizmetleri)",
+            "aciklama": "Bir işlem veya iletişimin geçerliliğini kanıtlayarak, işlemden sonra tarafların bunu inkar etmelerini engelleyen hizmetler."
+          },
+          {
+            "kavram": "Network Spoofing (Ağ Taklit Etme)",
+            "aciklama": "Bir saldırganın, ağ üzerinde başka bir cihazın kimliğini taklit ederek veri gönderme işlemi. Bu, kimlik doğrulama ve güvenlik ihlallerine yol açabilir."
+          },
+          {
+            "kavram": "Null Session (Null Oturumu)",
+            "aciklama": "Bir ağda, kimlik doğrulaması olmadan yapılan, ancak bazı sistem kaynaklarına erişim sağlayan bir bağlantı türü."
+          },
+          {
+            "kavram": "Netcat (Ağ Araçları)",
+            "aciklama": "Ağ üzerinde veri iletişimi yapmak için kullanılan bir araç. Genellikle, ağ servislerini test etme veya saldırı simülasyonları yapmak için kullanılır."
+          },
+          {
+            "kavram": "Network Policy (Ağ Politikası)",
+            "aciklama": "Bir organizasyonun ağ kaynaklarına nasıl erişileceği ve bunların nasıl kullanılacağına dair belirlediği kurallar. Bu politikalar ağ güvenliği için çok önemlidir."
+          },
+          {
+            "kavram": "Network Anomaly Detection (Ağ Anomali Tespiti)",
+            "aciklama": "Ağ trafiğindeki normal olmayan, olağan dışı aktiviteleri tespit etmek amacıyla kullanılan teknolojiler. Bu, saldırıları ve güvenlik tehditlerini erken aşamada belirlemeye yardımcı olur."
+          },
+          {
+            "kavram": "Name Server (İsim Sunucusu)",
+            "aciklama": "İnternet üzerindeki domain isimlerinin IP adreslerine çevrilmesini sağlayan bir sunucu. DNS (Domain Name System) sunucuları bu işlevi yerine getirir."
+          },
+          {
+            "kavram": "Network Proxy (Ağ Proxy’si)",
+            "aciklama": "Kullanıcıların ağda başka bir sunucu aracılığıyla bağlantı kurmasına izin veren bir ağ aracı. Proxy, genellikle güvenlik, gizlilik ve erişim kontrolü sağlamak için kullanılır."
+          },
+          {
+            "kavram": "Network Interface (Ağ Arayüzü)",
+            "aciklama": "Bir cihazın bir ağa bağlanmasını sağlayan donanım veya yazılım bileşeni. Ethernet portu veya Wi-Fi adaptörü gibi bileşenler buna örnektir."
+          },
+          {
+            "kavram": "Non-Volatile Storage (Volatıl Olmayan Depolama)",
+            "aciklama": "Verilerin güç kaybı durumunda bile saklanmaya devam ettiği depolama türü. SSD'ler ve sabit diskler buna örnektir."
+          },
+          {
+            "kavram": "No Phishing (Phishing Yapmama)",
+            "aciklama": "Kullanıcıları kandırmak amacıyla sahte e-postalar göndermeyi içeren, kimlik avı saldırılarını gerçekleştirmemek anlamına gelir."
+          },
+          {
+            "kavram": "Network Function Virtualization (NFV) (Ağ Fonksiyonu Sanallaştırma)",
+            "aciklama": "Ağ işlevlerini sanal makineler üzerinde çalıştırarak ağ altyapısını esnek ve verimli hale getiren bir teknoloji. Bu, donanım bağımsızlık sağlar ve ağ yönetimini kolaylaştırır."
+          },
+          {
+            "kavram": "Network Firewall Configuration (Ağ Güvenlik Duvarı Yapılandırması)",
+            "aciklama": "Bir ağdaki trafiği kontrol etmek ve güvenlik sağlamak için kullanılan güvenlik duvarının (firewall) ayarlarının yapılması. Bu yapılandırma, hangi trafiğin izin verileceğini ve hangi trafiğin engelleneceğini belirler."
+          },
+          {
+            "kavram": "Non-Conformance (Uyumsuzluk)",
+            "aciklama": "Bir ürün, hizmet veya sistemin belirli bir standart veya gereksinim ile uyumsuz olması durumu. Bu, güvenlik politikaları veya kalite standartları gibi gereksinimlere uyum sağlanmadığını gösterir."
+          },
+          {
+            "kavram": "Network Redundancy (Ağ Yedekliliği)",
+            "aciklama": "Bir ağda, ana ağ bileşenlerinin veya bağlantılarının arızalanması durumunda kesintisiz hizmetin devam etmesini sağlamak için yedek bileşenler veya bağlantıların kullanılması. Bu, ağın güvenilirliğini artırır."
+          },
+          {
+            "kavram": "Network Access Point Configuration (Ağ Erişim Noktası Yapılandırması)",
+            "aciklama": "Bir ağın kablosuz erişim noktalarının yapılandırılması. Bu, ağdaki cihazların internete veya yerel ağ kaynaklarına bağlanmasını sağlamak için gereklidir."
+          },
+          {
+            "kavram": "Network Configuration Management (Ağ Yapılandırma Yönetimi)",
+            "aciklama": "Bir ağın tüm yapılandırmalarını yönetme süreci. Bu, ağ donanımları, yazılımları ve bağlantılarının düzgün çalışmasını sağlamak için gereklidir."
+          },
+          {
+            "kavram": "Network Load Testing (Ağ Yük Testi)",
+            "aciklama": "Bir ağın kapasitesini ve performansını test etmek için uygulanan süreç. Bu testler, ağın yüksek trafik altında nasıl çalıştığını ve olası darboğazları belirlemeye yardımcı olur."
+          },
+          {
+            "kavram": "Network Scan (Ağ Tarama)",
+            "aciklama": "Ağdaki cihazları, hizmetleri ve açık portları tespit etmek amacıyla yapılan tarama işlemi. Bu, ağda potansiyel güvenlik açıklarını belirlemek için kullanılır."
+          },
+          {
+            "kavram": "Network Security Incident (Ağ Güvenlik Olayı)",
+            "aciklama": "Bir ağda meydana gelen ve güvenliği tehdit eden herhangi bir olay. Bu, bir siber saldırı, veri sızıntısı veya güvenlik ihlali gibi olayları içerebilir."
+          },
+          {
+            "kavram": "Next-Generation Antivirus (Yeni Nesil Antivirüs)",
+            "aciklama": "Klasik antivirüs yazılımlarından daha gelişmiş, yapay zeka ve davranışsal analiz gibi teknolojiler kullanan kötü amaçlı yazılım tespit ve engelleme yazılımları. Bu yazılımlar, yeni ve bilinmeyen tehditlere karşı daha etkili koruma sağlar."
+          },
+          {
+            "kavram": "Network Management Protocol (Ağ Yönetim Protokolü)",
+            "aciklama": "Ağ cihazlarını ve bileşenlerini izlemek, yönetmek ve yapılandırmak için kullanılan protokoller. SNMP (Simple Network Management Protocol) en yaygın kullanılan ağ yönetim protokollerindendir."
+          },
+          {
+            "kavram": "Network Scanner (Ağ Tarayıcı)",
+            "aciklama": "Ağda cihazları, portları ve hizmetleri keşfetmek için kullanılan yazılım veya donanım. Ağ tarayıcıları, güvenlik açıklarını tespit etme ve ağın yapılandırmasını doğrulama amacıyla kullanılır."
+          },
+          {
+            "kavram": "Network Forensics Tools (Ağ Adli Tıp Araçları)",
+            "aciklama": "Ağ üzerinde gerçekleşen suçları araştırmak ve incelemek için kullanılan yazılım ve araçlar. Bu araçlar, ağ trafiği analizleri yaparak, olası siber suçları tespit etmek ve çözmek için kullanılır."
+          },
+          {
+            "kavram": "NTP Attack (NTP Saldırısı)",
+            "aciklama": "Network Time Protocol (NTP) üzerinden gerçekleştirilen bir saldırı türü. Bu saldırı, NTP sunucusunun yanlış yapılandırılmasından yararlanarak hedef sisteme aşırı yük bindirebilir veya diğer ağ servislerini bozabilir."
+          },
+          {
+            "kavram": "Network Authentication Protocol (Ağ Kimlik Doğrulama Protokolü)",
+            "aciklama": "Ağda bir kullanıcının veya cihazın kimliğini doğrulamak için kullanılan protokoller. Örneğin, WPA, RADIUS ve LDAP gibi protokoller kimlik doğrulama için yaygın olarak kullanılır."
+          },
+          {
+            "kavram": "Network Patching (Ağ Yaması)",
+            "aciklama": "Ağ cihazları ve yazılımlarındaki güvenlik açıklarını kapatmak için yapılan güncellemeler. Yazılım hatalarını ve güvenlik açıklarını gidermek için yama uygulanır."
+          },
+          {
+            "kavram": "Network Topology Map (Ağ Topolojisi Haritası)",
+            "aciklama": "Bir ağın bileşenlerinin ve bağlantılarının görsel temsilidir. Bu harita, ağın nasıl yapılandığını, cihazların birbirine nasıl bağlandığını gösterir."
+          },
+          {
+            "kavram": "Network Segmentation Policy (Ağ Segmantasyon Politikası)",
+            "aciklama": "Bir ağın farklı bölümlere ayrılmasını sağlayan güvenlik politikaları. Bu, ağdaki verileri ve kaynakları izole ederek, daha iyi güvenlik ve performans sağlar."
+          },
+          {
+            "kavram": "NFS (Network File System) (Ağ Dosya Sistemi)",
+            "aciklama": "Ağ üzerinden dosya paylaşımını sağlayan bir protokol. NFS, uzak makinelerdeki dosyalara yerel erişim sağlar."
+          },
+          {
+            "kavram": "Network Traffic Shaping (Ağ Trafiği Şekillendirme)",
+            "aciklama": "Ağdaki veri trafiğini kontrol etme ve yönlendirme yöntemi. Bu, belirli uygulamalara veya trafiğe öncelik vererek ağda daha verimli kullanım sağlar."
+          },
+          {
+            "kavram": "Network Performance Monitoring (Ağ Performansı İzleme)",
+            "aciklama": "Bir ağın etkinliğini ve performansını izlemek için kullanılan süreç. Bu, ağın hızını, bant genişliğini, gecikmesini ve hatalarını izlemeyi içerir."
+          },
+          {
+            "kavram": "Non-Essential Network Traffic (Önemli Olmayan Ağ Trafiği)",
+            "aciklama": "Ağda veri iletimi yapan, ancak ana işlevi için gerekli olmayan trafik. Bu tür trafik, ağ performansını olumsuz etkileyebilir."
+          },
+          {
+            "kavram": "NetFlow (NetFlow Protokolü)",
+            "aciklama": "Ağ trafiği verilerini toplayan ve yönlendiren bir protokol. NetFlow, ağ yöneticilerinin ağ trafiğini analiz etmelerini sağlar."
+          },
+          {
+            "kavram": "Network Capacity (Ağ Kapasitesi)",
+            "aciklama": "Bir ağın verimli bir şekilde taşıyabileceği veri miktarı. Ağ kapasitesi, ağın bant genişliği ve altyapısına bağlı olarak değişir."
+          },
+          {
+            "kavram": "Noise Filtering (Gürültü Filtreleme)",
+            "aciklama": "Ağa gelen verilerdeki istenmeyen veya yanıltıcı bilgilerin, gerçek verilerden ayrılması işlemi. Bu, ağın performansını ve doğruluğunu artırır."
+          },
+          {
+            "kavram": "Network Hacking Tools (Ağ Hackleme Araçları)",
+            "aciklama": "Ağ güvenlik açıklarını tespit etmek veya bir ağ üzerinde yetkisiz erişim sağlamak amacıyla kullanılan araçlar. Bu araçlar, genellikle kötü amaçlı kişiler tarafından kullanılır."
+          },
+          {
+            "kavram": "Network Analysis Tools (Ağ Analiz Araçları)",
+            "aciklama": "Ağ trafiğini izlemek ve analiz etmek için kullanılan yazılımlar. Bu araçlar, ağdaki olası sorunları tespit etmeye ve ağ performansını artırmaya yardımcı olur."
+          },
+          {
+            "kavram": "Network Data Analysis (Ağ Veri Analizi)",
+            "aciklama": "Ağ üzerindeki veri trafiğinin toplanması, işlenmesi ve analiz edilmesi. Bu analizler, güvenlik, performans ve hatalarla ilgili bilgi sağlar."
+          },
+          {
+            "kavram": "N-layer Security (N-Katmanlı Güvenlik)",
+            "aciklama": "Güvenliği sağlamak için birden fazla katmanlı yaklaşım. Bu, her katmanda farklı güvenlik önlemleri alarak, ağın güvenliğini daha güçlü hale getirir."
+          },
+          {
+            "kavram": "NetBIOS (NetBIOS Protokolü)",
+            "aciklama": "Yerel ağlarda iletişim kurmak için kullanılan bir protokol. NetBIOS, bilgisayarlar arasında dosya paylaşımı ve isim çözümlemesi gibi işlemleri gerçekleştirir."
+          },
+          {
+            "kavram": "Network Mapping (Ağ Haritalama)",
+            "aciklama": "Bir ağdaki tüm cihazları ve bağlantıları belirleyip görselleştirme süreci. Ağ haritalaması, ağdaki her bileşenin nasıl bağlandığını ve çalıştığını anlamayı sağlar."
+          },
+          {
+            "kavram": "NAT Gateway (NAT Geçidi)",
+            "aciklama": "Bir ağdaki cihazların internete erişimini sağlayan cihaz. NAT (Network Address Translation), yerel ağdaki IP adreslerini internetteki genel IP adresleriyle değiştirir."
+          },
+          {
+            "kavram": "Network Access Layer Security (Ağ Erişim Katmanı Güvenliği)",
+            "aciklama": "Ağın erişim katmanında uygulanan güvenlik önlemleri. Bu, ağ cihazlarının fiziksel bağlanabilirliğini kontrol eder ve sadece yetkilendirilmiş cihazların ağa bağlanmasına izin verir."
+          },
+          {
+            "kavram": "Network Data Encryption (Ağ Veri Şifrelemesi)",
+            "aciklama": "Ağ üzerindeki verilerin şifrelenerek güvenli bir şekilde iletilmesi. Bu, verilerin üçüncü şahıslar tarafından okunmasını engeller."
+          },
+          {
+            "kavram": "Network Interface Configuration (Ağ Arayüz Yapılandırması)",
+            "aciklama": "Ağ cihazlarının ağ arayüzlerini (ethernet, Wi-Fi vb.) yapılandırmak. Bu, cihazın ağdaki doğru şekilde iletişim kurmasını sağlar."
+          },
+          {
+            "kavram": "Network Security Architecture (Ağ Güvenlik Mimarisi)",
+            "aciklama": "Bir ağın güvenliğini sağlamak amacıyla kullanılan tasarım ve yapı. Bu, güvenlik duvarları, şifreleme ve diğer güvenlik önlemleriyle ağın korunmasını sağlar."
+          },
+          {
+            "kavram": "Network Time Protocol (NTP)",
+            "aciklama": "Bilgisayarlar ve ağ cihazları arasındaki saat uyumunu sağlamak için kullanılan bir protokoldür. NTP, ağ üzerindeki cihazların saatlerini doğru bir şekilde senkronize eder ve zaman hatalarını engeller."
+          },
+          {
+            "kavram": "NIST Risk Management Framework (NIST Risk Yönetim Çerçevesi)",
+            "aciklama": "Ulusal Standartlar ve Teknoloji Enstitüsü (NIST) tarafından geliştirilen, siber güvenlik risklerini yönetmek için bir çerçeve sağlar. Bu çerçeve, riskleri değerlendirme, azaltma ve izleme süreçlerini içerir."
+          },
+          {
+            "kavram": "Network Resilience (Ağ Dayanıklılığı)",
+            "aciklama": "Bir ağın, arızalar, saldırılar veya kesintiler gibi olumsuz durumlarla karşılaştığında normal işleyişine devam etme yeteneğidir. Ağ dayanıklılığı, yedeklilik, hata toleransı ve hızla toparlanma gibi özelliklerle sağlanır."
+          },
+          {
+            "kavram": "Network Defense (Ağ Savunması)",
+            "aciklama": "Bir ağın dış tehditlerden ve siber saldırılardan korunması için alınan önlemler ve stratejiler. Güvenlik duvarları, izinsiz giriş tespiti, şifreleme gibi yöntemler ağ savunmasının bir parçasıdır."
+          },
+          {
+            "kavram": "Non-Repudiation Authentication (İnkar Edilemezlik Kimlik Doğrulaması)",
+            "aciklama": "Bir işlem veya eylemi gerçekleştiren kişinin kimliğini doğrulayan ve bu eylemi inkar etmesini engelleyen bir güvenlik önlemidir. Dijital imzalar ve zaman damgaları bu tür kimlik doğrulaması için kullanılır."
+          },
+          {
+            "kavram": "Network Traffic Filtering (Ağ Trafiği Filtreleme)",
+            "aciklama": "Ağ üzerinden gelen ve giden veri trafiğinin belirli kurallara göre incelenmesi ve istenmeyen trafiğin engellenmesidir. Bu, güvenlik duvarları veya proxy sunucuları aracılığıyla yapılabilir."
+          },
+          {
+            "kavram": "Network Isolation Protocols (Ağ İzolasyon Protokolleri)",
+            "aciklama": "Ağdaki belirli bölümleri veya cihazları izole etmek için kullanılan protokoller. Ağın farklı segmentleri arasındaki erişimi sınırlayarak güvenliği artırır."
+          },
+          {
+            "kavram": "Node Authentication (Düğüm Kimlik Doğrulama)",
+            "aciklama": "Bir ağdaki her bir düğümün (cihaz veya bilgisayar) kimliğini doğrulama işlemi. Bu, ağın güvenliğini sağlamak için, sadece yetkilendirilmiş düğümlerin ağa erişmesini sağlar."
+          },
+          {
+            "kavram": "Network Security Testing (Ağ Güvenlik Testi)",
+            "aciklama": "Ağdaki güvenlik açıklarını tespit etmek amacıyla yapılan testler. Bu testler, ağın zayıf noktalarını bulmak ve ağ güvenliğini güçlendirmek için önemlidir."
+          },
+          {
+            "kavram": "No Encryption (Şifreleme Yok)",
+            "aciklama": "Verilerin herhangi bir şifreleme işlemi olmadan iletilmesi durumudur. Bu, verilerin üçüncü şahıslar tarafından kolayca okunabilmesini sağlayarak güvenlik riskleri oluşturur."
+          },
+          {
+            "kavram": "NetFlow Analyzer (NetFlow Analizörü)",
+            "aciklama": "NetFlow protokolünü kullanarak ağ trafiğini analiz eden bir araçtır. Bu araç, ağdaki veri akışını izler, ağ performansını değerlendirir ve olası güvenlik tehditlerini tespit eder."
+          },
+          {
+            "kavram": "Network Intrusion Prevention System (NIPS)",
+            "aciklama": "Ağda izinsiz girişleri engellemek için kullanılan bir güvenlik sistemidir. NIPS, şüpheli aktiviteleri tespit ederek, ağda zararlı faaliyetlerin gerçekleşmesini önler."
+          },
+          {
+            "kavram": "No Limit Cyber Attack (Sınırsız Siber Saldırı)",
+            "aciklama": "Bir ağ veya sisteme yapılan ve sınır tanımayan, sürekli ve durmaksızın gerçekleşen siber saldırılardır. Bu tür saldırılar genellikle büyük bir etkiye sahip olabilir."
+          },
+          {
+            "kavram": "Network Interface Monitoring (Ağ Arayüzü İzleme)",
+            "aciklama": "Ağ cihazlarının arayüzlerinin (örneğin, Ethernet portları veya Wi-Fi bağlantıları) performansını izleme işlemi. Bu, ağın düzgün çalışıp çalışmadığını ve olası sorunları tespit etmeyi sağlar."
+          },
+          {
+            "kavram": "Network Scanning Tools (Ağ Tarama Araçları)",
+            "aciklama": "Bir ağdaki cihazları ve bağlantıları taramak için kullanılan yazılımlar veya araçlar. Bu araçlar, ağdaki güvenlik açıklarını veya yapılandırma hatalarını bulmaya yardımcı olur."
+          },
+          {
+            "kavram": "NetFlow Monitoring (NetFlow İzleme)",
+            "aciklama": "NetFlow protokolünü kullanarak ağ trafiğinin izlenmesi işlemidir. Bu, ağ trafiği üzerinde derinlemesine analiz yaparak, ağdaki trafik akışlarını ve olası sorunları anlamayı sağlar."
+          },
+          {
+            "kavram": "NoSQL Injection (NoSQL Enjeksiyonu)",
+            "aciklama": "NoSQL veritabanlarına yönelik bir saldırı türüdür. Bu tür enjeksiyonlar, kötü amaçlı kullanıcıların veritabanına zarar vermesini veya istenmeyen işlemler yapmasını sağlar."
+          },
+          {
+            "kavram": "Network Security Appliances (Ağ Güvenlik Cihazları)",
+            "aciklama": "Ağ güvenliği sağlamak için kullanılan donanım cihazlarıdır. Bu cihazlar, güvenlik duvarları, saldırı tespit ve engelleme sistemleri, VPN cihazları gibi farklı güvenlik hizmetleri sunar."
+          },
+          {
+            "kavram": "Network Traffic Inspection (Ağ Trafiği Denetimi)",
+            "aciklama": "Ağdaki veri paketlerinin içeriklerini inceleyerek, kötü amaçlı yazılımları, güvenlik açıklarını ve istenmeyen trafiği tespit etmeyi amaçlayan süreçtir."
+          },
+          {
+            "kavram": "New Attack Vectors (Yeni Saldırı Vektörleri)",
+            "aciklama": "Kötü niyetli kişilerin ağlara veya sistemlere saldırmak için kullandığı yeni yöntem ve tekniklerdir. Bu yeni saldırı yolları, geleneksel güvenlik önlemlerini atlatabilir."
+          },
+          {
+            "kavram": "Network Architecture Design (Ağ Mimarisi Tasarımı)",
+            "aciklama": "Bir ağın yapısının ve bileşenlerinin nasıl organize edileceğinin planlanmasıdır. İyi bir ağ mimarisi, ağın güvenliğini, performansını ve ölçeklenebilirliğini artırır."
+          }
+
+    ]
+}

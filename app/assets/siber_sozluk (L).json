@@ -1,0 +1,543 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "Log Analysis (Kayıt Analizi)",
+            "aciklama": "Sistemlerde veya ağlarda oluşturulan kayıt dosyalarının (log) incelenmesi, analiz edilmesi ve anlamlandırılması sürecidir. Güvenlik olaylarını tespit etmek, hataları bulmak veya performans sorunlarını çözmek için kullanılır."
+          },
+          {
+            "kavram": "Local Area Network (LAN) (Yerel Alan Ağı)",
+            "aciklama": "Kısa mesafede, genellikle bir bina veya ofis içinde cihazları birbirine bağlayan özel bir ağdır. Veri transfer hızı genellikle yüksektir."
+          },
+          {
+            "kavram": "Log Management (Kayıt Yönetimi)",
+            "aciklama": "Kayıtların toplanması, depolanması, analiz edilmesi ve saklanması sürecidir. Bu süreç, özellikle güvenlik ve uyumluluk açısından önemlidir."
+          },
+          {
+            "kavram": "Least Privilege Principle (En Az Ayrıcalık İlkesi)",
+            "aciklama": "Kullanıcıların ve sistemlerin yalnızca işlerini yapmak için gereken minimum ayrıcalıklara sahip olması gerektiğini ifade eden bir güvenlik ilkesidir."
+          },
+          {
+            "kavram": "Logical Bomb (Mantıksal Bomba)",
+            "aciklama": "Bir sistemde belirli bir olay gerçekleştiğinde etkinleşen kötü amaçlı yazılım türüdür. Örneğin, belirli bir tarih veya kullanıcı etkinliği tetikleyici olabilir."
+          },
+          {
+            "kavram": "Linux Security Modules (LSM) (Linux Güvenlik Modülleri)",
+            "aciklama": "Linux çekirdeğinde bulunan bir çerçeve, güvenlik politikalarının uygulanmasına olanak tanır. SELinux ve AppArmor gibi araçlar LSM kullanır."
+          },
+          {
+            "kavram": "Login Attempt (Giriş Denemesi)",
+            "aciklama": "Bir kullanıcı adı ve şifreyle sisteme giriş yapma çabasıdır. Başarılı veya başarısız olabilir."
+          },
+          {
+            "kavram": "Load Balancer (Yük Dengeleyici)",
+            "aciklama": "Ağ trafiğini birden fazla sunucuya dağıtan bir cihaz veya yazılımdır. Bu, performansı artırır ve sistemin çökmesini önler."
+          },
+          {
+            "kavram": "Log Retention Policy (Kayıt Saklama Politikası)",
+            "aciklama": "Kayıtların ne kadar süreyle saklanacağını ve ne zaman silineceğini belirleyen politikadır. Uyumluluk ve yasal gereklilikler doğrultusunda oluşturulur."
+          },
+          {
+            "kavram": "Local Exploit (Yerel Açık Kullanımı)",
+            "aciklama": "Saldırganın hedef sisteme fiziksel veya yerel erişime sahip olduğu bir durumda güvenlik açıklarından faydalanmasıdır."
+          },
+          {
+            "kavram": "Log Tampering (Kayıtlarla Oynama)",
+            "aciklama": "Kayıt dosyalarının manipüle edilmesi veya değiştirilmesi eylemidir. Genellikle izleri silmek için yapılır."
+          },
+          {
+            "kavram": "Lightweight Directory Access Protocol (LDAP) (Hafif Dizin Erişim Protokolü)",
+            "aciklama": "Dizin hizmetlerine erişim sağlamak için kullanılan bir protokoldür. Kullanıcı doğrulama ve bilgi saklama gibi işlemler için kullanılır."
+          },
+          {
+            "kavram": "Layered Security (Katmanlı Güvenlik)",
+            "aciklama": "Birden fazla güvenlik katmanının bir arada kullanıldığı savunma stratejisidir. Güvenlik açıklarının tek bir savunma mekanizmasını aşmasını önler."
+          },
+          {
+            "kavram": "Link Encryption (Bağlantı Şifrelemesi)",
+            "aciklama": "Bir ağ bağlantısı üzerinden aktarılan verilerin şifrelenmesi yöntemidir. Gönderici ve alıcı arasında verilerin gizliliğini sağlar."
+          },
+          {
+            "kavram": "Logic Flaw (Mantık Hatası)",
+            "aciklama": "Bir yazılım veya sistemde mantıksal bir hata veya zayıflıktır. Saldırganlar, bu tür hataları kötüye kullanabilir."
+          },
+          {
+            "kavram": "Log Injection (Kayıt Enjeksiyonu)",
+            "aciklama": "Sistemin kayıt dosyalarına zararlı veya yanıltıcı veriler enjekte edilmesi eylemidir. Çoğunlukla sahte kayıtlar eklemek için kullanılır."
+          },
+          {
+            "kavram": "Local Authentication (Yerel Kimlik Doğrulama)",
+            "aciklama": "Kimlik doğrulama işleminin yerel bir sistem üzerinde gerçekleştirilmesidir. Harici doğrulama sunucularına gerek duyulmaz."
+          },
+          {
+            "kavram": "Log Rotation (Kayıt Döndürme)",
+            "aciklama": "Kayıt dosyalarının boyutunu kontrol etmek için eski kayıtların arşivlenmesi ve yenilerinin oluşturulması sürecidir."
+          },
+          {
+            "kavram": "Lateral Movement (Yatay Hareket)",
+            "aciklama": "Bir saldırganın bir sistemden diğerine erişim sağlama yöntemi. Genellikle hedeflenen verilere ulaşmak için kullanılır."
+          },
+          {
+            "kavram": "Live Response (Canlı Müdahale)",
+            "aciklama": "Bir güvenlik olayı sırasında sisteme müdahale ederek olayın incelenmesi veya durdurulmasıdır."
+          },
+          {
+            "kavram": "Log Aggregation (Kayıt Toplama)",
+            "aciklama": "Birden fazla kaynaktan gelen kayıtların toplanması ve merkezi bir depolama alanında birleştirilmesi işlemidir. Bu, analizleri kolaylaştırır."
+          },
+          {
+            "kavram": "Logical Partitioning (Mantıksal Bölümlendirme)",
+            "aciklama": "Fiziksel değil, mantıksal bir yapı kullanarak bir sistemin kaynaklarının bölümlendirilmesidir. Bu, veri ve uygulamaların düzenli şekilde ayrılmasını sağlar."
+          },
+          {
+            "kavram": "Log Correlation (Kayıt Korelasyonu)",
+            "aciklama": "Farklı kaynaklardan gelen kayıtların analiz edilerek ilişkili hale getirilmesi işlemidir. Güvenlik olaylarının daha iyi anlaşılmasını sağlar."
+          },
+          {
+            "kavram": "Linux Firewall (Linux Güvenlik Duvarı)",
+            "aciklama": "Linux sistemlerinde ağ trafiğini kontrol etmek ve güvenlik tehditlerinden korumak amacıyla kullanılan yazılım veya donanım çözümüdür."
+          },
+          {
+            "kavram": "Log Parsing (Kayıt Ayrıştırma)",
+            "aciklama": "Kayıt dosyalarındaki verilerin analiz edilebilmesi için anlamlı bir yapıya dönüştürülmesi işlemidir."
+          },
+          {
+            "kavram": "Lockout Policy (Kilitleme Politikası)",
+            "aciklama": "Yanlış giriş denemeleri sonrasında bir hesabın kilitlenmesi için uygulanan politikalardır. Bu, saldırganların brute-force saldırılarını engeller."
+          },
+          {
+            "kavram": "License Key (Lisans Anahtarı)",
+            "aciklama": "Bir yazılımı veya uygulamayı kullanmaya yetkili olduğunuzu belirten ve yazılımın yasal kullanımını doğrulayan anahtar kodudur."
+          },
+          {
+            "kavram": "Log Collection (Kayıt Toplama)",
+            "aciklama": "Farklı sistemlerden gelen kayıtların toplandığı süreçtir. Bu işlem, kayıtların yönetilmesi ve analiz edilmesi için gereklidir."
+          },
+          {
+            "kavram": "Load Testing (Yük Testi)",
+            "aciklama": "Bir uygulama veya sistemin yüksek trafiğe karşı performansını test etmek için yapılan testtir. Yük testi, sistemin dayanıklılığını ölçer."
+          },
+          {
+            "kavram": "Local Backup (Yerel Yedekleme)",
+            "aciklama": "Verilerin, bulunduğu cihaz veya ağ üzerindeki bir başka yerel cihazda yedeklenmesidir. Bu, veri kaybına karşı önlem alır."
+          },
+          {
+            "kavram": "Logic Bomb Detection (Mantıksal Bomba Tespiti)",
+            "aciklama": "Mantıksal bombaların sisteme zarar vermesini engellemek için yapılan tarama ve tespit süreçleridir."
+          },
+          {
+            "kavram": "Log Forwarding (Kayıt Yönlendirme)",
+            "aciklama": "Kayıtların, bir sistemden başka bir sisteme iletilmesidir. Bu, merkezi bir kayıt yönetimi ve analiz için gereklidir."
+          },
+          {
+            "kavram": "Linux Kernel Security (Linux Çekirdek Güvenliği)",
+            "aciklama": "Linux çekirdeği üzerinde uygulanan güvenlik önlemleri ve yapılandırmalardır. Bu, sistemin temel işlevlerinin korunmasını sağlar."
+          },
+          {
+            "kavram": "Logical Access (Mantıksal Erişim)",
+            "aciklama": "Bir sistemin veya ağın erişim kontrolüne dayalı olarak yapılan erişimdir. Fiziksel erişimin yanı sıra, kullanıcı izinleri ve kimlik doğrulama yöntemleri içerir."
+          },
+          {
+            "kavram": "Low-Level Format (Düşük Seviyeli Formatlama)",
+            "aciklama": "Bir diskin fiziksel yapısını yeniden oluşturma işlemidir. Bu işlem, diskteki tüm verileri siler ve diski yeniden yapılandırır."
+          },
+          {
+            "kavram": "Log File Analysis (Kayıt Dosyası Analizi)",
+            "aciklama": "Kayıt dosyalarının incelenmesi ve analiz edilmesidir. Bu analiz, güvenlik tehditlerini veya hataları tespit etmek için yapılır."
+          },
+          {
+            "kavram": "License Agreement (Lisans Sözleşmesi)",
+            "aciklama": "Bir yazılımı kullanabilmek için kullanıcı tarafından kabul edilen yasal bir sözleşmedir. Yazılımın kullanım koşullarını belirtir."
+          },
+          {
+            "kavram": "Load Balancing Algorithm (Yük Dengeleme Algoritması)",
+            "aciklama": "Yük dengeleme sürecinde kullanılan algoritmalardır. Trafiği verimli bir şekilde dağıtarak sistemin çökmesini engeller."
+          },
+          {
+            "kavram": "Local Privilege Escalation (Yerel Ayrıcalık Yükseltme)",
+            "aciklama": "Bir saldırganın, sınırlı yetkilerle başladığı bir hesapla sistemdeki daha yüksek ayrıcalıklara sahip hesaplara erişim sağlamasıdır."
+          },
+          {
+            "kavram": "Link-Layer Security (Bağlantı Katmanı Güvenliği)",
+            "aciklama": "Ağdaki cihazlar arasındaki veri iletimini korumak için kullanılan güvenlik önlemleridir. Örneğin, MAC adresleri kullanılarak yapılan güvenlik sağlanabilir."
+          },
+          {
+            "kavram": "Log Clustering (Kayıt Kümeleme)",
+            "aciklama": "Benzer özelliklere sahip kayıtların gruplandırılması işlemidir. Bu işlem, büyük veri kümelerinin analizini kolaylaştırır."
+          },
+          {
+            "kavram": "Linux Server Hardening (Linux Sunucu Güçlendirme)",
+            "aciklama": "Linux sunucularının güvenliğini artırmak için yapılan işlemler bütünüdür. Bu, sunucunun saldırılara karşı dayanıklı hale getirilmesi için önemlidir."
+          },
+          {
+            "kavram": "Logical Security (Mantıksal Güvenlik)",
+            "aciklama": "Bilgisayar sistemlerinin ve ağlarının güvenliğini sağlamak için uygulanan yazılımsal, donanımsal ve organizasyonel önlemlerdir."
+          },
+          {
+            "kavram": "Least Connections Algorithm (En Az Bağlantı Algoritması)",
+            "aciklama": "Yük dengeleme algoritmalarından biridir. Bu algoritma, en az bağlantısı olan sunucuya trafik yönlendirilmesini sağlar."
+          },
+          {
+            "kavram": "Linux Disk Encryption (Linux Disk Şifrelemesi)",
+            "aciklama": "Linux sistemlerinde verilerin disk üzerinde şifrelenmesi işlemidir. Bu, verilerin yetkisiz erişimden korunmasını sağlar."
+          },
+          {
+            "kavram": "Log File Integrity (Kayıt Dosyası Bütünlüğü)",
+            "aciklama": "Kayıt dosyalarının bütünlüğünün korunmasıdır. Dosyalarda herhangi bir değişiklik olup olmadığını kontrol etmek için kullanılır."
+          },
+          {
+            "kavram": "Live Patching (Canlı Yama)",
+            "aciklama": "Sistem çalışırken yapılan yamanın adıdır. Yazılım güncellemeleri, sistemi kapatmaya gerek kalmadan uygulanabilir."
+          },
+          {
+            "kavram": "LDAP Injection (LDAP Enjeksiyonu)",
+            "aciklama": "LDAP (Lightweight Directory Access Protocol) sorgularına zarar vermek için kötü niyetli verilerin enjekte edilmesi saldırısıdır."
+          },
+          {
+            "kavram": "Linux-Based Intrusion Detection (Linux Tabanlı Saldırı Tespiti)",
+            "aciklama": "Linux sistemlerinde gerçekleşen saldırıları tespit etmek için kullanılan yöntem ve yazılımlardır."
+          },
+          {
+            "kavram": "Linux Malware Analysis (Linux Zararlı Yazılım Analizi)",
+            "aciklama": "Linux tabanlı sistemlerdeki zararlı yazılımların analiz edilmesidir. Bu, güvenlik açıklarını tespit etmek ve zararlı yazılımın etkilerini anlamak için yapılır."
+          },
+          {
+            "kavram": "Linux File Permissions (Linux Dosya İzinleri)",
+            "aciklama": "Linux işletim sisteminde dosyalara ve dizinlere erişim hakkı belirlemek için kullanılan bir güvenlik mekanizmasıdır. Dosya sahibi, grup üyeleri ve diğer kullanıcılar için okuma, yazma ve çalıştırma izinleri belirlenir."
+          },
+          {
+            "kavram": "Least-Privilege User Account (LUA) (En Az Ayrıcalıklı Kullanıcı Hesabı)",
+            "aciklama": "Bir kullanıcıya yalnızca gerekli olan minimum erişim haklarını veren hesap türüdür. Bu, olası güvenlik risklerini azaltmak için önemlidir."
+          },
+          {
+            "kavram": "Low-Entropy Key (Düşük Entropili Anahtar)",
+            "aciklama": "Düşük entropili anahtar, tahmin edilmesi veya kırılması kolay olan şifreleme anahtarlarıdır. Güvenli bir anahtar, yüksek entropiye sahip olmalıdır, yani rastgeleliğinin yüksek olması gerekir."
+          },
+          {
+            "kavram": "Log Monitoring (Kayıt İzleme)",
+            "aciklama": "Sistem, ağ veya uygulama kayıtlarının düzenli olarak izlenmesi işlemidir. Bu izleme, güvenlik olaylarını tespit etmek ve sistemdeki anormallikleri anlamak için önemlidir."
+          },
+          {
+            "kavram": "Link Hijacking (Bağlantı Ele Geçirme)",
+            "aciklama": "Bir bağlantının, bir kullanıcı tarafından tıklanarak kötü amaçlı bir siteye yönlendirilmesi işlemidir. Bu saldırı, kullanıcıyı aldatmak için kullanılır."
+          },
+          {
+            "kavram": "Logical Isolation (Mantıksal İzolasyon)",
+            "aciklama": "Fiziksel olarak birleştirilen sistemlerin, mantıksal olarak birbirinden izole edilmesi işlemidir. Bu, her bir sistemin yalnızca yetkili kullanıcılar tarafından erişilmesini sağlar."
+          },
+          {
+            "kavram": "Linux Disk Quota (Linux Disk Kotası)",
+            "aciklama": "Linux sistemlerinde, kullanıcıların diskte ne kadar alan kullanabileceğini sınırlayan bir uygulamadır. Bu, sistemdeki kaynakların adil bir şekilde dağılmasını sağlar."
+          },
+          {
+            "kavram": "Linux Hardening Techniques (Linux Güçlendirme Teknikleri)",
+            "aciklama": "Linux sistemlerini daha güvenli hale getirmek için uygulanan tekniklerdir. Bu, güvenlik açıklarının kapatılması, gereksiz hizmetlerin devre dışı bırakılması ve sistemin yapılandırılmasını içerir."
+          },
+          {
+            "kavram": "Logical Drive (Mantıksal Sürücü)",
+            "aciklama": "Bir bilgisayar sisteminde, fiziksel disklerin mantıksal olarak bölünmesiyle oluşturulan sürücüdür. Bu sürücüler, sistemde daha iyi veri yönetimi sağlar."
+          },
+          {
+            "kavram": "Login Brute Force (Brute Force Giriş)",
+            "aciklama": "Bir kullanıcı adı ve şifre kombinasyonunun doğru olduğunu bulmak için tüm olasılıkların denenmesi saldırısıdır. Bu saldırı, otomatik araçlar kullanılarak yapılır."
+          },
+          {
+            "kavram": "Log Data Sanitization (Kayıt Verisi Temizleme)",
+            "aciklama": "Kayıt dosyalarındaki hassas verilerin silinmesi veya maskelenmesi işlemidir. Bu, gizliliği korur ve verilerin yanlış ellere geçmesini engeller."
+          },
+          {
+            "kavram": "Live Malware Analysis (Canlı Zararlı Yazılım Analizi)",
+            "aciklama": "Bir bilgisayar veya ağdaki zararlı yazılımın etkilerini canlı olarak inceleme işlemidir. Bu, zararlı yazılımın davranışlarını tespit etmek için yapılır."
+          },
+          {
+            "kavram": "Linux Log Rotation (Linux Kayıt Döndürme)",
+            "aciklama": "Linux sistemlerinde, eski kayıt dosyalarının yeni dosyalarla değiştirilmesi işlemidir. Bu, disk alanını yönetmek ve kayıt dosyalarını düzenli tutmak için kullanılır."
+          },
+          {
+            "kavram": "Low-Level Programming Exploits (Düşük Seviyeli Programlama Açıkları)",
+            "aciklama": "Bilgisayar programlarında, düşük seviyeli kodlarda bulunan ve kötü niyetli kişiler tarafından istismar edilebilen güvenlik açıklarıdır. Bu açıklar, genellikle bellek hataları ve buffer overflow gibi hatalardan kaynaklanır."
+          },
+          {
+            "kavram": "Local Forensics (Yerel Adli Bilişim)",
+            "aciklama": "Bir bilgisayar sisteminde veya cihazda yapılan dijital adli bilişim analizidir. Bu, sistemdeki olayları inceleyerek suçları çözmek veya bir ihlali araştırmak için yapılır."
+          },
+          {
+            "kavram": "Logic Gate Security (Mantık Kapısı Güvenliği)",
+            "aciklama": "Mantık kapıları, dijital devrelerin temel bileşenleridir. Mantık kapıları güvenliği, bu devrelerdeki olası güvenlik açıklarını engellemeye yönelik önlemleri içerir."
+          },
+          {
+            "kavram": "LDAP Authentication (LDAP Kimlik Doğrulama)",
+            "aciklama": "LDAP (Lightweight Directory Access Protocol), kullanıcı kimliklerini doğrulamak için kullanılan bir protokoldür. Bu sistemde, kullanıcılar dizine kaydedilir ve kimlik doğrulama işlemleri LDAP üzerinden yapılır."
+          },
+          {
+            "kavram": "Linux OS Patching (Linux İşletim Sistemi Yamaları)",
+            "aciklama": "Linux işletim sistemindeki güvenlik açıklarını kapatmak ve performans iyileştirmeleri yapmak amacıyla yapılan yazılım güncellemeleridir."
+          },
+          {
+            "kavram": "Local Malware Detection (Yerel Zararlı Yazılım Tespiti)",
+            "aciklama": "Bir bilgisayar veya cihazda, yerel olarak çalışmaya devam eden zararlı yazılımları tespit etmek için yapılan analizlerdir."
+          },
+          {
+            "kavram": "Load Time Monitoring (Yükleme Süresi İzleme)",
+            "aciklama": "Bir sistemin veya uygulamanın başlatılma süresinin izlenmesi işlemidir. Bu izleme, performans iyileştirmeleri yapmaya yardımcı olabilir."
+          },
+          {
+            "kavram": "Low-Priority Task Security (Düşük Öncelikli Görev Güvenliği)",
+            "aciklama": "Düşük öncelikli görevlerin güvenliği, bu tür görevlerin kötüye kullanılmasını engellemek için yapılan güvenlik önlemleridir. Genellikle, bu görevler daha az kaynak kullanır ancak yine de koruma gerektirir."
+          },
+          {
+            "kavram": "Linux Vulnerability Management (Linux Açık Yönetimi)",
+            "aciklama": "Linux sistemlerde bulunan güvenlik açıklarının tespit edilmesi, sınıflandırılması ve bu açıkların kapatılması sürecidir."
+          },
+          {
+            "kavram": "License Management System (Lisans Yönetim Sistemi)",
+            "aciklama": "Bir organizasyonun yazılım lisanslarını takip etmek, yönetmek ve doğrulamak için kullanılan sistemdir. Bu, yazılımların yasal olarak kullanılmasını sağlar."
+          },
+          {
+            "kavram": "Link-Local Address Security (Bağlantı-Yerel Adres Güvenliği)",
+            "aciklama": "Link-local adresler, yalnızca aynı ağdaki cihazlar arasında geçerli olan IP adresleridir. Bu adreslerin güvenliği, ağda veri iletimini korumak için önemlidir."
+          },
+          {
+            "kavram": "Linux User Privileges (Linux Kullanıcı Ayrıcalıkları)",
+            "aciklama": "Linux sistemlerinde, kullanıcıların sahip olduğu erişim hakları ve izinleridir. Bu, kullanıcıların hangi dosyalara ve hizmetlere erişebileceğini belirler."
+          },
+          {
+            "kavram": "Log Data Compression (Kayıt Verisi Sıkıştırma)",
+            "aciklama": "Kayıt dosyalarındaki verilerin depolama alanından tasarruf sağlamak amacıyla sıkıştırılması işlemidir. Bu, genellikle büyük boyutlu log dosyalarını yönetmek için kullanılır."
+          },
+          {
+            "kavram": "Logical Volume Management (LVM) (Mantıksal Hacim Yönetimi)",
+            "aciklama": "Linux'ta disk alanını daha esnek bir şekilde yönetmek için kullanılan bir sistemdir. Fiziksel disklerin birleştirilerek, mantıksal hacimlere dönüştürülmesi sağlanır."
+          },
+          {
+            "kavram": "Linux OS Logging (Linux İşletim Sistemi Kayıtları)",
+            "aciklama": "Linux işletim sisteminin, sistem olaylarını kaydetmesi ve bu kayıtların daha sonra analiz edilmesidir. Bu kayıtlar, hata ayıklama, güvenlik analizleri ve sistem yönetimi için kullanılır."
+          },
+          {
+            "kavram": "Least Resistance Path (En Az Direnç Yolu)",
+            "aciklama": "Bir saldırganın, en düşük güvenlik önlemleriyle bir sisteme sızmaya çalışırken izlediği yoldur. Güvenlik önlemlerinin zayıf olduğu yolları tercih ederler."
+          },
+          {
+            "kavram": "Link Encryption Key (Bağlantı Şifreleme Anahtarı)",
+            "aciklama": "Ağ üzerinden iletilen verilerin güvenliğini sağlamak amacıyla kullanılan şifreleme anahtarıdır. Bu anahtar, bağlantı üzerindeki verilerin şifrelenmesini sağlar."
+          },
+          {
+            "kavram": "Log File Tampering Detection (Kayıt Dosyası Tahrifat Tespiti)",
+            "aciklama": "Kayıt dosyalarının kötü amaçlı bir şekilde değiştirilmesi veya silinmesi durumunun tespit edilmesidir. Bu, sistemin bütünlüğünü sağlamak için önemlidir."
+          },
+          {
+            "kavram": "Linux Process Control (Linux İşlem Kontrolü)",
+            "aciklama": "Linux işletim sistemi üzerinde çalışan işlemleri yönetmek ve kontrol etmek için kullanılan araç ve tekniklerdir. Bu, işlem öncelikleri, bellek kullanımı ve kaynak yönetimini içerir."
+          },
+          {
+            "kavram": "Low Power Attack (Düşük Güç Saldırısı)",
+            "aciklama": "Cihazların düşük güçle çalışarak güvenlik mekanizmalarını atlatmaya çalışan bir saldırı türüdür. Genellikle, donanım temelli saldırılarda kullanılır."
+          },
+          {
+            "kavram": "LDAP Directory Structure (LDAP Dizin Yapısı)",
+            "aciklama": "LDAP (Lightweight Directory Access Protocol), ağ üzerindeki dizin bilgilerine erişim sağlar. LDAP dizin yapısı, bu bilgilerin düzenli ve verimli bir şekilde depolanmasını sağlayan bir yapıdır."
+          },
+          {
+            "kavram": "Layered Encryption (Katmanlı Şifreleme)",
+            "aciklama": "Verilerin güvenliğini sağlamak için farklı şifreleme yöntemlerinin birden fazla katman şeklinde kullanılmasıdır. Bu, verilerin güvenliğini artırır."
+          },
+          {
+            "kavram": "Linux Network Security (Linux Ağ Güvenliği)",
+            "aciklama": "Linux sistemlerinde ağ iletişiminin güvenliğini sağlamak amacıyla uygulanan güvenlik önlemleridir. Bu, ağ trafiğini şifreleme, güvenlik duvarları ve saldırı tespit sistemlerini içerir."
+          },
+          {
+            "kavram": "Local Cache Security (Yerel Önbellek Güvenliği)",
+            "aciklama": "Bir cihazda veya sistemde kullanılan geçici veri depolama alanı olan önbelleğin güvenliğini sağlamak için alınan önlemlerdir. Bu, hassas verilerin kötü niyetli kullanıcılar tarafından erişilmesini engeller."
+          },
+          {
+            "kavram": "Linux System Integrity (Linux Sistem Bütünlüğü)",
+            "aciklama": "Linux sistemlerinin, güvenlik açıklarına karşı korunmasını ve sistemin orijinal durumunun korunmasını sağlamak için yapılan işlemdir. Bu, dosya bütünlüğü denetimleri ve değişiklik tespiti gibi önlemleri içerir."
+          },
+          {
+            "kavram": "Log File Forensics (Kayıt Dosyası Adli Analizi)",
+            "aciklama": "Kayıt dosyalarındaki verilerin, bir siber suç veya güvenlik ihlali olayını incelemek amacıyla analiz edilmesidir. Bu analiz, suçluları tespit etmek için önemlidir."
+          },
+          {
+            "kavram": "Logical Data Segmentation (Mantıksal Veri Bölümlendirme)",
+            "aciklama": "Verilerin mantıksal olarak farklı bölümlere ayrılması işlemidir. Bu, verilerin daha etkili yönetilmesini sağlar ve güvenlik için bölümlerin ayrı tutulmasına yardımcı olur."
+          },
+          {
+            "kavram": "Low-Latency Network Security (Düşük Gecikmeli Ağ Güvenliği)",
+            "aciklama": "Ağ üzerinden veri iletiminin hızını etkilemeden güvenlik önlemleri almayı amaçlayan bir güvenlik stratejisidir. Genellikle, gerçek zamanlı sistemler için önemlidir."
+          },
+          {
+            "kavram": "Linux Bootloader Security (Linux Önyükleyici Güvenliği)",
+            "aciklama": "Linux işletim sistemi başladığında, önyükleme işlemini yöneten yazılımın güvenliğidir. Bu, kötü niyetli yazılımların sistemin başlamasını engellemesini önlemek için önemlidir."
+          },
+          {
+            "kavram": "Log Archive Management (Kayıt Arşiv Yönetimi)",
+            "aciklama": "Kayıt dosyalarının uzun süreli depolanması, saklanması ve erişilmesi için yapılan yönetim faaliyetleridir. Bu, özellikle yasal ve düzenleyici gereklilikler için gereklidir."
+          },
+          {
+            "kavram": "Log File Obfuscation (Kayıt Dosyası Gizleme)",
+            "aciklama": "Kayıt dosyalarındaki verilerin, başkaları tarafından anlaşılmasını engellemek amacıyla karmaşıklaştırılması işlemidir. Bu, genellikle kötü niyetli kullanıcılar tarafından gizlenmiş olayları tespit etmek için kullanılır."
+          },
+          {
+            "kavram": "Lateral Phishing (Yatay Kimlik Avı)",
+            "aciklama": "Bir ağda çalışan kullanıcılara, aynı ağdaki diğer çalışanların kimlik bilgilerini çalmaya yönelik yapılan kimlik avı saldırısıdır. Bu saldırılar, genellikle çalışanlar arasındaki güvene dayanır."
+          },
+          {
+            "kavram": "Linux Kernel Patch Management (Linux Çekirdek Yama Yönetimi)",
+            "aciklama": "Linux çekirdeği için güvenlik açıklarını kapatan yama ve güncellemelerin yönetilmesidir. Çekirdek yamaları, sistemin güvenliğini sağlamak için kritik öneme sahiptir."
+          },
+          {
+            "kavram": "Log Injection Attack (Kayıt Enjeksiyon Saldırısı)",
+            "aciklama": "Bir saldırganın, sistem kayıt dosyalarına kötü niyetli veriler enjekte etmesiyle yapılan saldırıdır. Bu, güvenlik analizlerinin yanıltılmasına yol açabilir."
+          },
+          {
+            "kavram": "Local Session Security (Yerel Oturum Güvenliği)",
+            "aciklama": "Bir kullanıcının bilgisayarında açtığı oturumun güvenliğini sağlamak amacıyla alınan önlemlerdir. Bu, kullanıcı bilgilerini korur ve yetkisiz erişimleri engeller."
+          },
+          {
+            "kavram": "Low-Effort Exploit (Düşük Çaba Gerektiren Açık Kullanımı)",
+            "aciklama": "Çok az çaba harcayarak bir sistemdeki güvenlik açığından faydalanma işlemidir. Bu tür açıklar, genellikle düşük güvenlik önlemlerine sahip sistemlerde bulunur."
+          },
+          {
+            "kavram": "Linux Server Virtualization (Linux Sunucu Sanallaştırma)",
+            "aciklama": "Bir Linux sunucusunun sanallaştırma teknolojisi kullanılarak birden fazla sanal sunucuya bölünmesi işlemidir. Bu, sunucu kaynaklarının daha verimli bir şekilde kullanılmasını sağlar."
+          },
+          {
+            "kavram": "Link Layer Protocol Security (Bağlantı Katmanı Protokol Güvenliği)",
+            "aciklama": "Ağ bağlantılarındaki verilerin güvenliğini sağlayan protokollerin güvenliğini ifade eder. Bu, Ethernet, Wi-Fi gibi bağlantı katmanındaki iletişimde kullanılan protokolleri kapsar ve verilerin güvenli bir şekilde iletilmesini amaçlar."
+          },
+          {
+            "kavram": "Low-Security Device Risks (Düşük Güvenlikli Cihaz Riskleri)",
+            "aciklama": "Düşük güvenlik önlemleriyle tasarlanmış cihazların yol açabileceği güvenlik riskleridir. Bu cihazlar, genellikle zayıf parolalar, eski yazılımlar veya düşük şifreleme kullanarak siber saldırılara daha yatkındır."
+          },
+          {
+            "kavram": "Logical Security Layers (Mantıksal Güvenlik Katmanları)",
+            "aciklama": "Bir sistemdeki verilerin ve kaynakların korunması için uygulanan farklı güvenlik önlemlerinin katmanlarıdır. Fiziksel güvenlikten bağımsız olarak, ağ, yazılım ve veri güvenliği gibi mantıksal katmanlar bulunur."
+          },
+          {
+            "kavram": "Linux Host Intrusion Detection (Linux Ana Bilgisayar Saldırı Tespiti)",
+            "aciklama": "Linux sistemlerinde, kötü niyetli girişimler ve saldırılar tespit etmek için kullanılan sistemlerdir. Bu, sistemin normal işleyişine aykırı davranışları izler ve anomali tespiti yapar."
+          },
+          {
+            "kavram": "Low-Bandwidth Encryption (Düşük Bant Genişliği Şifrelemesi)",
+            "aciklama": "Veri iletimi sırasında düşük bant genişliği ile çalışan ağlarda, verilerin güvenliğini sağlamak için kullanılan şifreleme teknikleridir. Düşük bant genişliğine sahip ağlarda veri kaybı olmadan güvenlik sağlanması amaçlanır."
+          },
+          {
+            "kavram": "Local Certificate Authority (Yerel Sertifika Yetkilisi)",
+            "aciklama": "Bir ağ veya sistemde, dijital sertifikaların verilmesini ve doğruluğunu sağlayan yerel bir otoritedir. Bu yetkili, güvenli iletişim için sertifikalar sağlar."
+          },
+          {
+            "kavram": "Log File Encryption (Kayıt Dosyası Şifrelemesi)",
+            "aciklama": "Kayıt dosyalarındaki hassas verilerin şifrelenmesi işlemidir. Bu, kayıt dosyalarının yetkisiz erişimlere karşı korunmasını sağlar."
+          },
+          {
+            "kavram": "Linux Device Drivers Security (Linux Aygıt Sürücüleri Güvenliği)",
+            "aciklama": "Linux işletim sistemi üzerinde çalışan aygıt sürücülerinin güvenliğini sağlamak için alınan önlemleridir. Bu sürücüler, donanım ile yazılım arasındaki iletişimi yönetir ve güvenlik açıkları barındırabilir."
+          },
+          {
+            "kavram": "Live Debugging (Canlı Hata Ayıklama)",
+            "aciklama": "Bir sistem veya uygulama çalışırken, hataları tespit etmek ve düzeltmek amacıyla yapılan gerçek zamanlı hata ayıklama işlemidir. Bu, genellikle yazılım geliştirme ve test aşamalarında kullanılır."
+          },
+          {
+            "kavram": "Log File Validation (Kayıt Dosyası Doğrulama)",
+            "aciklama": "Kayıt dosyalarının doğruluğunu ve güvenliğini kontrol etme işlemidir. Bu, kayıt dosyalarının değişmediğinden ve doğru bilgiyi içerdiğinden emin olmak için yapılır."
+          },
+          {
+            "kavram": "Logical Address Mapping (Mantıksal Adres Haritalama)",
+            "aciklama": "Bir bilgisayar sisteminde, mantıksal adreslerin fiziksel adreslere dönüştürülmesi işlemidir. Bu, genellikle sanal bellek sistemlerinde kullanılır."
+          },
+          {
+            "kavram": "Linux Shared Memory Security (Linux Paylaşımlı Bellek Güvenliği)",
+            "aciklama": "Linux işletim sisteminde, birden fazla işlem tarafından paylaşılan bellek bölgelerinin güvenliğini sağlama işlemidir. Bu bellek alanları, işlemler arasında veri paylaşımını sağlar ancak güvenlik risklerine de yol açabilir."
+          },
+          {
+            "kavram": "Lateral Movement Detection (Yatay Hareket Tespiti)",
+            "aciklama": "Bir ağda, saldırganın sistemlerden birinden diğerine geçiş yaparak yayılmasını tespit etme işlemidir. Bu tür tespitler, genellikle siber saldırıları engellemek için kullanılır."
+          },
+          {
+            "kavram": "Linux Keyring Security (Linux Anahtar Zinciri Güvenliği)",
+            "aciklama": "Linux sistemlerinde, şifreler ve diğer hassas verilerin saklanması için kullanılan anahtar zincirinin güvenliğini sağlama işlemidir. Anahtar zincirleri, güvenlik açığı yaratabilecek şekilde ele geçirilebilir."
+          },
+          {
+            "kavram": "Low-Level Protocol Analysis (Düşük Seviyeli Protokol Analizi)",
+            "aciklama": "Ağ iletişimi sırasında kullanılan düşük seviyeli protokoller (örneğin, IP, Ethernet) üzerinde yapılan güvenlik ve performans analizleridir. Bu analizler, ağda meydana gelen güvenlik tehditlerini belirlemek için kullanılır."
+          },
+          {
+            "kavram": "LDAP Access Control (LDAP Erişim Kontrolü)",
+            "aciklama": "LDAP (Lightweight Directory Access Protocol), dizin servislerine erişim sağlamak için kullanılan protokoldür. Erişim kontrolü, bu protokolle yapılan sorguların güvenliğini sağlamak amacıyla yapılan düzenlemelerdir."
+          },
+          {
+            "kavram": "Log Collection Integrity (Kayıt Toplama Bütünlüğü)",
+            "aciklama": "Kayıt dosyalarının toplama ve depolama sırasında değişikliğe uğramadan doğruluğunun korunmasını sağlama işlemidir. Bu, güvenlik denetimleri ve adli analizler için önemlidir."
+          },
+          {
+            "kavram": "Low-Energy Bluetooth Security (Düşük Enerjili Bluetooth Güvenliği)",
+            "aciklama": "Düşük enerji tüketen Bluetooth teknolojisinin güvenliğini sağlamak için alınan önlemleridir. Bu, Bluetooth cihazları arasındaki veri iletiminin güvenliğini sağlar."
+          },
+          {
+            "kavram": "Linux Security Auditing (Linux Güvenlik Denetimi)",
+            "aciklama": "Linux sistemlerinin güvenliğini değerlendirmek için yapılan denetim ve incelemelerdir. Bu, sistemin zayıf noktalarını belirleyerek güvenliği artırmaya yardımcı olur."
+          },
+          {
+            "kavram": "Logical Address Translation (Mantıksal Adres Çevirisi)",
+            "aciklama": "Bir bilgisayar sisteminde, mantıksal adreslerin fiziksel adreslere dönüştürülmesidir. Bu işlem, sanal bellek yönetimi ve bellek koruması için gereklidir."
+          },
+          {
+            "kavram": "Linux Terminal Security (Linux Terminal Güvenliği)",
+            "aciklama": "Linux terminali üzerinden yapılan işlemlerin güvenliğini sağlamak amacıyla alınan önlemlerdir. Bu, komut satırında çalıştırılan komutların yetkisiz kişilerce kötüye kullanılmasını engeller."
+          },
+          {
+            "kavram": "Log Filtering Policies (Kayıt Filtreleme Politikaları)",
+            "aciklama": "Kayıt dosyalarının toplanırken veya analiz edilirken belirli kriterlere göre filtrelenmesini sağlayan güvenlik politikalarıdır. Bu, gereksiz verilerin çıkarılmasını ve önemli bilgilerin öne çıkmasını sağlar."
+          },
+          {
+            "kavram": "Low-Cost Security Measures (Düşük Maliyetli Güvenlik Önlemleri)",
+            "aciklama": "Yüksek maliyet gerektirmeyen, ancak etkili olan güvenlik önlemleridir. Bu tür önlemler, özellikle küçük işletmeler ve bütçesi kısıtlı olanlar için uygundur."
+          },
+          {
+            "kavram": "Linux Process Monitoring (Linux İşlem İzleme)",
+            "aciklama": "Linux işletim sistemi üzerinde çalışan süreçlerin izlenmesi ve yönetilmesi işlemidir. Bu, sistem performansını optimize etmek ve güvenliği sağlamak için yapılır."
+          },
+          {
+            "kavram": "Log Consolidation (Kayıt Birleştirme)",
+            "aciklama": "Birden fazla kaynaktan gelen kayıt dosyalarının birleştirilmesi işlemidir. Bu, log analizlerinin daha kolay yapılmasını sağlar ve merkezi bir sistem üzerinden izleme yapılmasına olanak tanır."
+          },
+          {
+            "kavram": "Link Aggregation Security (Bağlantı Toplama Güvenliği)",
+            "aciklama": "Birden fazla ağ bağlantısının birleştirilerek daha yüksek veri transferi sağlanması işleminde güvenliğin sağlanmasıdır. Bu, ağın performansını artırırken güvenlik risklerini minimize eder."
+          },
+          {
+            "kavram": "Linux System Call Security (Linux Sistem Çağrısı Güvenliği)",
+            "aciklama": "Linux sistem çağrılarının güvenliğini sağlamak için alınan önlemlerdir. Bu çağrılar, uygulama ile çekirdek arasındaki iletişimi yönetir ve doğru yapılandırılmadığında güvenlik açıklarına yol açabilir."
+          },
+          {
+            "kavram": "Logical Data Structures (Mantıksal Veri Yapıları)",
+            "aciklama": "Verilerin mantıksal olarak düzenlendiği yapılar, yazılım sistemlerinin verimli ve güvenli bir şekilde çalışabilmesi için kullanılır. Bu yapılar, verilerin nasıl saklanacağına ve işleneceğine dair kurallar belirler."
+          },
+          {
+            "kavram": "Live Threat Intelligence (Canlı Tehdit İstihbaratı)",
+            "aciklama": "Gerçek zamanlı olarak toplanan ve analiz edilen tehdit verileridir. Bu veriler, saldırılara karşı anında müdahale edilmesine olanak tanır."
+          },
+          {
+            "kavram": "Linux Sandbox Security (Linux Koruma Alanı Güvenliği)",
+            "aciklama": "Linux'ta, güvenliği artırmak için kullanılan koruma alanlarıdır. Bu alanlar, potansiyel olarak tehlikeli uygulamaların sistemden izole edilmesini sağlar."
+          },
+          {
+            "kavram": "Log File Redundancy (Kayıt Dosyası Yedekliliği)",
+            "aciklama": "Kayıt dosyalarının birden fazla kopyasının saklanması işlemidir. Bu, veri kaybını önlemek ve olası bir arıza durumunda dosyaların korunmasını sağlamak için önemlidir."
+          },
+          {
+            "kavram": "Low-Latency Firewall (Düşük Gecikmeli Güvenlik Duvarı)",
+            "aciklama": "Ağ trafiğinin hızını etkilemeden güvenlik önlemleri almayı amaçlayan güvenlik duvarlarıdır. Bu, özellikle zaman kritik uygulamalar için önemlidir."
+          },
+          {
+            "kavram": "Local Network Monitoring (Yerel Ağ İzleme)",
+            "aciklama": "Yerel ağlardaki trafik ve cihazlar üzerinde yapılan izleme işlemidir. Bu, ağın güvenliğini sağlamak ve potansiyel tehditleri tespit etmek için gereklidir."
+          },
+          {
+            "kavram": "Linux Cryptography Modules (Linux Kriptografi Modülleri)",
+            "aciklama": "Linux sistemlerinde kullanılan şifreleme modülleridir. Bu modüller, verilerin şifrelenmesini ve güvenli bir şekilde iletilmesini sağlar."
+          }
+
+
+    ]
+}

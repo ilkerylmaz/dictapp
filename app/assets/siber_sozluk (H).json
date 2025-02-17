@@ -1,0 +1,559 @@
+{
+    "siberGuvenlikKavramlari": [
+        {
+            "kavram": "Hacktivism (Hacktivizm)",
+            "aciklama": "Aktivizm amacıyla yapılan siber saldırılardır. Bu tür saldırılar, politik veya toplumsal mesajlar vermek için gerçekleştirilir."
+          },
+          {
+            "kavram": "Hacker (Hacker)",
+            "aciklama": "Bilgisayar sistemlerine yetkisiz erişim sağlayan, güvenlik açıklarını keşfeden veya kullanan kişidir."
+          },
+          {
+            "kavram": "Hacking (Hackleme)",
+            "aciklama": "Bilgisayar sistemlerine, ağlara veya veritabanlarına izinsiz erişim sağlamak amacıyla yapılan faaliyetlerdir."
+          },
+          {
+            "kavram": "Hardening (Zorlaştırma)",
+            "aciklama": "Bir bilgisayar sisteminin, ağın veya cihazın güvenliğini artırmak için yapılan işlemler, zayıf noktaları güçlendirme çabalarıdır."
+          },
+          {
+            "kavram": "Hash Function (Karma Fonksiyonu)",
+            "aciklama": "Girdi verisini sabit uzunlukta ve genellikle sabit boyutlu bir çıktıya dönüştüren matematiksel bir fonksiyondur. Veri bütünlüğü ve güvenliği için kullanılır."
+          },
+          {
+            "kavram": "Hashing (Hashleme)",
+            "aciklama": "Veriyi sabit boyutlu, benzersiz bir değere dönüştürme işlemidir. Genellikle şifreleme ve veri bütünlüğü için kullanılır."
+          },
+          {
+            "kavram": "Heuristic Analysis (Heuristik Analiz)",
+            "aciklama": "Yazılımın davranışını ve potansiyel tehditlerini tanımlamak için deneyim ve kurallara dayalı bir analiz yöntemidir. Zararlı yazılımları tanımada kullanılır."
+          },
+          {
+            "kavram": "HIDS (Host Intrusion Detection System) (Ana Makine Saldırı Tespit Sistemi)",
+            "aciklama": "Bilgisayar veya sunucularda, olası saldırıları tespit etmek için kullanılan yazılım veya sistemlerdir."
+          },
+          {
+            "kavram": "HIPS (Host Intrusion Prevention System) (Ana Makine Saldırı Önleme Sistemi)",
+            "aciklama": "Sistemlerdeki olası saldırıları tespit etmek ve engellemek için kullanılan yazılım veya güvenlik sistemleridir."
+          },
+          {
+            "kavram": "Hacker Group (Hacker Grubu)",
+            "aciklama": "Aynı hedefler doğrultusunda siber saldırılar düzenleyen veya bilgi toplama faaliyetleri yürüten hacker topluluklarıdır."
+          },
+          {
+            "kavram": "Hacking Tools (Hackleme Araçları)",
+            "aciklama": "Sistemlere izinsiz erişim sağlamak için kullanılan yazılımlar veya araçlardır."
+          },
+          {
+            "kavram": "Hash Collision (Hash Çakışması)",
+            "aciklama": "İki farklı veri kümesinin aynı hash değerini üretmesi durumudur. Bu, hash fonksiyonlarının zayıf noktalarından biridir."
+          },
+          {
+            "kavram": "Hacktivist Attack (Hacktivist Saldırısı)",
+            "aciklama": "Hacktivizm amacıyla yapılan saldırılardır. Genellikle bir protesto veya toplumsal mesaj vermek için gerçekleştirilir."
+          },
+          {
+            "kavram": "Heartbleed (Heartbleed Açığı)",
+            "aciklama": "OpenSSL kütüphanesindeki bir güvenlik açığıdır ve kullanıcıların şifrelerini, oturum anahtarlarını veya diğer hassas verilerini tehlikeye atabilir."
+          },
+          {
+            "kavram": "Honey Pot (Bal Kovanı)",
+            "aciklama": "Saldırganları tuzağa düşürmek ve saldırı yöntemlerini gözlemlemek amacıyla kurulan, güvenli bir şekilde izlenen bir sistemdir."
+          },
+          {
+            "kavram": "Honey Net (Bal Ağı)",
+            "aciklama": "Birden fazla bal kovanının birleşimiyle oluşturulan, siber saldırganları tuzağa düşürmek ve saldırı yöntemlerini izlemek amacıyla kullanılan ağ yapısıdır."
+          },
+          {
+            "kavram": "Hybrid Encryption (Hibrit Şifreleme)",
+            "aciklama": "Hem simetrik hem de asimetrik şifreleme yöntemlerini bir arada kullanan bir şifreleme yöntemidir."
+          },
+          {
+            "kavram": "Hypervisor (Hypervisor)",
+            "aciklama": "Sanal makineleri yöneten ve izleyen bir yazılım veya donanım sistemidir. Sanallaştırma ortamlarında kullanılır."
+          },
+          {
+            "kavram": "Host (Ana Makine)",
+            "aciklama": "Ağdaki diğer cihazlarla bağlantı kuran ve verileri işleyen bilgisayar veya sunucudur."
+          },
+          {
+            "kavram": "Host-based Firewall (Ana Makine Tabanlı Güvenlik Duvarı)",
+            "aciklama": "Bir bilgisayar veya sunucu üzerinde çalışan ve gelen/giden trafiği kontrol eden güvenlik duvarıdır."
+          },
+          {
+            "kavram": "Hardened Operating System (Sertleştirilmiş İşletim Sistemi)",
+            "aciklama": "Güvenlik açıklarını azaltmak ve saldırılara karşı daha dirençli hale getirmek için yapılan sistem yapılandırmalarına sahip işletim sistemidir."
+          },
+          {
+            "kavram": "Honeypot Attack (Bal Kovanı Saldırısı)",
+            "aciklama": "Bal kovanına yapılan saldırıdır. Bu saldırılar, saldırganın kötü niyetli faaliyetlerini izlemek için bilerek tuzağa düşürülen sistemlere yapılır."
+          },
+          {
+            "kavram": "Hash Algorithm (Hash Algoritması)",
+            "aciklama": "Veriyi sabit uzunlukta bir değere dönüştüren matematiksel algoritmadır. Veritabanı güvenliği ve dijital imzalar için kullanılır."
+          },
+          {
+            "kavram": "Hexadecimal (Onaltılık)",
+            "aciklama": "16 tabanlı sayma sistemidir. Dijital verilerin okunabilir hale getirilmesinde kullanılır."
+          },
+          {
+            "kavram": "Hypertext Transfer Protocol (HTTP) (Hiper Metin Transfer Protokolü)",
+            "aciklama": "Web üzerinde veri iletimi için kullanılan bir protokoldür."
+          },
+          {
+            "kavram": "HTTP Security (HTTP Güvenliği)",
+            "aciklama": "Web üzerinden yapılan veri iletiminin güvenliğini sağlamak amacıyla alınan önlemler ve protokollerdir."
+          },
+          {
+            "kavram": "Hyperlink Spoofing (Hyperlink Sahteciliği)",
+            "aciklama": "Kullanıcıları yanlış bir adrese yönlendirmek amacıyla sahte bağlantılar oluşturmaktır."
+          },
+          {
+            "kavram": "HTTP Flood (HTTP Sel Saldırısı)",
+            "aciklama": "Hedef web sitesini aşırı trafikle doldurarak hizmet kesintisi oluşturmak amacıyla yapılan DDoS saldırısıdır."
+          },
+          {
+            "kavram": "Hash Cracking (Hash Kırma)",
+            "aciklama": "Şifrelenmiş bir hash değerini çözerek orijinal veriye ulaşmak amacıyla yapılan bir saldırıdır."
+          },
+          {
+            "kavram": "Hypertext Markup Language (HTML) (Hiper Metin İşaretleme Dili)",
+            "aciklama": "Web sayfalarını oluşturmak için kullanılan işaretleme dilidir."
+          },
+          {
+            "kavram": "Hacking Attempt (Hackleme Girişimi)",
+            "aciklama": "Bilgisayar sistemlerine izinsiz erişim sağlama amacıyla yapılan ilk denemedir."
+          },
+          {
+            "kavram": "Hacker Identity (Hacker Kimliği)",
+            "aciklama": "Bir hacker'ın sanal dünyada tanımlayıcı özellikleri, takma adı veya kimliği."
+          },
+          {
+            "kavram": "Hashing Algorithm (Hashing Algoritması)",
+            "aciklama": "Veriyi sabit boyutlu bir hash değerine dönüştürmek için kullanılan matematiksel bir algoritmadır."
+          },
+          {
+            "kavram": "Hacker Ethics (Hacker Etikleri)",
+            "aciklama": "Hackleme faaliyetlerinin ahlaki çerçevesidir. Bazı hackerlar, toplumsal yarar için hackleme yaparken, diğerleri sadece kişisel çıkarlar peşindedir."
+          },
+          {
+            "kavram": "Hacker Communities (Hacker Toplulukları)",
+            "aciklama": "Hacker'ların bir araya geldiği, deneyimlerini paylaştığı ve bilgi alışverişinde bulunduğu çevrimiçi gruplardır."
+          },
+          {
+            "kavram": "Hacker Toolkits (Hacker Araç Setleri)",
+            "aciklama": "Hacker'ların izinsiz erişim sağlamak ve siber saldırı gerçekleştirmek için kullandıkları araçlar ve yazılımlar."
+          },
+          {
+            "kavram": "Hard Drive Encryption (Sabit Disk Şifrelemesi)",
+            "aciklama": "Verilerin, sabit disk üzerinde okunamaz hale gelmesini sağlamak için yapılan şifreleme işlemi."
+          },
+          {
+            "kavram": "Hybrid Cloud Security (Hibrit Bulut Güvenliği)",
+            "aciklama": "Hem özel hem de genel bulut sistemlerinin bir arada kullanıldığı ortamlarda, güvenlik önlemlerinin birleşimidir."
+          },
+          {
+            "kavram": "Harmful Software (Zararlı Yazılım)",
+            "aciklama": "Bilgisayar sistemlerine zarar veren, verileri çalan veya zarar veren yazılımlardır."
+          },
+          {
+            "kavram": "Heap Overflow (Yığın Taşması)",
+            "aciklama": "Yığın bellek bölgesine aşırı veri yazılmasından kaynaklanan bir güvenlik açığıdır."
+          },
+          {
+            "kavram": "Hijacking (Kaçırma)",
+            "aciklama": "Bir kullanıcının oturumunu veya bir cihazı ele geçirerek izinsiz erişim sağlama eylemidir."
+          },
+          {
+            "kavram": "Hash Table (Hash Tablosu)",
+            "aciklama": "Verilerin hızlı bir şekilde erişilebilmesi için kullanılan veri yapısıdır. Hashing işlemleri için kullanılır."
+          },
+          {
+            "kavram": "Hackerspace (Hacker Alanı)",
+            "aciklama": "Hackerların bir araya gelip, bilgi ve projeler üzerinde çalıştığı fiziksel alanlardır."
+          },
+          {
+            "kavram": "HMAC (Hash-based Message Authentication Code) (Hash Tabanlı Mesaj Kimlik Doğrulama Kodu)",
+            "aciklama": "Verinin bütünlüğünü ve doğruluğunu doğrulamak için kullanılan bir güvenlik algoritmasıdır."
+          },
+          {
+            "kavram": "Hiding Data (Veri Gizleme)",
+            "aciklama": "Verilerin izinsiz kişilerden saklanması için kullanılan tekniklerdir."
+          },
+          {
+            "kavram": "Hacking Techniques (Hackleme Teknikleri)",
+            "aciklama": "Hackleme amacıyla kullanılan çeşitli yöntem ve tekniklerdir."
+          },
+          {
+            "kavram": "Hypertext Preprocessor (PHP) (Hiper Metin Ön İşlemcisi)",
+            "aciklama": "Web uygulamaları geliştirmek için kullanılan sunucu tarafı bir programlama dilidir."
+          },
+          {
+            "kavram": "Host Machine (Ana Makine)",
+            "aciklama": "Sanallaştırma veya container teknolojilerinde, sanal makinelerin veya konteynerlerin çalıştığı fiziksel bilgisayar."
+          },
+          {
+            "kavram": "Hacker News (Hacker Haberleri)",
+            "aciklama": "Teknoloji ve hackleme dünyasından haberler, tartışmalar ve kaynakların paylaşıldığı çevrimiçi bir platformdur."
+          },
+          {
+            "kavram": "Hacker Culture (Hacker Kültürü)",
+            "aciklama": "Hackleme topluluğunun değerleri, normları ve inançları. Bu kültür, genellikle bilgi paylaşımı, özgür yazılım geliştirme ve etik hackleme ile ilişkilidir."
+          },
+          {
+            "kavram": "Hacker Tools Database (Hacker Araçları Veritabanı)",
+            "aciklama": "Hackleme amaçlı kullanılan yazılımlar ve araçların depolandığı bir veritabanı."
+          },
+          {
+            "kavram": "High-Risk Vulnerabilities (Yüksek Riskli Zafiyetler)",
+            "aciklama": "Sistem veya yazılımda, potansiyel olarak büyük zararlara yol açabilecek güvenlik açıkları."
+          },
+          {
+            "kavram": "Hash Function Collision (Hash Fonksiyonu Çakışması)",
+            "aciklama": "İki farklı veri setinin aynı hash değerine sahip olması durumu. Bu durum, güvenlik açıklarına neden olabilir."
+          },
+          {
+            "kavram": "Host Intrusion Detection (Ana Makine Saldırı Tespiti)",
+            "aciklama": "Bir sistemin üzerinde izinsiz giriş veya saldırı olup olmadığını tespit eden bir güvenlik önlemi."
+          },
+          {
+            "kavram": "Hacking Forum (Hackleme Forumu)",
+            "aciklama": "Hackleme ile ilgili tartışmaların yapıldığı, araçların paylaşıldığı ve bilgilerin aktarıldığı çevrimiçi platform."
+          },
+          {
+            "kavram": "Hacking Websites (Hackleme Web Siteleri)",
+            "aciklama": "Hackleme araçları ve tekniklerinin paylaşıldığı internet siteleri."
+          },
+          {
+            "kavram": "Hardware Security (Donanım Güvenliği)",
+            "aciklama": "Donanım tabanlı güvenlik önlemleri ve yöntemleri. Bu, genellikle veri koruma ve donanım hırsızlıklarını engelleme ile ilgilidir."
+          },
+          {
+            "kavram": "Host Address (Ana Makine Adresi)",
+            "aciklama": "Bir bilgisayarın veya cihazın ağdaki kimliği. Bu genellikle IP adresi ile ifade edilir."
+          },
+          {
+            "kavram": "Host-Based IDS/IPS (Ana Makine Tabanlı IDS/IPS)",
+            "aciklama": "Ana makinelerde çalışan, saldırıları tespit eden (IDS) veya engelleyen (IPS) güvenlik sistemleri."
+          },
+          {
+            "kavram": "HID (Human Interface Device) (İnsan Arayüzü Cihazı)",
+            "aciklama": "Kullanıcı ile bilgisayar arasında etkileşim sağlayan cihazlar, örneğin klavye, fare, ekran gibi."
+          },
+          {
+            "kavram": "Hacktivist Groups (Hacktivist Grupları)",
+            "aciklama": "Politik veya sosyal hedeflere ulaşmak amacıyla hackleme faaliyetleri gerçekleştiren gruplar."
+          },
+          {
+            "kavram": "Hijack Attack (Kaçırma Saldırısı)",
+            "aciklama": "Bir sistem, ağ veya oturumun ele geçirilmesiyle yapılan saldırı türü."
+          },
+          {
+            "kavram": "Hex Editor (Onaltılık Düzenleyici)",
+            "aciklama": "Bilgisayar dosyalarını onaltılık biçimde düzenlemeye yarayan bir yazılım."
+          },
+          {
+            "kavram": "Hacker Prevention Techniques (Hacker Önleme Teknikleri)",
+            "aciklama": "Hacker'ların sisteme izinsiz erişimini engellemeye yönelik çeşitli güvenlik önlemleri."
+          },
+          {
+            "kavram": "Hash Key (Hash Anahtarı)",
+            "aciklama": "Hash fonksiyonu kullanılarak üretilen anahtar, genellikle şifreleme işlemleri için kullanılır."
+          },
+          {
+            "kavram": "Hacker Identification (Hacker Kimliklendirmesi)",
+            "aciklama": "Bir hacker'ı tespit etme veya kimliğini belirleme süreci."
+          },
+          {
+            "kavram": "High-Level Network Security (Yüksek Seviyeli Ağ Güvenliği)",
+            "aciklama": "Ağ sistemlerinin üst düzey güvenlik önlemleriyle korunması."
+          },
+          {
+            "kavram": "Hidden Services (Gizli Servisler)",
+            "aciklama": "Yalnızca belirli bir ağda erişilebilen, anonim hizmetler sağlayan sistemler."
+          },
+          {
+            "kavram": "Hypervisor-Based Security (Hypervisor Tabanlı Güvenlik)",
+            "aciklama": "Sanallaştırma ortamlarındaki güvenlik önlemleri, genellikle sanal makineleri izleme ve kontrol etme amacıyla kullanılır."
+          },
+          {
+            "kavram": "Hybrid Network Security (Hibrit Ağ Güvenliği)",
+            "aciklama": "Farklı ağ güvenliği önlemlerinin birleşiminden oluşan güvenlik stratejisi."
+          },
+          {
+            "kavram": "Honeypot Deployment (Bal Kovanı Dağıtımı)",
+            "aciklama": "Saldırganları çekmek ve analiz etmek amacıyla ağda yerleştirilen sahte hedefler."
+          },
+          {
+            "kavram": "Honeynet Architecture (Honeynet Mimarisi)",
+            "aciklama": "Birden fazla bal kovanının bulunduğu ve saldırganların analiz edildiği geniş bir yapıdır."
+          },
+          {
+            "kavram": "Hacker Collaboration (Hacker İşbirliği)",
+            "aciklama": "Hacker'ların bir araya gelerek bilgi ve araçları paylaşarak ortak hedeflere ulaşmak için işbirliği yapması."
+          },
+          {
+            "kavram": "Hacking Attacks Prevention (Hackleme Saldırıları Önleme)",
+            "aciklama": "Hackleme saldırılarının önlenmesine yönelik güvenlik önlemleri."
+          },
+          {
+            "kavram": "Hardware Firewall (Donanım Güvenlik Duvarı)",
+            "aciklama": "Bir ağı korumak için donanım tabanlı güvenlik duvarı cihazları."
+          },
+          {
+            "kavram": "Hacking Incident Reporting (Hackleme Olayı Bildirimi)",
+            "aciklama": "Hackleme olaylarının resmi olarak rapor edilmesi."
+          },
+          {
+            "kavram": "HTTP Request Validation (HTTP İstek Doğrulaması)",
+            "aciklama": "HTTP isteklerinin güvenliğini sağlamak amacıyla yapılan doğrulama işlemi."
+          },
+          {
+            "kavram": "Host File Hijacking (Ana Makine Dosyası Kaçırma)",
+            "aciklama": "Bir sistemin host dosyasının ele geçirilmesi ve kötü amaçla kullanılması."
+          },
+          {
+            "kavram": "Hexadecimal Notation (Onaltılık Gösterim)",
+            "aciklama": "Verilerin onaltılık (16'lık) sistemle gösterilmesi."
+          },
+          {
+            "kavram": "Hijacking Vulnerabilities (Kaçırma Zafiyetleri)",
+            "aciklama": "Sistemlerin, oturumların veya ağların ele geçirilmesine yol açan zayıf noktalar."
+          },
+          {
+            "kavram": "HID (Host Identity) (Ana Makine Kimliği)",
+            "aciklama": "Bir cihazın, ağdaki kimliği."
+          },
+          {
+            "kavram": "High-Speed Data Encryption (Yüksek Hızda Veri Şifrelemesi)",
+            "aciklama": "Verilerin hızlı bir şekilde şifrelenmesi süreci."
+          },
+          {
+            "kavram": "High-Risk Software (Yüksek Riskli Yazılım)",
+            "aciklama": "Güvenlik açıklarına sahip olan ve ciddi riskler barındıran yazılımlar."
+          },
+          {
+            "kavram": "Hacker Disguises (Hacker Maskeleri)",
+            "aciklama": "Hacker'ların kimliklerini gizlemek amacıyla kullandıkları teknikler."
+          },
+          {
+            "kavram": "Hardware Tampering (Donanımla Müdahale)",
+            "aciklama": "Donanım bileşenlerinin izinsiz olarak değiştirilmesi veya manipüle edilmesi."
+          },
+          {
+            "kavram": "Hacking for Financial Gain (Mali Kazanç İçin Hackleme)",
+            "aciklama": "Para kazanmak amacıyla gerçekleştirilen hackleme faaliyetleri."
+          },
+          {
+            "kavram": "Hidden Backdoor (Gizli Arka Kapı)",
+            "aciklama": "Sisteme izinsiz giriş sağlamak amacıyla gizli şekilde eklenmiş bir güvenlik açığı."
+          },
+          {
+            "kavram": "Hash-Based Signatures (Hash Tabanlı İmzalar)",
+            "aciklama": "Verilerin bütünlüğünü doğrulamak için kullanılan hash tabanlı imzalar."
+          },
+          {
+            "kavram": "Hashing Techniques (Hashleme Teknikleri)",
+            "aciklama": "Veri gizliliği ve bütünlüğü sağlamak amacıyla kullanılan hashleme yöntemleri."
+          },
+          {
+            "kavram": "Hacker Access (Hacker Erişimi)",
+            "aciklama": "Hacker'ın sisteme, ağlara veya verilere erişim yetkisi."
+          },
+          {
+            "kavram": "Host Server Security (Ana Makine Sunucu Güvenliği)",
+            "aciklama": "Sunucuların dış tehditlere karşı korunması."
+          },
+          {
+            "kavram": "Hacking Motivation (Hackleme Motivasyonu)",
+            "aciklama": "Hacker'ların hackleme faaliyetlerini gerçekleştirme sebepleri."
+          },
+          {
+            "kavram": "Hash Validation (Hash Doğrulaması)",
+            "aciklama": "Hash değerinin doğruluğunu kontrol etme işlemi."
+          },
+          {
+            "kavram": "Host Protection (Ana Makine Koruması)",
+            "aciklama": "Bir ana makinenin çeşitli tehditlere karşı korunması."
+          },
+          {
+            "kavram": "Hardware Token (Donanım Tokene)",
+            "aciklama": "Güvenlik sağlamak amacıyla kullanılan fiziksel cihazlar."
+          },
+          {
+            "kavram": "Hacker Exploits (Hacker Sömürüleri)",
+            "aciklama": "Hacker'ların sistemdeki açıkları kullanarak elde ettiği faydalar."
+          },
+          {
+            "kavram": "High Availability Clustering (Yüksek Kullanılabilirlik Kümeleme)",
+            "aciklama": "Sistemlerin sürekli erişilebilirliğini sağlamak için kullanılan bir yapı."
+          },
+          {
+            "kavram": "Hacked Websites (Hacklenmiş Web Siteleri)",
+            "aciklama": "Hacker'lar tarafından ele geçirilen ve genellikle zararlı yazılımlar barındıran internet siteleri."
+          },
+          {
+            "kavram": "HTTP-based Attack (HTTP Tabanlı Saldırı)",
+            "aciklama": "HTTP protokolünü kullanarak yapılan saldırılar."
+          },
+          {
+            "kavram": "Hacker Trap (Hacker Tuzağı)",
+            "aciklama": "Hacker'ları tuzağa düşürmek amacıyla kurulan sahte ortamlar."
+          },
+          {
+            "kavram": "Hijacking URL (URL Kaçırma)",
+            "aciklama": "Web sitelerinin URL'lerinin ele geçirilmesi ve kötüye kullanılması."
+          },
+          {
+            "kavram": "Hexadecimal Code (Onaltılık Kod)",
+            "aciklama": "Verilerin onaltılık sistemle kodlanması."
+          },
+          {
+            "kavram": "Hash Inversion (Hash Tersine Çevirme)",
+            "aciklama": "Hash fonksiyonunun tersine çalıştırılması."
+          },
+          {
+            "kavram": "Hyper-V Security (Hyper-V Güvenliği)",
+            "aciklama": "Microsoft'un sanallaştırma platformu olan Hyper-V'nin güvenliğini sağlamak."
+          },
+          {
+            "kavram": "Hacking Countermeasures (Hackleme Karşı Önlemleri)",
+            "aciklama": "Hackleme saldırılarına karşı alınan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Hashing Algorithm Strength (Hash Algoritması Gücü)",
+            "aciklama": "Bir hash algoritmasının güvenlik seviyesi."
+          },
+          {
+            "kavram": "HTTP Security Headers (HTTP Güvenlik Başlıkları)",
+            "aciklama": "HTTP protokolünde güvenlik sağlamak amacıyla kullanılan başlıklar."
+          },
+          {
+            "kavram": "Hash Function Complexity (Hash Fonksiyonu Karmaşıklığı)",
+            "aciklama": "Hash fonksiyonunun hesaplanmasının zorluğu ve güvenlik düzeyi."
+          },
+          {
+            "kavram": "Denial of Service (DoS)",
+            "aciklama": "Bir hedefe hizmeti kesintiye uğratmak amacıyla yapılan saldırıdır. Hedefin sunucusu aşırı yüklenir, bu da sunucunun çökmesine yol açar."
+          },
+          {
+            "kavram": "Hacking Tools Repository (Hackleme Araçları Deposu)",
+            "aciklama": "Hackleme faaliyetleri için kullanılan yazılım ve araçların saklandığı depolama alanıdır."
+          },
+          {
+            "kavram": "Hacker Digital Footprint (Hacker Dijital İz)",
+            "aciklama": "Bir hacker’ın internet üzerindeki etkinliklerinden geriye kalan izler. Bu izler, hacker’ın kimliğini veya faaliyetlerini ortaya çıkarabilir."
+          },
+          {
+            "kavram": "Hardware Break-In (Donanım Hırsızlığı)",
+            "aciklama": "Fiziksel cihazlara yetkisiz erişim sağlamak, bu cihazları ele geçirmek veya zarar vermek."
+          },
+          {
+            "kavram": "Hard Drive Wiping (Sabit Disk Silme)",
+            "aciklama": "Sabit diskteki verilerin geri getirilemeyecek şekilde silinmesi işlemidir. Bu, kişisel verilerin korunmasını sağlamak için yapılır."
+          },
+          {
+            "kavram": "High-End Malware (Yüksek Seviye Kötü Amaçlı Yazılım)",
+            "aciklama": "Çok sofistike ve güçlü zararlı yazılımlar. Genellikle belirli hedeflere yönelik olarak tasarlanmışlardır."
+          },
+          {
+            "kavram": "Hacker Mode (Hacker Modu)",
+            "aciklama": "Hacker’ın sisteme sızmak, verileri çalmak veya zarar vermek amacıyla kullandığı özel çalışma modu."
+          },
+          {
+            "kavram": "High-Speed Malware Detection (Yüksek Hızda Kötü Amaçlı Yazılım Tespiti)",
+            "aciklama": "Kötü amaçlı yazılımları hızla tespit etme yöntemidir. Genellikle ağ trafiğinde anormal değişiklikler izlenerek yapılır."
+          },
+          {
+            "kavram": "Host Misconfiguration (Ana Makine Yanlış Yapılandırması)",
+            "aciklama": "Ana bilgisayar (host) üzerinde güvenlik hatalarına veya zayıflıklara yol açabilecek yanlış yapılandırmalar."
+          },
+          {
+            "kavram": "Hybrid Threats (Hibrit Tehditler)",
+            "aciklama": "Hem fiziksel hem de siber tehditlerin birleşiminden oluşan tehditlerdir. Örneğin, hem fiziksel erişim hem de siber saldırı kullanmak."
+          },
+          {
+            "kavram": "Hacktivism in Social Media (Sosyal Medyada Hacktivizm)",
+            "aciklama": "Hacktivizm, yani politik veya sosyal amaçlar için yapılan hackleme eylemleri, sosyal medya platformlarında yaygınlaşmıştır."
+          },
+          {
+            "kavram": "Hash-Based Authentication (Hash Tabanlı Kimlik Doğrulama)",
+            "aciklama": "Verilerin doğruluğunu sağlamak için hash fonksiyonları kullanılan kimlik doğrulama yöntemidir."
+          },
+          {
+            "kavram": "Hypertext Security (Hiper Metin Güvenliği)",
+            "aciklama": "Web sayfalarında kullanılan hiper metin bağlantılarının güvenliğini sağlamak için kullanılan teknikler."
+          },
+          {
+            "kavram": "Host Management System (Ana Makine Yönetim Sistemi)",
+            "aciklama": "Bir ağdaki ana makinelerin (sunucular) yönetilmesini sağlayan yazılım veya sistem."
+          },
+          {
+            "kavram": "Hacker Remediation (Hacker Düzeltme)",
+            "aciklama": "Hacker tarafından yapılan saldırıların etkilerini düzeltme işlemi."
+          },
+          {
+            "kavram": "Hardware-Backed Encryption (Donanım Destekli Şifreleme)",
+            "aciklama": "Verilerin şifrelenmesi için donanım tabanlı şifreleme sistemlerinin kullanılması."
+          },
+          {
+            "kavram": "Hacked Data Recovery (Hacklenmiş Veri Kurtarma)",
+            "aciklama": "Hackerlar tarafından çalınan veya zarar gören verilerin kurtarılması işlemi."
+          },
+          {
+            "kavram": "Hacker Identity Masking (Hacker Kimlik Maskelenmesi)",
+            "aciklama": "Hacker’ın kimliğini gizlemek amacıyla kullanılan yöntemler. Bu, hacker’ın izlerinin gizlenmesini sağlar."
+          },
+          {
+            "kavram": "Hypertext Markup Language Injection (Hiper Metin İşaretleme Dili Enjeksiyonu)",
+            "aciklama": "Web sayfalarına zararlı kod eklemek için kullanılan bir saldırı türü."
+          },
+          {
+            "kavram": "Honeypot Attack Detection (Bal Kovanı Saldırısı Tespiti)",
+            "aciklama": "Bal kovanı (honeypot) sistemleri, saldırıları izlemek ve analiz etmek amacıyla kullanılan tuzak sistemleridir."
+          },
+          {
+            "kavram": "Hacking Activity Log (Hackleme Aktivite Kaydı)",
+            "aciklama": "Hacker’ın gerçekleştirdiği eylemlerin kaydedildiği log dosyalarıdır. Bu dosyalar, saldırıların izlenmesine yardımcı olur."
+          },
+          {
+            "kavram": "High-Performance Intrusion Detection (Yüksek Performanslı Saldırı Tespiti)",
+            "aciklama": "Ağ veya sistemdeki olası siber saldırıları tespit etmek için yüksek performanslı yazılım kullanma yöntemidir."
+          },
+          {
+            "kavram": "Hacker Tracking (Hacker Takibi)",
+            "aciklama": "Hacker’ın hareketlerini izleme ve tespit etme sürecidir."
+          },
+          {
+            "kavram": "Hacker Fingerprinting (Hacker Parmak İzi)",
+            "aciklama": "Hacker’ın kullandığı teknik, yazılım veya donanım özelliklerinden yola çıkarak kimlik tespiti yapma işlemidir."
+          },
+          {
+            "kavram": "Hacking Detection Algorithm (Hackleme Tespit Algoritması)",
+            "aciklama": "Bir sistemin hacklendiğini tespit etmek için kullanılan matematiksel algoritmalardır."
+          },
+          {
+            "kavram": "Hacker’s Toolkit (Hacker Araç Seti)",
+            "aciklama": "Hacker’ların sisteme sızmak ve çeşitli saldırılar gerçekleştirmek için kullandığı yazılım araçları."
+          },
+          {
+            "kavram": "Hardware Security Architecture (Donanım Güvenliği Mimarisi)",
+            "aciklama": "Donanım seviyesinde güvenlik sağlamak için tasarlanmış yapı ve sistemler."
+          },
+          {
+            "kavram": "Hacker Data Theft (Hacker Veri Hırsızlığı)",
+            "aciklama": "Hacker’ların kişisel veya kurumsal verileri çalmalarıdır."
+          },
+          {
+            "kavram": "HTTP Request Authentication (HTTP İstek Kimlik Doğrulaması)",
+            "aciklama": "HTTP isteklerinin güvenliğini sağlamak amacıyla yapılan kimlik doğrulama işlemi."
+          },
+          {
+            "kavram": "Host Protection Mechanism (Ana Makine Koruma Mekanizması)",
+            "aciklama": "Ana makineyi korumak için kullanılan güvenlik önlemleridir."
+          }
+
+
+          
+    ]
+}

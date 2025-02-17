@@ -1,0 +1,568 @@
+{
+    "siberGuvenlikKavramlari": [
+        {
+            "kavram": "Gain Access (Erişim Kazanma)",
+            "aciklama": "Bir sisteme, ağa veya kaynağa yetkisiz erişim sağlama süreci. Genellikle siber saldırılarda kullanılır."
+          },
+          {
+            "kavram": "Gateway Security (Ağ Geçidi Güvenliği)",
+            "aciklama": "Ağ geçitlerini korumak için kullanılan güvenlik önlemleri. Ağ geçidi, farklı ağlar arasındaki iletişimi kontrol eder ve kötü niyetli trafiği engeller."
+          },
+          {
+            "kavram": "Gibson’s Law (Gibson Yasası)",
+            "aciklama": "John Gibson tarafından öne sürülen ve bilgisayar güvenliğiyle ilgili bir yasa. Gibson Yasası, \"İyi güvenlik, sadece kötü güvenlik ile kıyaslanabilir\" anlamına gelir."
+          },
+          {
+            "kavram": "General Data Protection Regulation (GDPR) (Genel Veri Koruma Yönetmeliği)",
+            "aciklama": "Avrupa Birliği'nin kişisel verilerin işlenmesi ve korunmasıyla ilgili getirdiği düzenleme. Bireylerin verileri üzerinde daha fazla kontrol sahibi olmasını sağlar."
+          },
+          {
+            "kavram": "Geo-Fencing (Coğrafi Sınırlandırma)",
+            "aciklama": "Bir kullanıcı belirli bir coğrafi bölgeye girdiğinde veya çıktığında tetiklenen sanal bir sınır belirleme tekniği. Genellikle konum tabanlı hizmetlerde kullanılır."
+          },
+          {
+            "kavram": "Gibberish Generator (Anlamsız Metin Üreteci)",
+            "aciklama": "Anlamsız, rastgele veya anlam taşımayan metinler üreten yazılım aracı. Genellikle test veya güvenlik amaçlarıyla kullanılır."
+          },
+          {
+            "kavram": "Grey Hat Hacker (Gri Şapkalı Hacker)",
+            "aciklama": "Genellikle etik olmayan ancak zararlı olmayan şekilde bilgisayar sistemlerini hackleyen kişi. Kendi çıkarları için değil, genellikle sistemin zayıf noktalarını keşfetmek için hareket eder."
+          },
+          {
+            "kavram": "Greenfield Attack (Yeşil Alan Saldırısı)",
+            "aciklama": "Yeni bir sistem veya ağ üzerinde yapılan saldırılar. Bu tür saldırılarda sistemin güvenlik önlemleri henüz tam olarak yapılandırılmamış olabilir."
+          },
+          {
+            "kavram": "Group Policy (Grup Politikası)",
+            "aciklama": "Microsoft Windows işletim sistemlerinde, ağdaki kullanıcılar veya bilgisayarlar için yönetimsel ayarların merkezi olarak yapılandırılmasına olanak tanır."
+          },
+          {
+            "kavram": "Graph Theory (Graf Teorisi)",
+            "aciklama": "Matematiksel bir teori olup, nesneler arasındaki ilişkileri (graf yapıları) inceler. Ağ ve güvenlik analizlerinde sıkça kullanılır."
+          },
+          {
+            "kavram": "Granular Access Control (Granüler Erişim Kontrolü)",
+            "aciklama": "Kullanıcılara veya gruplara, sistemdeki belirli verilere ve kaynaklara detaylı bir erişim kontrolü sağlamayı amaçlayan güvenlik önlemi."
+          },
+          {
+            "kavram": "Grayware (Gri Yazılım)",
+            "aciklama": "Zararlı yazılım ile faydalı yazılım arasında bir yerde bulunan yazılımlar. Çoğu zaman istenmeyen etkilere yol açabilir ancak doğrudan zarar vermez."
+          },
+          {
+            "kavram": "Generalized Search Attack (Genelleştirilmiş Arama Saldırısı)",
+            "aciklama": "Saldırganların geniş bir arama alanında (örneğin şifrelerin yer aldığı listelerde) sistem açığı arayarak saldırı başlattığı yöntem."
+          },
+          {
+            "kavram": "Gatekeeper (Kapı Bekçisi)",
+            "aciklama": "Bir sisteme erişim sağlamak için kimlik doğrulama ve yetkilendirme yapan güvenlik aracı veya yazılım."
+          },
+          {
+            "kavram": "Global Positioning System (GPS) Spoofing (Küresel Konumlandırma Sistemi (GPS) Sahteciliği)",
+            "aciklama": "GPS sinyallerini manipüle ederek, cihazları yanlış bir konumda gösterme saldırısı."
+          },
+          {
+            "kavram": "Gramm-Leach-Bliley Act (GLBA) (Gramm-Leach-Bliley Yasası)",
+            "aciklama": "ABD'deki finansal kuruluşların, müşteri bilgilerini koruması için oluşturulmuş bir yasa. Müşteri verilerinin gizliliği ve güvenliği için düzenlemeler içerir."
+          },
+          {
+            "kavram": "Global Security Information Systems (Küresel Güvenlik Bilgi Sistemleri)",
+            "aciklama": "Dünya çapında güvenlik tehditlerini izlemek, analiz etmek ve raporlamak için kullanılan sistemler."
+          },
+          {
+            "kavram": "Giant Hammer Attack (Dev Çekiç Saldırısı)",
+            "aciklama": "Bilgisayar sistemlerine yönelik büyük ölçekli saldırılar. Genellikle çok sayıda istemci cihaz kullanarak yapılan DDoS saldırıları örneği olabilir."
+          },
+          {
+            "kavram": "Goodbye Bot (Hoşça Kal Bot)",
+            "aciklama": "Kötü amaçlı yazılım veya botların ağlarda ve sistemlerdeki izlerini silmesi amacıyla kullanılan yazılım."
+          },
+          {
+            "kavram": "Google Hacking (Google Hacking)",
+            "aciklama": "Google arama motorunu kullanarak, genellikle güvenlik açıklarını ve hassas verileri keşfetmeye yönelik yapılan aramalar."
+          },
+          {
+            "kavram": "Gray-box Testing (Gri Kutu Testi)",
+            "aciklama": "Yazılım testi türlerinden biri olup, hem iç hem de dış bilgileri kullanarak yapılan testler. Hem kullanıcı hem de geliştirici bakış açısıyla test yapılır."
+          },
+          {
+            "kavram": "Government Agency Network (Hükümet Ajansı Ağı)",
+            "aciklama": "Hükümet kurumlarına ait bilgisayar ağları. Bu ağlar genellikle yüksek güvenlik önlemleriyle korunur."
+          },
+          {
+            "kavram": "Group Authorization (Grup Yetkilendirmesi)",
+            "aciklama": "Kullanıcı gruplarına belirli sistem kaynaklarına veya verilere erişim izni verme süreci."
+          },
+          {
+            "kavram": "Guardrail Security (Koruma Demiri Güvenliği)",
+            "aciklama": "Bilgisayar ağlarında, güvenlik sınırlarını belirleyen ve aşırı yüklenmeyi engelleyen koruyucu önlemler."
+          },
+          {
+            "kavram": "Green Security (Yeşil Güvenlik)",
+            "aciklama": "Çevre dostu teknolojilerle güvenlik önlemleri almayı amaçlayan güvenlik yaklaşımı. Genellikle enerji verimliliği ile ilişkilidir."
+          },
+          {
+            "kavram": "Global Threat Analysis (Küresel Tehdit Analizi)",
+            "aciklama": "Dünya çapındaki güvenlik tehditlerinin analiz edilmesi ve raporlanması. Küresel güvenlik durumu hakkında bilgiler sağlar."
+          },
+          {
+            "kavram": "Gambit Attack (Gambit Saldırısı)",
+            "aciklama": "Bilgisayar güvenliği alanında kullanılan bir stratejik saldırı türü. Saldırgan, bir tür \"fedakarlık\" yaparak ardından rakibin hatalarını kullanarak saldırıya geçer."
+          },
+          {
+            "kavram": "Global Security Architecture (Küresel Güvenlik Mimarisi)",
+            "aciklama": "Dünya çapında güvenlik altyapılarının yapılandırılması. Bu, dünya genelindeki ağların ve sistemlerin güvenliğini sağlamak için kullanılan bir yaklaşımdır."
+          },
+          {
+            "kavram": "Generalized Encryption Algorithm (Genelleştirilmiş Şifreleme Algoritması)",
+            "aciklama": "Verileri şifrelemek için kullanılan ve çeşitli veri türlerine uygun hale getirilen bir şifreleme algoritması."
+          },
+          {
+            "kavram": "GSM Encryption (GSM Şifrelemesi)",
+            "aciklama": "GSM (Global System for Mobile Communications) ağlarında veri iletimi sırasında kullanılan şifreleme yöntemleri. Bu, mobil iletişimde güvenliği sağlar."
+          },
+          {
+            "kavram": "Greedy Algorithm Attack (Açgözlü Algoritma Saldırısı)",
+            "aciklama": "Optimum çözümü bulmaya yönelik saldırı yöntemi. Saldırgan her adımda en iyi görünen seçeneği seçerek sistemi zorlar."
+          },
+          {
+            "kavram": "Giant Puzzle Attacks (Dev Bulmaca Saldırıları)",
+            "aciklama": "Bilgisayar sistemlerine karşı, karmaşık problemlerin çözülmesiyle yapılan büyük ölçekli saldırılar."
+          },
+          {
+            "kavram": "Guarding the Network (Ağı Koruma)",
+            "aciklama": "Bir ağın güvenliğini sağlamak için yapılan çeşitli önlemler. Bu, ağdaki veri akışını izleme ve dışarıdan gelen tehditleri engellemeyi içerir."
+          },
+          {
+            "kavram": "Guard Process (Koruyucu İşlem)",
+            "aciklama": "Sistemdeki kötü niyetli aktiviteleri tespit etmeye yönelik çalışan bir süreç. Genellikle izinsiz erişimleri engeller."
+          },
+          {
+            "kavram": "Google Safe Browsing (Google Güvenli Tarama)",
+            "aciklama": "Google tarafından sunulan, kullanıcıları zararlı yazılım ve phishing (kimlik avı) saldırılarından koruyan bir güvenlik özelliği."
+          },
+          {
+            "kavram": "Grid Computing Security (Ağ Bilgisayar Güvenliği)",
+            "aciklama": "Dağıtık hesaplama ortamlarında verilerin güvenliğini sağlamak için kullanılan yöntemler. Bu tür sistemlerde birden fazla bilgisayar birlikte çalışır."
+          },
+          {
+            "kavram": "Global Access Policy (Küresel Erişim Politikası)",
+            "aciklama": "Çeşitli ağlardaki kullanıcıların belirli verilere veya sistemlere erişimini düzenleyen ve küresel ölçekte uygulanan bir güvenlik politikası."
+          },
+          {
+            "kavram": "Gate Attack (Kapı Saldırısı)",
+            "aciklama": "Bir güvenlik noktasını (genellikle giriş noktası) hedef alan saldırı. Bu tür saldırılar, zayıf giriş noktalarından faydalanarak yapılır."
+          },
+          {
+            "kavram": "Generic Rootkit (Genel Rootkit)",
+            "aciklama": "Sisteme gizlice yüklenmiş ve sistemin kontrolünü ele geçirebilen kötü amaçlı yazılım türü. Bu tür rootkitler, genellikle sistemdeki izleri siler."
+          },
+          {
+            "kavram": "Gray Hat Defense (Gri Şapkalı Savunma)",
+            "aciklama": "Gri şapkalı hacker'ların savunma amaçlı kullandığı yöntemler. Bu kişiler, zayıf noktaları bulup bunları savunma amacıyla kullanabilirler."
+          },
+          {
+            "kavram": "Good Security Practices (İyi Güvenlik Uygulamaları)",
+            "aciklama": "Bilgisayar sistemlerini ve verilerini korumak için izlenmesi gereken en iyi güvenlik uygulamaları."
+          },
+          {
+            "kavram": "Gaming Network Security (Oyun Ağı Güvenliği)",
+            "aciklama": "Online oyunların güvenliğini sağlamak için uygulanan yöntemler. Bu, oyuncu hesaplarını ve oyun sunucularını korumayı içerir."
+          },
+          {
+            "kavram": "Geofencing Security (Coğrafi Sınır Güvenliği)",
+            "aciklama": "Bir coğrafi bölgeyi sanal bir sınırla tanımlayarak bu bölgeye giren veya çıkan kullanıcıları tespit eden güvenlik önlemi."
+          },
+          {
+            "kavram": "Global Cybersecurity Standards (Küresel Siber Güvenlik Standartları)",
+            "aciklama": "Dünya çapında kabul gören, siber güvenliği sağlamayı amaçlayan ve tüm sektörlerde uygulanan güvenlik protokolleridir."
+          },
+          {
+            "kavram": "Grid Attack (Ağ Saldırısı)",
+            "aciklama": "Ağ yapısına yönelik yapılan, genellikle geniş bir bilgisayar ağına zarar vermek amacıyla gerçekleştirilen saldırılar."
+          },
+          {
+            "kavram": "Gartner Security Model (Gartner Güvenlik Modeli)",
+            "aciklama": "Gartner tarafından geliştirilen ve organizasyonların siber güvenlik stratejilerini oluşturmalarına yardımcı olan bir model."
+          },
+          {
+            "kavram": "Grayscale Malware (Gradyan Kötü Amaçlı Yazılım)",
+            "aciklama": "Zamanla evrimleşen ve farklı aşamalarda gelişen kötü amaçlı yazılımlar."
+          },
+          {
+            "kavram": "Geo-spatial Security (Coğrafi Güvenlik)",
+            "aciklama": "Coğrafi konum verilerini kullanarak yapılan güvenlik uygulamaları."
+          },
+          {
+            "kavram": "Ghost Malware (Hayalet Kötü Amaçlı Yazılım)",
+            "aciklama": "İz bırakmadan çalışan, kullanıcıların tespit edemediği kötü amaçlı yazılım."
+          },
+          {
+            "kavram": "GSI (Global Security Initiative) (Küresel Güvenlik İnisiyatifi)",
+            "aciklama": "Dünya çapında güvenlik protokollerini geliştirmeyi amaçlayan bir girişim."
+          },
+          {
+            "kavram": "Gamified Cybersecurity Training (Oyunlaştırılmış Siber Güvenlik Eğitimi)",
+            "aciklama": "Siber güvenlik eğitimlerinin oyunlaştırılması, eğlenceli ve etkileşimli hale getirilmesi."
+          },
+          {
+            "kavram": "Group-Based Intrusion Detection (Grup Tabanlı Saldırı Tespiti)",
+            "aciklama": "Saldırı tespitinin gruplar halinde yapıldığı, çeşitli cihazlardan gelen verilerin analiz edilmesiyle gerçekleştirilen bir yöntem."
+          },
+          {
+            "kavram": "Geolocation-Based Security (Konum Temelli Güvenlik)",
+            "aciklama": "Kullanıcıların coğrafi konum bilgilerini kullanarak güvenlik önlemleri alınması."
+          },
+          {
+            "kavram": "Grub Loader Security (Grub Yükleyici Güvenliği)",
+            "aciklama": "GRUB (Grand Unified Bootloader) yükleyicisinin güvenliğinin sağlanması, kötü amaçlı yazılımlardan korunması."
+          },
+          {
+            "kavram": "Goodbye Malware (Hoşça Kal Kötü Amaçlı Yazılım)",
+            "aciklama": "Kullanıcıların kötü amaçlı yazılımları temizlemek amacıyla kullanılan araç veya süreç."
+          },
+          {
+            "kavram": "Government-Level Encryption (Hükümet Düzeyinde Şifreleme)",
+            "aciklama": "Yüksek güvenlik seviyesine sahip, hükümetlerin kullandığı şifreleme teknikleri."
+          },
+          {
+            "kavram": "Generic Malware Detection (Genel Kötü Amaçlı Yazılım Tespiti)",
+            "aciklama": "Genel kötü amaçlı yazılımların tespiti için kullanılan yöntemler."
+          },
+          {
+            "kavram": "Global Trust Framework (Küresel Güven Çerçevesi)",
+            "aciklama": "Küresel çapta güven oluşturmayı hedefleyen standartlar ve protokoller."
+          },
+          {
+            "kavram": "Global Encryption Standards (Küresel Şifreleme Standartları)",
+            "aciklama": "Dünya çapında kabul gören ve kullanılan şifreleme protokolleri."
+          },
+          {
+            "kavram": "Guarded Information Security Systems (Korunan Bilgi Güvenliği Sistemleri)",
+            "aciklama": "Verilerin ve bilgilerin yüksek güvenlik önlemleriyle korunması."
+          },
+          {
+            "kavram": "Gravitational Attack (Gravite Saldırısı)",
+            "aciklama": "İnternet üzerinden yapılan, ağırlıklı olarak verileri çekmeye yönelik yapılan saldırılar."
+          },
+          {
+            "kavram": "Google Two-Factor Authentication (Google İki Faktörlü Kimlik Doğrulama)",
+            "aciklama": "Kullanıcıların hesaplarını korumak için Google tarafından sunulan iki faktörlü doğrulama yöntemi."
+          },
+          {
+            "kavram": "Grid Computing Attack (Ağ Bilgisayarı Saldırısı)",
+            "aciklama": "Dağıtık bilgisayar ağlarına yönelik yapılan saldırılar."
+          },
+          {
+            "kavram": "Graphical Password Systems (Grafiksel Şifre Sistemleri)",
+            "aciklama": "Şifrelerin grafiksel öğeler (örneğin, resimler veya desenler) kullanarak oluşturulması."
+          },
+          {
+            "kavram": "General Data Protection Principles (Genel Veri Koruma İlkeleri)",
+            "aciklama": "Kişisel verilerin korunmasına yönelik evrensel ilkeler."
+          },
+          {
+            "kavram": "Gigabit Network Security (Gigabit Ağ Güvenliği)",
+            "aciklama": "Yüksek hızlı ağlarda güvenliği sağlamak için kullanılan teknikler."
+          },
+          {
+            "kavram": "Geofencing Alert (Coğrafi Çit Uyarısı)",
+            "aciklama": "Belirli bir coğrafi alanın dışına çıkıldığında uyarı veren güvenlik özelliği."
+          },
+          {
+            "kavram": "Genuine Digital Certificate (Gerçek Dijital Sertifika)",
+            "aciklama": "Dijital sertifikaların geçerliliğini ve doğruluğunu sağlayan, güvenilir bir otorite tarafından verilen sertifikalar."
+          },
+          {
+            "kavram": "Generic Web Application Firewall (Genel Web Uygulama Güvenlik Duvarı)",
+            "aciklama": "Genel web uygulamalarını korumak için kullanılan güvenlik duvarları."
+          },
+          {
+            "kavram": "Guided Intrusion Detection Systems (Yönlendirilmiş Saldırı Tespit Sistemleri)",
+            "aciklama": "Saldırı tespit sistemlerinin daha verimli hale getirilmesi için yönlendirme teknolojileri kullanılan sistemler."
+          },
+          {
+            "kavram": "General Cybersecurity Framework (Genel Siber Güvenlik Çerçevesi)",
+            "aciklama": "Siber güvenlik için genel bir yaklaşım ve yapı."
+          },
+          {
+            "kavram": "Geographical IP Blocking (Coğrafi IP Engelleme)",
+            "aciklama": "Belirli coğrafi bölgelerden gelen IP adreslerini engellemek için kullanılan güvenlik yöntemi."
+          },
+          {
+            "kavram": "Global Information Security Management (Küresel Bilgi Güvenliği Yönetimi)",
+            "aciklama": "Bilgi güvenliğinin küresel çapta yönetilmesi için oluşturulan sistemler ve stratejiler."
+          },
+          {
+            "kavram": "Governmental Data Security (Hükümet Verisi Güvenliği)",
+            "aciklama": "Hükümet verilerinin korunması ve güvenliğinin sağlanması."
+          },
+          {
+            "kavram": "Green Network Architecture (Yeşil Ağ Mimarisi)",
+            "aciklama": "Çevre dostu, enerji verimli ağ yapılarının tasarımı."
+          },
+          {
+            "kavram": "Guard Dogs in Security (Güvenlikte Koruma Köpekleri)",
+            "aciklama": "Fiziksel güvenlik sağlamak için kullanılan koruma köpekleri."
+          },
+          {
+            "kavram": "Generic Authentication Protocol (Genel Kimlik Doğrulama Protokolü)",
+            "aciklama": "Kimlik doğrulama işlemleri için genel olarak kullanılan protokoller."
+          },
+          {
+            "kavram": "Gated Authentication Process (Kapalı Kimlik Doğrulama Süreci)",
+            "aciklama": "Güvenli kimlik doğrulama için kullanılan kapalı ve kontrollü süreç."
+          },
+          {
+            "kavram": "Global Threat Intelligence (Küresel Tehdit İstihbaratı)",
+            "aciklama": "Küresel düzeyde siber tehditlerin izlenmesi ve değerlendirilmesi."
+          },
+          {
+            "kavram": "Good Security Hygiene Practices (İyi Güvenlik Hijyeni Uygulamaları)",
+            "aciklama": "Güvenliği artırmak için en iyi uygulamalar."
+          },
+          {
+            "kavram": "Geospatial Attack Mapping (Coğrafi Saldırı Haritalama)",
+            "aciklama": "Saldırıların coğrafi olarak izlenmesi ve haritalanması."
+          },
+          {
+            "kavram": "Government Vulnerability Scanning (Hükümet Zayıflık Taraması)",
+            "aciklama": "Hükümet verilerindeki güvenlik açıklarının taranması."
+          },
+          {
+            "kavram": "Giga Attack (Giga Saldırısı)",
+            "aciklama": "Büyük ölçekli ağ saldırıları, genellikle çok büyük veri ve trafik kullanır."
+          },
+          {
+            "kavram": "General Incident Response Procedure (Genel Olay Müdahale Prosedürü)",
+            "aciklama": "Siber güvenlik olaylarına müdahale etme için izlenen genel prosedürler."
+          },
+          {
+            "kavram": "Global Cyber Risk Assessment (Küresel Siber Risk Değerlendirmesi)",
+            "aciklama": "Küresel düzeyde siber risklerin değerlendirilmesi."
+          },
+          {
+            "kavram": "Gridded Security Design (Izgara Güvenliği Tasarımı)",
+            "aciklama": "İzgara benzeri yapılar kullanarak güvenlik önlemleri almayı amaçlayan tasarımlar."
+          },
+          {
+            "kavram": "Guided Malware Detection (Yönlendirilmiş Kötü Amaçlı Yazılım Tespiti)",
+            "aciklama": "Kötü amaçlı yazılım tespit sistemlerinin daha etkili hale getirilmesi için kullanılan yönlendirme yöntemleri."
+          },
+          {
+            "kavram": "Global Internet Protection (Küresel İnternet Koruması)",
+            "aciklama": "Küresel internet güvenliğini artırmaya yönelik uygulamalar."
+          },
+          {
+            "kavram": "Grid Security Architecture (Ağ Güvenlik Mimarisi)",
+            "aciklama": "Ağ yapılarının güvenliğini sağlamak için geliştirilen mimari."
+          },
+          {
+            "kavram": "Generic Rooting Process (Genel Kökleme Süreci)",
+            "aciklama": "Cihazların kök erişimi kazanması için genel süreçler."
+          },
+          {
+            "kavram": "Guard Security Solutions (Koruma Güvenlik Çözümleri)",
+            "aciklama": "Fiziksel ve dijital güvenlik için geliştirilen çözümler."
+          },
+          {
+            "kavram": "Global Privacy Policy (Küresel Gizlilik Politikası)",
+            "aciklama": "Veri gizliliğini koruma amacıyla küresel çapta benimsenen politikalar."
+          },
+          {
+            "kavram": "Gigabyte Data Protection (Gigabayt Veri Koruması)",
+            "aciklama": "Büyük veri koruma yöntemleri."
+          },
+          {
+            "kavram": "Guideline for Securing Critical Infrastructure (Kritik Altyapıyı Güvenceye Almak İçin Yönerge)",
+            "aciklama": "Kritik altyapıların güvenliğini sağlamak için izlenmesi gereken yönergeler."
+          },
+          {
+            "kavram": "Government Cybersecurity Standards (Hükümet Siber Güvenlik Standartları)",
+            "aciklama": "Hükümetlerin uyduğu siber güvenlik standartları."
+          },
+          {
+            "kavram": "Global Digital Risk Management (Küresel Dijital Risk Yönetimi)",
+            "aciklama": "Dijital tehditleri ve riskleri küresel düzeyde yönetme süreci."
+          },
+          {
+            "kavram": "Government Information Security (Hükümet Bilgi Güvenliği)",
+            "aciklama": "Kamu sektöründe kullanılan bilgi ve verilerin güvenliğini sağlamak için uygulanan politikalar ve teknolojiler."
+          },
+          {
+            "kavram": "Global Cyber Crime Threat (Küresel Siber Suç Tehditi)",
+            "aciklama": "Dünya çapında bilgisayarlar ve ağlar üzerinden gerçekleştirilen suçlar ve bu suçlara karşı oluşan tehditler."
+          },
+          {
+            "kavram": "Genuine Network Access Control (Gerçek Ağ Erişim Kontrolü)",
+            "aciklama": "Bir ağda yetkisiz erişimi engellemek amacıyla kullanılan güvenlik sistemlerinin doğruluğunu ve etkinliğini sağlamak."
+          },
+          {
+            "kavram": "Great Wall of China Malware (Büyük Çin Seddi Kötü Amaçlı Yazılımı)",
+            "aciklama": "Çin hükümetinin siber tehditler ve kötü amaçlı yazılımlara karşı kullandığı güçlü güvenlik sistemlerini betimleyen terim."
+          },
+          {
+            "kavram": "Grading Access Control (Erişim Kontrolü Puanlama)",
+            "aciklama": "Erişim kontrol politikalarını derecelendirmek veya skorlama yöntemiyle yönetmek."
+          },
+          {
+            "kavram": "General Privacy Regulations (Genel Gizlilik Düzenlemeleri)",
+            "aciklama": "Bireylerin kişisel verilerini korumak için uygulanan genel gizlilik yasaları ve yönetmelikler."
+          },
+          {
+            "kavram": "Geographic Segmentation of Attacks (Saldırıların Coğrafi Segmentasyonu)",
+            "aciklama": "Siber saldırıların, coğrafi bölgeler ve lokasyonlar bazında gruplandırılması."
+          },
+          {
+            "kavram": "Google Bounty Program (Google Ödül Programı)",
+            "aciklama": "Google'ın güvenlik açıklarını tespit eden kişilere ödüller verdiği program."
+          },
+          {
+            "kavram": "Guarding Against Social Engineering (Sosyal Mühendislikten Korunma)",
+            "aciklama": "İnsanları manipüle ederek bilgi sızdırmaya yönelik saldırılara karşı alınacak güvenlik önlemleri."
+          },
+          {
+            "kavram": "Global Authentication Systems (Küresel Kimlik Doğrulama Sistemleri)",
+            "aciklama": "Dünya çapında kullanıcıların kimliklerini doğrulamak için kullanılan güvenlik sistemleri."
+          },
+          {
+            "kavram": "Global Security Policies (Küresel Güvenlik Politikaları)",
+            "aciklama": "Küresel düzeyde, özellikle internet ve ağ güvenliği için belirlenen politika ve kurallar."
+          },
+          {
+            "kavram": "Group Communication Encryption (Grup İletişim Şifrelemesi)",
+            "aciklama": "Bir grup içerisindeki iletişimlerin güvenliğini sağlamak amacıyla yapılan şifreleme işlemi."
+          },
+          {
+            "kavram": "Geofencing Technology (Coğrafi Sınırlandırma Teknolojisi)",
+            "aciklama": "Bir cihazın, belirli bir coğrafi bölgeye girmesi veya çıkması durumunda tetiklenen güvenlik özellikleri."
+          },
+          {
+            "kavram": "Gateway Intrusion Prevention (Ağ Geçidi Saldırı Engelleme)",
+            "aciklama": "Ağ geçidi üzerinden gelen zararlı trafiği engellemek için kullanılan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Generalized Access Control (Genelleştirilmiş Erişim Kontrolü)",
+            "aciklama": "Erişim kontrol sistemlerinin, belirli bir model veya standarda göre genişletilmesi."
+          },
+          {
+            "kavram": "Global Data Protection Strategy (Küresel Veri Koruma Stratejisi)",
+            "aciklama": "Küresel çapta kişisel ve kurumsal verilerin güvenliğini sağlamak için oluşturulan stratejiler."
+          },
+          {
+            "kavram": "Gated Content Security (Kapalı İçerik Güvenliği)",
+            "aciklama": "Yalnızca yetkilendirilmiş kişilere erişim izni verilen içeriklerin güvenliğini sağlama."
+          },
+          {
+            "kavram": "Global Cryptographic Algorithms (Küresel Kriptografik Algoritmalar)",
+            "aciklama": "Dünya çapında veri güvenliğini sağlamak için kullanılan şifreleme algoritmaları."
+          },
+          {
+            "kavram": "Gaining Administrative Access (Yönetici Erişimi Kazanma)",
+            "aciklama": "Bir sistemde yönetici hakları elde ederek daha fazla kontrol sahibi olma."
+          },
+          {
+            "kavram": "Google Security Tools (Google Güvenlik Araçları)",
+            "aciklama": "Google tarafından sağlanan, kullanıcıların çevrimiçi güvenliğini artırmaya yönelik araçlar."
+          },
+          {
+            "kavram": "General Security Policies (Genel Güvenlik Politikaları)",
+            "aciklama": "Kurumların genel güvenlik süreçlerini belirleyen ve yönlendiren kurallar."
+          },
+          {
+            "kavram": "Global Encryption Protocols (Küresel Şifreleme Protokolleri)",
+            "aciklama": "İnternette veri güvenliği sağlamak için global düzeyde kabul edilen şifreleme protokollerinin seti."
+          },
+          {
+            "kavram": "Geolocation Data Security (Konum Verisi Güvenliği)",
+            "aciklama": "Kullanıcıların fiziksel konum bilgilerinin güvenliğini sağlamak için uygulanan önlemler."
+          },
+          {
+            "kavram": "Government Encryption Guidelines (Hükümet Şifreleme Yönergeleri)",
+            "aciklama": "Devlet kurumlarının veri şifrelemesi için belirlediği standartlar ve yönergeler."
+          },
+          {
+            "kavram": "Graded Access Control Systems (Derecelendirilmiş Erişim Kontrolü Sistemleri)",
+            "aciklama": "Erişim kontrolünün farklı düzeylerde ve derecelerde yapıldığı sistemler."
+          },
+          {
+            "kavram": "Grid-Based Intrusion Prevention (Izgara Tabanlı Saldırı Engelleme)",
+            "aciklama": "Izgara yapısına dayalı olarak saldırıları engellemeyi amaçlayan bir güvenlik çözümü."
+          },
+          {
+            "kavram": "Global Security Risk Analysis (Küresel Güvenlik Risk Analizi)",
+            "aciklama": "Dünya çapında potansiyel güvenlik tehditlerini analiz etmek ve değerlendirerek önlemler almak."
+          },
+          {
+            "kavram": "Global Intrusion Detection System (Küresel Saldırı Tespit Sistemi)",
+            "aciklama": "Küresel ağlar üzerinde olası saldırıları tespit etmek amacıyla kullanılan sistemler."
+          },
+          {
+            "kavram": "Geolocation Protection (Konum Koruması)",
+            "aciklama": "Kullanıcıların konum bilgilerinin izinsiz bir şekilde toplanmasını engelleyen güvenlik önlemleri."
+          },
+          {
+            "kavram": "Generic Session Hijacking (Genel Oturum Ele Geçirme)",
+            "aciklama": "Bir oturumu ele geçirerek bir kullanıcının oturumunu kontrol altına alma saldırısı."
+          },
+          {
+            "kavram": "Giant Botnet (Dev Botnet)",
+            "aciklama": "Büyük ve dağıtılmış zararlı yazılım ağları, genellikle siber saldırılar için kullanılır."
+          },
+          {
+            "kavram": "Google Privacy Policy (Google Gizlilik Politikası)",
+            "aciklama": "Google'ın kullanıcı verilerini nasıl topladığı, sakladığı ve işlediği ile ilgili politikalar."
+          },
+          {
+            "kavram": "General Penetration Testing (Genel Sızma Testi)",
+            "aciklama": "Bir sistemin güvenliğini değerlendirmek amacıyla yapılan ve potansiyel zafiyetleri ortaya çıkaran testler."
+          },
+          {
+            "kavram": "General Encryption Standard (Genel Şifreleme Standardı)",
+            "aciklama": "Veri şifreleme için evrensel olarak kabul edilen standartlar."
+          },
+          {
+            "kavram": "Granular Firewall (Granüler Güvenlik Duvarı)",
+            "aciklama": "Ağ güvenlik duvarlarının daha ince ayarlarla ve ayrıntılı denetimle yapılandırılması."
+          },
+          {
+            "kavram": "Genuine User Authentication (Gerçek Kullanıcı Kimlik Doğrulaması)",
+            "aciklama": "Kullanıcıların kimliğini doğrularken güvenliği sağlamak için kullanılan teknikler."
+          },
+          {
+            "kavram": "Geographic Location Encryption (Coğrafi Konum Şifrelemesi)",
+            "aciklama": "Kullanıcıların coğrafi konum bilgilerinin şifrelenerek korunması."
+          },
+          {
+            "kavram": "Great Leap Forward Security Threat (Büyük Sıçrayış Güvenlik Tehditi)",
+            "aciklama": "Büyük bir güvenlik tehditi olarak tanımlanan, hızla gelişen veya değişen siber tehditler."
+          },
+          {
+            "kavram": "GSM Security (GSM Güvenliği)",
+            "aciklama": "Mobil telefonlarda kullanılan GSM şebekesinin güvenliğini sağlamak için uygulanan önlemler."
+          },
+          {
+            "kavram": "Global Intrusion Prevention System (Küresel Saldırı Önleme Sistemi)",
+            "aciklama": "Dünya çapında kullanılan, potansiyel siber saldırıları engellemeye yönelik sistemler."
+          },
+          {
+            "kavram": "Grid Encryption Systems (Izgara Şifreleme Sistemleri)",
+            "aciklama": "Izgara tabanlı sistemlerde veri şifreleme yöntemlerinin kullanılması."
+          },
+          {
+            "kavram": "Good Governance Security (İyi Yönetişim Güvenliği)",
+            "aciklama": "Kurumsal yönetişim süreçlerinde siber güvenliğin etkin bir şekilde sağlanması."
+          },
+          {
+            "kavram": "Government Cyber Resilience (Hükümet Siber Direnci)",
+            "aciklama": "Devletin siber saldırılara karşı dayanıklılığını artırmak amacıyla aldığı önlemler."
+          },
+          {
+            "kavram": "Global IT Security Standards (Küresel IT Güvenlik Standartları)",
+            "aciklama": "Dünya çapında IT güvenliği için belirlenmiş standartlar."
+          },
+          {
+            "kavram": "Giant Firewall (Dev Güvenlik Duvarı)",
+            "aciklama": "Büyük ölçekli ağlarda kullanılan güçlü ve geniş çaplı güvenlik duvarları."
+          }
+    ]
+}

@@ -1,0 +1,443 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "SANS Institute (SANS Enstitüsü)",
+            "aciklama": "Siber güvenlik eğitimi veren bir kurum. SANS, dünya çapında tanınan siber güvenlik sertifikaları ve eğitimler sunar."
+          },
+          {
+            "kavram": "Sandboxing (Kumanda Kumu)",
+            "aciklama": "Yazılım veya programları izole ederek test etmek için kullanılan bir güvenlik tekniğidir. Yazılımlar, ana sisteme zarar vermeden sanal bir ortamda çalıştırılır."
+          },
+          {
+            "kavram": "Scripting Attack (Skript Saldırısı)",
+            "aciklama": "Web uygulamalarında kullanılan betik dillerini (örneğin, JavaScript) kullanarak yapılan saldırılardır. Bu saldırılar, kullanıcıları veya sistemleri zararlı kodlarla manipüle etmeyi hedefler."
+          },
+          {
+            "kavram": "Spyware (Casus Yazılım)",
+            "aciklama": "Kullanıcının bilgisini gizlice izleyen ve toplayan yazılımdır. Genellikle kötü niyetli amaçlarla kullanılır."
+          },
+          {
+            "kavram": "SSL (Secure Socket Layer) (Güvenli Yuva Katmanı)",
+            "aciklama": "İnternet üzerinde veri iletimini güvenli hale getiren bir protokoldür. Web sitelerinin güvenli bağlantılar kurmasını sağlar (HTTPS)."
+          },
+          {
+            "kavram": "SQL Injection (SQL Enjeksiyonu)",
+            "aciklama": "Web uygulamalarındaki güvenlik açıklarından faydalanarak, veritabanına zararlı SQL komutları enjekte etme saldırısıdır."
+          },
+          {
+            "kavram": "Social Engineering (Sosyal Mühendislik)",
+            "aciklama": "İnsanları manipüle ederek gizli bilgi elde etme tekniğidir. Genellikle dolandırıcılık amacı güder."
+          },
+          {
+            "kavram": "Security Patch (Güvenlik Yaması)",
+            "aciklama": "Bir yazılımdaki güvenlik açıklarını gidermek amacıyla yayınlanan güncellemeler veya düzeltmelerdir."
+          },
+          {
+            "kavram": "SQL Injection Attack (SQL Enjeksiyonu Saldırısı)",
+            "aciklama": "Bir web sitesinin veritabanına kötü amaçlı SQL komutları göndermeyi amaçlayan saldırıdır."
+          },
+          {
+            "kavram": "Session Hijacking (Oturum Kaçırma)",
+            "aciklama": "Bir kullanıcının oturum bilgilerini çalarak onun adına işlem yapma saldırısıdır."
+          },
+          {
+            "kavram": "Security Information and Event Management (SIEM) (Güvenlik Bilgisi ve Olay Yönetimi)",
+            "aciklama": "Güvenlik olaylarının izlenmesi, raporlanması ve analiz edilmesi için kullanılan sistemlerdir."
+          },
+          {
+            "kavram": "Spyware Removal (Casus Yazılım Kaldırma)",
+            "aciklama": "Casus yazılımları tespit etmek ve kaldırmak için kullanılan araçlar veya yöntemlerdir."
+          },
+          {
+            "kavram": "Sudo (Süper Kullanıcı Yetkisi)",
+            "aciklama": "Linux ve Unix tabanlı sistemlerde normal kullanıcılara, yönetici haklarıyla komut çalıştırma yetkisi veren bir komuttur."
+          },
+          {
+            "kavram": "Server Hardening (Sunucu Sertleştirme)",
+            "aciklama": "Bir sunucunun güvenliğini artırmak amacıyla yapılan yapılandırma değişiklikleridir."
+          },
+          {
+            "kavram": "Subdomain Takeover (Alt Alan Adı Ele Geçirme)",
+            "aciklama": "Bir alt alan adının kontrolünü ele geçirme saldırısıdır. Genellikle kaybolmuş veya hatalı yapılandırılmış alan adlarından yararlanılır."
+          },
+          {
+            "kavram": "SOC (Security Operations Center) (Güvenlik Operasyon Merkezi)",
+            "aciklama": "Güvenlik olaylarını izleyen ve müdahale eden, organizasyonun güvenlik stratejilerini yöneten merkezdir."
+          },
+          {
+            "kavram": "Sniffing Attack (Dinleme Saldırısı)",
+            "aciklama": "Ağ üzerinden geçen veriyi izinsiz bir şekilde dinleyerek bilgi çalma saldırısıdır."
+          },
+          {
+            "kavram": "Smartphone Security (Akıllı Telefon Güvenliği)",
+            "aciklama": "Akıllı telefonların kötü amaçlı yazılımlardan ve izinsiz erişimlerden korunması amacıyla alınan güvenlik önlemleridir."
+          },
+          {
+            "kavram": "Signature-based Detection (İmza Tabanlı Tespit)",
+            "aciklama": "Bilinen tehditlerin, daha önce kaydedilmiş imzalarına dayalı olarak tespit edilmesidir."
+          },
+          {
+            "kavram": "Service Denial Attack (Hizmet Reddi Saldırısı)",
+            "aciklama": "Bir servisi ya da kaynağı aşırı yükleyerek ya da engelleyerek kullanılamaz hale getirme saldırısıdır."
+          },
+          {
+            "kavram": "Shellshock Vulnerability (Shellshock Zafiyeti)",
+            "aciklama": "Unix ve Linux sistemlerinde, Bash komut satırındaki zafiyetin adıdır. Bu zafiyet, saldırganlara sistemde uzaktan kod çalıştırma imkânı sağlar."
+          },
+          {
+            "kavram": "Security Token (Güvenlik Tokeni)",
+            "aciklama": "Kullanıcı kimlik doğrulaması için kullanılan, güvenli bir oturum açmayı sağlayan bir fiziksel ya da sanal cihazdır."
+          },
+          {
+            "kavram": "Social Media Attack (Sosyal Medya Saldırısı)",
+            "aciklama": "Sosyal medya platformlarını kullanarak gerçekleştirilen, genellikle kimlik hırsızlığı, dolandırıcılık ya da itibar zedelenmesi amaçlı saldırılardır."
+          },
+          {
+            "kavram": "Spamming (Spam Gönderme)",
+            "aciklama": "Gereksiz ve istenmeyen e-postaların, mesajların ya da içeriklerin kullanıcıya gönderilmesidir."
+          },
+          {
+            "kavram": "Social Engineering Attack (Sosyal Mühendislik Saldırısı)",
+            "aciklama": "İnsanları manipüle ederek bilgi çalma amacı güden bir saldırı türüdür."
+          },
+          {
+            "kavram": "Sandbox Escape (Kumanda Kaçışı)",
+            "aciklama": "Kumanda ortamında izole edilen bir programın, güvenli alanı aşarak ana sisteme zarar vermesi saldırısıdır."
+          },
+          {
+            "kavram": "Stuxnet (Stuxnet Virüsü)",
+            "aciklama": "Özellikle sanayi kontrol sistemlerine yönelik tasarlanmış, ünlü bir siber saldırı virüsüdür."
+          },
+          {
+            "kavram": "Server Spoofing (Sunucu Sahtekarlığı)",
+            "aciklama": "Sahte bir sunucu oluşturup, gerçek sunucu gibi davranarak veri toplama veya zararlı yazılım bulaştırma saldırısıdır."
+          },
+          {
+            "kavram": "Spyware Detection (Casus Yazılım Tespiti)",
+            "aciklama": "Casus yazılımlarının tespiti için kullanılan araçlar veya yöntemlerdir."
+          },
+          {
+            "kavram": "Security Breach (Güvenlik İhlali)",
+            "aciklama": "Bir sistemin, ağın ya da veritabanının yetkisiz erişim ya da kötü niyetli bir saldırıya uğraması durumudur."
+          },
+          {
+            "kavram": "Symmetric Encryption (Simetrik Şifreleme)",
+            "aciklama": "Aynı anahtarın veri şifreleme ve çözme işlemlerinde kullanıldığı şifreleme türüdür."
+          },
+          {
+            "kavram": "Self-healing Security (Kendini İyileştiren Güvenlik)",
+            "aciklama": "Güvenlik tehditlerine karşı, sistemin kendini otomatik olarak iyileştirmesini sağlayan teknolojilerdir."
+          },
+          {
+            "kavram": "Simple Mail Transfer Protocol (SMTP) (Basit Posta Aktarım Protokolü)",
+            "aciklama": "Elektronik posta gönderme için kullanılan bir protokoldür."
+          },
+          {
+            "kavram": "Smart Card Authentication (Akıllı Kart Kimlik Doğrulaması)",
+            "aciklama": "Akıllı kartların kullanılarak kimlik doğrulama işlemlerini gerçekleştiren bir güvenlik yöntemidir."
+          },
+          {
+            "kavram": "Software Update (Yazılım Güncellemesi)",
+            "aciklama": "Yazılımların daha güvenli ve verimli çalışabilmesi için yapılan iyileştirmelerdir."
+          },
+          {
+            "kavram": "Stateful Inspection (Durumlu İnceleme)",
+            "aciklama": "Ağ güvenliği cihazlarının, veri paketlerinin geçmiş verileri ile birlikte incelenmesini sağlayan güvenlik özelliğidir."
+          },
+          {
+            "kavram": "Session Fixation (Oturum Sabitleme)",
+            "aciklama": "Bir saldırganın, kullanıcının oturumunu ele geçirebilmek için, kullanıcıyı sabit bir oturum kimliğiyle oturum açmaya zorlaması saldırısıdır."
+          },
+          {
+            "kavram": "Sudoer (Süper Kullanıcı Yetkisi Sahibi)",
+            "aciklama": "Linux ve Unix tabanlı sistemlerde, süper kullanıcı yetkilerine sahip olan kullanıcıdır."
+          },
+          {
+            "kavram": "Secure Coding (Güvenli Kodlama)",
+            "aciklama": "Yazılımların güvenlik açıklarını en aza indirecek şekilde kodlanmasıdır."
+          },
+          {
+            "kavram": "Spoofing (Sahtekarlık)",
+            "aciklama": "Sahte kimlik kullanarak başka bir kişiyi veya sistemi taklit etme saldırısıdır."
+          },
+          {
+            "kavram": "Server Side Encryption (Sunucu Tarafı Şifreleme)",
+            "aciklama": "Verilerin, sunucu tarafında şifrelenerek saklanmasıdır."
+          },
+          {
+            "kavram": "Social Media Security (Sosyal Medya Güvenliği)",
+            "aciklama": "Sosyal medya hesaplarının kötü amaçlı saldırılardan korunması için alınan güvenlik önlemleridir."
+          },
+          {
+            "kavram": "SAML (Security Assertion Markup Language) (Güvenlik İddiası İşaretleme Dili)",
+            "aciklama": "Tek bir kimlik doğrulama sağlayıcısından alınan bilgilerin birden fazla hizmet sağlayıcısına güvenli bir şekilde iletilmesini sağlayan bir standarttır."
+          },
+          {
+            "kavram": "Single Sign-On (SSO) (Tek Oturum Açma)",
+            "aciklama": "Kullanıcının, birden fazla servise veya uygulamaya sadece bir kez giriş yaparak erişmesini sağlayan bir kimlik doğrulama sistemidir."
+          },
+          {
+            "kavram": "Security Awareness Training (Güvenlik Farkındalığı Eğitimi)",
+            "aciklama": "Kullanıcılara güvenlik tehditlerini tanımayı ve bu tehditlere karşı nasıl önlem alacaklarını öğretmeyi amaçlayan eğitimlerdir."
+          },
+          {
+            "kavram": "Shadow IT (Gölge BT)",
+            "aciklama": "Kurumsal BT altyapısının dışında, çalışanlar tarafından izinsiz olarak kullanılan teknolojilerdir."
+          },
+          {
+            "kavram": "System Security (Sistem Güvenliği)",
+            "aciklama": "Bilgisayar sistemlerinin zararlı yazılımlara, saldırılara veya hatalara karşı korunmasıdır."
+          },
+          {
+            "kavram": "SSL/TLS Certificates (SSL/TLS Sertifikaları)",
+            "aciklama": "İnternette güvenli iletişim sağlamak için kullanılan dijital sertifikalardır."
+          },
+          {
+            "kavram": "Side-channel Attack (Yan Kanal Saldırısı)",
+            "aciklama": "Kriptografik sistemlerin zayıf noktalarını, yan kanal bilgileri (zaman, enerji tüketimi vb.) kullanarak keşfetmeye yönelik saldırılardır."
+          },
+          {
+            "kavram": "Scripting Language (Skript Dili)",
+            "aciklama": "Genellikle web uygulamalarında kullanılan ve belirli komutları yerine getiren dildir."
+          },
+          {
+            "kavram": "Sudo Command (Süper Kullanıcı Komutu)",
+            "aciklama": "Linux ve Unix tabanlı işletim sistemlerinde, kullanıcıların yönetici (root) yetkileriyle işlem yapmalarını sağlayan komut. Kullanıcı, sudo komutunu kullanarak belirli bir komutu süper kullanıcı yetkisiyle çalıştırabilir."
+          },
+          {
+            "kavram": "Software-defined Network (SDN) (Yazılım Tanımlı Ağ)",
+            "aciklama": "Ağ donanımının, yazılım tabanlı çözümlerle yönetildiği bir ağ mimarisi. Ağın yönetimi ve yapılandırması yazılım tarafından yapılır, donanımın rolü ise daha basitleştirilmiştir."
+          },
+          {
+            "kavram": "Security Metrics (Güvenlik Ölçümleri)",
+            "aciklama": "Bilgi güvenliği performansını değerlendirmek için kullanılan göstergeler. Bu ölçümler, güvenlik seviyelerini, zayıf noktaları ve olası tehditleri belirlemek için kullanılır."
+          },
+          {
+            "kavram": "Secure File Transfer Protocol (SFTP) (Güvenli Dosya Transfer Protokolü)",
+            "aciklama": "Dosyaların şifreli bir bağlantı üzerinden güvenli bir şekilde aktarılmasını sağlayan bir protokol. FTP'nin güvenli bir versiyonudur."
+          },
+          {
+            "kavram": "Social Engineering Toolkit (SET) (Sosyal Mühendislik Araç Seti)",
+            "aciklama": "Sosyal mühendislik saldırıları gerçekleştirmek için kullanılan bir araç. Phishing, veri hırsızlığı ve diğer manipülasyon tekniklerini simüle eder."
+          },
+          {
+            "kavram": "Service Pack (Hizmet Paketi)",
+            "aciklama": "Bir yazılımın belirli bir sürümü için geliştirilen hata düzeltmeleri, güvenlik yamaları ve yeni özellikleri içeren güncellemeler."
+          },
+          {
+            "kavram": "Safety Net (Güvenlik Ağı)",
+            "aciklama": "Bireylerin veya organizasyonların, bir güvenlik açığı veya tehlike karşısında korunmasını sağlayan bir önlem seti."
+          },
+          {
+            "kavram": "SQL Server (SQL Sunucusu)",
+            "aciklama": "Veritabanlarını yönetmek ve sorgulamak için kullanılan bir yazılım uygulaması. Microsoft SQL Server, veritabanı yönetimi için yaygın bir platformdur."
+          },
+          {
+            "kavram": "Secure Password Storage (Güvenli Parola Depolama)",
+            "aciklama": "Parolaların şifreli bir biçimde saklanması, böylece üçüncü şahısların bu parolaları ele geçirmesinin önlenmesi."
+          },
+          {
+            "kavram": "Secure Communication (Güvenli İletişim)",
+            "aciklama": "Verilerin, şifreleme ve diğer güvenlik protokolleri ile korunarak, yetkisiz kişilerden gizli tutulması amacıyla sağlanan iletişim."
+          },
+          {
+            "kavram": "Security Level (Güvenlik Seviyesi)",
+            "aciklama": "Bir sistemin ya da ağın güvenlik düzeyini belirleyen kriter. Daha yüksek güvenlik seviyesi, daha sıkı denetim ve koruma önlemleri anlamına gelir."
+          },
+          {
+            "kavram": "Software Backdoor (Yazılım Arka Kapısı)",
+            "aciklama": "Yazılımda geliştiricilerin veya kötü niyetli kişilerin sisteme gizlice erişebilmelerini sağlayan, genellikle kötü amaçlı olarak kullanılan bir yöntem."
+          },
+          {
+            "kavram": "Security Operations (Güvenlik Operasyonları)",
+            "aciklama": "Bilgi güvenliği konusunda yapılan operasyonel faaliyetler. Bunlar, tehditlerin izlenmesi, güvenlik olaylarının yönetilmesi ve iyileştirmeler yapılmasını kapsar."
+          },
+          {
+            "kavram": "Security Auditing (Güvenlik Denetimi)",
+            "aciklama": "Bir sistemin veya ağın güvenlik açıklarını ve ihlalleri tespit etmek için yapılan inceleme ve denetim süreci."
+          },
+          {
+            "kavram": "SaaS (Software as a Service) (Hizmet Olarak Yazılım)",
+            "aciklama": "Bulut tabanlı bir yazılım modelidir. Kullanıcılar, yazılımı internet üzerinden kiralar ve kullanır, yazılımı yerel olarak yüklemeleri gerekmez."
+          },
+          {
+            "kavram": "SaaS Security (SaaS Güvenliği)",
+            "aciklama": "SaaS hizmetlerinde verilerin korunması ve güvenliğinin sağlanması için alınan önlemler."
+          },
+          {
+            "kavram": "Security Patch Management (Güvenlik Yaması Yönetimi)",
+            "aciklama": "Yazılımlardaki güvenlik açıklarını kapatmak amacıyla geliştirilen yamaların yönetilmesi ve uygulanması süreci."
+          },
+          {
+            "kavram": "Superuser (Süper Kullanıcı)",
+            "aciklama": "Bir sistemde, tüm yönetici yetkilerine sahip olan kullanıcı. Genellikle \"root\" olarak adlandırılır ve tüm sistem kaynaklarına erişebilir."
+          },
+          {
+            "kavram": "System Integrity (Sistem Bütünlüğü)",
+            "aciklama": "Bir sistemin, verilerinin ve işlemlerinin beklenen şekilde çalışması ve bozulmaların veya manipülasyonların olmaması."
+          },
+          {
+            "kavram": "Service Control Manager (Hizmet Kontrol Yöneticisi)",
+            "aciklama": "Windows işletim sisteminde, çalışan hizmetleri ve uygulamaları kontrol eden bir bileşen."
+          },
+          {
+            "kavram": "SaaS Protection (SaaS Koruma)",
+            "aciklama": "SaaS uygulamalarındaki verileri ve hizmetleri korumaya yönelik alınan önlemler ve güvenlik önlemleri."
+          },
+          {
+            "kavram": "Security Posture (Güvenlik Durumu)",
+            "aciklama": "Bir organizasyonun güvenlik hazırlık seviyesi. Bu, mevcut güvenlik önlemleri, tehdit yönetimi, ve güvenlik stratejilerinin toplamıdır."
+          },
+          {
+            "kavram": "Session Timeout (Oturum Zaman Aşımı)",
+            "aciklama": "Bir kullanıcı işlem yapmadığı bir süre sonra, güvenlik amaçlı olarak oturumun otomatik olarak kapatılması."
+          },
+          {
+            "kavram": "Security Flaw (Güvenlik Açığı)",
+            "aciklama": "Bir sistemdeki zayıf noktalar veya eksiklikler, bu açıklar kötüye kullanılabilir ve güvenlik ihlalleri oluşturabilir."
+          },
+          {
+            "kavram": "Scan for Malware (Kötü Amaçlı Yazılım Taraması)",
+            "aciklama": "Sistemlerde kötü amaçlı yazılımları (virüs, trojan, vb.) tespit etmek amacıyla yapılan tarama işlemi."
+          },
+          {
+            "kavram": "Session Management (Oturum Yönetimi)",
+            "aciklama": "Kullanıcı oturumlarını güvenli bir şekilde başlatma, sürdürme ve sonlandırma süreci."
+          },
+          {
+            "kavram": "Separation of Duties (Görev Ayrımı)",
+            "aciklama": "Bir iş sürecinde, riskleri azaltmak amacıyla, görevlerin farklı kişiler veya gruplar arasında paylaşılması."
+          },
+          {
+            "kavram": "Security Operations Center (SOC) (Güvenlik Operasyon Merkezi)",
+            "aciklama": "Bir organizasyonun güvenliğini izlemek ve yönetmek için özel olarak kurulan merkez. Genellikle tehditleri izler, analiz eder ve karşı önlemler alır."
+          },
+          {
+            "kavram": "SYN Flood Attack (SYN Taşkın Saldırısı)",
+            "aciklama": "Bir ağda, hedef sisteme aşırı sayıda SYN isteği göndererek, sistemi yanıt veremez hale getiren bir tür DDoS saldırısı."
+          },
+          {
+            "kavram": "Sandbox Analysis (Kumanda Analizi)",
+            "aciklama": "Yazılım veya dosyaların, tehlikeli olup olmadığını kontrol etmek amacıyla izole bir ortamda çalıştırılması."
+          },
+          {
+            "kavram": "Security Vulnerability (Güvenlik Zafiyeti)",
+            "aciklama": "Bir sistem veya uygulamanın, kötü niyetli kullanıcılar tarafından kötüye kullanılabilecek zayıf yönü."
+          },
+          {
+            "kavram": "Server Security (Sunucu Güvenliği)",
+            "aciklama": "Sunucuların güvenliğini sağlamak için yapılan önlemler, ağ saldırılarına karşı koruma, veri güvenliği ve erişim denetimi gibi işlemleri içerir."
+          },
+          {
+            "kavram": "Static Analysis (Statik Analiz)",
+            "aciklama": "Yazılım kodunun çalışma sırasında yürütülmeden incelenmesi, bu sayede potansiyel hataların veya güvenlik açıklarının belirlenmesi."
+          },
+          {
+            "kavram": "Software Firewall (Yazılım Güvenlik Duvarı)",
+            "aciklama": "Bir bilgisayarın yazılım tabanlı güvenlik duvarıdır. Ağa gelen ve giden trafiği denetler ve şüpheli aktiviteleri engeller."
+          },
+          {
+            "kavram": "System Monitoring (Sistem İzleme)",
+            "aciklama": "Bir sistemin performansını ve güvenliğini izlemek amacıyla yapılan sürekli takip ve analiz işlemi."
+          },
+          {
+            "kavram": "Security Access Control (Güvenlik Erişim Kontrolü)",
+            "aciklama": "Sistem kaynaklarına veya verilere kimlerin erişebileceğini belirlemek ve kontrol etmek için kullanılan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Signal-to-Noise Ratio (SNR) (Sinyal-Gürültü Oranı)",
+            "aciklama": "Bir sinyalin gürültüye karşı oranı. Yüksek bir SNR, kaliteli bir iletişim anlamına gelir."
+          },
+          {
+            "kavram": "Server Hardening (Sunucu Sertleştirme)",
+            "aciklama": "Bir sunucunun güvenliğini artırmak için yapılan işlemler. Gereksiz servislerin kapatılması, güvenlik yamalarının uygulanması ve güçlü şifrelerin kullanılması gibi önlemleri içerir."
+          },
+          {
+            "kavram": "Security Protocol (Güvenlik Protokolü)",
+            "aciklama": "Verilerin güvenli bir şekilde iletilmesini sağlayan kurallar ve standartlar. Örnekler: HTTPS, TLS."
+          },
+          {
+            "kavram": "Scripting Security (Skript Güvenliği)",
+            "aciklama": "Yazılım geliştirme sırasında kullanılan betiklerin (script) güvenliğini sağlama. Hatalı kodlar ve güvenlik açıkları, kötü amaçlı saldırılara yol açabilir."
+          },
+          {
+            "kavram": "Security Risk Assessment (Güvenlik Risk Değerlendirmesi)",
+            "aciklama": "Bir organizasyonun karşılaşabileceği güvenlik risklerini belirlemek ve bu risklere yönelik önlemler geliştirmek amacıyla yapılan değerlendirme."
+          },
+          {
+            "kavram": "Secure Virtual Private Network (VPN) (Güvenli Sanal Özel Ağ)",
+            "aciklama": "İnternet üzerinde güvenli ve şifreli bir bağlantı kurarak, kullanıcıların uzak ağlara güvenli bir şekilde erişmesini sağlayan ağ teknolojisi."
+          },
+          {
+            "kavram": "Secure Web Gateway (Güvenli Web Geçidi)",
+            "aciklama": "Web tabanlı saldırılara karşı koruma sağlamak için kullanılan bir güvenlik cihazı veya yazılımı."
+          },
+          {
+            "kavram": "Security Information and Event Management (SIEM) (Güvenlik Bilgisi ve Olay Yönetimi)",
+            "aciklama": "Sistemden gelen güvenlik verilerini toplayan, analiz eden ve bu verilere dayalı olarak güvenlik tehditlerini tespit eden bir yazılım çözümü."
+          },
+          {
+            "kavram": "Staging Environment (Hazırlık Ortamı)",
+            "aciklama": "Yazılım geliştirme süreçlerinde, yeni özelliklerin veya değişikliklerin test edilip değerlendirilmeden önce, canlı ortamla aynı yapıyı taklit eden geçici bir ortamdır. Bu ortamda yazılım, hataların tespit edilip düzeltilebilmesi için son testlere tabi tutulur."
+          },
+          {
+            "kavram": "SYN Scan (SYN Tarama)",
+            "aciklama": "Bilgisayar ağlarında, bir hedefin açık portlarını tespit etmek için kullanılan bir tarama yöntemidir. SYN paketleri gönderilir ve alınan yanıtlar, portların açık olup olmadığını belirlemeye yardımcı olur."
+          },
+          {
+            "kavram": "Spoofing Software (Sahtekarlık Yazılımı)",
+            "aciklama": "Kullanıcıların veya sistemlerin kimlik bilgilerini taklit eden yazılımlardır. Bu yazılımlar, genellikle kötü niyetli saldırganlar tarafından kimlik hırsızlığı, veri sızdırma veya güvenlik ihlalleri yapmak amacıyla kullanılır."
+          },
+          {
+            "kavram": "Shared Responsibility Model (Paylaşılan Sorumluluk Modeli)",
+            "aciklama": "Bulut hizmetleri sağlayıcıları ile kullanıcılar arasında sorumlulukların nasıl paylaşıldığını belirten bir güvenlik modelidir. Bulut hizmet sağlayıcıları altyapıyı yönetirken, kullanıcılar verilerin güvenliğinden ve uygulama güvenliğinden sorumludur."
+          },
+          {
+            "kavram": "Security Policy (Güvenlik Politikası)",
+            "aciklama": "Bir organizasyonun bilgi güvenliği stratejilerini, kurallarını ve prosedürlerini belirleyen yazılı bir belgedir. Bu politika, güvenlik tehditlerini önlemek, tespit etmek ve bunlara yanıt vermek için kullanılan yönergeleri içerir."
+          },
+          {
+            "kavram": "Secure Socket Layer (SSL) (Güvenli Yuva Katmanı)",
+            "aciklama": "İnternet üzerinden verilerin güvenli bir şekilde iletilmesini sağlamak için kullanılan bir güvenlik protokolüdür. SSL, verilerin şifrelenerek gönderilmesini sağlar ve genellikle HTTPS ile birlikte kullanılır."
+          },
+          {
+            "kavram": "Safety Protocol (Güvenlik Protokolü)",
+            "aciklama": "Bilgisayar ağlarında veya sistemlerde, veri iletimi sırasında güvenliği sağlamak için kullanılan kurallar ve standartlar bütünüdür. Bu protokoller, veri şifrelemesi, kimlik doğrulama ve yetkilendirme gibi güvenlik önlemlerini içerir."
+          },
+          {
+            "kavram": "Security Incident Response Plan (SIRP) (Güvenlik Olay Yanıt Planı)",
+            "aciklama": "Bir güvenlik olayı (örneğin, veri ihlali veya siber saldırı) meydana geldiğinde, organizasyonun nasıl tepki vereceğini ve durumu nasıl yöneteceğini belirleyen önceden hazırlanmış bir planıdır."
+          },
+          {
+            "kavram": "Security Misconfiguration (Güvenlik Yanlış Yapılandırması)",
+            "aciklama": "Sistemlerin veya uygulamaların yanlış yapılandırılması sonucu ortaya çıkan güvenlik açıklarıdır. Bu tür hatalar, kötü niyetli kullanıcıların sisteme sızmasına veya veri sızıntılarına yol açabilir."
+          },
+          {
+            "kavram": "Service Pack Update (Hizmet Paketi Güncellemesi)",
+            "aciklama": "Yazılım veya işletim sistemine yönelik önemli hata düzeltmeleri, güvenlik yamaları ve yeni özellikler içeren büyük güncellemelerdir. Bu güncellemeler genellikle yazılımın stabilitesini artırmayı ve güvenliğini sağlamayı amaçlar."
+          },
+          {
+            "kavram": "System Administration (Sistem Yönetimi)",
+            "aciklama": "Bilgisayar sistemlerinin ve ağlarının düzgün çalışmasını sağlamak için yapılan yönetimsel işlemler bütünüdür. Bu görevler arasında sistem kurulumu, yapılandırma, bakım ve güvenlik önlemleri almak yer alır."
+          },
+          {
+            "kavram": "Security Incident (Güvenlik Olayı)",
+            "aciklama": "Bir organizasyonun bilgi güvenliğini tehdit eden veya ihlal eden her türlü olaydır. Bu olaylar veri ihlalleri, siber saldırılar veya iç tehditler gibi durumlar olabilir."
+          },
+          {
+            "kavram": "Sleuthing (Dedektiflik)",
+            "aciklama": "Bir olayın veya suçun izini sürme ve çözme faaliyetidir. Bilgi güvenliği bağlamında, şüpheli faaliyetleri tespit etmek ve güvenlik ihlallerinin kaynağını araştırmak için yapılan analizlerdir."
+          },
+          {
+            "kavram": "Session Management Protocol (Oturum Yönetim Protokolü)",
+            "aciklama": "Web uygulamalarında, kullanıcıların oturumlarını güvenli bir şekilde yönetmek için kullanılan protokollerdir. Bu protokoller, oturum açma, kimlik doğrulama ve oturum sonlandırma işlemleri sırasında güvenliği sağlamaya yardımcı olur."
+          },
+          {
+            "kavram": "Security Information and Event Management System (SIEM) (Güvenlik Bilgisi ve Olay Yönetim Sistemi)",
+            "aciklama": "Bir organizasyonun güvenlik olaylarını ve bilgilerini toplayan, analiz eden ve raporlayan bir sistemdir. SIEM sistemleri, güvenlik tehditlerini tespit etmek ve güvenlik yanıtlarını optimize etmek için kullanılır."
+          }
+
+
+    ]
+}

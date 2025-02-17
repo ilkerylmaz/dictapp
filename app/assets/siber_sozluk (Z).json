@@ -1,0 +1,407 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "Zero-Day Attack",
+            "aciklama": "Bir güvenlik açığının keşfedilmesinden hemen sonra, yamanmadan önce yapılan saldırılar."
+          },
+          {
+            "kavram": "Zero-Day Exploit",
+            "aciklama": "Bilinen ancak yamanmamış güvenlik açıklarının kötüye kullanılmasına yönelik yazılımlar."
+          },
+          {
+            "kavram": "Zero Trust Architecture",
+            "aciklama": "Herkesin ve her şeyin güvenilir olmadığı, her erişimin doğrulama ve yetkilendirme gerektirdiği ağ güvenlik modeli."
+          },
+          {
+            "kavram": "Zero Trust Security",
+            "aciklama": "Sıfır güven ilkesini uygulayarak, her ağ bağlantısının doğrulama ve güvenlik taramasına tabi tutulduğu güvenlik yaklaşımı."
+          },
+          {
+            "kavram": "Zettabyte",
+            "aciklama": "1 zettabyte, 10^21 bayt olarak tanımlanan, veri depolamada büyük bir ölçü birimidir."
+          },
+          {
+            "kavram": "Zigbee",
+            "aciklama": "Düşük güç tüketimi ile kısa mesafeli kablosuz iletişim sağlayan bir protokol, genellikle IoT (Nesnelerin İnterneti) cihazlarında kullanılır."
+          },
+          {
+            "kavram": "Zombie",
+            "aciklama": "Kötü amaçlı yazılımlar tarafından kontrol edilen bilgisayarlar veya cihazlar, genellikle botnetlerde kullanılır."
+          },
+          {
+            "kavram": "Zombie Computer",
+            "aciklama": "Kötü amaçlı yazılım tarafından ele geçirilip uzaktan kontrol edilen bilgisayar."
+          },
+          {
+            "kavram": "Z-Wave",
+            "aciklama": "Ev otomasyonu için kullanılan düşük güç tüketimli kablosuz iletişim protokolü."
+          },
+          {
+            "kavram": "ZKP (Zero-Knowledge Proof)",
+            "aciklama": "Bir tarafın, diğer tarafa herhangi bir bilgi ifşa etmeden bir iddiayı doğrulaması için kullanılan kriptografik yöntem."
+          },
+          {
+            "kavram": "Zscaler",
+            "aciklama": "Bulut tabanlı güvenlik platformu, ağları tehditlere karşı korumak için kullanılır."
+          },
+          {
+            "kavram": "Zimbra",
+            "aciklama": "E-posta ve işbirliği yazılımı platformu."
+          },
+          {
+            "kavram": "ZigBee Security",
+            "aciklama": "ZigBee protokolündeki cihazların güvenliğini sağlamak için alınan önlemler."
+          },
+          {
+            "kavram": "Zoning",
+            "aciklama": "Bir ağda belirli alanların izole edilmesi ve yalnızca belirli erişimlerin sağlanması için kullanılan güvenlik stratejisi."
+          },
+          {
+            "kavram": "Zephyr",
+            "aciklama": "Açık kaynaklı bir gerçek zamanlı işletim sistemi, genellikle IoT cihazlarında kullanılır."
+          },
+          {
+            "kavram": "Zerologon",
+            "aciklama": "Windows Server'da bulunan ve kritik sistemlere erişim sağlayan güvenlik açığı."
+          },
+          {
+            "kavram": "Z-Wave Security",
+            "aciklama": "Z-Wave protokolü üzerinde güvenlik önlemlerini içeren uygulamalar."
+          },
+          {
+            "kavram": "Zero Trust Network Access (ZTNA)",
+            "aciklama": "Sıfır güven ilkesine dayalı olarak, ağlara erişim sağlanmadan önce kimlik doğrulaması ve yetkilendirme yapılması."
+          },
+          {
+            "kavram": "ZigBee Security Framework",
+            "aciklama": "ZigBee cihazlarının güvenliğini sağlamak için geliştirilen yapısal bir çerçeve."
+          },
+          {
+            "kavram": "Zero-Knowledge Authentication",
+            "aciklama": "Kullanıcının kimliğini doğrulamak için bilgilerini paylaşmadan yapılan kimlik doğrulama yöntemi."
+          },
+          {
+            "kavram": "Zcash",
+            "aciklama": "Gizlilik odaklı bir kripto para birimi, işlem bilgilerini gizli tutar."
+          },
+          {
+            "kavram": "ZigBee IoT Security",
+            "aciklama": "ZigBee protokolü ile çalışan IoT cihazlarının güvenliği için alınan önlemler."
+          },
+          {
+            "kavram": "Zero-Day Vulnerability",
+            "aciklama": "Henüz keşfedilmemiş veya yamanmamış bir güvenlik açığı."
+          },
+          {
+            "kavram": "Zebra Scanner",
+            "aciklama": "NFC ve barkod tarayıcıları için kullanılan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Zero-Footprint Authentication",
+            "aciklama": "Kullanıcı aktivitelerini izlemeyen bir kimlik doğrulama yöntemi."
+          },
+          {
+            "kavram": "Zimbra Collaboration Suite",
+            "aciklama": "E-posta ve işbirliği platformu, grup çalışması için araçlar sunar."
+          },
+          {
+            "kavram": "Zebra Printer",
+            "aciklama": "Güvenlik önlemleri almış yazıcılar."
+          },
+          {
+            "kavram": "Zyxel",
+            "aciklama": "Ağ donanımları üreten ve güvenlik çözümleri sunan bir firma."
+          },
+          {
+            "kavram": "Zombie Botnet",
+            "aciklama": "Birçok zombi bilgisayarın uzaktan kontrol altında tutulduğu kötü amaçlı yazılım ağı."
+          },
+          {
+            "kavram": "Zero-Day Defense",
+            "aciklama": "Sıfırıncı gün açıklara karşı alınan savunma önlemleri."
+          },
+          {
+            "kavram": "Zeus Trojan",
+            "aciklama": "Bankacılık bilgilerini çalmaya yönelik kötü amaçlı yazılım."
+          },
+          {
+            "kavram": "ZFS",
+            "aciklama": "Zettabyte Dosya Sistemi, büyük miktarda veri depolamak için kullanılan dosya sistemidir."
+          },
+          {
+            "kavram": "Zygote",
+            "aciklama": "Android cihazlarda işlem başlatma mekanizması, yeni uygulamaların hızlı bir şekilde başlatılmasını sağlar."
+          },
+          {
+            "kavram": "Zigbee Smart Home",
+            "aciklama": "ZigBee protokolü ile çalışan akıllı ev cihazları."
+          },
+          {
+            "kavram": "Zero Trust Data Security",
+            "aciklama": "Verilerin korunması için sıfır güven modelinin uygulanması."
+          },
+          {
+            "kavram": "Zint",
+            "aciklama": "Açık kaynaklı barkod oluşturma yazılımı."
+          },
+          {
+            "kavram": "Zotob",
+            "aciklama": "Bilgisayarları etkileyen bir tür solucan virüsü."
+          },
+          {
+            "kavram": "Zeno Security",
+            "aciklama": "Bir güvenlik çözümü sağlayıcısı."
+          },
+          {
+            "kavram": "Zephyr Project",
+            "aciklama": "IoT cihazları için açık kaynaklı bir işletim sistemi geliştirme projesi."
+          },
+          {
+            "kavram": "Zed Attack Proxy (ZAP)",
+            "aciklama": "Açık kaynaklı bir güvenlik testi aracıdır, web uygulamaları için zafiyetleri tespit eder."
+          },
+          {
+            "kavram": "Zain",
+            "aciklama": "İletişim sağlayıcılarının ağ güvenliğini sağlayan bir hizmet."
+          },
+          {
+            "kavram": "Z-Wave Alliance",
+            "aciklama": "Z-Wave protokolünün geliştirilmesi ve güvenliğini sağlamak için kurulmuş bir organizasyon."
+          },
+          {
+            "kavram": "Zero-Day Exploit Kit",
+            "aciklama": "Sıfırıncı gün açıklara yönelik saldırılar gerçekleştiren yazılım kitleri."
+          },
+          {
+            "kavram": "Zed",
+            "aciklama": "Güvenlik tehditlerine karşı bir test aracı, yazılım güvenliği açıklarını test etmek için kullanılır."
+          },
+          {
+            "kavram": "Zeroconf",
+            "aciklama": "Ağ üzerinde cihazların otomatik olarak yapılandırılmasını sağlayan bir teknoloji."
+          },
+          {
+            "kavram": "Zipping",
+            "aciklama": "Verilerin sıkıştırılması işlemi, bazen şifreleme de içerebilir."
+          },
+          {
+            "kavram": "Zoolz",
+            "aciklama": "Bulut tabanlı yedekleme ve veri güvenliği çözümü."
+          },
+          {
+            "kavram": "ZebOS",
+            "aciklama": "Ağ donanımları için açık kaynaklı bir işletim sistemi."
+          },
+          {
+            "kavram": "Zipping Malware",
+            "aciklama": "Sıkıştırılmış dosyalar içinde gizlenen kötü amaçlı yazılımlar."
+          },
+          {
+            "kavram": "Zero-Day Patch",
+            "aciklama": "Sıfırıncı gün açıklarına karşı yayımlanan yamalar, güvenlik açıklarını kapatmak için kullanılır."
+          },
+          {
+            "kavram": "Zero Trust Policy (Sıfır Güven Politikası)",
+            "aciklama": "Kullanıcılar ve cihazlar için sürekli doğrulama gerektiren güvenlik politikası. Herhangi bir erişim isteği, güvenilir kabul edilmeden önce doğrulanır."
+          },
+          {
+            "kavram": "Zero-Day Attack Surface (Sıfırıncı Gün Saldırısı Yüzeyi)",
+            "aciklama": "Saldırıya açık noktalar ve açıklara verilen isim. Sıfırıncı gün saldırılarının hedef aldığı, güvenlik açığı barındıran sistemlerin yüzeyi."
+          },
+          {
+            "kavram": "Z2Z (Zero-to-Zero) (Veri İletişimi İçin Sıfırdan Sıfıra Güvenlik)",
+            "aciklama": "Veri iletimi sırasında sıfır güvenlik ilkesine dayalı bir güvenlik mekanizması."
+          },
+          {
+            "kavram": "ZigBee Device Security (ZigBee Cihaz Güvenliği)",
+            "aciklama": "ZigBee protokolü kullanan cihazlarda güvenlik önlemleri. Akıllı ev cihazları gibi IoT cihazları için güvenliği sağlamak."
+          },
+          {
+            "kavram": "Zotob Virus (Zotob Virüsü)",
+            "aciklama": "Bir tür kötü amaçlı yazılım (virüs) olup, bilgisayarları hedef alarak zarar verir."
+          },
+          {
+            "kavram": "Zombie Clicker Bot (Zombi Tıklayıcı Bot)",
+            "aciklama": "Bir web sayfasında tıklamaları simüle eden, otomatik olarak çalışan kötü amaçlı bot."
+          },
+          {
+            "kavram": "ZPA (Zscaler Private Access) (Zscaler Özel Erişim)",
+            "aciklama": "Zscaler platformunun bir özelliği olup, güvenli ağ erişimi sağlar."
+          },
+          {
+            "kavram": "Zio",
+            "aciklama": "Web tabanlı bir güvenlik aracıdır."
+          },
+          {
+            "kavram": "Zygote Malware (Zygote Kötü Amaçlı Yazılım)",
+            "aciklama": "Android cihazlar için tasarlanmış kötü amaçlı yazılım."
+          },
+          {
+            "kavram": "Zero-Day Risk (Sıfırıncı Gün Riski)",
+            "aciklama": "Sıfırıncı gün açıklarından kaynaklanan güvenlik riski. Henüz düzeltilmemiş bir güvenlik açığının yol açabileceği tehlike."
+          },
+          {
+            "kavram": "Zika Security (Zika Güvenliği)",
+            "aciklama": "Zika virüsünün yayılmasını engellemek amacıyla alınan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Zebra Security (Zebra Güvenliği)",
+            "aciklama": "Zebra markasının ürünleri için alınan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Zapping",
+            "aciklama": "Ağdaki zararlı aktiviteleri engelleme veya kontrol etme."
+          },
+          {
+            "kavram": "ZAD (Zero-Day Attack Detection) (Sıfırıncı Gün Saldırısı Tespiti)",
+            "aciklama": "Sıfırıncı gün saldırılarını tespit etmeye yönelik sistemler veya teknikler."
+          },
+          {
+            "kavram": "ZHS (Zero-Hour Security) (Acil Güvenlik Tedbirleri)",
+            "aciklama": "Güvenlik açıklarına karşı hızlı bir şekilde uygulanan acil tedbirler."
+          },
+          {
+            "kavram": "ZTP (Zero Touch Provisioning) (Sıfır Dokunma Yapılandırması)",
+            "aciklama": "Ağ cihazlarının otomatik olarak, kullanıcı müdahalesi olmadan yapılandırılması."
+          },
+          {
+            "kavram": "Zigi",
+            "aciklama": "Ağda ve IoT cihazlarında güvenlik için kullanılan bir yazılım."
+          },
+          {
+            "kavram": "Zevra",
+            "aciklama": "Gelişmiş şifreleme çözümleri sağlayan bir firma."
+          },
+          {
+            "kavram": "Zero-Day Malware (Sıfırıncı Gün Kötü Amaçlı Yazılım)",
+            "aciklama": "Sıfırıncı gün açıklıklarından yararlanan kötü amaçlı yazılım."
+          },
+          {
+            "kavram": "Z-Wave Device (Z-Wave Cihazı)",
+            "aciklama": "Akıllı evler için kullanılan güvenli cihazlar."
+          },
+          {
+            "kavram": "Zeropoint",
+            "aciklama": "Bir güvenlik uygulaması veya yazılım platformu."
+          },
+          {
+            "kavram": "ZDA (Zero-Day Attack) (Sıfırıncı Gün Saldırısı)",
+            "aciklama": "Sistemlerdeki sıfırıncı gün açıklarından faydalanarak yapılan saldırılar."
+          },
+          {
+            "kavram": "Zero-Day Patching System (Sıfırıncı Gün Yama Sistemi)",
+            "aciklama": "Sıfırıncı gün açıklarına karşı sistemleri korumak için yayımlanan yamalar."
+          },
+          {
+            "kavram": "Zed Test (Zed Test)",
+            "aciklama": "Güvenlik açıklarını tespit etmek için kullanılan araç."
+          },
+          {
+            "kavram": "Z-Risk (Z-Risk)",
+            "aciklama": "Risk yönetimi için kullanılan bir yazılım veya uygulama."
+          },
+          {
+            "kavram": "Zielos",
+            "aciklama": "Bir ağ güvenliği yönetim aracı."
+          },
+          {
+            "kavram": "Zero-Day Event (Sıfırıncı Gün Olayı)",
+            "aciklama": "Bir sıfırıncı gün açığının keşfi ve bundan kaynaklanan olay."
+          },
+          {
+            "kavram": "Zero-Gap Security (Sıfır Boşluk Güvenliği)",
+            "aciklama": "Tam güvenlik önlemi sağlayarak herhangi bir güvenlik açığı bırakmama yaklaşımı."
+          },
+          {
+            "kavram": "Z-Wave Protocol (Z-Wave Protokolü)",
+            "aciklama": "Kablosuz iletişimde kullanılan bir protokol, genellikle akıllı ev cihazlarında kullanılır."
+          },
+          {
+            "kavram": "Zebra Network Security (Zebra Ağ Güvenliği)",
+            "aciklama": "Zebra ürünlerinin ağ güvenliğini sağlamak için alınan önlemler."
+          },
+          {
+            "kavram": "Zarcus",
+            "aciklama": "Gelişmiş güvenlik araçları sağlayan bir firma."
+          },
+          {
+            "kavram": "Zipsy",
+            "aciklama": "Bir güvenlik yazılımı veya aracının adı."
+          },
+          {
+            "kavram": "Zero-Phishing (Sıfır Phishing)",
+            "aciklama": "Kimlik avı (phishing) saldırılarına karşı korunma yöntemleri."
+          },
+          {
+            "kavram": "Zoonotic Threats (Zoonotik Tehditler)",
+            "aciklama": "Hayvanlardan insanlara geçebilecek tehditler."
+          },
+          {
+            "kavram": "Zero-Footprint Security (Sıfır Ayak İzi Güvenliği)",
+            "aciklama": "Kullanıcı etkinliği izlenmeden sağlanan güvenlik önlemi."
+          },
+          {
+            "kavram": "Zenith",
+            "aciklama": "Gelişmiş güvenlik çözümleri sağlayan bir firma."
+          },
+          {
+            "kavram": "Z-Gate (Z-Gate)",
+            "aciklama": "Ağ geçidi ve güvenlik yönetim platformu."
+          },
+          {
+            "kavram": "Znano",
+            "aciklama": "Güvenlik testi yapan yazılım veya araç."
+          },
+          {
+            "kavram": "Zeratul",
+            "aciklama": "Bir güvenlik yazılımı ve test çözümü."
+          },
+          {
+            "kavram": "Z-Secure (Z-Secure)",
+            "aciklama": "Bir güvenlik şirketi veya uygulaması."
+          },
+          {
+            "kavram": "Zero Risk (Sıfır Risk)",
+            "aciklama": "Güvenlik risklerini tamamen ortadan kaldıran güvenlik yaklaşımı."
+          },
+          {
+            "kavram": "Zeta Security (Zeta Güvenliği)",
+            "aciklama": "Güvenlik çözümleri sağlayan bir firma."
+          },
+          {
+            "kavram": "Zephyr OS Security (Zephyr OS Güvenliği)",
+            "aciklama": "Zephyr işletim sisteminin güvenliği."
+          },
+          {
+            "kavram": "Zebra Cybersecurity (Zebra Siber Güvenliği)",
+            "aciklama": "Zebra'nın siber güvenlik çözümleri."
+          },
+          {
+            "kavram": "Zigbee IoT Security Framework (Zigbee IoT Güvenlik Çerçevesi)",
+            "aciklama": "Zigbee IoT cihazlarının güvenliğini sağlamak için kullanılan çerçeve."
+          },
+          {
+            "kavram": "Zero Trust Infrastructure (Sıfır Güven Altyapısı)",
+            "aciklama": "Sıfır güven yaklaşımını altyapı düzeyinde uygulamak."
+          },
+          {
+            "kavram": "Ziva Botnet (Ziva Botnet)",
+            "aciklama": "Botnet ağlarını kullanan kötü amaçlı yazılım."
+          },
+          {
+            "kavram": "ZigBee Protocol Security (ZigBee Protokolü Güvenliği)",
+            "aciklama": "ZigBee protokolünde güvenliği sağlamak için alınan önlemler."
+          },
+          {
+            "kavram": "Z-Value Cyber Protection (Z-Value Siber Koruma)",
+            "aciklama": "Z-Value tarafından sağlanan siber güvenlik çözümleri."
+          },
+          {
+            "kavram": "Zinc Cipher (Zinc Şifreleme)",
+            "aciklama": "Güvenli veri şifreleme teknolojisi."
+          }
+
+
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924516130958",
+    "project_id": "dictapp-c3401",
+    "storage_bucket": "dictapp-c3401.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924516130958:android:a23ddd9f009365aeb4e9df",
+        "android_client_info": {
+          "package_name": "com.example.dictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_kS3P00PFdlupqSrPhO2d1StgGT1Vt1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

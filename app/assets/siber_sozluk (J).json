@@ -1,0 +1,46 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "JavaScript Injection (JavaScript Enjeksiyonu)",
+            "aciklama": "Web uygulamalarında güvenlik açığına neden olan ve kötü niyetli JavaScript kodlarının enjekte edilerek çalıştırıldığı saldırı türüdür. Bu saldırılar, kullanıcı oturumlarını çalmak veya veri manipülasyonu yapmak için kullanılır."
+          },
+          {
+            "kavram": "Jailbreaking (Cihaz Kırma)",
+            "aciklama": "Mobil cihazlarda, genellikle iOS işletim sisteminde, üretici tarafından uygulanan yazılım kısıtlamalarını kaldırma işlemidir. Bu işlem, kullanıcıya sistem üzerinde tam kontrol sağlarken, güvenlik risklerini artırabilir."
+          },
+          {
+            "kavram": "Java Security Manager (Java Güvenlik Yöneticisi)",
+            "aciklama": "Java uygulamalarında, uygulama kodlarının belirli bir güvenlik politikası çerçevesinde çalıştırılmasını sağlayan bir güvenlik mekanizmasıdır."
+          },
+          {
+            "kavram": "Joint Task Force for Cybersecurity (Siber Güvenlik için Ortak Görev Gücü)",
+            "aciklama": "Farklı kuruluşlar arasında siber güvenlik tehditlerini önlemek veya tespit etmek amacıyla kurulan iş birliği grubu."
+          },
+          {
+            "kavram": "JSON Web Token (JWT) (JSON Web Belirteci)",
+            "aciklama": "Kimlik doğrulama ve bilgi alışverişi için kullanılan, JSON formatında bir belirteçtir. İmzalı olduğu için güvenilir bir şekilde veri taşır."
+          },
+          {
+            "kavram": "Java KeyStore (JKS) (Java Anahtar Deposu)",
+            "aciklama": "Java uygulamalarında şifreleme anahtarlarını ve sertifikaları güvenli bir şekilde saklamak için kullanılan bir depolama yapısıdır."
+          },
+          {
+            "kavram": "Job Monitoring System (İş İzleme Sistemi)",
+            "aciklama": "İş süreçlerini veya görevleri izlemek, performansını değerlendirmek ve gerektiğinde müdahale etmek için kullanılan bir sistemdir."
+          },
+          {
+            "kavram": "Java Cryptography Extension (JCE) (Java Kriptografi Uzantısı)",
+            "aciklama": "Java uygulamalarında gelişmiş şifreleme ve güvenlik işlevlerini sağlayan bir uzantıdır."
+          },
+          {
+            "kavram": "Juice Jacking (USB Dolandırıcılığı)",
+            "aciklama": "Kamuya açık USB şarj noktalarından cihazın bağlanması sırasında verilerin çalınması veya kötü amaçlı yazılım yüklenmesi saldırısıdır."
+          },
+          {
+            "kavram": "Java Secure Socket Extension (JSSE) (Java Güvenli Soket Uzantısı)",
+            "aciklama": "Java uygulamalarında güvenli internet bağlantıları kurmak için SSL ve TLS protokollerini destekleyen bir uzantıdır."
+          }
+
+    ]
+}

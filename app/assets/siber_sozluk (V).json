@@ -1,0 +1,506 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "Vulnerability (Güvenlik Açığı)",
+            "aciklama": "Bir sistemin, uygulamanın veya ağın kötü niyetli saldırılara karşı savunmasız olduğu bir zayıflık veya hatadır."
+          },
+          {
+            "kavram": "Virus (Virüs)",
+            "aciklama": "Bilgisayar sistemlerine zarar veren ve çoğalabilen kötü amaçlı yazılım. Genellikle sistemdeki dosyaları hedef alır."
+          },
+          {
+            "kavram": "Virtual Private Network (VPN) - Sanal Özel Ağ",
+            "aciklama": "İnternet üzerinden güvenli bir bağlantı sağlayan ve verilerin şifrelenmesini sağlayan bir ağ yapısı."
+          },
+          {
+            "kavram": "Virtual Machine (VM) - Sanal Makine",
+            "aciklama": "Fiziksel bir bilgisayarın donanımını taklit eden ve üzerinde farklı işletim sistemlerinin çalışmasına olanak tanıyan yazılım tabanlı bir sistem."
+          },
+          {
+            "kavram": "Verification (Doğrulama)",
+            "aciklama": "Bir bilginin, işlemin ya da kimliğin doğru olduğunu, geçerli olduğunu onaylama süreci."
+          },
+          {
+            "kavram": "Vishing (Sesli Phishing - Sesli Dolandırıcılık)",
+            "aciklama": "Telefon aracılığıyla yapılan dolandırıcılık yöntemidir, genellikle kişisel bilgilerinizi çalmak amacıyla yapılır."
+          },
+          {
+            "kavram": "Validation (Doğrulama)",
+            "aciklama": "Bir sistemin veya verinin belirli kriterlere uygun olduğunu kontrol etme işlemi."
+          },
+          {
+            "kavram": "Visual Cryptography (Görsel Kriptografi)",
+            "aciklama": "Veriyi görsel parçalar halinde şifreleyip sadece doğru parçalara sahip olanın çözmesini sağlayan bir şifreleme tekniği."
+          },
+          {
+            "kavram": "Vulnerability Assessment (Güvenlik Açığı Değerlendirmesi)",
+            "aciklama": "Bir sistemin güvenlik açıklarını belirleyip, bunların ciddiyetini değerlendirme süreci."
+          },
+          {
+            "kavram": "Virtualization (Sanallaştırma)",
+            "aciklama": "Fiziksel donanımlar üzerinde sanal makineler oluşturma süreci. Bu, kaynakların daha verimli kullanılmasını sağlar."
+          },
+          {
+            "kavram": "VPN Tunnel (VPN Tüneli)",
+            "aciklama": "VPN bağlantısı üzerinden verilerin şifreli bir şekilde taşındığı güvenli iletişim yoludur."
+          },
+          {
+            "kavram": "Volatile Memory (Uçucu Bellek)",
+            "aciklama": "Elektrik kesildiğinde verisini kaybeden bellek türüdür. RAM (Rastgele Erişim Belleği) buna örnek verilebilir."
+          },
+          {
+            "kavram": "Virus Definition (Virüs Tanımlaması)",
+            "aciklama": "Virüslerin tanınmasını sağlayan, onları tanımlayan veritabanı bilgisi."
+          },
+          {
+            "kavram": "Vulnerability Scanner (Güvenlik Açığı Tarayıcısı)",
+            "aciklama": "Sistemlerdeki güvenlik açıklarını tespit eden yazılım araçları."
+          },
+          {
+            "kavram": "Virtual Host (Sanal Sunucu)",
+            "aciklama": "Fiziksel bir sunucunun üzerinde birden fazla sanal sunucunun çalışabilmesini sağlayan yapı."
+          },
+          {
+            "kavram": "Vault (Güvenli Depo)",
+            "aciklama": "Verilerin şifrelenmiş şekilde güvenli bir şekilde saklandığı alan."
+          },
+          {
+            "kavram": "Version Control (Sürüm Kontrolü)",
+            "aciklama": "Yazılım geliştirme sürecinde, dosyaların geçmiş versiyonlarını takip etme ve yönetme tekniği."
+          },
+          {
+            "kavram": "Virtual Firewall (Sanal Güvenlik Duvarı)",
+            "aciklama": "Fiziksel bir güvenlik duvarının sanal ortamda çalışan versiyonudur."
+          },
+          {
+            "kavram": "Vulnerability Database (Güvenlik Açığı Veritabanı)",
+            "aciklama": "Bilinen güvenlik açıklarının listelendiği ve analiz edilebileceği bir veritabanı."
+          },
+          {
+            "kavram": "Virtual LAN (VLAN) - Sanal Yerel Ağ",
+            "aciklama": "Aynı fiziksel ağ üzerinde mantıksal olarak ayrılmış, birbirinden bağımsız çalışan ağ segmentleri."
+          },
+          {
+            "kavram": "Vulnerability Management (Güvenlik Açığı Yönetimi)",
+            "aciklama": "Güvenlik açıklarının tespiti, analizi, iyileştirilmesi ve yönetilmesi süreci."
+          },
+          {
+            "kavram": "Voice over IP (VoIP) - İnternet Protokolü Üzerinden Ses",
+            "aciklama": "Sesli iletişimin internet üzerinden yapılmasına olanak sağlayan teknoloji."
+          },
+          {
+            "kavram": "Validation Code (Doğrulama Kodu)",
+            "aciklama": "Bir işlemin veya kimliğin doğruluğunu kontrol etmek için kullanılan kod."
+          },
+          {
+            "kavram": "Vector (Vektör)",
+            "aciklama": "Bir saldırının başlangıç noktası veya yolu, genellikle güvenlik açıklarından yararlanmak için kullanılır."
+          },
+          {
+            "kavram": "Virtualized Security (Sanallaştırılmış Güvenlik)",
+            "aciklama": "Sanal ortamlar için güvenlik önlemleri ve araçlarının uygulanması."
+          },
+          {
+            "kavram": "Volume Encryption (Hacim Şifrelemesi)",
+            "aciklama": "Bir sabit disk veya taşınabilir depolama biriminin tamamını şifreleme işlemi."
+          },
+          {
+            "kavram": "Virus Signature (Virüs İmzası)",
+            "aciklama": "Bir virüsü tanımlamak için kullanılan özel bir dizi kod veya model."
+          },
+          {
+            "kavram": "Vulnerability Exploit (Güvenlik Açığı Sömürüsü)",
+            "aciklama": "Bir güvenlik açığından yararlanarak sisteme zarar verme veya erişim sağlama eylemi."
+          },
+          {
+            "kavram": "Virtual Security (Sanal Güvenlik)",
+            "aciklama": "Sanal ortamda kullanılan güvenlik önlemleri ve çözümleri."
+          },
+          {
+            "kavram": "Vulnerability Testing (Güvenlik Açığı Testi)",
+            "aciklama": "Bir sistemin güvenlik açıklarını tespit etmek amacıyla yapılan testler."
+          },
+          {
+            "kavram": "Virus Removal (Virüs Temizleme)",
+            "aciklama": "Bilgisayar sistemlerinden virüslerin temizlenmesi süreci."
+          },
+          {
+            "kavram": "Vulnerability Disclosure (Güvenlik Açığı İfşası)",
+            "aciklama": "Bir güvenlik açığının halka duyurulması, genellikle geliştiricilere bildirilmesi."
+          },
+          {
+            "kavram": "Value of Information (Bilginin Değeri)",
+            "aciklama": "Bir bilginin organizasyon için taşıdığı ekonomik veya operasyonel değer."
+          },
+          {
+            "kavram": "Verified Identity (Doğrulanmış Kimlik)",
+            "aciklama": "Kimlik doğrulama sürecinden geçmiş, doğruluğu onaylanmış kimlik."
+          },
+          {
+            "kavram": "Victim (Mağdur)",
+            "aciklama": "Bir siber saldırı veya dolandırıcılıktan zarar gören kişi veya kurum."
+          },
+          {
+            "kavram": "Verification Token (Doğrulama Jetonu)",
+            "aciklama": "Bir işlemi doğrulamak için kullanılan geçici, güvenli kod."
+          },
+          {
+            "kavram": "Vault Data (Depolama Verisi)",
+            "aciklama": "Şifrelenmiş ve güvenli bir şekilde saklanan veriler."
+          },
+          {
+            "kavram": "Volatile Storage (Uçucu Depolama)",
+            "aciklama": "Elektrik kesildiğinde verileri kaybeden depolama birimleri (örneğin RAM)."
+          },
+          {
+            "kavram": "Virtual Private Cloud (VPC) - Sanal Özel Bulut",
+            "aciklama": "Bir şirketin özel bulut altyapısının, bir bulut servis sağlayıcısı tarafından sanallaştırılmış bir versiyonu."
+          },
+          {
+            "kavram": "Virus Removal Tool (Virüs Temizleme Aracı)",
+            "aciklama": "Virüsleri tespit edip, bilgisayardan temizlemeye yarayan yazılım."
+          },
+          {
+            "kavram": "Vulnerability Remediation (Güvenlik Açığı İyileştirmesi)",
+            "aciklama": "Bulunan güvenlik açıklarının düzeltilmesi ve iyileştirilmesi işlemi."
+          },
+          {
+            "kavram": "Vulnerability Patching (Güvenlik Açığı Yaması)",
+            "aciklama": "Güvenlik açıklarının giderilmesi için yazılım veya donanım üzerinde yapılan yamalar."
+          },
+          {
+            "kavram": "Visual Password (Görsel Parola)",
+            "aciklama": "Parola doğrulaması için görsel öğelerin kullanıldığı bir güvenlik metodu."
+          },
+          {
+            "kavram": "Virtual Security Appliance (Sanal Güvenlik Cihazı)",
+            "aciklama": "Sanal bir ortamda güvenlik önlemleri sağlayan sanal cihazlar."
+          },
+          {
+            "kavram": "Voice Recognition (Ses Tanıma)",
+            "aciklama": "Sesli komutları tanıyıp anlayan bir teknoloji."
+          },
+          {
+            "kavram": "Vulnerability Reporting (Güvenlik Açığı Raporlama)",
+            "aciklama": "Güvenlik açıklarının yetkili mercilere bildirilmesi süreci."
+          },
+          {
+            "kavram": "Verification Process (Doğrulama Süreci)",
+            "aciklama": "Kimlik doğrulama ve güvenlik kontrollerini içeren işlem dizisi."
+          },
+          {
+            "kavram": "Verifiable Credentials (Doğrulanabilir Kimlik Bilgileri)",
+            "aciklama": "Bir kişinin kimliğini doğrulamak için kullanılan güvenilir bilgilerin kümesi."
+          },
+          {
+            "kavram": "Vulnerability Scan (Güvenlik Taraması)",
+            "aciklama": "Bir sistemdeki potansiyel güvenlik açıklarını tespit etmek amacıyla yapılan taramalar."
+          },
+          {
+            "kavram": "Vulnerability Risk Management (Güvenlik Açığı Risk Yönetimi)",
+            "aciklama": "Güvenlik açıklarının olası etkilerini değerlendirme ve bunlarla ilgili riskleri yönetme süreci."
+          },
+          {
+            "kavram": "Video Surveillance",
+            "aciklama": "Güvenlik amacıyla video kameralarla yapılan izleme. Genellikle bir alandaki faaliyetleri kaydetmek ve izlemek için kullanılır."
+          },
+          {
+            "kavram": "Vaulting",
+            "aciklama": "Verilerin güvenli bir ortamda saklanması. Bu terim, genellikle kritik verilerin yedeklenmesi ve güvenli bir şekilde arşivlenmesini ifade eder."
+          },
+          {
+            "kavram": "Verification System",
+            "aciklama": "Kimlik doğrulama veya işlem onayı yapmak için kullanılan sistem. Kullanıcıların erişimlerini kontrol etmek için kullanılır."
+          },
+          {
+            "kavram": "Vulnerability Detection",
+            "aciklama": "Sistemlerde veya yazılımlarda potansiyel zayıflıkların, hataların veya güvenlik açıklarının keşfedilmesi süreci."
+          },
+          {
+            "kavram": "Virtual Network",
+            "aciklama": "Fiziksel ağ altyapısından bağımsız olarak, yazılım aracılığıyla oluşturulan sanal bir ağ yapısı. Sanal ağlar, farklı fiziksel makinelerde bir arada çalışan ağlar oluşturulmasına olanak sağlar."
+          },
+          {
+            "kavram": "Verification Request",
+            "aciklama": "Bir işlem veya kimlik doğrulaması için istenen onay veya onay süreci talebi."
+          },
+          {
+            "kavram": "Vulnerability Proof of Concept",
+            "aciklama": "Bir güvenlik açığının varlığını gösteren, test edilmiş ve doğrulanmış bir örnek veya demo."
+          },
+          {
+            "kavram": "Verifiable Timestamp",
+            "aciklama": "Belirli bir zaman diliminde bir olayın veya işlemin gerçekleştiğini doğrulayan, güvenli ve değiştirilemez bir zaman kaydı."
+          },
+          {
+            "kavram": "Vishing Attack",
+            "aciklama": "Dolandırıcıların telefon aracılığıyla kimlik bilgilerini veya hassas verileri çalmaya çalıştığı bir tür siber saldırı."
+          },
+          {
+            "kavram": "Virtual Encryption",
+            "aciklama": "Sanal ortamda veri şifreleme. Verilerin güvenliğini sağlamak için şifreleme yöntemleri kullanılır."
+          },
+          {
+            "kavram": "Virtual Security Gateway",
+            "aciklama": "Sanal ağlar için güvenlik duvarı ve filtreleme işlevi gören bir cihaz veya yazılım. Sanal ağlar arasındaki trafiği denetler."
+          },
+          {
+            "kavram": "VPN Protocol",
+            "aciklama": "Sanal özel ağlar (VPN) için kullanılan protokoller. VPN, internet trafiğini şifreleyerek güvenli bir bağlantı sağlar."
+          },
+          {
+            "kavram": "Voice Phishing",
+            "aciklama": "Vishing ile aynı anlama gelir ve telefonla yapılan dolandırıcılığı ifade eder."
+          },
+          {
+            "kavram": "Victim Profiling",
+            "aciklama": "Bir saldırganın, potansiyel kurbanlarının kişisel bilgilerini topladığı ve onları hedef aldığı süreç."
+          },
+          {
+            "kavram": "Vector of Attack",
+            "aciklama": "Bir siber saldırının hedefe ulaşmak için kullandığı yöntem veya yol. Bu, e-posta ekleri, web siteleri veya başka bir zayıflık olabilir."
+          },
+          {
+            "kavram": "Vulnerability Exploitability",
+            "aciklama": "Bir güvenlik açığının kötüye kullanım potansiyeli. Açığın saldırganlar tarafından kullanılma olasılığı."
+          },
+          {
+            "kavram": "Virus Protection",
+            "aciklama": "Virüslerden, zararlı yazılımlardan ve diğer tehditlerden bilgisayarları veya ağları korumak için kullanılan yazılım ve yöntemler."
+          },
+          {
+            "kavram": "Vulnerability Scan Report",
+            "aciklama": "Yapılan güvenlik açığı taramalarının sonuçlarını içeren rapor. Sistemdeki potansiyel açıkları listeler."
+          },
+          {
+            "kavram": "Virtual Desktop Infrastructure (VDI)",
+            "aciklama": "Kullanıcıların sanal makineler aracılığıyla uzaktan masaüstü deneyimi elde etmelerini sağlayan bir altyapı."
+          },
+          {
+            "kavram": "Virtual Network Computing (VNC)",
+            "aciklama": "Bir bilgisayarın ekranını başka bir cihazda görüntüleme ve ona uzaktan erişim sağlama teknolojisi."
+          },
+          {
+            "kavram": "Vulnerability Prevention",
+            "aciklama": "Güvenlik açıklarının oluşumunu engellemeye yönelik önlemler ve stratejiler."
+          },
+          {
+            "kavram": "Volume Shadow Copy",
+            "aciklama": "Veritabanı veya dosya sisteminde yapılan yedekleme türü. Anlık görüntü alarak verilerin geçmiş bir durumunun kopyasını oluşturur."
+          },
+          {
+            "kavram": "Virtual Machine Snapshot",
+            "aciklama": "Sanal bir makinenin o anki durumu hakkında alınan anlık yedek. Sistem geri yüklemesi yapmak için kullanılır."
+          },
+          {
+            "kavram": "Verified Secure Connection",
+            "aciklama": "Şifreleme ve doğrulama işlemleriyle güvenli hale getirilmiş bir bağlantı. Bu bağlantı, güvenli ve doğrulanmış olduğuna dair bir kanıt sunar."
+          },
+          {
+            "kavram": "Vulnerability Analysis",
+            "aciklama": "Mevcut sistemlerdeki potansiyel güvenlik açıklarının derinlemesine incelenmesi ve değerlendirilmesi."
+          },
+          {
+            "kavram": "Validation Process",
+            "aciklama": "Kullanıcı kimlik doğrulaması, verilerin doğruluğu veya başka bir sistemin onayı için izlenen adımlar."
+          },
+          {
+            "kavram": "Virus Scan",
+            "aciklama": "Bilgisayar veya ağdaki zararlı yazılımlar ve virüsler için yapılan tarama işlemi."
+          },
+          {
+            "kavram": "Virtual Machine Isolation",
+            "aciklama": "Sanal makineler arasındaki etkileşimleri sınırlayarak, her sanal makinenin bağımsız çalışmasını sağlamak."
+          },
+          {
+            "kavram": "Vulnerability Warning",
+            "aciklama": "Bir sistemde bulunan potansiyel güvenlik açığı hakkında kullanıcıları bilgilendiren uyarı."
+          },
+          {
+            "kavram": "Volume-based Attack",
+            "aciklama": "Bir hedefe yüksek hacimli veri trafiği göndererek, sistemin kaynaklarını aşırı yüklemeyi amaçlayan saldırı türü."
+          },
+          {
+            "kavram": "Validation Mechanism",
+            "aciklama": "Verilerin, işlemlerin veya kullanıcıların doğruluğunu ve geçerliliğini kontrol etmek için kullanılan sistem veya süreç."
+          },
+          {
+            "kavram": "Virtual Private Server (VPS)",
+            "aciklama": "Fiziksel bir sunucunun sanal olarak bölünmesiyle oluşturulan, her biri bağımsız çalışan sanal sunucular."
+          },
+          {
+            "kavram": "Virtual LAN Segmentation",
+            "aciklama": "Sanal ağlarda farklı ağ segmentleri oluşturma, bu sayede güvenlik ve ağ yönetimi sağlama."
+          },
+          {
+            "kavram": "Virtual Intrusion Detection",
+            "aciklama": "Sanal ortamlarda yapılan güvenlik taramaları ve saldırı tespiti."
+          },
+          {
+            "kavram": "Virtual Server Security",
+            "aciklama": "Sanal sunucularda veri güvenliği sağlamak için alınan önlemler."
+          },
+          {
+            "kavram": "Vulnerability Misuse",
+            "aciklama": "Bir güvenlik açığının kötü niyetli bir şekilde, sistemlere zarar vermek veya veri çalmak için kullanılması."
+          },
+          {
+            "kavram": "Virtualized Network Security",
+            "aciklama": "Sanallaştırılmış ağlar üzerinde güvenlik önlemleri almak."
+          },
+          {
+            "kavram": "Virtualized Infrastructure",
+            "aciklama": "Fiziksel altyapıların sanal ortamda çalışacak şekilde yapılandırılması."
+          },
+          {
+            "kavram": "Verification Failure",
+            "aciklama": "Kimlik doğrulama veya işlem onayında yapılan bir hata."
+          },
+          {
+            "kavram": "Virtualized Environment",
+            "aciklama": "Sanal makineler ve sanallaştırma teknolojileriyle oluşturulmuş çalışma ortamı."
+          },
+          {
+            "kavram": "Virtualized Application",
+            "aciklama": "Uygulamaların sanal ortamda çalışması."
+          },
+          {
+            "kavram": "Virus Injection",
+            "aciklama": "Virüslerin sistemlere yerleştirilmesi ve yayılması işlemi."
+          },
+          {
+            "kavram": "Virtual Firewall Configuration",
+            "aciklama": "Sanal ağlar için güvenlik duvarının yapılandırılması."
+          },
+          {
+            "kavram": "Vulnerability Identification",
+            "aciklama": "Bir sistemdeki güvenlik açıklarının tespit edilmesi süreci."
+          },
+          {
+            "kavram": "Virtual Reality Security",
+            "aciklama": "Sanal gerçeklik ortamlarında güvenlik sağlama."
+          },
+          {
+            "kavram": "Vulnerability Triage",
+            "aciklama": "Tespit edilen güvenlik açıklarının önem derecelerine göre sıralanması."
+          },
+          {
+            "kavram": "Virus Quarantine",
+            "aciklama": "Virüs bulaşmış dosyaların izole edilmesi ve zarar vermelerinin engellenmesi."
+          },
+          {
+            "kavram": "Validation Errors",
+            "aciklama": "Doğrulama sürecindeki hatalar."
+          },
+          {
+            "kavram": "Virtual Identity",
+            "aciklama": "İnternet ortamındaki dijital kimlik."
+          },
+          {
+            "kavram": "Vulnerability Disclosure Policy",
+            "aciklama": "Bulunan güvenlik açıklarının, belirli bir süreçle halka açıklanmasını sağlayan politika."
+          },
+          {
+            "kavram": "Virus Signature Database (Virüs İmza Veritabanı)",
+            "aciklama": "Virüsleri tanımlamak için kullanılan, bilinen virüslerin imzalarını (özelliklerini) içeren bir veritabanıdır. Güvenlik yazılımları bu veritabanını kullanarak bilgisayarları virüslerden korur."
+          },
+          {
+            "kavram": "Vulnerability Trend Analysis (Güvenlik Açığı Eğilim Analizi)",
+            "aciklama": "Zaman içinde ortaya çıkan güvenlik açıklarını analiz ederek, hangi tür açıkların daha yaygın hale geldiğini ve gelecekte hangi tür açıkların tehdit oluşturabileceğini tahmin etme sürecidir."
+          },
+          {
+            "kavram": "Vulnerable Software (Zayıf Yazılım)",
+            "aciklama": "Güvenlik açıklarına sahip ve bu açıklar üzerinden siber saldırılara karşı savunmasız olan yazılımlardır."
+          },
+          {
+            "kavram": "Vulnerability Risk Assessment (Güvenlik Açığı Risk Değerlendirmesi)",
+            "aciklama": "Bir sistemdeki güvenlik açıklarının potansiyel etkilerini ve bu açıkların oluşturabileceği riskleri belirleme sürecidir."
+          },
+          {
+            "kavram": "Verification Failure (Doğrulama Başarısızlığı)",
+            "aciklama": "Bir doğrulama işleminin beklenen sonuca ulaşmaması durumudur. Bu, bir kullanıcı, cihaz veya verinin kimlik doğrulaması sırasında başarısız olmasını ifade eder."
+          },
+          {
+            "kavram": "Virtual IP Address (Sanal IP Adresi)",
+            "aciklama": "Fiziksel bir ağ cihazına bağlı olmayan, sanal olarak atanan ve genellikle ağ yapılandırmalarında kullanılan IP adresidir."
+          },
+          {
+            "kavram": "VPN Tunnel Security (VPN Tünel Güvenliği)",
+            "aciklama": "VPN (Sanal Özel Ağ) tüneli içinde taşınan verilerin güvenliğini sağlamak için kullanılan güvenlik önlemleridir. Bu, veri şifreleme ve kimlik doğrulama gibi teknikleri içerir."
+          },
+          {
+            "kavram": "Vulnerability Report (Güvenlik Açığı Raporu)",
+            "aciklama": "Belirli bir sistemde tespit edilen güvenlik açıklarını ve bunların ciddiyetini detaylandıran rapordur. Bu rapor, açıkların nasıl giderileceği hakkında öneriler de sunar."
+          },
+          {
+            "kavram": "Virtual Host Security (Sanal Sunucu Güvenliği)",
+            "aciklama": "Sanal sunucuların güvenliğini sağlamak için uygulanan güvenlik önlemleri ve yöntemlerdir. Sanal makinelerin ve onların işletim sistemlerinin korunmasını içerir."
+          },
+          {
+            "kavram": "Virus Analysis (Virüs Analizi)",
+            "aciklama": "Bir virüsün davranışlarını, yayılma şekillerini ve etkilerini anlamak için yapılan inceleme sürecidir. Bu analiz, virüslerin tespit edilmesi ve etkili koruma önlemleri geliştirilmesi için kullanılır."
+          },
+          {
+            "kavram": "Vulnerability Assessment Tools (Güvenlik Açığı Değerlendirme Araçları)",
+            "aciklama": "Bir sistemdeki güvenlik açıklarını tespit etmek için kullanılan yazılım ve araçlardır. Bu araçlar, potansiyel tehditleri ve zayıf noktaları belirlemek için kullanılır."
+          },
+          {
+            "kavram": "Virtual File System (VFS) - Sanal Dosya Sistemi",
+            "aciklama": "Fiziksel dosya sistemlerinin ötesinde bir soyutlama sağlayarak, farklı depolama ortamlarına erişimi kolaylaştıran sanal bir dosya yönetim yapısıdır."
+          },
+          {
+            "kavram": "VPN Client (VPN İstemcisi)",
+            "aciklama": "Bir kullanıcının sanal özel ağ (VPN) üzerinden uzak bir ağa bağlanabilmesi için kullanılan yazılımdır. Bu yazılım, VPN tünelini oluşturur ve güvenli bir bağlantı sağlar."
+          },
+          {
+            "kavram": "Virtual Firewall Deployment (Sanal Güvenlik Duvarı Dağıtımı)",
+            "aciklama": "Sanal bir ağ ortamında güvenlik duvarı teknolojisinin kurulması ve yapılandırılmasıdır. Sanal ağlar üzerinde gelen ve giden verileri filtreler."
+          },
+          {
+            "kavram": "Volume Encryption Key (Hacim Şifreleme Anahtarı)",
+            "aciklama": "Bir disk hacminin (örneğin, sabit disk veya SSD) şifrelenmesi için kullanılan anahtar. Bu anahtar, verilere yalnızca yetkili kişiler tarafından erişilmesini sağlar."
+          },
+          {
+            "kavram": "Vulnerability Exploitation Framework (Güvenlik Açığı Sömürü Çerçevesi)",
+            "aciklama": "Bir sistemdeki güvenlik açıklarını tespit etmek ve bu açıkları kullanarak saldırılar gerçekleştirmek için kullanılan yazılımlar ve araçlar setidir."
+          },
+          {
+            "kavram": "Victim Awareness (Mağdur Farkındalığı)",
+            "aciklama": "Bir siber saldırının mağduru olan kişilerin, saldırıların nasıl gerçekleştiği ve kendilerinin nasıl korunabilecekleri konusunda bilgi sahibi olma durumudur."
+          },
+          {
+            "kavram": "Vulnerability Management Policy (Güvenlik Açığı Yönetim Politikası)",
+            "aciklama": "Bir organizasyonun güvenlik açıklarını tespit etme, sınıflandırma, izleme ve düzeltme süreçlerini düzenleyen politika ve prosedürlerdir."
+          },
+          {
+            "kavram": "Virtual Security System (Sanal Güvenlik Sistemi)",
+            "aciklama": "Sanal ortamda güvenliği sağlamak amacıyla kullanılan yazılım ve donanım bileşenlerinin bir araya gelerek oluşturduğu güvenlik sistemidir. Bu sistem, sanal makineler ve sanal ağlar için güvenlik önlemleri içerir."
+          },
+          {
+            "kavram": "Verification Process Design (Doğrulama Süreci Tasarımı)",
+            "aciklama": "Bir doğrulama sisteminin nasıl çalışması gerektiğini belirleyen süreçtir. Bu tasarım, doğrulama adımlarını, yöntemlerini ve doğrulama sırasında gereken kaynakları içerir."
+          },
+          {
+            "kavram": "Vulnerability Access Control (Güvenlik Açığı Erişim Kontrolü)",
+            "aciklama": "Bir güvenlik açığının, yetkisiz kişilerin sisteme erişmesini engellemek amacıyla kontrol edilmesi ve sınırlandırılmasıdır. Erişim kontrolü, potansiyel saldırganların bu açıkları kullanmasını önlemeye yardımcı olur."
+          },
+          {
+            "kavram": "Virus Protection Mechanism (Virüs Koruma Mekanizması)",
+            "aciklama": "Bilgisayar sistemlerinin virüslerden korunması için kullanılan yazılım veya donanım çözümüdür. Bu mekanizmalar, virüslerin tespit edilmesini ve etkisiz hale getirilmesini sağlar."
+          },
+          {
+            "kavram": "Virtual Private Network Client (Sanal Özel Ağ İstemcisi)",
+            "aciklama": "Kullanıcıların VPN üzerinden internete bağlanmalarını sağlayan yazılım veya uygulamadır. Bu istemci, verilerin güvenli bir şekilde iletilmesini sağlar."
+          },
+          {
+            "kavram": "Virtual Proxy (Sanal Proxy)",
+            "aciklama": "İnternet trafiğini bir başka sunucu aracılığıyla yönlendiren ve istemci ile hedef sunucu arasındaki bağlantıyı gizleyen bir sunucudur. Sanal proxy, anonimlik sağlar ve güvenliği artırır."
+          },
+          {
+            "kavram": "Vulnerability Audit (Güvenlik Açığı Denetimi)",
+            "aciklama": "Bir sistemin veya ağın güvenlik açıkları açısından ayrıntılı bir şekilde incelenmesidir. Bu denetim, potansiyel riskleri belirlemeye ve bunları önlemek için gerekli önlemleri almaya yardımcı olur."
+          }
+
+    ]
+}

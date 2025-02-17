@@ -1,0 +1,583 @@
+{
+    "siberGuvenlikKavramlari": [
+
+
+        {
+            "kavram": "Offensive Security (Saldırgan Güvenlik)",
+            "aciklama": "Bir sistemin güvenlik açıklarını test etmek için yapılan, etik hackerlık faaliyetlerini kapsar. Bu, saldırganların sistemlere nasıl girebileceğini ve zafiyetlerin nasıl kullanılabileceğini analiz etmeyi amaçlar."
+          },
+          {
+            "kavram": "Open-Source Software (OSS) (Açık Kaynak Yazılım)",
+            "aciklama": "Kaynağı herkese açık olan ve serbestçe kullanılabilen yazılımdır. Kullanıcılar yazılımı inceleyebilir, değiştirebilir ve dağıtabilir."
+          },
+          {
+            "kavram": "Open Web Application Security Project (OWASP) (Açık Web Uygulama Güvenliği Projesi)",
+            "aciklama": "Web uygulamalarının güvenliğini artırmak için oluşturulmuş bir açık kaynak topluluğudur. En bilinen çalışması, güvenlik riskleri ve en iyi uygulamalar hakkında rehberlik sağlayan 'OWASP Top Ten' listesidir."
+          },
+          {
+            "kavram": "Operating System (OS) (İşletim Sistemi)",
+            "aciklama": "Bilgisayar donanımını yöneten ve yazılımları çalıştıran temel yazılımdır. Windows, Linux ve macOS gibi örnekleri vardır."
+          },
+          {
+            "kavram": "Online Threats (Çevrimiçi Tehditler)",
+            "aciklama": "İnternet üzerinden yapılan saldırılar, virüsler, kimlik hırsızlığı ve diğer siber suçlar gibi çevrimiçi tehditleri ifade eder."
+          },
+          {
+            "kavram": "OpenSSL (Açık SSL)",
+            "aciklama": "İnternet üzerinden güvenli iletişimi sağlamak için kullanılan açık kaynaklı bir yazılım kütüphanesidir. Şifreleme ve şifre çözme işlemlerini sağlar."
+          },
+          {
+            "kavram": "Optical Media (Optik Medya)",
+            "aciklama": "Verileri lazer teknolojisi kullanarak okuma ve yazma işlemi gerçekleştiren depolama cihazlarıdır. CD'ler, DVD'ler ve Blu-ray diskler buna örnektir."
+          },
+          {
+            "kavram": "OAuth (Açık Yetkilendirme)",
+            "aciklama": "Web uygulamaları arasında güvenli bir şekilde veri paylaşımını sağlamak için kullanılan bir açık standarttır. Kullanıcıların şifrelerini paylaşmadan başkalarına erişim yetkisi vermelerini sağlar."
+          },
+          {
+            "kavram": "On-Demand VPN (İhtiyaca Göre VPN)",
+            "aciklama": "VPN bağlantısının sadece ihtiyaç duyulduğunda aktif hale geldiği bir tür VPN hizmetidir. Genellikle daha düşük maliyetli ve verimli bağlantılar sağlar."
+          },
+          {
+            "kavram": "Online Privacy (Çevrimiçi Gizlilik)",
+            "aciklama": "İnternetteki kişisel verilerin ve bilgilerin gizliliğinin korunmasıdır. Çevrimiçi gizlilik, kullanıcıların verilerini izinsiz erişim ve kullanımın önlenmesini içerir."
+          },
+          {
+            "kavram": "Off-Chain Data (Zincir Dışı Veri)",
+            "aciklama": "Blockchain dışında saklanan verilerdir. Blockchain ağlarında işlem yapılmadan önce verilerin güvenliğini sağlamak için kullanılır."
+          },
+          {
+            "kavram": "On-Premises Security (Yerel Güvenlik)",
+            "aciklama": "Bir organizasyonun kendi altyapısı üzerinde uyguladığı güvenlik önlemleridir. Fiziksel cihazlar, ağlar ve yazılımlar yerel güvenlik kapsamında yer alır."
+          },
+          {
+            "kavram": "Out-of-Band Authentication (Bant Dışı Kimlik Doğrulama)",
+            "aciklama": "Kimlik doğrulamanın ana iletişim kanalının dışında bir kanal kullanılarak yapıldığı güvenlik önlemidir. Örneğin, cep telefonuna gönderilen bir doğrulama kodu."
+          },
+          {
+            "kavram": "Operating System Security (İşletim Sistemi Güvenliği)",
+            "aciklama": "İşletim sistemlerinde bulunan güvenlik açıklarının kapatılması ve sistemin dış tehditlere karşı korunmasıdır. Güncellemeler ve güvenlik yamaları bu güvenliği artırır."
+          },
+          {
+            "kavram": "Open Access (Açık Erişim)",
+            "aciklama": "Akademik içeriklerin, araştırma makalelerinin ve verilerin serbestçe erişilebileceği, ücret talep edilmeyen erişim modelidir."
+          },
+          {
+            "kavram": "One-Time Pad (OTP) (Bir Seferlik Pad)",
+            "aciklama": "Şifreleme yöntemlerinden biri olup, her mesaj için bir kez kullanılan rastgele anahtarlar kullanır. Eğer doğru şekilde uygulanırsa, şifrelemenin kırılması imkansızdır."
+          },
+          {
+            "kavram": "Obfuscation (Karmaşıklaştırma)",
+            "aciklama": "Yazılım veya verinin, amacı dışında kullanılmasını engellemek için karmaşıklaştırılmasıdır. Bu, güvenlik amacıyla kodları anlaşılmaz hale getirebilir."
+          },
+          {
+            "kavram": "Outage (Kesinti)",
+            "aciklama": "Bir sistemin, ağın veya hizmetin geçici olarak devre dışı kalması durumudur. Bu durum, genellikle sistem arızaları veya bakım nedeniyle yaşanır."
+          },
+          {
+            "kavram": "Out-of-Band Management (Bant Dışı Yönetim)",
+            "aciklama": "Ağ cihazlarının ve sistemlerinin yönetilmesi için kullanılan, ana ağ dışında çalışan bir yönetim kanalını ifade eder. Bu, ağın çalışmadığı durumlarda bile yönetimi sağlamaya yarar."
+          },
+          {
+            "kavram": "On-the-Fly Encryption (Anlık Şifreleme)",
+            "aciklama": "Verilerin, diskten okunduğu veya diske yazıldığı anda otomatik olarak şifrelenmesi işlemidir. Bu, veri güvenliğini artırır."
+          },
+          {
+            "kavram": "Open Directory (Açık Dizin)",
+            "aciklama": "Bilgisayar ağlarında, ağ kaynaklarına kolayca erişimi sağlayan, merkezi bir dizin hizmetidir. Bu dizin, kullanıcıların ve kaynakların bilgilerini saklar."
+          },
+          {
+            "kavram": "Operating System Hardening (İşletim Sistemi Sertleştirme)",
+            "aciklama": "İşletim sisteminin güvenliğini artırmak için yapılan çeşitli yapılandırmalar ve ayarlamalardır. Zayıf noktaların kapatılması, gereksiz hizmetlerin devre dışı bırakılması gibi işlemleri içerir."
+          },
+          {
+            "kavram": "Online Security Monitoring (Çevrimiçi Güvenlik İzleme)",
+            "aciklama": "İnternetteki potansiyel güvenlik tehditlerinin tespit edilmesi için yapılan sürekli izlemelerdir. Bu, kötü amaçlı yazılımlar, saldırılar ve veri ihlalleri gibi tehditleri erken aşamada tespit etmeye yardımcı olur."
+          },
+          {
+            "kavram": "Organizational Security (Kurumsal Güvenlik)",
+            "aciklama": "Bir organizasyonun bilgi sistemleri, ağlar ve verilerini dış tehditlere karşı korumak için alınan güvenlik önlemleridir. Bu, güvenlik politikaları, erişim kontrolleri ve personel eğitimini içerir."
+          },
+          {
+            "kavram": "Open Authentication (Açık Kimlik Doğrulama)",
+            "aciklama": "Kullanıcı kimliğini doğrulamak için açık kaynaklı veya standartlaştırılmış protokollerin kullanılmasıdır. OAuth ve OpenID gibi protokoller bu kategoriye girer."
+          },
+          {
+            "kavram": "Outbound Filtering (Çıkış Filtreleme)",
+            "aciklama": "Bir ağdan dışarıya giden veri trafiğinin denetlenmesidir. Çıkış filtreleme, kötü amaçlı verilerin dışarıya çıkmasını engelleyebilir."
+          },
+          {
+            "kavram": "Online Identity Theft (Çevrimiçi Kimlik Hırsızlığı)",
+            "aciklama": "Bir kişinin kişisel bilgilerini çalarak, bu bilgileri kötüye kullanma faaliyetidir. Genellikle çevrimiçi ortamda gerçekleşir ve kredi kartı bilgilerinin çalınması gibi durumları kapsar."
+          },
+          {
+            "kavram": "Outsourcing Security (Güvenlik Dış Kaynağa Aktarma)",
+            "aciklama": "Bir organizasyonun güvenlik hizmetlerini dışarıdan bir firmaya verme işlemidir. Bu, organizasyonların kendi güvenlik altyapılarını kurmak yerine profesyonel hizmetlerden yararlanmasını sağlar."
+          },
+          {
+            "kavram": "Online Payment Security (Çevrimiçi Ödeme Güvenliği)",
+            "aciklama": "İnternette yapılan ödeme işlemlerinin güvenliğini sağlamak için alınan önlemlerdir. Şifreleme, iki faktörlü doğrulama ve güvenli ödeme ağ geçitleri bu güvenliği sağlar."
+          },
+          {
+            "kavram": "OpenID (Açık Kimlik)",
+            "aciklama": "Web siteleri ve uygulamalar için kullanıcı kimliğini doğrulamak amacıyla kullanılan bir açık standarttır. Kullanıcıların aynı kimlik bilgilerini birden fazla platformda kullanmalarını sağlar."
+          },
+          {
+            "kavram": "Overflow Attack (Taşma Saldırısı)",
+            "aciklama": "Bir programın bellek sınırlarını aşacak şekilde veri gönderilerek, programın davranışının değiştirilmesi veya sistemin çökertilmesi saldırısıdır."
+          },
+          {
+            "kavram": "Office 365 Security (Office 365 Güvenliği)",
+            "aciklama": "Microsoft Office 365 hizmetlerinin güvenliğini sağlamaya yönelik önlemler ve araçlardır. Kullanıcı kimlik doğrulama, veri şifreleme ve tehdit tespiti bu güvenliği artıran özelliklerdendir."
+          },
+          {
+            "kavram": "Open Cybersecurity Framework (Açık Siber Güvenlik Çerçevesi)",
+            "aciklama": "Siber güvenlik alanında en iyi uygulamaları belirleyen ve kurumların güvenlik stratejilerini oluşturmasına yardımcı olan açık kaynaklı bir çerçevedir."
+          },
+          {
+            "kavram": "Open Communication Protocol (Açık İletişim Protokolü)",
+            "aciklama": "Bir ağda cihazların birbirleriyle iletişim kurmasını sağlayan, standartlara dayalı bir protokoldür. Bu protokoller genellikle açık kaynaklıdır ve şeffaflık sağlar."
+          },
+          {
+            "kavram": "Opt-in Security (Katılım Güvenliği)",
+            "aciklama": "Kullanıcıların, güvenlik önlemleri veya veri paylaşımı konusunda açıkça rıza göstermeleri gereken bir güvenlik modelidir."
+          },
+          {
+            "kavram": "On-Demand Security (İhtiyaca Göre Güvenlik Hizmetleri)",
+            "aciklama": "Kullanıcıların, güvenlik hizmetlerine yalnızca ihtiyaç duyduklarında erişebileceği, esnek ve talebe dayalı hizmetlerdir. Genellikle bulut tabanlı güvenlik çözümleri bu kategoride yer alır."
+          },
+          {
+            "kavram": "Operational Security (Operasyonel Güvenlik)",
+            "aciklama": "Bir organizasyonun günlük operasyonlarını sürdürüken güvenliğini sağlamak amacıyla alınan önlemleri ifade eder. Bilgi güvenliği, personel eğitimleri ve iş süreçlerinin güvenliği bu kapsama girer."
+          },
+          {
+            "kavram": "Outbound Encryption (Çıkış Şifrelemesi)",
+            "aciklama": "Verinin, bir sistemden dışarıya doğru gönderilmeden önce şifrelenmesi işlemidir. Bu, veri iletiminde gizliliği ve güvenliği sağlar."
+          },
+          {
+            "kavram": "Open Source Intelligence (OSINT) (Açık Kaynak İstihbarat)",
+            "aciklama": "İnternetteki ve diğer kamuya açık kaynaklardaki bilgilerin toplanması ve analiz edilmesiyle elde edilen istihbarat verileridir. Bu veriler, güvenlik araştırmaları ve siber saldırılara karşı savunmalar için kullanılabilir."
+          },
+          {
+            "kavram": "Optical Network (Optik Ağ)",
+            "aciklama": "Işık sinyalleri üzerinden veri iletimi sağlayan ağ altyapısıdır. Genellikle fiber optik teknolojisi kullanılarak yüksek hızlı internet bağlantıları ve veri transferi sağlanır."
+          },
+          {
+            "kavram": "OpenFlow (Açık Akış)",
+            "aciklama": "Yazılım tanımlı ağ (SDN) teknolojilerinde kullanılan bir protokoldür. Ağ cihazlarının merkezi bir kontrol ile yönlendirilmesini sağlar ve ağ yöneticilerine daha fazla esneklik sunar."
+          },
+          {
+            "kavram": "Over-the-Air Updates (OTA) (Havadan Güncellemeler)",
+            "aciklama": "Mobil cihazlar, araçlar ve diğer bağlantılı cihazlar için internet üzerinden yapılan uzaktan güncellemeler ve yazılım iyileştirmeleridir."
+          },
+          {
+            "kavram": "On-the-Record Security (Resmi Güvenlik)",
+            "aciklama": "Bir organizasyonun güvenlik politikalarının yazılı olarak belgelenmesi ve resmiyet kazanması durumudur. Resmi güvenlik, uyumluluk ve denetim gerekliliklerini yerine getirir."
+          },
+          {
+            "kavram": "Object-Level Security (Nesne Seviyesi Güvenlik)",
+            "aciklama": "Sistemlerdeki her bir nesne (dosya, veri, uygulama vb.) için ayrı ayrı güvenlik önlemlerinin alındığı bir güvenlik modelidir. Nesnelerin yetkilendirilmesi ve erişim denetimi bu güvenlik yaklaşımına dahildir."
+          },
+          {
+            "kavram": "Offline Authentication (Çevrimdışı Kimlik Doğrulama)",
+            "aciklama": "İnternet bağlantısı olmadan, kimlik doğrulamanın yapılması işlemidir. Bu, çevrimdışı ortamda güvenlik doğrulama yöntemlerinin uygulanmasını sağlar."
+          },
+          {
+            "kavram": "One-Time Use Password (Bir Seferlik Şifre)",
+            "aciklama": "Her giriş için farklı ve yalnızca bir kez kullanılan şifredir. Genellikle çok faktörlü kimlik doğrulama (MFA) sistemlerinde kullanılır."
+          },
+          {
+            "kavram": "Optical Character Recognition (OCR) (Optik Karakter Tanıma)",
+            "aciklama": "Basılı veya yazılı belgelerdeki metinleri dijital formata dönüştürmek için kullanılan bir teknolojidir. OCR, taranmış belgelerden metin çıkarılmasını sağlar."
+          },
+          {
+            "kavram": "Operational Risk (Operasyonel Risk)",
+            "aciklama": "Bir organizasyonun iş süreçlerinde meydana gelen, hata, aksaklık veya dış faktörlerden kaynaklanan risklerdir. Sistem arızaları, personel hataları veya yasal sorunlar operasyonel riskler arasında yer alır."
+          },
+          {
+            "kavram": "On-Demand Scanning (İhtiyaca Göre Tarama)",
+            "aciklama": "Kullanıcıların, belirli bir zaman diliminde ihtiyaç duyduklarında, zararlı yazılımlar veya güvenlik açıkları için yapılan taramadır. Bu tür taramalar genellikle esnek ve talebe dayalıdır."
+          },
+          {
+            "kavram": "Online Risk Assessment (Çevrimiçi Risk Değerlendirmesi)",
+            "aciklama": "İnternet üzerinden bir organizasyonun güvenlik açıklarını ve potansiyel risklerini analiz etme sürecidir. Bu değerlendirme, çevrimiçi tehditler karşısında organizasyonun savunmasını güçlendirmeyi amaçlar."
+          },
+          {
+            "kavram": "Open System Interconnection (OSI) (Açık Sistem Bağlantısı)",
+            "aciklama": "Bilgisayar ağları arasında veri iletişimini sağlamak için kullanılan, 7 katmandan oluşan bir modeldir. OSI modeli, ağ iletişimi protokollerini anlamaya yardımcı olur."
+          },
+          {
+            "kavram": "On-Premise Data Center (Yerel Veri Merkezi)",
+            "aciklama": "Bir organizasyonun kendi sahip olduğu ve işletilen veri merkezidir. Donanım, yazılım ve güvenlik altyapıları tamamen organizasyonun kontrolü altındadır."
+          },
+          {
+            "kavram": "Out-of-Scope Attack (Kapsam Dışında Saldırı)",
+            "aciklama": "Bir güvenlik testinin veya saldırısının önceden belirlenmiş sınırlarının dışına taşması durumudur. Bu tür saldırılar, yetkisiz erişimler ve denetimsiz testler olabilir."
+          },
+          {
+            "kavram": "Online Security Threat (Çevrimiçi Güvenlik Tehdidi)",
+            "aciklama": "İnternet ortamında, verilerin çalınması, sistemlerin hacklenmesi ve diğer siber suçlarla ilgili tehditleri kapsar."
+          },
+          {
+            "kavram": "Offline Data Storage (Çevrimdışı Veri Depolama)",
+            "aciklama": "Verilerin internet bağlantısı olmadan saklandığı bir yöntemdir. Genellikle güvenli bir şekilde veri arşivleme veya yedekleme amacıyla kullanılır."
+          },
+          {
+            "kavram": "Obsolescence Risk (Eski Risk)",
+            "aciklama": "Teknolojik altyapıların veya yazılımların zamanla eski hale gelerek, güvenlik açıkları oluşturması durumudur. Bu, yeni tehditlere karşı savunmasız kalmaya neden olabilir."
+          },
+          {
+            "kavram": "Overhead Cost (Genel Masraf)",
+            "aciklama": "Bir işletmenin faaliyetlerini sürdürmek için yaptığı, doğrudan üretimle ilgili olmayan masraflardır. Yönetim giderleri, ofis kirası ve personel maaşları genel masraflar arasında yer alır."
+          },
+          {
+            "kavram": "Open Access Network (Açık Erişim Ağı)",
+            "aciklama": "Kamuya açık, herkesin erişebileceği bir ağdır. Bu ağlar genellikle kullanıcıların internet hizmetlerine düşük maliyetle veya ücretsiz erişmelerini sağlar."
+          },
+          {
+            "kavram": "Online Fraud Detection (Çevrimiçi Dolandırıcılık Tespiti)",
+            "aciklama": "İnternet üzerinden yapılan dolandırıcılık faaliyetlerini tespit etmeye yönelik sistemlerdir. Bu, kredi kartı hırsızlığı, kimlik sahteciliği ve benzeri dolandırıcılıkları içerir."
+          },
+          {
+            "kavram": "Organizational Risk Management (Kurumsal Risk Yönetimi)",
+            "aciklama": "Bir organizasyonun karşılaşabileceği tüm riskleri tanımlama, analiz etme ve bu riskleri yönetme sürecidir. Hem operasyonel hem de stratejik riskler bu yönetim sürecine dahil edilir."
+          },
+          {
+            "kavram": "Out-of-the-box Security (Kutusundan Çıkan Güvenlik)",
+            "aciklama": "Güvenlik çözümlerinin, kullanıcıların yapılandırmalarını değiştirmeden, hazır halde sunulmasıdır. Bu, genellikle kolay kurulum ve hızlı uygulama sağlar."
+          },
+          {
+            "kavram": "Online Social Engineering (Çevrimiçi Sosyal Mühendislik)",
+            "aciklama": "İnsanları kandırarak gizli bilgilere veya sisteme erişim sağlamak amacıyla yapılan çevrimiçi manipülasyonlardır. Phishing (oltalama) saldırıları bu tür saldırılara örnek teşkil eder."
+          },
+          {
+            "kavram": "Open Proxy (Açık Proxy)",
+            "aciklama": "İnternete anonim olarak erişim sağlamak için kullanılan bir ara sunucudur. Ancak, kötüye kullanım riski taşıyan açık proxy'ler de mevcuttur."
+          },
+          {
+            "kavram": "One-Way Hash Function (Tek Yönlü Karma Fonksiyonu)",
+            "aciklama": "Girdi verisini sabit bir boyutta ve geri dönüşü olmayan bir biçimde şifreleyen fonksiyondur. Şifreleme işlemi tersine çevrilemez ve yalnızca belirli bir çıktıyı verir."
+          },
+          {
+            "kavram": "Overhead Encryption (Genel Şifreleme)",
+            "aciklama": "Verilerin güvenliğini sağlamak amacıyla uygulanan şifreleme işlemidir. Ancak, bu şifreleme işlemleri işlem gücü gerektirebilir ve bazı durumlarda performans kaybına neden olabilir."
+          },
+          {
+            "kavram": "Offline Key Management (Çevrimdışı Anahtar Yönetimi)",
+            "aciklama": "Kriptografik anahtarların, internet bağlantısı olmadan, güvenli bir ortamda saklanması ve yönetilmesidir. Bu, anahtarların çalınmasını veya kötüye kullanılmasını engeller."
+          },
+          {
+            "kavram": "One-Purpose Security (Tek Amaçlı Güvenlik)",
+            "aciklama": "Belirli bir güvenlik hedefini korumak için kullanılan, yalnızca bir işlevi yerine getiren güvenlik çözümleridir."
+          },
+          {
+            "kavram": "On-Demand Firewall (İhtiyaca Göre Güvenlik Duvarı)",
+            "aciklama": "Güvenlik duvarlarının, sadece gerekli olduğunda aktif hale getirilmesi. Bu, esnek güvenlik önlemleri sağlar."
+          },
+          {
+            "kavram": "Organizational Security Framework (Kurumsal Güvenlik Çerçevesi)",
+            "aciklama": "Bir organizasyonun güvenlik politikasını, süreçlerini ve araçlarını düzenleyen yapıdır. Güvenlik yönetimini kolaylaştırmak için bir çerçeve sağlar."
+          },
+          {
+            "kavram": "Operational Support System (OSS) (Operasyonel Destek Sistemi)",
+            "aciklama": "Şirketlerin ağ ve hizmet altyapılarını izlemek, yönetmek ve desteklemek için kullanılan sistemlerdir."
+          },
+          {
+            "kavram": "Over-the-Top (OTT) (Üstten Aşağı)",
+            "aciklama": "İnternet üzerinden sunulan medya ve iletişim hizmetlerini ifade eder (örneğin, Netflix, WhatsApp). Geleneksel medya ve hizmet sağlayıcılarının dışındaki hizmetlerdir."
+          },
+          {
+            "kavram": "Outbound Data Leak (Çıkış Veri Sızıntısı)",
+            "aciklama": "Şirket veya ağ dışına yetkisiz bir şekilde veri gönderilmesi. Bu, güvenlik ihlali olabilir."
+          },
+          {
+            "kavram": "Online Malware Detection (Çevrimiçi Kötü Amaçlı Yazılım Tespiti)",
+            "aciklama": "İnternet üzerinden çalışan kötü amaçlı yazılımların tespit edilmesi için kullanılan yazılım araçları."
+          },
+          {
+            "kavram": "Onboard Security (İçeri Güvenlik)",
+            "aciklama": "Bir sistemin veya organizasyonun, çalışanlar veya kullanıcılar gibi içsel taraflardan gelen tehditlere karşı aldığı güvenlik önlemleri."
+          },
+          {
+            "kavram": "Outsourced Security Operations (Dış Kaynaklı Güvenlik Operasyonları)",
+            "aciklama": "Güvenlik yönetiminin, bir üçüncü taraf şirket tarafından yürütülmesi. Bu, şirketlerin kendi güvenlik operasyonlarını dışarıdan almasını sağlar."
+          },
+          {
+            "kavram": "Opt-in Data Sharing (Veri Paylaşımına Katılım)",
+            "aciklama": "Kullanıcıların, verilerini paylaşmaya gönüllü oldukları bir modeldir. Kullanıcı, verilerinin paylaşılmasına izin verir."
+          },
+          {
+            "kavram": "Open ID Connect (Açık ID Bağlantısı)",
+            "aciklama": "Kimlik doğrulama için kullanılan bir protokoldür. Kullanıcıların kimliklerini bir sağlayıcı aracılığıyla doğrulamayı mümkün kılar."
+          },
+          {
+            "kavram": "Overload Attack (Aşırı Yük Saldırısı)",
+            "aciklama": "Bir hedef sisteme aşırı miktarda trafik göndererek, sistemin çökmesine veya hizmet veremez hale gelmesine neden olan saldırı türüdür."
+          },
+          {
+            "kavram": "On-Demand Threat Analysis (İhtiyaca Göre Tehdit Analizi)",
+            "aciklama": "Tehditlerin yalnızca gerektiği zaman analiz edilmesi, bu da daha hızlı ve hedefe yönelik güvenlik önlemleri almayı sağlar."
+          },
+          {
+            "kavram": "Open File Format (Açık Dosya Formatı)",
+            "aciklama": "Yaygın olarak erişilebilen ve farklı yazılımlar tarafından okunabilen dosya formatlarıdır. Standart ve açık bir yapıya sahiptir."
+          },
+          {
+            "kavram": "Online Behavioral Tracking (Çevrimiçi Davranış İzleme)",
+            "aciklama": "Kullanıcıların çevrimiçi aktivitelerini izleyerek davranışlarını analiz etme sürecidir. Bu, kişiselleştirilmiş deneyimler sunmak için kullanılır."
+          },
+          {
+            "kavram": "Opt-in Privacy Settings (Katılımla Gizlilik Ayarları)",
+            "aciklama": "Kullanıcıların, gizlilik tercihlerini kendileri seçtikleri ayarlardır. Kullanıcı onayı ile gizlilik düzeyleri belirlenir."
+          },
+          {
+            "kavram": "Offline Risk Analysis (Çevrimdışı Risk Analizi)",
+            "aciklama": "İnternet bağlantısı gerektirmeyen ortamda yapılan risk analizleridir."
+          },
+          {
+            "kavram": "Open-Source Intelligence Gathering (Açık Kaynak İstihbarat Toplama)",
+            "aciklama": "Kamuya açık kaynaklardan (internet, sosyal medya, vs.) bilgi toplama sürecidir."
+          },
+          {
+            "kavram": "Orphaned Account (Sahipsiz Hesap)",
+            "aciklama": "Kullanıcı tarafından terkedilmiş, ancak hâlâ aktif olan hesaplardır. Bu tür hesaplar güvenlik riski oluşturabilir."
+          },
+          {
+            "kavram": "Out-of-Service Attack (Hizmet Dışı Saldırı)",
+            "aciklama": "Bir sistemin hizmet dışı bırakılmasına yönelik saldırıdır. Çoğu zaman, DDoS (Dağıtılmış Hizmet Engelleme) saldırıları ile gerçekleştirilir."
+          },
+          {
+            "kavram": "Overarching Security Policy (Genel Güvenlik Politikası)",
+            "aciklama": "Bir organizasyonun tüm güvenlik stratejilerini kapsayan, genel güvenlik politikasını ifade eder."
+          },
+          {
+            "kavram": "On-Demand Threat Intelligence (İhtiyaca Göre Tehdit İstihbaratı)",
+            "aciklama": "Güvenlik tehditlerinin, sadece gerekli olduğunda analiz edilip raporlandığı bir modeldir."
+          },
+          {
+            "kavram": "Operation Technology (OT) Security (Operasyon Teknolojisi Güvenliği)",
+            "aciklama": "Endüstriyel süreçleri kontrol eden teknolojilerin güvenliğini sağlamaya yönelik önlemler."
+          },
+          {
+            "kavram": "Open Cloud (Açık Bulut)",
+            "aciklama": "Bir bulut hizmetinin, kullanıcılar arasında açık bir şekilde paylaşıldığı ve kolayca erişilebildiği modeldir."
+          },
+          {
+            "kavram": "Open Standards Compliance (Açık Standart Uyumu)",
+            "aciklama": "Bir organizasyonun, açık standartlara uygun şekilde sistemlerini, yazılımlarını ve süreçlerini uyumlu hale getirmesi."
+          },
+          {
+            "kavram": "On-Demand Access Control (İhtiyaca Göre Erişim Kontrolü)",
+            "aciklama": "Kullanıcılara erişim yetkilerinin yalnızca gerektiğinde ve belirli koşullar altında verildiği güvenlik önlemi."
+          },
+          {
+            "kavram": "Optical Data Storage (Optik Veri Depolama)",
+            "aciklama": "Verilerin, lazer ışınları kullanarak depolanması yöntemidir. Optik diskler bu teknolojiye örnek olarak verilebilir."
+          },
+          {
+            "kavram": "Open Digital Certificate (Açık Dijital Sertifika)",
+            "aciklama": "Dijital sertifikaların, herkese açık olan bir sertifika otoritesinden alınan versiyonlarıdır."
+          },
+          {
+            "kavram": "Open Data Security (Açık Veri Güvenliği)",
+            "aciklama": "Açık veri setlerinin güvenliğini sağlamaya yönelik uygulamalar ve protokoller."
+          },
+          {
+            "kavram": "On-Demand Identity Verification (İhtiyaca Göre Kimlik Doğrulama)",
+            "aciklama": "Kullanıcı kimliklerinin sadece gerektiğinde ve gerekli olduğunda doğrulama süreçlerine tabi tutulması."
+          },
+          {
+            "kavram": "Open-Source Penetration Testing Tools (Açık Kaynak Penetrasyon Testi Araçları)",
+            "aciklama": "Kamuya açık kaynaklarla geliştirilen, siber güvenlik açıklarını tespit etmek için kullanılan test araçları."
+          },
+          {
+            "kavram": "Online Service Fraud (Çevrimiçi Hizmet Dolandırıcılığı)",
+            "aciklama": "İnternet üzerinden sunulan hizmetlerdeki dolandırıcılık faaliyetleri."
+          },
+          {
+            "kavram": "Orchestrated Attack (Orkestreli Saldırı)",
+            "aciklama": "Birden fazla saldırı yönteminin bir arada, organize bir şekilde gerçekleştirildiği saldırı türüdür."
+          },
+          {
+            "kavram": "Open Security Tools (Açık Güvenlik Araçları)",
+            "aciklama": "Kamuya açık kaynaklarla geliştirilen ve kullanılabilen güvenlik yazılımları ve araçları."
+          },
+          {
+            "kavram": "Outage Monitoring (Kesinti İzleme)",
+            "aciklama": "Sistem veya hizmet kesintilerinin izlenmesi ve raporlanması."
+          },
+          {
+            "kavram": "Obfuscation Techniques (Karmaşıklaştırma Teknikleri)",
+            "aciklama": "Bilgilerin veya kodların, anlaşılmasını zorlaştıracak şekilde gizlenmesi veya karmaşık hale getirilmesi teknikleri."
+          },
+          {
+            "kavram": "Online Fraud Prevention (Çevrimiçi Dolandırıcılık Öncesi Engelleme)",
+            "aciklama": "Çevrimiçi dolandırıcılık faaliyetlerini engellemeye yönelik kullanılan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Onboarding Security Procedures (Başlangıç Güvenlik Prosedürleri)",
+            "aciklama": "Yeni kullanıcılar, çalışanlar veya sistemler için güvenli bir şekilde erişim sağlanması amacıyla izlenen prosedürler."
+          },
+          {
+            "kavram": "Open Network (Açık Ağ)",
+            "aciklama": "İnternet veya diğer ağlara özgürce bağlanılabilen, şifreleme ve güvenlik önlemleri minimum seviyede olan ağ türü."
+          },
+          {
+            "kavram": "Online Data Storage (Çevrimiçi Veri Depolama)",
+            "aciklama": "Verilerin internet üzerinden erişilen sunucularda saklanması."
+          },
+          {
+            "kavram": "Offline Security (Çevrimdışı Güvenlik)",
+            "aciklama": "İnternet bağlantısı olmayan ortamda alınan güvenlik önlemleri ve uygulamaları."
+          },
+          {
+            "kavram": "Open Application Security Testing (OAST) (Açık Uygulama Güvenliği Testi)",
+            "aciklama": "Uygulama güvenliğini test etmek için açık kaynak araçlar kullanılarak yapılan güvenlik değerlendirmeleri."
+          },
+          {
+            "kavram": "Out-of-Band Channel (Bant Dışı Kanal)",
+            "aciklama": "İletişim veya veri transferi için kullanılan, ana veri yolundan farklı bir kanal. Genellikle daha güvenli olması sağlanır."
+          },
+          {
+            "kavram": "Operational Risk Management (Operasyonel Risk Yönetimi)",
+            "aciklama": "Bir organizasyonun operasyonel faaliyetlerine ilişkin risklerin tanımlanması, değerlendirilmesi ve kontrol altına alınması süreci."
+          },
+          {
+            "kavram": "Open Source Security Tools (Açık Kaynak Güvenlik Araçları)",
+            "aciklama": "Kamuya açık kaynak kodlu ve ücretsiz kullanılabilen güvenlik yazılımları ve araçları."
+          },
+          {
+            "kavram": "Open Proxy Server (Açık Proxy Sunucusu)",
+            "aciklama": "İnternete bağlanırken aracı olarak kullanılan, kullanıcıların kimliklerini gizlemeye yardımcı olan açık kaynaklı proxy sunucuları."
+          },
+          {
+            "kavram": "Open Data Protocol (Açık Veri Protokolü)",
+            "aciklama": "Veri alışverişi için açık standartları belirleyen protokoller."
+          },
+          {
+            "kavram": "One-Click Attack (Tek Tıkla Saldırı)",
+            "aciklama": "Kullanıcıların sadece bir tıklama ile kötü amaçlı yazılım veya zararlı bir saldırıya maruz kalmalarını sağlayan saldırı türü."
+          },
+          {
+            "kavram": "On-Premise Encryption (Yerel Şifreleme)",
+            "aciklama": "Verilerin, şirket içindeki sunucular üzerinde şifrelendiği güvenlik uygulaması."
+          },
+          {
+            "kavram": "Open Source Web Security (Açık Kaynak Web Güvenliği)",
+            "aciklama": "Web uygulamalarını ve sitelerini güvenli hale getirmek için kullanılan açık kaynaklı güvenlik araçları."
+          },
+          {
+            "kavram": "Offline Incident Response (Çevrimdışı Olay Yanıtı)",
+            "aciklama": "İnternet erişimi olmayan ortamlarda güvenlik ihlallerine veya diğer olaylara karşı alınan yanıtlar."
+          },
+          {
+            "kavram": "Out-of-Pocket Expenses (Cep Harcamaları)",
+            "aciklama": "Bir kişinin kendi cebinden yaptığı harcamalar, genellikle iş seyahatlerinde karşılaşılan harcamalardır."
+          },
+          {
+            "kavram": "On-Demand Encryption (İhtiyaca Göre Şifreleme)",
+            "aciklama": "Veri şifrelemesinin, sadece gerektiğinde yapılan bir güvenlik önlemi."
+          },
+          {
+            "kavram": "Outage Protection (Kesinti Koruması)",
+            "aciklama": "Bir sistemin veya hizmetin kesinti durumunda korunması ve çalışır durumda tutulması için alınan önlemler."
+          },
+          {
+            "kavram": "Open Secure Transmission (Açık Güvenli İletişim)",
+            "aciklama": "Veri iletiminin, açık standartlarla güvenli bir şekilde yapılması."
+          },
+          {
+            "kavram": "Open Configuration Management (Açık Yapılandırma Yönetimi)",
+            "aciklama": "Bir organizasyonun altyapı ve sistem yapılandırmalarının açık bir şekilde yönetilmesi ve takip edilmesi."
+          },
+          {
+            "kavram": "Opt-in Encryption (Katılımla Şifreleme)",
+            "aciklama": "Kullanıcıların verilerinin şifrelenmesi için açıkça onay verdikleri güvenlik yöntemi."
+          },
+          {
+            "kavram": "Open-Source Threat Intelligence (Açık Kaynak Tehdit İstihbaratı)",
+            "aciklama": "Kamuya açık kaynaklardan toplanan güvenlik tehditlerine dair bilgi ve veriler."
+          },
+          {
+            "kavram": "Outbound Risk Management (Çıkış Risk Yönetimi)",
+            "aciklama": "Dışarıya veri çıkışı ve buna bağlı risklerin yönetimi süreci."
+          },
+          {
+            "kavram": "Open Web Security (Açık Web Güvenliği)",
+            "aciklama": "Web uygulamaları için açık standartlarla güvenlik önlemlerinin alınması."
+          },
+          {
+            "kavram": "Operational Security Risk (Operasyonel Güvenlik Riski)",
+            "aciklama": "Organizasyonun operasyonel süreçlerine dair güvenlik tehditlerinin oluşturduğu riskler."
+          },
+          {
+            "kavram": "Outage Recovery (Kesinti Kurtarma)",
+            "aciklama": "Sistem veya hizmetlerdeki kesintiler sonrası hızlıca eski haline dönülmesi için yapılan iyileştirme çalışmaları."
+          },
+          {
+            "kavram": "On-Demand Analytics (İhtiyaca Göre Analitik)",
+            "aciklama": "Veri analizi işleminin, sadece ihtiyaç duyulduğunda ve talep üzerine yapılması."
+          },
+          {
+            "kavram": "One-Time Authentication (Bir Seferlik Kimlik Doğrulama)",
+            "aciklama": "Kullanıcıların sadece bir kez doğrulama yaparak sisteme giriş yapmalarını sağlayan güvenlik önlemi."
+          },
+          {
+            "kavram": "OpenID Connect Protocol (OpenID Bağlantı Protokolü)",
+            "aciklama": "Kimlik doğrulama işlemi için kullanılan, açık kaynak bir protokoldür ve kullanıcıların kimliklerini doğrulamak için güvenli bir yol sağlar."
+          },
+          {
+            "kavram": "On-the-Record Data (Kayda Alınan Veri)",
+            "aciklama": "Resmi veya yetkilendirilmiş bir biçimde saklanan veriler."
+          },
+          {
+            "kavram": "Open Application Security (Açık Uygulama Güvenliği)",
+            "aciklama": "Uygulama yazılımlarında açık kaynak güvenlik önlemlerinin uygulanması."
+          },
+          {
+            "kavram": "Online Resource Security (Çevrimiçi Kaynak Güvenliği)",
+            "aciklama": "İnternet üzerindeki kaynakların güvenliğinin sağlanması, örneğin web siteleri veya bulut hizmetleri."
+          },
+          {
+            "kavram": "Off-Site Backup (Yedekleme Dış Yeri)",
+            "aciklama": "Verilerin fiziksel olarak ana sistemden ayrı bir yerde yedeklenmesi."
+          },
+          {
+            "kavram": "Offline Key Storage (Çevrimdışı Anahtar Depolama)",
+            "aciklama": "Şifreleme anahtarlarının, çevrimdışı ortamda saklanması, güvenli bir şekilde erişilmeleri sağlanır."
+          },
+          {
+            "kavram": "Onboard Security Features (İçeri Güvenlik Özellikleri)",
+            "aciklama": "Bir cihaz veya yazılımda, içsel olarak bulunan güvenlik önlemleri."
+          },
+          {
+            "kavram": "One-Time Access Key (Bir Seferlik Erişim Anahtarı)",
+            "aciklama": "Kullanıcıların tek bir erişim için kullanabileceği, geçici anahtarlar."
+          },
+          {
+            "kavram": "Open-Source Encryption (Açık Kaynak Şifreleme)",
+            "aciklama": "Şifreleme algoritmalarının, açık kaynaklı yazılımlar olarak kullanılabilmesi."
+          },
+          {
+            "kavram": "Online Risk Management (Çevrimiçi Risk Yönetimi)",
+            "aciklama": "İnternet üzerindeki sistemler için risklerin yönetilmesi ve güvenlik önlemleri."
+          },
+          {
+            "kavram": "Out-of-Band Risk Assessment (Bant Dışı Risk Değerlendirmesi)",
+            "aciklama": "Ana sistemlerden bağımsız olarak yapılan, güvenlik riski değerlendirmeleri."
+          },
+          {
+            "kavram": "Open Data Policy (Açık Veri Politikası)",
+            "aciklama": "Verilerin, herkesin erişimine açık olacak şekilde paylaşılmasını sağlayan politika."
+          },
+          {
+            "kavram": "Open System Security (Açık Sistem Güvenliği)",
+            "aciklama": "Sistem güvenliğinin, açık standartlarla sağlanması ve korunması."
+          },
+          {
+            "kavram": "One-Click Authorization (Tek Tıkla Yetkilendirme)",
+            "aciklama": "Kullanıcıların yalnızca bir tıklama ile yetkilendirilmiş erişim sağlamasını mümkün kılan güvenlik yöntemi."
+          }
+
+    ]
+}

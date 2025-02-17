@@ -1,0 +1,406 @@
+{
+    "siberGuvenlikKavramlari": [
+          {
+            "kavram": "YAML (YAML Ain't Markup Language)",
+            "aciklama": "YAML, veri serileştirme formatıdır, yapılandırma dosyalarında yaygın olarak kullanılır. İnsan tarafından okunabilir olup, genellikle yazılım yapılandırmaları için tercih edilir."
+          },
+          {
+            "kavram": "Y2K Bug",
+            "aciklama": "2000 yılına geçişle ilgili bilgisayar sistemlerindeki tarih hesaplama hatası. Tarih formatı olarak sadece iki haneli yıl kullanıldığından, 2000 yılı 1900 olarak algılanmıştı."
+          },
+          {
+            "kavram": "YARA",
+            "aciklama": "Kötü amaçlı yazılım tespitinde kullanılan bir araçtır. Güvenlik uzmanları tarafından yazılım ve dosyalar üzerindeki zararlı kodları tanımak için kullanılır."
+          },
+          {
+            "kavram": "Yarn",
+            "aciklama": "JavaScript için bağımlılık yönetim aracıdır. Node.js uygulamalarındaki paketleri hızlı ve güvenilir bir şekilde yönetir."
+          },
+          {
+            "kavram": "Yen",
+            "aciklama": "Kriptografik sistemler ve şifreleme teknikleri ile ilişkili bir terim olabilir."
+          },
+          {
+            "kavram": "Yottabyte",
+            "aciklama": "Veri depolama birimlerinden biri olup, 1 yottabyte 1,000,000,000,000,000,000,000,000 bayt'a eşittir."
+          },
+          {
+            "kavram": "YASARA",
+            "aciklama": "Güvenlik denetimleri ve yanıt sistemlerini içeren bir yazılım uygulamasıdır."
+          },
+          {
+            "kavram": "Yellow Hat",
+            "aciklama": "Etik hacker olarak bilinen, güvenlik açıklarını test eden ve raporlayan kişilerdir."
+          },
+          {
+            "kavram": "Yandex",
+            "aciklama": "Rusya merkezli bir arama motoru ve internet hizmetleri sağlayıcısıdır."
+          },
+          {
+            "kavram": "Yarn Lock",
+            "aciklama": "Yarn paket yöneticisinin bağımlılıkları yönetmek için kullandığı dosyadır, bağımlılıkların sürüm uyumunu garanti eder."
+          },
+          {
+            "kavram": "YeeLoong",
+            "aciklama": "Güvenlik odaklı bir Linux dağıtımıdır."
+          },
+          {
+            "kavram": "Yubico",
+            "aciklama": "Donanım tabanlı güvenli kimlik doğrulama çözümleri üreten bir teknoloji şirketidir."
+          },
+          {
+            "kavram": "Yubikey",
+            "aciklama": "Çok faktörlü kimlik doğrulama için kullanılan fiziksel güvenlik cihazıdır."
+          },
+          {
+            "kavram": "Yotta",
+            "aciklama": "Veri depolama birimi, çok büyük veri boyutlarını ifade etmek için kullanılır."
+          },
+          {
+            "kavram": "Yandex.Metrica",
+            "aciklama": "Yandex tarafından sağlanan web analitik hizmetidir, web trafiğini izler ve analiz eder."
+          },
+          {
+            "kavram": "Yammer",
+            "aciklama": "Microsoft tarafından geliştirilen, şirket içi iletişim ve işbirliği için kullanılan sosyal ağ yazılımıdır."
+          },
+          {
+            "kavram": "Yagi Antenna",
+            "aciklama": "Yüksek kazançlı anten türüdür, özellikle uzun mesafeli iletişimlerde kullanılır."
+          },
+          {
+            "kavram": "Yellow Hat Hacker",
+            "aciklama": "Etik hacker olan ve bilgisayar güvenliği alanında eğitimli profesyonellere verilen isimdir."
+          },
+          {
+            "kavram": "Yammer Security",
+            "aciklama": "Yammer platformundaki verilerin güvenliğini sağlamak için alınan önlemler."
+          },
+          {
+            "kavram": "Yagi Signal",
+            "aciklama": "Yagi antenleri ile uzun mesafelerde iletişim sağlayan sinyaldir."
+          },
+          {
+            "kavram": "Yodel Security",
+            "aciklama": "Telekomünikasyon ve veri ile ilgili güvenlik çözümlerini içeren bir terim."
+          },
+          {
+            "kavram": "Yielding",
+            "aciklama": "Yazılımın işlevsel kaynaklarını serbest bırakma veya yönetme işlemidir."
+          },
+          {
+            "kavram": "YottaScale",
+            "aciklama": "Çok büyük veri hacimlerini işleyebilme kapasitesine sahip bir sistem veya çözüm."
+          },
+          {
+            "kavram": "Yen Token",
+            "aciklama": "Blockchain tabanlı dijital varlık veya token'dır."
+          },
+          {
+            "kavram": "Yoda Encryption",
+            "aciklama": "Güvenlikte kullanılan bir kriptografi yöntemidir, muhtemelen ismi, Star Wars karakteri Yoda'dan alınmıştır."
+          },
+          {
+            "kavram": "Yellow Alert",
+            "aciklama": "Orta seviyedeki güvenlik tehditlerine veya uyarılara verilen isimdir."
+          },
+          {
+            "kavram": "Ytterbium Fiber",
+            "aciklama": "Fiber optik ağlarda veri iletimi için kullanılan bir element olan ytterbium ile yapılmış fiber optik kablo."
+          },
+          {
+            "kavram": "Yobibyte",
+            "aciklama": "Veri depolama birimi, yottabyte'dan biraz daha büyük bir veri boyutunu ifade eder."
+          },
+          {
+            "kavram": "Yarn Package Manager",
+            "aciklama": "JavaScript projelerinde bağımlılıkları yöneten bir araçtır."
+          },
+          {
+            "kavram": "Yahoo Security",
+            "aciklama": "Yahoo'nun internet hizmetlerinde güvenlik sağlamak için kullandığı yöntem ve önlemler."
+          },
+          {
+            "kavram": "Yottacoin",
+            "aciklama": "Blockchain teknolojisi üzerinde çalışan bir kripto para birimidir."
+          },
+          {
+            "kavram": "Yellow Box",
+            "aciklama": "Genellikle sistemler veya cihazlar için kullanılan, belirgin bir kutu türüdür."
+          },
+          {
+            "kavram": "YUI (Yahoo User Interface)",
+            "aciklama": "Yahoo'nun web uygulamaları için geliştirdiği kullanıcı arayüzü kütüphanesidir."
+          },
+          {
+            "kavram": "YAWN",
+            "aciklama": "Bir güvenlik açığının fark edilmemesi veya düzeltilmemesi anlamına gelir."
+          },
+          {
+            "kavram": "YAPF",
+            "aciklama": "Python kodunun biçimlendirilmesine yardımcı olan bir araçtır ve bazı güvenlik hatalarını önlemeye yardımcı olabilir."
+          },
+          {
+            "kavram": "Y2K38 Bug",
+            "aciklama": "Unix tabanlı sistemlerin 2038 yılında zaman sayacının dolması sonucu meydana gelebilecek hata."
+          },
+          {
+            "kavram": "Yarn Audit",
+            "aciklama": "Yarn paket yöneticisinde bulunan güvenlik açıklarını taramak için kullanılan bir araçtır."
+          },
+          {
+            "kavram": "YARA Rule",
+            "aciklama": "Kötü amaçlı yazılımlar üzerinde arama yaparak, belirli kurallar doğrultusunda tehditleri tespit eder."
+          },
+          {
+            "kavram": "Yotta-level Encryption",
+            "aciklama": "Yotta seviyesindeki veri için kullanılan güçlü şifreleme teknikleridir."
+          },
+          {
+            "kavram": "YouTube Security",
+            "aciklama": "YouTube platformundaki kullanıcı güvenliğini sağlamak amacıyla kullanılan çeşitli güvenlik önlemleri."
+          },
+          {
+            "kavram": "Yarn Dependencies",
+            "aciklama": "Yarn aracılığıyla yönetilen projedeki yazılım bağımlılıkları."
+          },
+          {
+            "kavram": "YouTube Data API",
+            "aciklama": "YouTube üzerinde video içeriklerine erişim sağlamak için kullanılan API."
+          },
+          {
+            "kavram": "Yale Security",
+            "aciklama": "Yale markasına ait güvenlik ürünleri ve çözümleri."
+          },
+          {
+            "kavram": "YARN Network",
+            "aciklama": "YARN, Hadoop sistemlerinde kaynak yönetimi ve ağ yapılandırmasını yöneten bir bileşendir."
+          },
+          {
+            "kavram": "Yubikey Authenticator",
+            "aciklama": "Yubikey cihazı ile yapılan güvenli kimlik doğrulama işlemidir."
+          },
+          {
+            "kavram": "YAML Configuration",
+            "aciklama": "YAML dosyalarında yapılan yazılım yapılandırmalarını ifade eder."
+          },
+          {
+            "kavram": "Yobibyte Storage",
+            "aciklama": "Yobibyte düzeyinde veri depolama kapasitesini ifade eder."
+          },
+          {
+            "kavram": "Yellowhat Consulting",
+            "aciklama": "Etik hacking ve güvenlik danışmanlığı hizmetleri sunan şirketler."
+          },
+          {
+            "kavram": "You Only Live Once (YOLO) Security",
+            "aciklama": "Sosyal medya kullanımında kişisel güvenliği sağlamak amacıyla kullanılan bir yaklaşım."
+          },
+          {
+            "kavram": "Yotta Storage",
+            "aciklama": "Yotta seviyesinde büyük veri depolama kapasitesini ifade eder."
+          },
+          {
+            "kavram": "Yarn Workspaces",
+            "aciklama": "Yarn paket yöneticisinin, birden fazla modül ve bağımlılığı bir arada yöneten bir özelliği. Bu, projelerin daha verimli yönetilmesine yardımcı olur."
+          },
+          {
+            "kavram": "Yahoo Mail Security",
+            "aciklama": "Yahoo Mail kullanıcılarının e-posta hesaplarını korumak için alınan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Yellow Flag",
+            "aciklama": "Bir tehdit veya güvenlik riski durumunda verilen uyarı işareti."
+          },
+          {
+            "kavram": "Yarn Lockfile",
+            "aciklama": "Yarn paket yöneticisi tarafından kullanılan, bağımlılıkların belirli bir sürümde sabitlenmesini sağlayan dosya."
+          },
+          {
+            "kavram": "YouTube Phishing",
+            "aciklama": "YouTube üzerinden kullanıcıları kandırarak kişisel bilgilerini çalmaya yönelik kimlik avı saldırıları."
+          },
+          {
+            "kavram": "YAML Parsing",
+            "aciklama": "YAML formatındaki verilerin bilgisayar tarafından anlaşılabilir hale getirilmesi."
+          },
+          {
+            "kavram": "Yubikey OTP",
+            "aciklama": "Yubikey cihazı tarafından sağlanan tek kullanımlık şifre doğrulama yöntemi."
+          },
+          {
+            "kavram": "YOBI Format",
+            "aciklama": "Veri depolamak veya iletmek için kullanılan bir dosya formatı."
+          },
+          {
+            "kavram": "Yarn Dependencies Audit",
+            "aciklama": "Yarn kullanarak projelerdeki bağımlılıkların güvenlik açıklarını taramak için yapılan denetim."
+          },
+          {
+            "kavram": "Yottabyte Encryption",
+            "aciklama": "Yottabayt büyüklüğünde veriyi koruyabilen güçlü şifreleme yöntemleri."
+          },
+          {
+            "kavram": "YARN Job Execution",
+            "aciklama": "Hadoop YARN sisteminde işlerin yürütülmesi."
+          },
+          {
+            "kavram": "Yobibyte Backup",
+            "aciklama": "Yobibyte büyüklüğünde veri yedekleme ve saklama çözümleri."
+          },
+          {
+            "kavram": "Yubico OTP",
+            "aciklama": "Yubico cihazı tarafından sağlanan tek kullanımlık şifre doğrulama yöntemi."
+          },
+          {
+            "kavram": "YouTube Two-Factor Authentication",
+            "aciklama": "YouTube hesabının güvenliğini artıran ikinci bir doğrulama adımı."
+          },
+          {
+            "kavram": "YAML Validation",
+            "aciklama": "YAML formatındaki dosyaların doğru olup olmadığının kontrol edilmesi."
+          },
+          {
+            "kavram": "Yale Electronic Locks",
+            "aciklama": "Yale markasının sunduğu güvenlik kilitleri."
+          },
+          {
+            "kavram": "Yobibyte Network",
+            "aciklama": "Yobibyte büyüklüğündeki veri için ağ yönetimi ve altyapısı."
+          },
+          {
+            "kavram": "Yarn Server",
+            "aciklama": "Yarn paket yöneticisinin sunucu tarafında çalışan bileşeni."
+          },
+          {
+            "kavram": "Yahoo Account Protection",
+            "aciklama": "Yahoo hesaplarının güvenliğini sağlamak için yapılan önlemler."
+          },
+          {
+            "kavram": "Yandex VPN",
+            "aciklama": "Yandex tarafından sunulan sanal özel ağ hizmeti."
+          },
+          {
+            "kavram": "YottaDisk",
+            "aciklama": "Yottabayt büyüklüğünde veri depolamak için kullanılan depolama hizmeti."
+          },
+          {
+            "kavram": "YAML Injection",
+            "aciklama": "YAML formatındaki dosyalara kötü amaçlı veri ekleyerek yapılan saldırı türü."
+          },
+          {
+            "kavram": "Yarn Package Security",
+            "aciklama": "Yarn paket yöneticisinin kullandığı paketlerin güvenliğini sağlama önlemleri."
+          },
+          {
+            "kavram": "YubiAuth",
+            "aciklama": "Yubico'nun sağladığı kimlik doğrulama teknolojisi."
+          },
+          {
+            "kavram": "YARN Scheduler",
+            "aciklama": "Hadoop YARN sisteminde işler ve kaynakların planlanması."
+          },
+          {
+            "kavram": "Yellowhat Security Solutions",
+            "aciklama": "Etik hacking ve güvenlik çözümleri sunan danışmanlık hizmetleri."
+          },
+          {
+            "kavram": "Yardstick Security",
+            "aciklama": "Güvenlik testleri yapmak için kullanılan bir araç."
+          },
+          {
+            "kavram": "Yale System Security",
+            "aciklama": "Yale marka güvenlik sistemlerinin yönetimi ve korunması."
+          },
+          {
+            "kavram": "Yandex DDoS Protection",
+            "aciklama": "Yandex'in DDoS (Dağıtık Hizmet Engelleme) saldırılarına karşı sunduğu koruma."
+          },
+          {
+            "kavram": "YAC (Yet Another Cleaner)",
+            "aciklama": "Bilgisayarları kötü amaçlı yazılımlardan arındırmaya yönelik kullanılan bir yazılım."
+          },
+          {
+            "kavram": "YubiKey OTP Protocol",
+            "aciklama": "Yubico'nun OTP (Tek Kullanımlık Şifre) doğrulama protokolü."
+          },
+          {
+            "kavram": "Yellow Box Attack",
+            "aciklama": "Güvenlik açığı kullanılarak yapılan bir saldırı türü."
+          },
+          {
+            "kavram": "Yandex Disk Security",
+            "aciklama": "Yandex Disk üzerinden depolanan verilerin güvenliğini sağlama önlemleri."
+          },
+          {
+            "kavram": "Yarn Framework",
+            "aciklama": "Yarn paket yöneticisinin yapı taşı olan çerçeve."
+          },
+          {
+            "kavram": "Yt-dlp",
+            "aciklama": "YouTube ve diğer video platformlarından video indirmeye yönelik bir araç."
+          },
+          {
+            "kavram": "Yarafile",
+            "aciklama": "Yara tabanlı kötü amaçlı yazılım tespiti için kullanılan dosya."
+          },
+          {
+            "kavram": "Yarn Caching",
+            "aciklama": "Yarn paket yöneticisinde verilerin geçici olarak saklanması."
+          },
+          {
+            "kavram": "Yellowhack",
+            "aciklama": "Sarışın hackerlar için kullanılan bir terim."
+          },
+          {
+            "kavram": "Yardstick Analyzer",
+            "aciklama": "Güvenlik testlerini değerlendirmek için kullanılan analiz aracı."
+          },
+          {
+            "kavram": "Yahoo Web Security",
+            "aciklama": "Yahoo'nun web uygulamaları için uyguladığı güvenlik önlemleri."
+          },
+          {
+            "kavram": "Yobibyte Cloud",
+            "aciklama": "Yobibyte büyüklüğünde veri depolamak için kullanılan bulut depolama hizmeti."
+          },
+          {
+            "kavram": "YAML Configuration Files",
+            "aciklama": "Sistem veya yazılım yapılandırmalarını YAML formatında saklayan dosyalar."
+          },
+          {
+            "kavram": "Yellow Circle",
+            "aciklama": "Siber güvenlik bağlamında bir kavram, belirli bir tehlike veya uyarıyı simgeliyor olabilir."
+          },
+          {
+            "kavram": "Yobibyte Transfer",
+            "aciklama": "Yobibyte büyüklüğünde veri transferini ifade eder."
+          },
+          {
+            "kavram": "Yarn Dependency Vulnerability",
+            "aciklama": "Yarn paket yöneticisindeki bağımlılıkların güvenlik açığına sahip olma durumu."
+          },
+          {
+            "kavram": "Yandex Mail Security",
+            "aciklama": "Yandex Mail servisinin güvenliğini sağlamak için uygulanan önlemler."
+          },
+          {
+            "kavram": "Yarn Package Dependency",
+            "aciklama": "Yarn paket yöneticisi aracılığıyla bir uygulamanın başka paketlere olan bağımlılığı."
+          },
+          {
+            "kavram": "Yotta Backup",
+            "aciklama": "Yottabayt büyüklüğünde veri yedekleme hizmetleri."
+          },
+          {
+            "kavram": "Yandex Security Suite",
+            "aciklama": "Yandex tarafından sunulan bir dizi güvenlik çözümü."
+          },
+          {
+            "kavram": "Yarn Monitoring",
+            "aciklama": "Yarn paket yöneticisinde sistemin izlenmesi ve yönetilmesi."
+          }
+
+
+    ]
+}

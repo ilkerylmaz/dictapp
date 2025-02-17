@@ -1,0 +1,556 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "TCP (Transmission Control Protocol) (İletim Denetim Protokolü)",
+            "aciklama": "İnternet üzerindeki veri iletimini yöneten bir protokoldür. Verinin güvenli ve sıralı bir şekilde iletilmesini sağlar, veri kaybını engeller ve paketlerin sırasını korur."
+          },
+          {
+            "kavram": "Trojan Horse (Truva Atı)",
+            "aciklama": "Bilgisayarlar ve ağlar için bir tür kötü amaçlı yazılımdır. Kullanıcıları kandırarak sisteme gizlice sızar ve saldırganlara bilgisayarı kontrol etme imkanı verir."
+          },
+          {
+            "kavram": "Threat (Tehdit)",
+            "aciklama": "Bilgi güvenliği açısından, bir sistemin veya ağın zarar görme riski oluşturan herhangi bir durum veya olaydır. Kötü niyetli saldırılar, doğal afetler ve sistem hataları bu tehditlere örnek olabilir."
+          },
+          {
+            "kavram": "Threat Intelligence (Tehdit İstihbaratı)",
+            "aciklama": "Güvenlik tehditlerini önceden tespit etmek ve bunlara karşı önlem almak için toplanan veriler ve analizlerdir. Saldırıları anlamak ve güvenlik açıklarını belirlemek için kullanılır."
+          },
+          {
+            "kavram": "Two-Factor Authentication (2FA) (İki Faktörlü Kimlik Doğrulama)",
+            "aciklama": "Bir kullanıcının kimliğini doğrulamak için iki farklı doğrulama faktörü kullanan güvenlik yöntemidir. Bu, genellikle bir şifre ve telefonla alınan bir kodu içerir."
+          },
+          {
+            "kavram": "Tokenization (Tokenleştirme)",
+            "aciklama": "Hassas verilerin (örneğin, kredi kartı numaraları) güvenli bir şekilde saklanabilmesi için bu verilerin sembolik bir temsilcisi (token) ile değiştirilmesidir. Gerçek veriler veritabanında saklanmaz."
+          },
+          {
+            "kavram": "Tunneling (Tünelleme)",
+            "aciklama": "Verilerin, şifreli bir kanal üzerinden başka bir ağda güvenli bir şekilde taşınmasını sağlayan bir tekniktir. VPN gibi teknolojiler tünelleme kullanarak internet trafiğini şifreler."
+          },
+          {
+            "kavram": "Time-based One-time Password (TOTP) (Zaman Tabanlı Tek Kullanımlık Parola)",
+            "aciklama": "Zaman tabanlı olarak üretilen ve yalnızca kısa bir süre geçerli olan tek kullanımlık şifrelerdir. Genellikle 2FA işlemleri için kullanılır."
+          },
+          {
+            "kavram": "TLS (Transport Layer Security) (Taşıma Katmanı Güvenliği)",
+            "aciklama": "İnternet üzerinden yapılan iletişimde veri güvenliğini sağlamak için kullanılan bir protokoldür. Verilerin şifrelenmesi ve kimlik doğrulama işlemleri sağlar."
+          },
+          {
+            "kavram": "Traffic Analysis (Trafik Analizi)",
+            "aciklama": "Ağ üzerindeki veri trafiğini inceleyerek sistemlerin veya ağların güvenliğini test etmek ve potansiyel tehditleri belirlemek amacıyla yapılan analizlerdir."
+          },
+          {
+            "kavram": "TCP/IP Stack (TCP/IP Yığını)",
+            "aciklama": "İnternette veri iletimi için kullanılan protokoller kümesidir. TCP ve IP, bu yığının temel protokolleridir ve birbirleriyle uyumlu çalışarak veri iletimini sağlarlar."
+          },
+          {
+            "kavram": "Threat Actor (Tehdit Aktörü)",
+            "aciklama": "Bir organizasyonu hedef alan, siber saldırılar gerçekleştiren kişi veya grup. Bu aktörler kötü niyetli olabilir veya bir hedefe zarar vermek amacıyla faaliyet gösterebilirler."
+          },
+          {
+            "kavram": "Threat Hunting (Tehdit Avcılığı)",
+            "aciklama": "Güvenlik uzmanlarının ağda veya sistemlerde potansiyel tehditleri aktif olarak aradığı ve tespit ettiği bir süreçtir. Bu, genellikle izinsiz girişlerin önceden tespit edilmesine yardımcı olur."
+          },
+          {
+            "kavram": "True Positive (Gerçek Pozitif)",
+            "aciklama": "Bir güvenlik tespit sisteminin doğru bir şekilde gerçek bir tehditi belirlemesidir. Bu durumda hem tehdit vardır hem de sistem bunu doğru tespit eder."
+          },
+          {
+            "kavram": "True Negative (Gerçek Negatif)",
+            "aciklama": "Bir güvenlik tespit sisteminin doğru bir şekilde tehdit olmayan bir durumu tespit etmesidir. Yani sistem, yanlış alarm vermeden herhangi bir tehdit bulunmadığını doğrular."
+          },
+          {
+            "kavram": "Takedown (Kaldırma)",
+            "aciklama": "Bir siber saldırı veya kötü amaçlı yazılımın kaynağını ortadan kaldırmak veya erişimini engellemek amacıyla yapılan müdahaledir. Bu, genellikle zararlı yazılımların veya sitelerin kapatılmasını içerir."
+          },
+          {
+            "kavram": "Threat Vector (Tehdit Vektörü)",
+            "aciklama": "Bir güvenlik açığından faydalanarak sisteme zarar veren veya veri çalan bir saldırı yöntemidir. Örneğin, e-posta yoluyla gelen zararlı yazılım bir tehdit vektörü olabilir."
+          },
+          {
+            "kavram": "Token (Token)",
+            "aciklama": "Güvenli bir şekilde kimlik doğrulama için kullanılan, genellikle bir kullanıcıya ait dijital bir nesnedir. Çoğunlukla, bir kullanıcı oturum açarken kullanılan geçici şifreler veya kimlik doğrulama cihazlarıdır."
+          },
+          {
+            "kavram": "Traffic Filtering (Trafik Filtreleme)",
+            "aciklama": "Ağ üzerindeki istenmeyen veya zararlı trafiğin engellenmesi işlemidir. Güvenlik duvarları ve diğer filtreleme araçları, bu trafiği sınırlamak veya engellemek için kullanılır."
+          },
+          {
+            "kavram": "Trap (Pusu)",
+            "aciklama": "Bir saldırganın, sistemin güvenliğini ihlal etmeye çalışırken yakalanması amacıyla oluşturulan tuzaktır. Bu, genellikle siber güvenlik araştırmacıları tarafından kullanılan bir teknik olup saldırganları tespit etmeyi hedefler."
+          },
+          {
+            "kavram": "Third-Party Risk (Üçüncü Taraf Riski)",
+            "aciklama": "Bir organizasyonun dışındaki tedarikçiler veya hizmet sağlayıcılar tarafından oluşturulan güvenlik riskleridir. Bu tür riskler, tedarikçi hataları veya güvenlik açıklarından kaynaklanabilir."
+          },
+          {
+            "kavram": "Tampering (Tahrifat)",
+            "aciklama": "Verilerin, yazılımların veya donanımların izinsiz bir şekilde değiştirilmesi veya manipüle edilmesidir. Bu, genellikle kötü niyetli kişiler tarafından yapılır."
+          },
+          {
+            "kavram": "Threat Landscape (Tehdit Peyzajı)",
+            "aciklama": "Bir organizasyonun karşılaştığı veya karşılaşabileceği tüm potansiyel güvenlik tehditlerinin genel görünümüdür. Bu peyzaj, çeşitli tehdit aktörlerini ve saldırı yöntemlerini içerir."
+          },
+          {
+            "kavram": "Trapdoor (Arka Kapı)",
+            "aciklama": "Bir yazılımda, özellikle kötü amaçlı yazılımlarda, saldırganların sisteme izinsiz erişim sağlamak için kullandığı gizli bir giriş noktasıdır."
+          },
+          {
+            "kavram": "Tactics, Techniques, and Procedures (TTPs) (Taktikler, Teknikler ve Prosedürler)",
+            "aciklama": "Bir saldırganın kullandığı yöntemler, davranış biçimleri ve saldırıları gerçekleştirme yollarıdır. Güvenlik uzmanları bu TTP'leri analiz ederek savunmalarını güçlendirirler."
+          },
+          {
+            "kavram": "Traffic Sniffing (Trafik Dinleme)",
+            "aciklama": "Ağ üzerindeki veri trafiğini izleyerek bilgi toplama işlemidir. Bu, genellikle saldırganlar tarafından ağda iletişen veriyi çalmak amacıyla yapılır."
+          },
+          {
+            "kavram": "Temporary File (Geçici Dosya)",
+            "aciklama": "Programlar veya sistemler tarafından geçici olarak oluşturulan dosyalardır. Genellikle bir işlem tamamlandığında silinirler, ancak bazen gizli veriler sızabilir."
+          },
+          {
+            "kavram": "Threat Assessment (Tehdit Değerlendirmesi)",
+            "aciklama": "Bir organizasyonun karşılaştığı tehditlerin risklerini analiz etme ve bu tehditlere karşı hangi önlemlerin alınması gerektiğini belirleme sürecidir."
+          },
+          {
+            "kavram": "Token-Based Authentication (Token Tabanlı Kimlik Doğrulama)",
+            "aciklama": "Kullanıcıların kimlik doğrulama işlemi için geçici dijital anahtar (token) kullanarak oturum açmalarını sağlayan bir güvenlik yöntemidir."
+          },
+          {
+            "kavram": "Targeted Attack (Hedefli Saldırı)",
+            "aciklama": "Belirli bir kişiyi, kurumu veya altyapıyı hedef alan, genellikle o hedefe yönelik özelleştirilmiş bir saldırıdır."
+          },
+          {
+            "kavram": "Trojan Virus (Truva Atı Virüsü)",
+            "aciklama": "Truva Atı olarak bilinen kötü amaçlı yazılımın bir türüdür. Sisteme gizlice sızarak kullanıcıya zarar verir ve saldırganlara izinsiz erişim sağlar."
+          },
+          {
+            "kavram": "Time Bomb (Zamanlı Bomba)",
+            "aciklama": "Bir kötü amaçlı yazılım türüdür. Belirli bir zamanda veya koşul gerçekleştiğinde devreye girer ve zarara yol açar."
+          },
+          {
+            "kavram": "Transmission Security (İletim Güvenliği)",
+            "aciklama": "Verilerin internet veya diğer ağlar üzerinden güvenli bir şekilde iletilmesi için alınan önlemlerdir. Şifreleme ve kimlik doğrulama bu güvenliği sağlar."
+          },
+          {
+            "kavram": "Theft of Service (Hizmet Hırsızlığı)",
+            "aciklama": "Bir kişiye veya kuruma ait olan hizmetlerin izinsiz olarak kullanılmasıdır. Bu genellikle internet hizmetleri veya sistem kaynakları üzerinde yapılır."
+          },
+          {
+            "kavram": "Tunnel Mode (Tünel Modu)",
+            "aciklama": "VPN gibi güvenli ağ bağlantılarında, verilerin şifreli bir 'tünel' üzerinden iletilmesini sağlayan bir yöntemdir."
+          },
+          {
+            "kavram": "Transport Encryption (Taşıma Şifrelemesi)",
+            "aciklama": "Verilerin iletim sırasında şifrelenmesi, böylece verilerin izinsiz kişiler tarafından okunmasını engelleyen bir güvenlik önlemidir."
+          },
+          {
+            "kavram": "Traffic Analysis (Trafik Analizi)",
+            "aciklama": "Veri trafiği üzerinde yapılan incelemelerle, olası tehditler, izinsiz girişler ve güvenlik zafiyetleri tespit edilmeye çalışılır."
+          },
+          {
+            "kavram": "Targeting (Hedefleme)",
+            "aciklama": "Bir saldırganın veya kötü niyetli kişinin belirli bir hedefi seçmesi ve ona yönelik bir saldırı planlaması."
+          },
+          {
+            "kavram": "Threat Severity (Tehdit Şiddeti)",
+            "aciklama": "Bir tehdit veya saldırının potansiyel zararının büyüklüğü, önem derecesi."
+          },
+          {
+            "kavram": "Trivial Access Protocol (TAP) (Basit Erişim Protokolü)",
+            "aciklama": "Güvenlik önlemleri olmadan, temel erişim sağlamaya yarayan bir protokol."
+          },
+          {
+            "kavram": "Traffic Hijacking (Trafik Kaçırma)",
+            "aciklama": "İletişim verilerinin, kullanıcı farkında olmadan kötü niyetli kişiler tarafından ele geçirilmesi veya yönlendirilmesi."
+          },
+          {
+            "kavram": "Token-Based Security (Token Tabanlı Güvenlik)",
+            "aciklama": "Güvenlik protokollerinde kullanılan geçici, tek kullanımlık doğrulama anahtarı (token) ile kimlik doğrulama ve erişim kontrolü."
+          },
+          {
+            "kavram": "Trap and Trace (Pusu ve İzleme)",
+            "aciklama": "Bir saldırganı tuzağa düşürüp, onun faaliyetlerini izleyerek konum veya kimlik tespiti yapılması."
+          },
+          {
+            "kavram": "Theft of Intellectual Property (Fikri Mülkiyet Hırsızlığı)",
+            "aciklama": "Bir kişinin ya da kurumun sahip olduğu patent, ticari marka, telif hakkı gibi fikri mülkiyet haklarının izinsiz bir şekilde çalınması."
+          },
+          {
+            "kavram": "Token Authentication (Token Kimlik Doğrulaması)",
+            "aciklama": "Kullanıcı kimliğini doğrulamak için özel bir token kullanma yöntemi. Genellikle çok faktörlü doğrulama sistemlerinin bir parçasıdır."
+          },
+          {
+            "kavram": "Time Delay (Zaman Gecikmesi)",
+            "aciklama": "Bir işlemde, beklenenden daha fazla zaman alması durumunu ifade eder, özellikle ağ gecikmesi gibi durumlarda ortaya çıkar."
+          },
+          {
+            "kavram": "Tunnel Endpoint (Tünel Ucu)",
+            "aciklama": "VPN veya başka bir ağ tünelleme teknolojisinde, veri iletişiminin başladığı veya sona erdiği noktalar."
+          },
+          {
+            "kavram": "Turing Completeness (Turing Tamlığı)",
+            "aciklama": "Bir hesaplama modelinin, herhangi bir problemi çözebilecek kapasiteye sahip olduğunu gösteren kavram."
+          },
+          {
+            "kavram": "Tactical Attack (Taktiksel Saldırı)",
+            "aciklama": "Hedefe yönelik olarak, belirli bir amaca ulaşmak için kullanılan kısa vadeli, stratejik saldırı teknikleri."
+          },
+          {
+            "kavram": "Tactical Response (Taktiksel Yanıt)",
+            "aciklama": "Saldırıya karşı alınan, kısa vadeli ve hedefe yönelik karşı önlemler."
+          },
+          {
+            "kavram": "Trojans in Email (E-posta Yoluyla Truva Atları)",
+            "aciklama": "E-posta aracılığıyla gönderilen, kullanıcıları kötü niyetli yazılımlara veya saldırılara yönlendiren truva atları."
+          },
+          {
+            "kavram": "Threat Detection System (Tehdit Tespit Sistemi)",
+            "aciklama": "Ağa veya sisteme yönelik tehditleri, saldırıları ve anormallikleri tespit eden yazılım veya donanım sistemleri."
+          },
+          {
+            "kavram": "Traffic Overflow (Trafik Taşkınlığı)",
+            "aciklama": "Ağa veya bir servise gelen veri trafiğinin kapasiteyi aşması durumunda meydana gelen aşırı yük."
+          },
+          {
+            "kavram": "Time-sensitive Attack (Zaman Duyarlı Saldırı)",
+            "aciklama": "Hedefe belirli bir süre içinde ulaşılması gereken ve zamanlama açısından kritik olan saldırılar."
+          },
+          {
+            "kavram": "Tarpit (Yavaşlatma Tekniği)",
+            "aciklama": "Saldırganların sistem üzerinde gerçekleştirdiği kötü niyetli işlemleri kasıtlı olarak yavaşlatarak tespit edilmesini sağlamak."
+          },
+          {
+            "kavram": "Tactical Security (Taktiksel Güvenlik)",
+            "aciklama": "Kısa vadeli, hedefe yönelik güvenlik önlemleri ve stratejileri."
+          },
+          {
+            "kavram": "Threat Intelligence Platform (Tehdit İstihbarat Platformu)",
+            "aciklama": "Potansiyel tehditler ve siber saldırılar hakkında bilgi sağlayan, analiz ve raporlama yapan yazılım platformları."
+          },
+          {
+            "kavram": "Tokenized Payment Systems (Tokenleştirilmiş Ödeme Sistemleri)",
+            "aciklama": "Ödeme işlemleri sırasında, gerçek kredi kartı bilgileri yerine geçici ve şifreli 'token' kullanılarak yapılan ödeme sistemleri."
+          },
+          {
+            "kavram": "Targeted Phishing (Hedeflenmiş Phishing)",
+            "aciklama": "Özellikle belirli bir kişi veya grup üzerinde yapılan, kişisel bilgiler toplamak amacıyla gerçekleştirilen oltalama saldırısı."
+          },
+          {
+            "kavram": "Takedown Request (Kaldırma Talebi)",
+            "aciklama": "Bir içerik veya kaynağın, yasal olmayan veya zararlı olduğunu belirleyerek kaldırılmasını talep etme."
+          },
+          {
+            "kavram": "Threat Feed (Tehdit Akışı)",
+            "aciklama": "Bir organizasyona yönelik potansiyel tehditler hakkında sürekli güncellenen, zaman içinde veri sağlayan bilgi akışları."
+          },
+          {
+            "kavram": "Traffic Congestion (Trafik Yoğunluğu)",
+            "aciklama": "Ağ üzerindeki veri trafiğinin fazla olması nedeniyle, iletimde yavaşlamalar ve performans düşüşü yaşanması."
+          },
+          {
+            "kavram": "Testbed (Test Alanı)",
+            "aciklama": "Yazılım, donanım veya ağ sistemlerinin test edildiği kontrollü ortam."
+          },
+          {
+            "kavram": "Timestamping (Zaman Damgası)",
+            "aciklama": "Bir verinin, belirli bir zaman diliminde oluşturulmuş veya işlenmiş olduğunu göstermek için yapılan işlem."
+          },
+          {
+            "kavram": "Throttling (Sınırlama)",
+            "aciklama": "Ağa veya bir servise gelen veri trafiğini bilinçli olarak sınırlama veya yavaşlatma işlemi."
+          },
+          {
+            "kavram": "Traffic Shaping (Trafik Şekillendirme)",
+            "aciklama": "Ağ trafiğini yönlendirme veya düzenleme işlemi, bu sayede veri trafiğinin daha verimli ve güvenli bir şekilde iletilmesi sağlanır."
+          },
+          {
+            "kavram": "TLS Handshake (TLS El Sıkışması)",
+            "aciklama": "İki cihaz arasında güvenli bir bağlantı kurulmadan önce gerçekleşen, şifreleme ve kimlik doğrulama aşaması."
+          },
+          {
+            "kavram": "Token Generation (Token Üretimi)",
+            "aciklama": "Kimlik doğrulama için kullanılan, geçici bir anahtar ya da 'token' üretme işlemi."
+          },
+          {
+            "kavram": "Time-based Attack (Zaman Tabanlı Saldırı)",
+            "aciklama": "Bir saldırganın, saldırı için doğru zaman dilimini seçerek belirli bir hedefe saldırması."
+          },
+          {
+            "kavram": "Trojan Horse Attack (Truva Atı Saldırısı)",
+            "aciklama": "Kötü niyetli yazılımların, normal bir yazılım gibi gösterilerek sisteme sızması."
+          },
+          {
+            "kavram": "Test Plan (Test Planı)",
+            "aciklama": "Yazılım veya sistemin test edilmesi için hazırlanan plan, test senaryolarını ve stratejilerini içerir."
+          },
+          {
+            "kavram": "Turing Machine (Turing Makinesi)",
+            "aciklama": "Bilgisayar bilimlerinde, herhangi bir hesaplama problemini çözebilen teorik bir makine."
+          },
+          {
+            "kavram": "Transport Layer Protection (Taşıma Katmanı Koruması)",
+            "aciklama": "Verilerin taşıma katmanında güvenliğini sağlayan protokoller ve önlemler."
+          },
+          {
+            "kavram": "Traffic Anomaly (Trafik Anomalisi)",
+            "aciklama": "Normal trafik desenlerinin dışında kalan, şüpheli veya hatalı ağ trafiği."
+          },
+          {
+            "kavram": "Test Cases (Test Vaka)",
+            "aciklama": "Yazılımın işlevselliğini test etmek için belirlenen spesifik senaryolar."
+          },
+          {
+            "kavram": "Two-Step Verification (İki Adımlı Doğrulama)",
+            "aciklama": "Kullanıcı doğrulaması için iki farklı kimlik doğrulama yönteminin kullanılması."
+          },
+          {
+            "kavram": "Trust Center (Güven Merkezi)",
+            "aciklama": "Bir organizasyonun, güvenlik ve kimlik doğrulama işlemleriyle ilgili tüm yönetimini üstlenen merkezi."
+          },
+          {
+            "kavram": "Token Storage (Token Depolama)",
+            "aciklama": "Kimlik doğrulama token'larının güvenli bir şekilde depolanması."
+          },
+          {
+            "kavram": "Time-based Protection (Zaman Tabanlı Koruma)",
+            "aciklama": "Zamanla sınırlı erişim veya koruma sağlama yöntemleri."
+          },
+          {
+            "kavram": "Token Forgery (Token Sahteciliği)",
+            "aciklama": "Geçersiz veya sahte token'lar oluşturarak kimlik doğrulama sistemlerini geçmeye çalışma."
+          },
+          {
+            "kavram": "Traffic Interception (Trafik Kesme)",
+            "aciklama": "Ağ trafiğinin, hedefe ulaşmadan önce kesilmesi veya yönlendirilmesi."
+          },
+          {
+            "kavram": "Threat Classification (Tehdit Sınıflandırması)",
+            "aciklama": "Tehditlerin türlerine ve potansiyel etkilerine göre kategorilere ayrılması."
+          },
+          {
+            "kavram": "Tampering Attack (Tahrifat Saldırısı)",
+            "aciklama": "Veri veya sistemin izinsiz bir şekilde değiştirilmesi."
+          },
+          {
+            "kavram": "TFTP (Trivial File Transfer Protocol) (Basit Dosya Transfer Protokolü)",
+            "aciklama": "Temel dosya transferi için kullanılan, güvenliksiz bir ağ protokolü."
+          },
+          {
+            "kavram": "Ticketing System Security (Biletleme Sistemi Güvenliği)",
+            "aciklama": "Biletleme sistemlerinin siber güvenlik tehditlerine karşı korunması."
+          },
+          {
+            "kavram": "Time Bomb Payload (Zamanlı Bomba Yükü)",
+            "aciklama": "Zamanlayıcıya bağlı olarak çalışan, sistemin belirli bir zaman sonra zarar görmesine neden olan kötü amaçlı yazılım."
+          },
+          {
+            "kavram": "Tactical Countermeasures (Taktiksel Karşı Önlemler)",
+            "aciklama": "Kısa vadeli, saldırılara karşı alınan savunma önlemleri."
+          },
+          {
+            "kavram": "Turing Attack (Turing Saldırısı)",
+            "aciklama": "Turing testlerine dayalı olarak gerçekleştirilen saldırılar. Genellikle yapay zekâ ve algoritmaların güvenlik açıklarından yararlanmayı amaçlar."
+          },
+          {
+            "kavram": "Traffic Profiling (Trafik Profil Oluşturma)",
+            "aciklama": "Ağ trafiği üzerinden analiz yaparak kullanıcılar ve sistemler hakkında bilgi toplama yöntemi."
+          },
+          {
+            "kavram": "Transmission Encryption (İletim Şifrelemesi)",
+            "aciklama": "Verilerin iletim sırasında güvenliğini sağlamak amacıyla şifrelenmesi."
+          },
+          {
+            "kavram": "Turing Test for Security (Güvenlik için Turing Testi)",
+            "aciklama": "Bir sistemin güvenliğini değerlendirirken, insan benzeri düşünme yeteneği gerektiren test."
+          },
+          {
+            "kavram": "TCP Spoofing (TCP Sahtekarlığı)",
+            "aciklama": "TCP protokolü üzerinden kimlik sahtekarlığı yaparak verilerin kötü niyetli bir şekilde yönlendirilmesi."
+          },
+          {
+            "kavram": "Targeted Malware (Hedefli Kötü Amaçlı Yazılım)",
+            "aciklama": "Belirli hedefleri hedef alan kötü amaçlı yazılımlar."
+          },
+          {
+            "kavram": "Transport Security Protocol (Taşıma Güvenlik Protokolü)",
+            "aciklama": "Veri iletimi sırasında güvenliği sağlayan protokoller, örneğin SSL/TLS."
+          },
+          {
+            "kavram": "Traffic Masking (Trafik Maskeleme)",
+            "aciklama": "Ağ trafiğini gizleyerek ya da değiştirerek izlenmesini engelleme."
+          },
+          {
+            "kavram": "Turing Machine Security (Turing Makinesi Güvenliği)",
+            "aciklama": "Turing makinelerinin teorik ve pratik güvenlik analizlerini içeren bir kavram."
+          },
+          {
+            "kavram": "Traffic Anomaly Detection (Trafik Anomali Tespiti)",
+            "aciklama": "Ağ trafiğinde olağan dışı durumları tespit etmek için kullanılan teknikler."
+          },
+          {
+            "kavram": "Tackle Zero-day Exploits (Zero-day Sömürülerini Ele Almak)",
+            "aciklama": "Henüz fark edilmemiş ve yamanmamış güvenlik açıklarından yararlanmayı amaçlayan saldırılara karşı önlem almak."
+          },
+          {
+            "kavram": "Threat Attribution (Tehdit Ataması)",
+            "aciklama": "Bir güvenlik tehdidinin kaynağının belirlenmesi."
+          },
+          {
+            "kavram": "Threat Intelligence Sharing (Tehdit İstihbarat Paylaşımı)",
+            "aciklama": "Güvenlik tehditleri hakkında edinilen bilgilerin kurumlar arasında paylaşılması."
+          },
+          {
+            "kavram": "Token Hashing (Token Karmaşıklaştırma)",
+            "aciklama": "Kimlik doğrulama token'larının güvenliğini sağlamak amacıyla karmaşıklaştırma işlemi."
+          },
+          {
+            "kavram": "Third-Party Authentication (Üçüncü Taraf Kimlik Doğrulama)",
+            "aciklama": "Bir kullanıcının kimliğini doğrulamak için üçüncü taraf bir servis kullanılması."
+          },
+          {
+            "kavram": "Trustworthiness (Güvenilirlik)",
+            "aciklama": "Bir sistem ya da kaynağın doğruluğu ve güvenilirliği."
+          },
+          {
+            "kavram": "Traffic Analysis Software (Trafik Analizi Yazılımı)",
+            "aciklama": "Ağ trafiğini izleyip analiz eden yazılım araçları."
+          },
+          {
+            "kavram": "Trojan Malware (Truva Atı Kötü Amaçlı Yazılım)",
+            "aciklama": "Kullanıcıların bilgisayarlarına gizlice giren ve zarar veren kötü amaçlı yazılımlar."
+          },
+          {
+            "kavram": "Traffic Encryption (Trafik Şifreleme)",
+            "aciklama": "Ağ trafiğinin güvenliğini sağlamak için şifrelenmesi."
+          },
+          {
+            "kavram": "Test Authentication (Test Kimlik Doğrulaması)",
+            "aciklama": "Sistemlerin kimlik doğrulama süreçlerini test etmek amacıyla yapılan doğrulama işlemleri."
+          },
+          {
+            "kavram": "Targeted Ransomware (Hedeflenmiş Fidye Yazılımı)",
+            "aciklama": "Belirli hedeflere yönelik olarak çalışan ve fidye isteyen kötü amaçlı yazılım."
+          },
+          {
+            "kavram": "Throttling Prevention (Sınırlama Öncesi)",
+            "aciklama": "Trafiğin aşırı yüklenmesini engellemek için önlemler alınması."
+          },
+          {
+            "kavram": "Tactical Cyber Defense (Taktiksel Siber Savunma)",
+            "aciklama": "Hedefli siber saldırılara karşı anlık savunma stratejileri."
+          },
+          {
+            "kavram": "Terminal Access Control (Terminal Erişim Kontrolü)",
+            "aciklama": "Bir terminale erişimi kontrol etmek için kullanılan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Transaction Monitoring (İşlem İzleme)",
+            "aciklama": "Finansal veya diğer işlemlerin izlenmesi ve şüpheli durumların tespit edilmesi."
+          },
+          {
+            "kavram": "Terrorist Cyber Activities (Terörist Siber Faaliyetler)",
+            "aciklama": "Terörist grupların interneti ve bilgisayar sistemlerini kullanarak gerçekleştirdiği faaliyetler."
+          },
+          {
+            "kavram": "Threat Modeling Tools (Tehdit Modelleme Araçları)",
+            "aciklama": "Potansiyel güvenlik tehditlerini modellemek ve analiz etmek için kullanılan yazılım araçları."
+          },
+          {
+            "kavram": "Tethered Authentication (Bağlantılı Kimlik Doğrulama)",
+            "aciklama": "Kimlik doğrulama sürecinde fiziksel bir cihazın kullanılması."
+          },
+          {
+            "kavram": "Trace Evidence (İz Kanıtları)",
+            "aciklama": "Bir suç ya da siber saldırı sırasında bırakılan dijital kanıtlar."
+          },
+          {
+            "kavram": "Terminal Server Security (Terminal Sunucu Güvenliği)",
+            "aciklama": "Terminal sunucularının güvenliğini sağlamak için alınan önlemler."
+          },
+          {
+            "kavram": "Theft Protection Software (Hırsızlık Koruma Yazılımı)",
+            "aciklama": "Cihazların çalınmasını engellemek amacıyla kullanılan yazılım."
+          },
+          {
+            "kavram": "Trivial Pursuit Vulnerability (Basit Takip Zafiyeti)",
+            "aciklama": "Sistemlerin basit şekilde takip edilerek zafiyet yaratılmasını ifade eden bir terim."
+          },
+          {
+            "kavram": "Transaction Logging (İşlem Kaydı)",
+            "aciklama": "Yapılan işlemlerin kaydedilmesi ve güvenlik amacıyla izlenmesi."
+          },
+          {
+            "kavram": "Traffic Rate Limiting (Trafik Hız Sınırlandırması)",
+            "aciklama": "Ağ trafiğini belirli bir hızla sınırlayarak aşırı yüklenmeyi önlemek."
+          },
+          {
+            "kavram": "Token Replay (Token Tekrarı)",
+            "aciklama": "Geçerliliği devam eden token'ların izinsiz şekilde tekrar kullanılması."
+          },
+          {
+            "kavram": "Token Expiration (Token Süre Sonu)",
+            "aciklama": "Kimlik doğrulama için kullanılan token'ların geçerlilik sürelerinin sona ermesi."
+          },
+          {
+            "kavram": "Time-based Penetration Testing (Zaman Tabanlı Penetrasyon Testi)",
+            "aciklama": "Bir sistemin güvenliğini zaman kısıtlamalı şekilde test etme."
+          },
+          {
+            "kavram": "Transport Layer Attack (Taşıma Katmanı Saldırısı)",
+            "aciklama": "TCP/IP protokollerini hedef alan ve taşıma katmanındaki güvenlik açıklarını kullanarak yapılan saldırılar."
+          },
+          {
+            "kavram": "Trap Detection (Pusu Tespiti)",
+            "aciklama": "Ağda ya da sistemde kurulan tuzakların (pusu) tespit edilmesi."
+          },
+          {
+            "kavram": "Threat Prevention (Tehdit Önleme)",
+            "aciklama": "Güvenlik tehditlerini önceden tahmin edip, etkisiz hale getirme."
+          },
+          {
+            "kavram": "Two-Step Authentication (İki Adımlı Kimlik Doğrulama)",
+            "aciklama": "Kullanıcının kimliğini doğrulamak için iki aşamalı bir süreç kullanılması."
+          },
+          {
+            "kavram": "Time Synchronization (Zaman Senkronizasyonu)",
+            "aciklama": "Sistemlerin doğru bir şekilde zamanlandırılması."
+          },
+          {
+            "kavram": "Tokenization Attacks (Tokenleştirme Saldırıları)",
+            "aciklama": "Tokenleştirilmiş verileri hedef alarak yapılan saldırılar."
+          },
+          {
+            "kavram": "Traffic Detection (Trafik Tespiti)",
+            "aciklama": "Ağda gerçekleşen trafik akışını izleme ve şüpheli aktiviteleri tespit etme."
+          },
+          {
+            "kavram": "Terminal Protection (Terminal Koruma)",
+            "aciklama": "Terminal cihazlarının güvenliğini sağlamak amacıyla alınan önlemler."
+          },
+          {
+            "kavram": "Trap Configuration (Pusu Yapılandırması)",
+            "aciklama": "Ağda pusu (tuzak) kurmak için kullanılan yapılandırmalar."
+          },
+          {
+            "kavram": "Transactional Security (İşlem Güvenliği)",
+            "aciklama": "Finansal ya da dijital işlemlerin güvenliğini sağlama."
+          },
+          {
+            "kavram": "Throttling Detection (Sınırlama Tespiti)",
+            "aciklama": "Trafiğin sınırlanıp sınırlanmadığını tespit etmek için kullanılan yöntemler."
+          },
+          {
+            "kavram": "Token Security (Token Güvenliği)",
+            "aciklama": "Kimlik doğrulama token'larının güvenliğini sağlama."
+          },
+          {
+            "kavram": "Transaction Security (İşlem Güvenliği)",
+            "aciklama": "Yapılan işlemlerin güvenliğini sağlamak amacıyla alınan önlemler."
+          }
+
+
+
+    ]
+}

@@ -1,0 +1,380 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "WEP (Wired Equivalent Privacy) - Kablolu Eşdeğer Gizlilik",
+            "aciklama": "Kablosuz ağlarda veri güvenliğini sağlamak amacıyla kullanılan eski bir şifreleme protokolüdür. Günümüzde zayıf güvenlik nedeniyle artık önerilmemektedir."
+          },
+          {
+            "kavram": "Wi-Fi - Kablosuz Ağ",
+            "aciklama": "İnternet veya yerel ağ bağlantıları için kablosuz bir teknoloji olan Wi-Fi, cihazların internet ve ağ erişimi sağlamasına olanak tanır."
+          },
+          {
+            "kavram": "Web Application Firewall (WAF) - Web Uygulama Güvenlik Duvarı",
+            "aciklama": "Web uygulamalarını dış tehditlerden ve saldırılardan korumak amacıyla kullanılan güvenlik duvarıdır. HTTP trafiğini izler ve kötü amaçlı içerikleri engeller."
+          },
+          {
+            "kavram": "Web Scraping - Web Kazıma",
+            "aciklama": "İnternet üzerindeki verileri otomatik olarak toplayan bir tekniktir. Genellikle web sitelerinden veri çekmek amacıyla kullanılır."
+          },
+          {
+            "kavram": "Whaling - Balina Avı (Phishing türü)",
+            "aciklama": "Phishing türlerinden biri olan whaling, özellikle üst düzey yöneticiler ve şirket liderlerine yönelik yapılan dolandırıcılık saldırılarındır."
+          },
+          {
+            "kavram": "White Hat Hacker - Beyaz Şapkalı Hacker (Etik Hacker)",
+            "aciklama": "Güvenlik açıklarını tespit etmek ve düzeltmek amacıyla etik olarak çalışan hacker'lardır. Genellikle organizasyonlar için güvenlik testleri yaparlar."
+          },
+          {
+            "kavram": "Wireshark - Ağ Protokolü Analiz Aracı",
+            "aciklama": "Ağ üzerindeki verilerin yakalanması, incelenmesi ve analiz edilmesi için kullanılan açık kaynaklı bir yazılımdır."
+          },
+          {
+            "kavram": "Worm - Solucan (Zararlı Yazılım Türü)",
+            "aciklama": "Ağlar üzerinden kendini kopyalayarak yayılan, genellikle zararlı amaçlarla kullanılan bir tür virüstür."
+          },
+          {
+            "kavram": "Wi-Fi Protected Access (WPA) - Kablosuz Ağ Koruma Erişimi",
+            "aciklama": "Wi-Fi ağları için kullanılan güvenlik protokolüdür. WPA, WEP'ye göre daha güvenli bir alternatif sunar."
+          },
+          {
+            "kavram": "Wi-Fi Protected Access II (WPA2) - Kablosuz Ağ Koruma Erişimi II",
+            "aciklama": "WPA'nın bir geliştirilmiş versiyonudur ve kablosuz ağların daha güçlü güvenliğini sağlar."
+          },
+          {
+            "kavram": "WPA3 - Kablosuz Ağ Koruma Erişimi III",
+            "aciklama": "WPA2'nin en son sürümüdür ve daha güçlü şifreleme ve güvenlik özellikleri sunar."
+          },
+          {
+            "kavram": "Web Security - Web Güvenliği",
+            "aciklama": "Web tabanlı sistemlerin ve uygulamaların çeşitli tehditlerden korunmasını sağlamak için kullanılan güvenlik önlemleri ve teknolojileridir."
+          },
+          {
+            "kavram": "Web Application - Web Uygulaması",
+            "aciklama": "İnternet üzerinden çalışan ve web tarayıcıları aracılığıyla erişilen yazılım uygulamalarıdır."
+          },
+          {
+            "kavram": "Weak Password - Zayıf Parola",
+            "aciklama": "Kolay tahmin edilebilen veya kırılabilen şifrelerdir. Güvenliği tehlikeye atar."
+          },
+          {
+            "kavram": "Watering Hole Attack - Su Delikleri Saldırısı",
+            "aciklama": "Saldırganların belirli bir hedef grubun sıklıkla ziyaret ettiği bir web sitesine zarar vermesi ile yapılan bir saldırı türüdür."
+          },
+          {
+            "kavram": "Web Shell - Web Kabuk",
+            "aciklama": "Web sunucusunda çalıştırılabilir komutlar ve işlemler gerçekleştirmek için kullanılan bir yazılım aracıdır. Çoğu zaman kötü niyetli saldırganlar tarafından sisteme erişim sağlamak için kullanılır."
+          },
+          {
+            "kavram": "Wired Network - Kablolu Ağ",
+            "aciklama": "İnternet veya yerel ağ bağlantılarının kablolar aracılığıyla sağlandığı ağ sistemidir."
+          },
+          {
+            "kavram": "Windows Defender - Windows Koruyucu",
+            "aciklama": "Microsoft'un Windows işletim sistemi için geliştirdiği bir güvenlik yazılımıdır. Antivirüs, antispyware ve güvenlik duvarı gibi özellikler sunar."
+          },
+          {
+            "kavram": "Wildcard SSL Certificate - Yıldızlı SSL Sertifikası",
+            "aciklama": "Birden fazla alt alan adı için geçerli olan SSL sertifikasıdır. Bu sertifika, tüm alt domainlerde şifreli iletişim sağlar."
+          },
+          {
+            "kavram": "Web Server - Web Sunucusu",
+            "aciklama": "Web sayfalarını internet üzerinden kullanıcılara sunan ve bunlara erişim sağlayan bir sunucu yazılımdır."
+          },
+          {
+            "kavram": "Windows Security - Windows Güvenliği",
+            "aciklama": "Windows işletim sistemlerinde kullanılan çeşitli güvenlik özellikleri ve yazılımlarıdır. Bu, antivirüs yazılımları, güvenlik duvarı ve diğer koruma önlemlerini içerir."
+          },
+          {
+            "kavram": "Whitelist - Beyaz Liste",
+            "aciklama": "Güvenli olarak kabul edilen IP adresleri, e-posta adresleri veya yazılımlarının listelendiği bir güvenlik yöntemi. Beyaz listedekiler, engellenmez."
+          },
+          {
+            "kavram": "Wired Equivalent Privacy (WEP) - Kablolu Eşdeğer Gizlilik",
+            "aciklama": "Kablosuz ağlarda veri güvenliğini sağlamak amacıyla kullanılan eski bir şifreleme protokolüdür. Zayıf güvenlik nedeniyle artık önerilmemektedir."
+          },
+          {
+            "kavram": "Workstation Security - İş İstasyonu Güvenliği",
+            "aciklama": "Çalışma bilgisayarlarının kötü niyetli yazılımlara karşı korunmasını sağlamak için yapılan güvenlik önlemleridir."
+          },
+          {
+            "kavram": "Wireless Network - Kablosuz Ağ",
+            "aciklama": "Kablolu bağlantı yerine, radyo dalgaları veya diğer kablosuz iletişim teknolojileri kullanarak cihazların internet veya ağ erişimi sağladığı ağdır."
+          },
+          {
+            "kavram": "Wi-Fi Security (Wi-Fi Güvenliği)",
+            "aciklama": "Kablosuz ağların dış saldırılardan korunması için kullanılan güvenlik protokolleridir. WPA, WPA2 ve WPA3 gibi şifreleme yöntemleri bu kapsamda yer alır."
+          },
+          {
+            "kavram": "Web Browser (Web Tarayıcısı)",
+            "aciklama": "İnternette gezinmek ve web sayfalarını görüntülemek için kullanılan yazılımdır. Örnekler arasında Google Chrome, Mozilla Firefox ve Safari yer alır."
+          },
+          {
+            "kavram": "Webhook (Web Kancası)",
+            "aciklama": "Web uygulamalarının diğer uygulamalarla etkileşime geçmesini sağlayan bir teknolojidir. Bir olay tetiklendiğinde, önceden belirlenmiş bir URL'ye veri gönderir."
+          },
+          {
+            "kavram": "Weakness (Zayıflık)",
+            "aciklama": "Bir sistemin veya yazılımın güvenliğini tehlikeye atan eksikliklerdir."
+          },
+          {
+            "kavram": "Wireless Encryption (Kablosuz Şifreleme)",
+            "aciklama": "Kablosuz ağda veri iletimi sırasında bilgilerin şifrelenmesini sağlayarak, dış tehditlere karşı güvenlik sağlar."
+          },
+          {
+            "kavram": "Watermarking (Filigranlama)",
+            "aciklama": "Dijital içerik üzerinde, sahibini veya kaynağını tanımlamak için kullanılan bir güvenlik tekniğidir. Genellikle görüntülerde veya videolarda kullanılır."
+          },
+          {
+            "kavram": "WPA Key (WPA Anahtarı)",
+            "aciklama": "Wi-Fi Protected Access protokolü ile güvenli kablosuz bağlantılar için kullanılan şifreleme anahtarıdır."
+          },
+          {
+            "kavram": "Worm Virus (Solucan Virüsü)",
+            "aciklama": "Ağ üzerinde kendini kopyalayarak yayılan zararlı yazılım türüdür."
+          },
+          {
+            "kavram": "Web-based Attack (Web Tabanlı Saldırı)",
+            "aciklama": "Web uygulamaları, sunucular veya kullanıcılar üzerinde gerçekleştirilen saldırılardır. SQL enjeksiyonu veya XSS gibi saldırılar bu kategoriye girer."
+          },
+          {
+            "kavram": "Wi-Fi Hotspot (Wi-Fi Erişim Noktası)",
+            "aciklama": "Kablosuz ağ bağlantısının sunulduğu bir alan veya cihazdır. Genellikle halka açık yerlerde Wi-Fi erişimi sağlar."
+          },
+          {
+            "kavram": "Web Traffic (Web Trafiği)",
+            "aciklama": "İnternet üzerindeki web sitelerine yapılan ziyaretler ve bu ziyaretlere bağlı olarak oluşan veri akışıdır."
+          },
+          {
+            "kavram": "Wireless Intrusion Detection System (WIDS) (Kablosuz İstihbarat Tespit Sistemi)",
+            "aciklama": "Kablosuz ağlarda, ağ trafiğini izleyerek izinsiz erişim veya kötü amaçlı faaliyetleri tespit eden bir güvenlik sistemidir."
+          },
+          {
+            "kavram": "World Wide Web (WWW) (Dünya Çapında Ağ)",
+            "aciklama": "İnterneti kullanarak erişilebilen, dünya genelinde bağlantılı web sayfalarından oluşan sistemdir."
+          },
+          {
+            "kavram": "Web Security Testing (Web Güvenlik Testi)",
+            "aciklama": "Web uygulamalarının güvenliğini test etmek amacıyla yapılan testlerdir. Bu testler, açıkları ve zayıf noktaları tespit etmek için yapılır."
+          },
+          {
+            "kavram": "WPS (Wi-Fi Protected Setup) (Wi-Fi Koruması Kurulum)",
+            "aciklama": "Wi-Fi ağlarını hızlı ve güvenli bir şekilde kurmak için kullanılan bir protokoldür. Özellikle cihazları parolasız bağlamaya olanak tanır."
+          },
+          {
+            "kavram": "Web Application Attack (Web Uygulama Saldırısı)",
+            "aciklama": "Web uygulamalarına yönelik yapılan saldırılardır. Bu saldırılar, uygulamanın zayıf noktalarını hedef alır."
+          },
+          {
+            "kavram": "Wiretap (Tel Dinleme)",
+            "aciklama": "Telefon hatları veya iletişim hatlarında yapılan dinlemelerdir. Yasal olmayan şekilde iletişim bilgileri toplamak amacıyla yapılır."
+          },
+          {
+            "kavram": "Wireless Authentication (Kablosuz Kimlik Doğrulama)",
+            "aciklama": "Kablosuz ağlara bağlanmadan önce kullanıcının kimliğini doğrulama sürecidir."
+          },
+          {
+            "kavram": "Web Privacy (Web Gizliliği)",
+            "aciklama": "Kullanıcıların web üzerindeki verilerinin gizliliğini koruma amacıyla uygulanan güvenlik önlemleridir."
+          },
+          {
+            "kavram": "Web Spoofing (Web Taklitçiliği)",
+            "aciklama": "Bir web sitesinin görünümünü taklit ederek kullanıcıları kandırmaya yönelik yapılan dolandırıcılık türüdür."
+          },
+          {
+            "kavram": "Web Tracking (Web Takibi)",
+            "aciklama": "İnternet kullanıcılarının davranışlarının izlenmesi ve bu verilerin toplanması işlemidir. Genellikle reklam ve analiz amaçlı kullanılır."
+          },
+          {
+            "kavram": "Web Browser Vulnerabilities (Web Tarayıcı Açıkları)",
+            "aciklama": "Web tarayıcılarında bulunan ve saldırganlar tarafından kullanılabilecek güvenlik açıklarıdır."
+          },
+          {
+            "kavram": "Whitelisting (Beyaz Listeleme)",
+            "aciklama": "Güvenli olarak kabul edilen öğeleri listeleme işlemidir. Beyaz listedeki öğelere güvenilir erişim sağlanır."
+          },
+          {
+            "kavram": "Web-to-Phone Attack (Web'ten Telefona Saldırı)",
+            "aciklama": "Web üzerinden cep telefonlarına yapılan saldırılardır. Genellikle kötü amaçlı yazılımlar veya phishing saldırıları içerir."
+          },
+          {
+            "kavram": "Web Access Control (Web Erişim Kontrolü)",
+            "aciklama": "Web uygulamalarına ve içeriklerine erişimi sınırlamak ve kontrol etmek için kullanılan güvenlik önlemidir."
+          },
+          {
+            "kavram": "WPA2 Vulnerability (WPA2 Açığı)",
+            "aciklama": "WPA2 (Wi-Fi Protected Access 2) protokolündeki güvenlik zayıflıklarıdır. Bu tür açıklar, kablosuz ağların kötü amaçlı kişiler tarafından ele geçirilmesine yol açabilir."
+          },
+          {
+            "kavram": "Web Application Integrity (Web Uygulama Bütünlüğü)",
+            "aciklama": "Bir web uygulamasının verilerinin ve işlevselliğinin değiştirilmeden, bozulmadan ve zarar görmeden çalışmasını sağlama durumudur. Bu, güvenlik açısından kritik bir özellik olup, verilerin manipülasyona karşı korunmasını ifade eder."
+          },
+          {
+            "kavram": "Web Application Performance (Web Uygulama Performansı)",
+            "aciklama": "Web uygulamasının verimli bir şekilde çalışıp çalışmadığını, hızını ve kullanıcı deneyimini belirleyen faktörlerin toplamıdır. Performans sorunları, yavaş yüklenen sayfalardan kaynaklanabilir."
+          },
+          {
+            "kavram": "Wireless Device Authentication (Kablosuz Cihaz Kimlik Doğrulama)",
+            "aciklama": "Kablosuz ağlara bağlanmaya çalışan cihazların, ağ yöneticisi veya sistem tarafından doğrulanması işlemidir. Bu kimlik doğrulama işlemi, sadece yetkili cihazların ağa erişmesini sağlar."
+          },
+          {
+            "kavram": "WLAN Intrusion Detection (WLAN İstihbarat Tespiti)",
+            "aciklama": "Kablosuz yerel alan ağlarında (WLAN) izinsiz erişim veya kötü amaçlı etkinliklerin tespit edilmesi işlemidir. WLAN intrüzyon tespit sistemleri, ağ trafiğini izler ve anormal faaliyetleri bildirir."
+          },
+          {
+            "kavram": "Wi-Fi Sniffing (Wi-Fi Dinlemesi)",
+            "aciklama": "Wi-Fi ağları üzerinden iletilen verileri izlemek veya 'dinlemek' amacıyla yapılan bir saldırıdır. Bu tür saldırılar, şifrelenmemiş verileri ele geçirebilir."
+          },
+          {
+            "kavram": "Wi-Fi Stealth Mode (Wi-Fi Gizli Modu)",
+            "aciklama": "Bir Wi-Fi ağının, ağın varlığını gizlemek amacıyla adının (SSID) yayınlanmaması durumudur. Bu modda, kullanıcılar ağın adını görmeden bağlanmaya çalışır."
+          },
+          {
+            "kavram": "Web Protocols (Web Protokolleri)",
+            "aciklama": "İnternet üzerinden veri iletimi ve iletişimi sağlayan kurallar ve standartlar bütünüdür. HTTP, HTTPS, FTP gibi protokoller web uygulamalarında sıkça kullanılır."
+          },
+          {
+            "kavram": "Windows Security Patch (Windows Güvenlik Yaması)",
+            "aciklama": "Microsoft tarafından, Windows işletim sistemindeki güvenlik açıklarını düzeltmek için yayımlanan yazılım güncellemeleridir. Bu yamalar, yeni keşfedilen güvenlik açıklarını kapatır."
+          },
+          {
+            "kavram": "Wireless Penetration Testing (Kablosuz Penetrasyon Testi)",
+            "aciklama": "Kablosuz ağların güvenliğini test etmek amacıyla yapılan, ağdaki zayıf noktaları tespit etme işlemidir. Testler, ağda yapılabilecek saldırıları simüle ederek zayıf alanları belirler."
+          },
+          {
+            "kavram": "Wi-Fi Access Point Spoofing (Wi-Fi Erişim Noktası Taklitçiliği)",
+            "aciklama": "Bir saldırganın, güvenilir bir Wi-Fi erişim noktasının adını taklit ederek, kullanıcıları sahte ağa bağlanmaya zorlamasıdır. Bu saldırı, man-in-the-middle (araya giren saldırı) türü bir güvenlik tehdidi oluşturur."
+          },
+          {
+            "kavram": "Web Security Risk (Web Güvenlik Riski)",
+            "aciklama": "Web uygulamalarındaki ve web altyapısındaki potansiyel güvenlik tehditleri ve açıkları ifade eder. Bunlar, kullanıcı verilerinin sızması, SQL enjeksiyonu ve XSS gibi saldırıları içerir."
+          },
+          {
+            "kavram": "Wi-Fi Network Configuration (Wi-Fi Ağ Yapılandırması)",
+            "aciklama": "Kablosuz ağın güvenlik, şifreleme ve erişim ayarlarını içerir. Doğru yapılandırma, ağın güvenliğini ve verimliliğini sağlar."
+          },
+          {
+            "kavram": "Web Privacy Settings (Web Gizliliği Ayarları)",
+            "aciklama": "Kullanıcıların web uygulamalarında kişisel bilgilerini ve verilerini korumak amacıyla belirlediği ayarlardır. Çerezler, izleme, konum bilgisi paylaşımı gibi özellikler bu kapsamda yer alır."
+          },
+          {
+            "kavram": "Wired Connection (Kablolu Bağlantı)",
+            "aciklama": "İnternete veya bir ağa fiziksel kabloyla bağlanma yöntemidir. Genellikle daha güvenli ve hızlıdır."
+          },
+          {
+            "kavram": "WPA3 Authentication (WPA3 Kimlik Doğrulaması)",
+            "aciklama": "WPA3, Wi-Fi ağları için daha güvenli bir kimlik doğrulama protokolüdür. WPA2'ye kıyasla daha güçlü şifreleme ve güvenlik önlemleri sunar."
+          },
+          {
+            "kavram": "Web Analytics (Web Analitiği)",
+            "aciklama": "Web sitelerinin kullanım verilerini toplama, analiz etme ve raporlama sürecidir. Kullanıcı davranışlarını anlamak için trafik analizi yapılır."
+          },
+          {
+            "kavram": "Wi-Fi Protected Setup (WPS) Cracking (Wi-Fi Koruma Kurulumu Şifre Kırma)",
+            "aciklama": "Wi-Fi ağları için kullanılan WPS güvenlik protokolünün zayıflıklarını kullanarak, ağ şifresini kırma işlemidir. Bu tür saldırılar, kaba kuvvet saldırılarıyla gerçekleştirilebilir."
+          },
+          {
+            "kavram": "Wireless Network Monitoring (Kablosuz Ağ İzleme)",
+            "aciklama": "Kablosuz ağ trafiğini izlemek ve güvenlik tehditlerini tespit etmek amacıyla yapılan işlemdir. Ağda anormal etkinliklerin belirlenmesine yardımcı olur."
+          },
+          {
+            "kavram": "Web Application Logs (Web Uygulama Günlükleri)",
+            "aciklama": "Web uygulamalarındaki olayların ve kullanıcı etkileşimlerinin kaydedildiği dosyalardır. Güvenlik analizi için önemli bir kaynaktır."
+          },
+          {
+            "kavram": "Windows Defender Offline (Windows Koruyucu Çevrimdışı)",
+            "aciklama": "Windows işletim sistemi tarafından sağlanan ve kötü amaçlı yazılımların temizlenmesine yardımcı olan çevrimdışı bir güvenlik aracıdır."
+          },
+          {
+            "kavram": "Wi-Fi Signal Jamming (Wi-Fi Sinyali Karıştırma)",
+            "aciklama": "Wi-Fi sinyallerinin kesilmesi veya bozulması amacıyla yapılan bir saldırıdır. Bu, ağın hizmet dışı kalmasına neden olabilir."
+          },
+          {
+            "kavram": "Web Server Configuration (Web Sunucusu Yapılandırması)",
+            "aciklama": "Web sunucularının güvenlik ve performans için yapılan ayarları içerir. Bu ayarlar, sunucunun düzgün çalışmasını ve güvenliğini sağlar."
+          },
+          {
+            "kavram": "Wireless Intrusion Detection System (Kablosuz İstihbarat Tespit Sistemi)",
+            "aciklama": "Kablosuz ağlarda yapılan izinsiz girişleri tespit etmek amacıyla kullanılan güvenlik sistemidir. Bu sistemler ağdaki anormal etkinlikleri belirler."
+          },
+          {
+            "kavram": "Web Session Security (Web Oturumu Güvenliği)",
+            "aciklama": "Web uygulamalarında kullanıcı oturumlarını koruma sürecidir. Çerez güvenliği, kimlik doğrulama ve oturum yönetimi bu güvenlik önlemlerine dahildir."
+          },
+          {
+            "kavram": "Wi-Fi Encryption (Wi-Fi Şifreleme)",
+            "aciklama": "Wi-Fi ağlarında veri iletiminin güvenli hale getirilmesi amacıyla uygulanan şifreleme teknikleridir. WPA, WPA2, ve WPA3 gibi protokoller, Wi-Fi şifrelemesi sağlar."
+          },
+          {
+            "kavram": "Web Data Security (Web Veri Güvenliği)",
+            "aciklama": "Web ortamında iletilen ve depolanan verilerin güvenliğini sağlamak için alınan önlemler bütünüdür. Bu, şifreleme, erişim denetimi ve veri bütünlüğü sağlamak için kullanılır."
+          },
+          {
+            "kavram": "Wired Network Security (Kablolu Ağ Güvenliği)",
+            "aciklama": "Kablolu ağlarda veri iletiminin güvenliğini sağlamak için uygulanan güvenlik önlemleridir. Bu, ağdaki cihazların korunmasını, yetkisiz erişimi engellemeyi ve verilerin gizliliğini sağlar."
+          },
+          {
+            "kavram": "Web Resource Protection (Web Kaynağı Koruması)",
+            "aciklama": "Web sunucusunda bulunan verilerin, dosyaların ve kaynakların izinsiz erişime, değiştirilmesine veya çalınmasına karşı korunmasıdır. Bu, güvenlik duvarları ve kimlik doğrulama yöntemlerini içerir."
+          },
+          {
+            "kavram": "Wi-Fi Network Security Risk (Wi-Fi Ağ Güvenliği Riski)",
+            "aciklama": "Wi-Fi ağlarında, yetkisiz erişim, veri hırsızlığı veya ağ saldırıları gibi potansiyel güvenlik tehditleridir. Bu tür riskler, kötü şifreleme veya zayıf ağ yapılandırmasından kaynaklanabilir."
+          },
+          {
+            "kavram": "Wireless Device Vulnerabilities (Kablosuz Cihaz Açıkları)",
+            "aciklama": "Kablosuz cihazların (örneğin, akıllı telefonlar, dizüstü bilgisayarlar) güvenlik zayıflıklarıdır. Bu açıklardan yararlanarak cihazlar kötü amaçlı yazılımlarla saldırılara maruz kalabilir."
+          },
+          {
+            "kavram": "Web Security Standards (Web Güvenlik Standartları)",
+            "aciklama": "Web uygulamalarında güvenliği sağlamak için uluslararası olarak kabul edilen kurallar ve protokollerdir. Bu standartlar, web uygulamalarının güvenli bir şekilde çalışmasını ve veri güvenliğini sağlar."
+          },
+          {
+            "kavram": "Wi-Fi Network Monitoring (Wi-Fi Ağ İzleme)",
+            "aciklama": "Wi-Fi ağındaki cihazların ve ağ trafiğinin izlenmesi işlemidir. Bu, anormal davranışları veya saldırıları tespit etmek için yapılır."
+          },
+          {
+            "kavram": "Web Service Security (Web Servisi Güvenliği)",
+            "aciklama": "Web servislerinin (örneğin, API'ler) güvenliğini sağlamak için alınan önlemlerdir. Bu, kimlik doğrulama, şifreleme ve erişim kontrolü gibi yöntemleri içerir."
+          },
+          {
+            "kavram": "Wireless Network Monitoring Tools (Kablosuz Ağ İzleme Araçları)",
+            "aciklama": "Kablosuz ağların güvenliğini izlemek ve analiz etmek için kullanılan yazılım araçlarıdır. Bu araçlar, ağdaki izinsiz erişimi ve anormal etkinlikleri tespit etmek için kullanılır."
+          },
+          {
+            "kavram": "Web Application Risk Management (Web Uygulama Risk Yönetimi)",
+            "aciklama": "Web uygulamalarındaki güvenlik açıklarını, tehditleri ve riskleri belirlemek, analiz etmek ve azaltmak için uygulanan yöntemlerdir. Bu, güvenlik testleri ve risk değerlendirmelerini içerir."
+          },
+          {
+            "kavram": "WPA Vulnerability Mitigation (WPA Açığı Azaltma)",
+            "aciklama": "WPA (Wi-Fi Protected Access) protokolündeki zayıflıkları azaltmak için alınan güvenlik önlemleridir. Bu, güçlü şifreleme algoritmaları ve ağ yapılandırmalarını içerir."
+          },
+          {
+            "kavram": "Wi-Fi Phishing (Wi-Fi Phishing Saldırısı)",
+            "aciklama": "Saldırganların sahte Wi-Fi ağları kurarak, kullanıcıları bu ağlara bağlamaya ve kişisel bilgilerini çalmaya çalıştığı bir tür siber saldırıdır."
+          },
+          {
+            "kavram": "Web Server Attack (Web Sunucusu Saldırısı)",
+            "aciklama": "Web sunucularına yönelik yapılan saldırılardır. Bu tür saldırılar, sunucunun çökmesine veya verilerin çalınmasına yol açabilir. SQL enjeksiyonu ve XSS gibi tekniklerle yapılabilir."
+          },
+          {
+            "kavram": "Web-based Exploit (Web Tabanlı Sömürü)",
+            "aciklama": "Web uygulamalarındaki güvenlik açıklarını kullanarak gerçekleştirilen saldırılardır. Saldırganlar, kullanıcı verilerini çalmak veya sistemleri ele geçirmek için bu açıkları kullanabilir."
+          },
+          {
+            "kavram": "Wireless Network Attack Prevention (Kablosuz Ağ Saldırı Öncesi Koruma)",
+            "aciklama": "Kablosuz ağlara yönelik saldırıları engellemeye yönelik alınan önlemleridir. Bu, güçlü şifreleme, ağ yapılandırma ve izleme gibi yöntemleri içerir."
+          },
+          {
+            "kavram": "Web Data Privacy (Web Veri Gizliliği)",
+            "aciklama": "Web uygulamalarında kullanıcı verilerinin gizliliğini koruma önlemleridir. Bu, kullanıcıların kişisel bilgilerini izinsiz erişim ve kötüye kullanıma karşı korumayı hedefler."
+          },
+          {
+            "kavram": "Wi-Fi Spoofing Attack (Wi-Fi Taklit Saldırısı)",
+            "aciklama": "Saldırganların, gerçek bir Wi-Fi ağına benzer sahte bir ağ kurarak, kullanıcıları bu ağlara bağlamaya çalıştığı saldırı türüdür. Bu, verilerin çalınmasına yol açabilir."
+          }
+
+
+
+    ]
+}

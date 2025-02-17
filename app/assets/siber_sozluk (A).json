@@ -1,0 +1,753 @@
+{
+    "siberGuvenlikKavramlari": [
+      {
+        "kavram": "Access Control (Erişim Kontrolü)",
+        "aciklama": "Bir bilgisayar sistemi veya ağ üzerindeki kaynaklara kimlerin erişebileceğini belirlemek için kullanılan yöntemlerdir. Erişim kontrolü, kullanıcılara verilen izinlere göre kaynaklara erişimi sınırlar."
+      },
+      {
+        "kavram": "Access Management (Erişim Yönetimi)",
+        "aciklama": "Kullanıcıların ve sistemlerin, güvenli bir şekilde belirli verilere ve kaynaklara erişmelerini yönetme sürecidir. Erişim yönetimi, kullanıcı kimlik doğrulama ve yetkilendirme gibi süreçleri içerir."
+      },
+      {
+        "kavram": "Access Point (Erişim Noktası)",
+        "aciklama": "Kablosuz bir ağda, cihazların birbirleriyle iletişim kurmasını sağlayan donanım noktasıdır. Genellikle Wi-Fi ağları için kullanılır."
+      },
+      {
+        "kavram": "Access Token (Erişim Jetonu)",
+        "aciklama": "Bir kullanıcıya veya uygulamaya, belirli bir kaynağa veya servise erişim sağlama yetkisi veren dijital bir jetondur. Genellikle kimlik doğrulama süreçlerinde kullanılır."
+      },
+      {
+        "kavram": "Account Takeover (ATO) (Hesap Ele Geçirme)",
+        "aciklama": "Bir saldırganın, hedef kullanıcı hesabını ele geçirerek kimlik hırsızlığı yapması veya zararlı faaliyetler gerçekleştirmesidir."
+      },
+      {
+        "kavram": "Active Directory (AD) (Etkin Dizin)",
+        "aciklama": "Microsoft tarafından geliştirilen bir dizin hizmetidir. Kullanıcı hesapları, bilgisayarlar, gruplar ve diğer ağ bileşenlerinin merkezi bir yönetimi sağlanır."
+      },
+      {
+        "kavram": "Active Reconnaissance (Aktif Keşif)",
+        "aciklama": "Bir saldırganın, hedef sistem hakkında bilgi toplarken aktif olarak sistemle etkileşime girmesidir. Örneğin, ağ taramaları yapmak gibi."
+      },
+      {
+        "kavram": "ActiveX Controls (ActiveX Denetimleri)",
+        "aciklama": "Microsoft tarafından geliştirilen, internet tarayıcılarında kullanılan, çeşitli uygulamaların internet üzerinden etkileşim kurmasını sağlayan yazılım bileşenleridir."
+      },
+      {
+        "kavram": "Advanced Encryption Standard (AES) (Gelişmiş Şifreleme Standardı)",
+        "aciklama": "Veri şifreleme için kullanılan bir simetrik şifreleme algoritmasıdır. AES, güçlü güvenlik sağlar ve birçok hükümet ve endüstri standardı tarafından kabul edilmiştir."
+      },
+      {
+        "kavram": "Advanced Persistent Threat (APT) (Gelişmiş Sürekli Tehdit)",
+        "aciklama": "Genellikle devlet destekli veya ileri düzeydeki siber suçlular tarafından yapılan, hedefi uzun süreli ve gizli bir şekilde takip eden saldırılardır."
+      },
+      {
+        "kavram": "Advanced Threat Protection (ATP) (Gelişmiş Tehdit Koruması)",
+        "aciklama": "Gelişmiş tehditlere karşı, zararlı yazılımlar ve diğer saldırılara karşı proaktif koruma sağlayan güvenlik çözümleridir."
+      },
+      {
+        "kavram": "Adware (Reklam Yazılımı)",
+        "aciklama": "Kullanıcıların bilgisayarlarında reklamları görüntülemek için kullanılan yazılımlardır. Genellikle istenmeyen ve rahatsız edici olabilir."
+      },
+      {
+        "kavram": "Air Gap (Hava Boşluğu)",
+        "aciklama": "Bir sistemin tamamen internete veya diğer ağlara bağlanmamış olma durumudur. Hava boşluğu, güvenliği artırmak için kullanılır."
+      },
+      {
+        "kavram": "Algorithm (Algoritma)",
+        "aciklama": "Bir problemi çözmek için izlenen adımların sırasıdır. Yazılım geliştirme ve bilgisayar güvenliğinde algoritmalar, işlemleri düzenlemek için kritik rol oynar."
+      },
+      {
+        "kavram": "Alert Fatigue (Uyarı Yorgunluğu)",
+        "aciklama": "Sürekli olarak alınan güvenlik uyarılarının, sistem yöneticilerini veya güvenlik uzmanlarını yorması ve gerçek tehditlere karşı duyarsızlaştırmasıdır."
+      },
+      {
+        "kavram": "Alerts (Uyarılar)",
+        "aciklama": "Bir güvenlik olayını veya sistemdeki herhangi bir anormalliği bildiren, genellikle otomatik olarak oluşturulan bildirimlerdir."
+      },
+      {
+        "kavram": "Alias (Takma Ad)",
+        "aciklama": "Gerçek kimlik yerine kullanılan alternatif bir isim veya kimliktir. Siber güvenlikte anonimlik sağlamak için kullanılır."
+      },
+      {
+        "kavram": "Allowlist (İzin Listesi)",
+        "aciklama": "Güvenli olarak kabul edilen uygulamalar veya IP adreslerinin bulunduğu listeye verilen isimdir. Yalnızca bu listedekiler sistemlere erişim sağlayabilir."
+      },
+      {
+        "kavram": "Alternative Data Streams (ADS) (Alternatif Veri Akışları)",
+        "aciklama": "Windows işletim sistemlerinde, dosyaların içinde gizli verilerin saklanmasına olanak tanıyan bir özelliktir. Genellikle kötü amaçlı yazılımlar tarafından kullanılır."
+      },
+      {
+        "kavram": "Anomaly Detection (Anomali Tespiti)",
+        "aciklama": "ormalden sapma gösteren davranışları veya verileri tespit etmeye yönelik bir güvenlik tekniğidir. Genellikle güvenlik sistemlerinde, tehditlerin erken tespiti için kullanılır."
+      },
+      {
+        "kavram": "Anonymous Proxy (Anonim Vekil Sunucu)",
+        "aciklama": "Kullanıcıların gerçek kimliklerini gizleyerek interneti kullanmalarını sağlayan bir tür proxy sunucusudur."
+      },
+      {
+        "kavram": "Anti-Malware (Kötü Amaçlı Yazılım Karşıtı)",
+        "aciklama": "Bilgisayarları virüsler, trojanlar ve diğer kötü amaçlı yazılımlara karşı koruyan yazılımlar ve güvenlik çözümleridir."
+      },
+      {
+        "kavram": "Anti-Phishing (Kimlik Avı Karşıtı)",
+        "aciklama": "Kimlik avı saldırılarını (phishing) engellemek için kullanılan yazılımlar ve tekniklerdir. Kullanıcıları, sahte web sitelerinden ve e-postalardan korur."
+      },
+      {
+        "kavram": "Anti-Spam (Spam Karşıtı)",
+        "aciklama": "Spam (istenmeyen e-posta) mesajlarını engellemeye yönelik yazılımlar ve tekniklerdir."
+      },
+      {
+        "kavram": "Anti-Virus (AV) (Antivirüs)",
+        "aciklama": "Bilgisayarları virüslerden ve diğer zararlı yazılımlardan koruyan yazılımdır. Sistemleri tarar ve şüpheli dosyaları tespit eder."
+      },
+      {
+        "kavram": "API Security (API Güvenliği)",
+        "aciklama": "Uygulamalar arasındaki iletişimi sağlayan API'lerin güvenliğini sağlamaya yönelik çözümler ve tekniklerdir. API güvenliği, yetkisiz erişimleri engellemeye çalışır."
+      },
+      {
+        "kavram": "Application Firewall (Uygulama Güvenlik Duvarı)",
+        "aciklama": "Web uygulamaları ve internet trafiği üzerindeki güvenliği sağlamak için kullanılan bir güvenlik duvarıdır. Veri iletimini denetler ve potansiyel saldırıları engeller."
+      },
+      {
+        "kavram": "Application Layer (Uygulama Katmanı)",
+        "aciklama": "OSI modelinde, uygulama ile ilgili tüm süreçlerin yer aldığı katmandır. Uygulama protokollerini ve veri iletimini içerir."
+      },
+      {
+        "kavram": "Application Security (Uygulama Güvenliği)",
+        "aciklama": "Uygulama yazılımlarının, saldırılara karşı güvenli bir şekilde tasarlanması, geliştirilmesi ve korunması sürecidir."
+      },
+      {
+        "kavram": "Application Whitelisting (Uygulama Beyaz Listeleme)",
+        "aciklama": "Yalnızca belirli uygulamalara izin verilmesi, diğer tüm uygulamaların engellenmesi yöntemidir. Bu güvenlik tekniği, zararlı yazılımları önlemeye yardımcı olur."
+      },
+      {
+        "kavram": "Arbitrary Code Execution (Keyfi Kod Çalıştırma)",
+        "aciklama": "Saldırganın, bir sistemde istenmeyen veya zararlı kodu çalıştırmasına olanak sağlayan bir güvenlik açığıdır."
+      },
+      {
+        "kavram": "Argument Injection (Argüman Enjeksiyonu)",
+        "aciklama": "Bir saldırganın, bir yazılımın işleyişini değiştirmek amacıyla geçerli olmayan verileri yazılımın parametrelerine enjekte etmesidir."
+      },
+      {
+        "kavram": "Arp Spoofing (ARP Sahtekarlığı)",
+        "aciklama": "ARP (Address Resolution Protocol) paketlerinin sahte gönderilmesiyle, saldırganın ağdaki cihazların MAC adreslerini taklit etmesidir."
+      },
+      {
+        "kavram": "Artificial Intelligence in Cybersecurity (Siber Güvenlikte Yapay Zeka)",
+        "aciklama": "Siber güvenlik alanında tehditlerin tespiti, analizi ve yanıtlanması için yapay zekâ teknolojilerinin kullanılmasıdır."
+      },
+      {
+        "kavram": "Asset Inventory (Varlık Envanteri)",
+        "aciklama": "Bir organizasyondaki tüm dijital ve fiziksel varlıkların listelenmesi ve izlenmesidir. Güvenlik tehditlerinin yönetilmesinde kritik bir rol oynar."
+      },
+      {
+        "kavram": "Asset Management (Varlık Yönetimi)",
+        "aciklama": "Dijital ve fiziksel varlıkların yönetimi, korunması ve takibi için uygulanan süreçlerdir."
+      },
+      {
+        "kavram": "Asymmetric Encryption (Asimetrik Şifreleme)",
+        "aciklama": "Şifreleme için iki farklı anahtar kullanılan bir yöntemdir. Biri şifreleme için, diğeri ise şifre çözme için kullanılır."
+      },
+      {
+        "kavram": "Asymmetric Key Cryptography (Asimetrik Anahtar Kriptografisi)",
+        "aciklama": "Asimetrik şifrelemenin bir uygulamasıdır, burada özel ve genel anahtarlar kullanılarak veri güvenliği sağlanır."
+      },
+      {
+        "kavram": "Attack Chain (Saldırı Zinciri)",
+        "aciklama": "Bir saldırganın hedefe ulaşmak için izlediği adımların sırasıdır. Bu zincir, saldırının her aşamasındaki eylemleri tanımlar."
+      },
+      {
+        "kavram": "Attack Surface (Saldırı Yüzeyi)",
+        "aciklama": "Bir sistemin saldırılara açık olan tüm alanlarıdır. Bu yüzey, açık portlar, zayıf noktalar ve sistemin dış dünya ile etkileşimde bulunduğu alanlardan oluşur."
+      },
+      {
+        "kavram": "Attack Vector (Saldırı Vektörü)",
+        "aciklama": "Bir saldırganın hedef sistem veya ağ üzerinde bir güvenlik zafiyetinden yararlanarak saldırı gerçekleştirdiği yol veya yöntem. Örneğin, phishing saldırıları veya kötü amaçlı yazılımlar bir saldırı vektörü olabilir."
+      },
+      {
+        "kavram": "Attacker (Saldırgan)",
+        "aciklama": "Bilgi sistemlerine zarar vermek veya izinsiz erişim sağlamak amacıyla saldırı düzenleyen kişi veya grup."
+      },
+      {
+        "kavram": "Audit Log (Denetim Günlüğü)",
+        "aciklama": "Bir sistemdeki her türlü işlem ve etkinliği kaydeden, genellikle güvenlik amacıyla tutulan kayıtlardır. Bu loglar, sistemde yapılan değişiklikler, girişler, hatalar gibi bilgileri içerir."
+      },
+      {
+        "kavram": "Audit Trail (Denetim İzleme)",
+        "aciklama": "Sistem üzerinde yapılan her türlü işlemi takip etme sürecidir. Denetim izleme, güvenlik açıklarını tespit etmek ve düzenlemelere uyumu sağlamak için önemlidir."
+      },
+      {
+        "kavram": "Authentication (Kimlik Doğrulama)",
+        "aciklama": "Kullanıcının veya sistemin kimliğini doğrulamak amacıyla gerçekleştirilen işlem. Genellikle bir kullanıcı adı ve şifre ile yapılır, ancak biyometrik veriler veya çok faktörlü doğrulama da kullanılabilir."
+      },
+      {
+        "kavram": "Authentication Protocols (Kimlik Doğrulama Protokolleri)",
+        "aciklama": "Kimlik doğrulama süreçlerinde kullanılan kurallar ve standartlar. Örnekler arasında OAuth, SAML ve Kerberos yer alır."
+      },
+      {
+        "kavram": "Authentication Token (Kimlik Doğrulama Jetonu)",
+        "aciklama": "Kullanıcı doğrulandıktan sonra, sisteme erişim sağlamak için verilen geçici bir güvenlik bilgisi. Token, oturum açma ve yetkilendirme sürecinde kullanılır."
+      },
+      {
+        "kavram": "AuthN (Authentication) (Kimlik Doğrulama)",
+        "aciklama": "Sistemdeki kullanıcıların kimliklerini doğrulamak için yapılan işlemi ifade eder. Kimlik doğrulama, bir kullanıcıya erişim izni vermeden önce yapılan kritik bir adımdır."
+      },
+      {
+        "kavram": "AuthZ (Authorization) (Yetkilendirme)",
+        "aciklama": "Kimliği doğrulanan bir kullanıcının, sisteme erişebileceği kaynaklar ve işlemler üzerinde verilen izinleri yönetme sürecidir. Bu, kullanıcıların sistemdeki belirli verilere erişimini kontrol eder."
+      },
+      {
+        "kavram": "Automated Threat Detection (Otomatik Tehdit Algılama)",
+        "aciklama": "Sistemlerin, şüpheli etkinlikleri veya tehditleri tanımlamak ve buna tepki vermek için otomatik algoritmalar kullandığı bir güvenlik yöntemi."
+      },
+      {
+        "kavram": "Automatic Updates (Otomatik Güncellemeler)",
+        "aciklama": "Sistemlerin, güvenlik açıklarını kapatmak ve yazılımın en güncel sürümünü kullanmak için otomatik olarak güncellenmesidir. Bu, güvenlik yazılımlarının ve işletim sistemlerinin etkili bir şekilde korunmasını sağlar."
+      },
+      {
+        "kavram": "Availability (Kullanılabilirlik)",
+        "aciklama": "Sistemlerin veya ağların, kullanıcılar tarafından her zaman erişilebilir olma durumudur. Bu, yüksek kullanılabilirlik sağlamak için güvenlik önlemleri ve yedekleme stratejileri gerektirir."
+      },
+      {
+        "kavram": "Awareness Training (Farkındalık Eğitimi)",
+        "aciklama": "Kullanıcıları güvenlik tehditlerine karşı bilinçlendirmeyi amaçlayan eğitimlerdir. Bu eğitimler, phishing saldırıları ve diğer sosyal mühendislik yöntemleri gibi tehditlere karşı korunmayı öğretir."
+      },
+      {
+        "kavram": "Adaptive Authentication (Uyarlanabilir Kimlik Doğrulama)",
+        "aciklama": "Kimlik doğrulama süreçlerinin, kullanıcı davranışlarına, cihazlarına ve ağ koşullarına göre dinamik olarak ayarlandığı bir yöntem. Örneğin, şüpheli bir konumdan giriş yapılırsa ek kimlik doğrulama istenebilir."
+      },
+      {
+        "kavram": "Advanced Persistent Adversary (Gelişmiş Sürekli Rakip)",
+        "aciklama": "Hedefli saldırılar düzenleyen ve uzun süreli, sinsi bir şekilde faaliyet gösteren saldırganlar. APT'ler genellikle devlet destekli hacker grupları tarafından yürütülür."
+      },
+      {
+        "kavram": "Artificial Neural Networks (ANN) (Yapay Sinir Ağları)",
+        "aciklama": "Makine öğrenimi ve yapay zeka alanında kullanılan, insan beyninin çalışma prensiplerine benzeyen ağ yapılarıdır. Bu ağlar, büyük verileri analiz etmek ve sınıflandırmak için kullanılır."
+      },
+      {
+        "kavram": "Asynchronous Cryptography (Asenkron Kriptografi)",
+        "aciklama": "Verilerin, şifreleme ve şifre çözme işlemlerinin birbirinden bağımsız olarak yapıldığı bir kriptografi türüdür. Asimetrik anahtar kriptografisi buna örnektir."
+      },
+      {
+        "kavram": "Anonymous Communication (Anonim İletişim)",
+        "aciklama": "Kullanıcıların kimliklerini gizleyerek iletişim kurmalarını sağlayan iletişim türüdür. Tor gibi anonimleştirme ağları bu tür iletişim için kullanılır."
+      },
+      {
+        "kavram": "Anonymous Networks (Anonim Ağlar)",
+        "aciklama": "İnternet trafiğinin kullanıcının kimliğini gizlemesini sağlayan ağlar. Tor ağı, kullanıcıların anonim olarak gezinmelerini sağlamak için en yaygın kullanılan ağlardan biridir."
+      },
+      {
+        "kavram": "Asset Discovery (Varlık Keşfi)",
+        "aciklama": "Bir organizasyonun sahip olduğu cihazlar, yazılımlar ve ağ kaynaklarını tanımlama sürecidir. Varlık keşfi, güvenlik açıklarını tespit etmek için kritik bir adımdır."
+      },
+      {
+        "kavram": "Audit Compliance (Denetim Uyumluluğu)",
+        "aciklama": "Sistemlerin, düzenleyici ve endüstri standartlarına göre denetim ve uyumluluk gereksinimlerini yerine getirme süreci."
+      },
+      {
+        "kavram": "Authentication Factors (Kimlik Doğrulama Faktörleri)",
+        "aciklama": "Kimlik doğrulama sürecinde kullanılan farklı öğeler. Bunlar, bilinen (şifre), sahip olunan (akıllı kart), ve biyometrik (parmak izi) faktörleri içerebilir."
+      },
+      {
+        "kavram": "Authorization Rules (Yetkilendirme Kuralları)",
+        "aciklama": "Bir kullanıcının veya cihazın sisteme erişim izinlerini belirleyen kurallar. Yetkilendirme, kullanıcıların sadece belirli verilere ve sistem kaynaklarına erişim hakkı olmasını sağlar."
+      },
+      {
+        "kavram": "Autonomous Systems (Otonom Sistemler)",
+        "aciklama": "Kendi başına karar alabilen ve kendi kendine hareket edebilen sistemlerdir. Genellikle, ağlarda veri yönlendirme gibi görevleri yerine getiren otonom ağlar bulunur."
+      },
+      {
+        "kavram": "Automated Penetration Testing (Otomatik Penetrasyon Testi)",
+        "aciklama": "Sistemlerin, güvenlik açıklarını keşfetmek amacıyla otomatik araçlarla yapılan saldırı simülasyonlarıdır. Bu yöntem, manuel testlere göre daha hızlı ve kapsamlı olabilir."
+      },
+      {
+        "kavram": "Active Scanning (Aktif Tarama)",
+        "aciklama": "Ağları ve sistemleri güvenlik açıkları için taramak için kullanılan bir yöntemdir. Aktif tarama, sisteme aktif olarak bağlantı kurar ve potansiyel zayıflıkları tespit eder."
+      },
+      {
+        "kavram": "Access Rights Management (Erişim Hakları Yönetimi)",
+        "aciklama": "Kullanıcıların ve grupların sisteme erişim seviyelerinin ve izinlerinin yönetildiği bir süreçtir. Bu, verilerin korunmasını sağlar ve yetkisiz erişimi engeller."
+      },
+      {
+        "kavram": "Attack Trees (Saldırı Ağaçları)",
+        "aciklama": "Bir hedefe saldırmak için farklı olası yolları ve bu yolların zayıf noktalarını analiz etmek için kullanılan bir modeldir. Saldırı ağaçları, saldırganların hedefe ulaşmak için kullandıkları adımları gösterir."
+      },
+      {
+        "kavram": "Anomaly-based Intrusion Detection (Anomali Tabanlı Saldırı Tespiti)",
+        "aciklama": "Sistem davranışlarındaki olağan dışı etkinlikleri tespit etmeye yönelik bir güvenlik önlemidir. Bu yöntem, normal davranıştan sapmaları analiz ederek tehditleri tanımlar."
+      },
+      {
+        "kavram": "Application Exploits (Uygulama Açıkları)",
+        "aciklama": "Yazılımlarda bulunan güvenlik açıklarıdır. Bu açıklar, kötü niyetli kişiler tarafından sisteme zarar vermek veya izinsiz erişim sağlamak amacıyla kullanılabilir."
+      },
+      {
+        "kavram": "Authentication Bypass (Kimlik Doğrulama Atlama)",
+        "aciklama": "Bir kullanıcının kimlik doğrulama sürecini geçerek sisteme izinsiz giriş yapmasıdır. Saldırganlar, bu tür zafiyetlerden yararlanarak güvenlik önlemlerini atlatabilir."
+      },
+      {
+        "kavram": "Adversarial Machine Learning (Rakip Makine Öğrenimi)",
+        "aciklama": "Makine öğrenimi algoritmalarına karşı yapılan saldırılardır. Saldırganlar, bu algoritmaları manipüle ederek istenmeyen sonuçlar elde etmeyi amaçlarlar."
+      },
+      {
+        "kavram": "Attribute-based Access Control (ABAC) (Özellik Tabanlı Erişim Kontrolü)",
+        "aciklama": "Kullanıcıların erişim izinlerinin, kullanıcıların sahip olduğu özelliklere (örneğin, rol, yaş, bölge) dayalı olarak verildiği bir erişim kontrol modelidir."
+      },
+      {
+        "kavram": "Attack Vector (Saldırı Vektörü)",
+        "aciklama": "Bir saldırganın hedef sistem veya ağ üzerinde bir güvenlik zafiyetinden yararlanarak saldırı gerçekleştirdiği yol veya yöntem. Örneğin, phishing saldırıları veya kötü amaçlı yazılımlar bir saldırı vektörü olabilir."
+      },
+      {
+        "kavram": "Attacker (Saldırgan)",
+        "aciklama": "Bilgi sistemlerine zarar vermek veya izinsiz erişim sağlamak amacıyla saldırı düzenleyen kişi veya grup."
+      },
+      {
+        "kavram": "Audit Log (Denetim Günlüğü)",
+        "aciklama": "Bir sistemdeki her türlü işlem ve etkinliği kaydeden, genellikle güvenlik amacıyla tutulan kayıtlardır. Bu loglar, sistemde yapılan değişiklikler, girişler, hatalar gibi bilgileri içerir."
+      },
+      {
+        "kavram": "Audit Trail (Denetim İzleme)",
+        "aciklama": "Sistem üzerinde yapılan her türlü işlemi takip etme sürecidir. Denetim izleme, güvenlik açıklarını tespit etmek ve düzenlemelere uyumu sağlamak için önemlidir."
+      },
+      {
+        "kavram": "Authentication (Kimlik Doğrulama)",
+        "aciklama": "Kullanıcının veya sistemin kimliğini doğrulamak amacıyla gerçekleştirilen işlem. Genellikle bir kullanıcı adı ve şifre ile yapılır, ancak biyometrik veriler veya çok faktörlü doğrulama da kullanılabilir."
+      },
+      {
+        "kavram": "Authentication Protocols (Kimlik Doğrulama Protokolleri)",
+        "aciklama": "Kimlik doğrulama süreçlerinde kullanılan kurallar ve standartlar. Örnekler arasında OAuth, SAML ve Kerberos yer alır."
+      },
+      {
+        "kavram": "Authentication Token (Kimlik Doğrulama Jetonu)",
+        "aciklama": "Kullanıcı doğrulandıktan sonra, sisteme erişim sağlamak için verilen geçici bir güvenlik bilgisi. Token, oturum açma ve yetkilendirme sürecinde kullanılır."
+      },
+      {
+        "kavram": "AuthN (Authentication) (Kimlik Doğrulama)",
+        "aciklama": "Sistemdeki kullanıcıların kimliklerini doğrulamak için yapılan işlemi ifade eder. Kimlik doğrulama, bir kullanıcıya erişim izni vermeden önce yapılan kritik bir adımdır."
+      },
+      {
+        "kavram": "AuthZ (Authorization) (Yetkilendirme)",
+        "aciklama": "Kimliği doğrulanan bir kullanıcının, sisteme erişebileceği kaynaklar ve işlemler üzerinde verilen izinleri yönetme sürecidir. Bu, kullanıcıların sistemdeki belirli verilere erişimini kontrol eder."
+      },
+      {
+        "kavram": "Automated Threat Detection (Otomatik Tehdit Algılama)",
+        "aciklama": "Sistemlerin, şüpheli etkinlikleri veya tehditleri tanımlamak ve buna tepki vermek için otomatik algoritmalar kullandığı bir güvenlik yöntemi."
+      },
+      {
+        "kavram": "Automatic Updates (Otomatik Güncellemeler)",
+        "aciklama": "Sistemlerin, güvenlik açıklarını kapatmak ve yazılımın en güncel sürümünü kullanmak için otomatik olarak güncellenmesidir. Bu, güvenlik yazılımlarının ve işletim sistemlerinin etkili bir şekilde korunmasını sağlar."
+      },
+      {
+        "kavram": "Availability (Kullanılabilirlik)",
+        "aciklama": "Sistemlerin veya ağların, kullanıcılar tarafından her zaman erişilebilir olma durumudur. Bu, yüksek kullanılabilirlik sağlamak için güvenlik önlemleri ve yedekleme stratejileri gerektirir."
+      },
+      {
+        "kavram": "Awareness Training (Farkındalık Eğitimi)",
+        "aciklama": "Kullanıcıları güvenlik tehditlerine karşı bilinçlendirmeyi amaçlayan eğitimlerdir. Bu eğitimler, phishing saldırıları ve diğer sosyal mühendislik yöntemleri gibi tehditlere karşı korunmayı öğretir."
+      },
+      {
+        "kavram": "Adaptive Authentication (Uyarlanabilir Kimlik Doğrulama)",
+        "aciklama": "Kimlik doğrulama süreçlerinin, kullanıcı davranışlarına, cihazlarına ve ağ koşullarına göre dinamik olarak ayarlandığı bir yöntem. Örneğin, şüpheli bir konumdan giriş yapılırsa ek kimlik doğrulama istenebilir."
+      },
+      {
+        "kavram": "Advanced Persistent Adversary (Gelişmiş Sürekli Rakip)",
+        "aciklama": "Hedefli saldırılar düzenleyen ve uzun süreli, sinsi bir şekilde faaliyet gösteren saldırganlar. APT'ler genellikle devlet destekli hacker grupları tarafından yürütülür."
+      },
+      {
+        "kavram": "Artificial Neural Networks (ANN) (Yapay Sinir Ağları)",
+        "aciklama": "Makine öğrenimi ve yapay zeka alanında kullanılan, insan beyninin çalışma prensiplerine benzeyen ağ yapılarıdır. Bu ağlar, büyük verileri analiz etmek ve sınıflandırmak için kullanılır."
+      },
+      {
+        "kavram": "Asynchronous Cryptography (Asenkron Kriptografi)",
+        "aciklama": "Verilerin, şifreleme ve şifre çözme işlemlerinin birbirinden bağımsız olarak yapıldığı bir kriptografi türüdür. Asimetrik anahtar kriptografisi buna örnektir."
+      },
+      {
+        "kavram": "Anonymous Communication (Anonim İletişim)",
+        "aciklama": "Kullanıcıların kimliklerini gizleyerek iletişim kurmalarını sağlayan iletişim türüdür. Tor gibi anonimleştirme ağları bu tür iletişim için kullanılır."
+      },
+      {
+        "kavram": "Anonymous Networks (Anonim Ağlar)",
+        "aciklama": "İnternet trafiğinin kullanıcının kimliğini gizlemesini sağlayan ağlar. Tor ağı, kullanıcıların anonim olarak gezinmelerini sağlamak için en yaygın kullanılan ağlardan biridir."
+      },
+      {
+        "kavram": "Asset Discovery (Varlık Keşfi)",
+        "aciklama": "Bir organizasyonun sahip olduğu cihazlar, yazılımlar ve ağ kaynaklarını tanımlama sürecidir. Varlık keşfi, güvenlik açıklarını tespit etmek için kritik bir adımdır."
+      },
+      {
+        "kavram": "Audit Compliance (Denetim Uyumluluğu)",
+        "aciklama": "Sistemlerin, düzenleyici ve endüstri standartlarına göre denetim ve uyumluluk gereksinimlerini yerine getirme süreci."
+      },
+      {
+        "kavram": "Authentication Factors (Kimlik Doğrulama Faktörleri)",
+        "aciklama": "Kimlik doğrulama sürecinde kullanılan farklı öğeler. Bunlar, bilinen (şifre), sahip olunan (akıllı kart), ve biyometrik (parmak izi) faktörleri içerebilir."
+      },
+      {
+        "kavram": "Authorization Rules (Yetkilendirme Kuralları)",
+        "aciklama": "Bir kullanıcının veya cihazın sisteme erişim izinlerini belirleyen kurallar. Yetkilendirme, kullanıcıların sadece belirli verilere ve sistem kaynaklarına erişim hakkı olmasını sağlar."
+      },
+      {
+        "kavram": "Autonomous Systems (Otonom Sistemler)",
+        "aciklama": "Kendi başına karar alabilen ve kendi kendine hareket edebilen sistemlerdir. Genellikle, ağlarda veri yönlendirme gibi görevleri yerine getiren otonom ağlar bulunur."
+      },
+      {
+        "kavram": "Automated Penetration Testing (Otomatik Penetrasyon Testi)",
+        "aciklama": "Sistemlerin, güvenlik açıklarını keşfetmek amacıyla otomatik araçlarla yapılan saldırı simülasyonlarıdır. Bu yöntem, manuel testlere göre daha hızlı ve kapsamlı olabilir."
+      },
+      {
+        "kavram": "Active Scanning (Aktif Tarama)",
+        "aciklama": "Ağları ve sistemleri güvenlik açıkları için taramak için kullanılan bir yöntemdir. Aktif tarama, sisteme aktif olarak bağlantı kurar ve potansiyel zayıflıkları tespit eder."
+      },
+      {
+        "kavram": "Access Rights Management (Erişim Hakları Yönetimi)",
+        "aciklama": "Kullanıcıların ve grupların sisteme erişim seviyelerinin ve izinlerinin yönetildiği bir süreçtir. Bu, verilerin korunmasını sağlar ve yetkisiz erişimi engeller."
+      },
+      {
+        "kavram": "Attack Trees (Saldırı Ağaçları)",
+        "aciklama": "Bir hedefe saldırmak için farklı olası yolları ve bu yolların zayıf noktalarını analiz etmek için kullanılan bir modeldir. Saldırı ağaçları, saldırganların hedefe ulaşmak için kullandıkları adımları gösterir."
+      },
+      {
+        "kavram": "Anomaly-based Intrusion Detection (Anomali Tabanlı Saldırı Tespiti)",
+        "aciklama": "Sistem davranışlarındaki olağan dışı etkinlikleri tespit etmeye yönelik bir güvenlik önlemidir. Bu yöntem, normal davranıştan sapmaları analiz ederek tehditleri tanımlar."
+      },
+      {
+        "kavram": "Application Exploits (Uygulama Açıkları)",
+        "aciklama": "Yazılımlarda bulunan güvenlik açıklarıdır. Bu açıklar, kötü niyetli kişiler tarafından sisteme zarar vermek veya izinsiz erişim sağlamak amacıyla kullanılabilir."
+      },
+      {
+        "kavram": "Authentication Bypass (Kimlik Doğrulama Atlama)",
+        "aciklama": "Bir kullanıcının kimlik doğrulama sürecini geçerek sisteme izinsiz giriş yapmasıdır. Saldırganlar, bu tür zafiyetlerden yararlanarak güvenlik önlemlerini atlatabilir."
+      },
+      {
+        "kavram": "Adversarial Machine Learning (Rakip Makine Öğrenimi)",
+        "aciklama": "Makine öğrenimi algoritmalarına karşı yapılan saldırılardır. Saldırganlar, bu algoritmaları manipüle ederek istenmeyen sonuçlar elde etmeyi amaçlarlar."
+      },
+      {
+        "kavram": "Attribute-based Access Control (ABAC) (Özellik Tabanlı Erişim Kontrolü)",
+        "aciklama": "Kullanıcıların erişim izinlerinin, kullanıcıların sahip olduğu özelliklere (örneğin, rol, yaş, bölge) dayalı olarak verildiği bir erişim kontrol modelidir."
+      },
+      {
+        "kavram": "Anti-Rootkit (Rootkit Karşıtı)",
+        "aciklama": "Rootkit, bir sistemin yönetici seviyesinde izinsiz erişim sağlamak için kullanılan kötü amaçlı yazılımdır. Anti-rootkit araçları, bu tür yazılımları tespit etmek ve temizlemek için kullanılır."
+      },
+      {
+        "kavram": "Automatic Exploit (Otomatik Sömürü)",
+        "aciklama": "Bir sistemdeki zafiyetin kötü niyetli kişiler tarafından otomatik olarak kullanılmasını sağlayan yazılımlardır."
+      },
+      {
+        "kavram": "Account Takeover (Hesap Ele Geçirme)",
+        "aciklama": "Bir saldırganın, hedef kullanıcının hesabını ele geçirerek, kişisel verilerine ve sistem kaynaklarına izinsiz erişim sağlamasıdır."
+      },
+      {
+        "kavram": "Abuse Case (Suistimal Durumu)",
+        "aciklama": "Bir sistemin veya uygulamanın kötü niyetli kullanımını tanımlayan bir durumdur. Suistimal durumları, güvenlik açıklarını ve potansiyel tehditleri belirlemek için kullanılır."
+      },
+      {
+        "kavram": "Advanced Malware Analysis (Gelişmiş Kötü Amaçlı Yazılım Analizi)",
+        "aciklama": "Kötü amaçlı yazılımların karmaşık özelliklerini inceleyerek, bu yazılımların davranışlarını anlamak ve tespit etmek amacıyla kullanılan ileri düzey analiz yöntemleridir."
+      },
+      {
+        "kavram": "Access Time Monitoring (Erişim Zamanı İzleme)",
+        "aciklama": "Bir sistemdeki kaynaklara erişim sürelerinin izlenmesi ve analizi. Bu, olası güvenlik tehditlerini belirlemek veya performans sorunlarını çözmek için yapılır."
+      },
+      {
+        "kavram": "Active Content Security (Aktif İçerik Güvenliği)",
+        "aciklama": "Web sayfalarındaki dinamik içeriğin güvenliğini sağlamak için uygulanan yöntemlerdir. Bu, JavaScript, Flash veya diğer etkileşimli içeriklerin güvenliğini içerir."
+      },
+      {
+        "kavram": "Algorithmic Bias in Security (Güvenlikte Algoritmik Yanlılık)",
+        "aciklama": "Güvenlik algoritmalarında ve yapay zeka sistemlerinde, belirli gruplara karşı sistematik olarak ayrımcılık yapabilen veya yanlılık oluşturabilen tasarımların incelenmesi."
+      },
+      {
+        "kavram": "Authentication Chain (Kimlik Doğrulama Zinciri)",
+        "aciklama": "Bir kullanıcının kimlik doğrulama sürecinde kullanılan bir dizi aşama veya protokoldür. Örneğin, şifre doğrulama, SMS doğrulaması ve biyometrik doğrulama gibi bir zincir."
+      },
+      {
+        "kavram": "Active Attack Mitigation (Aktif Saldırı Azaltma)",
+        "aciklama": "Gerçek zamanlı olarak sistemleri tehditlerden korumak amacıyla yapılan aktif müdahalelerdir. Bu tür müdahaleler, saldırıların etkisini sınırlamak için otomatik olarak devreye girer."
+      },
+      {
+        "kavram": "Application Layer Gateways (Uygulama Katmanı Ağ Geçitleri)",
+        "aciklama": "Uygulama katmanında, verileri analiz etmek ve güvenliği sağlamak için kullanılan ağ geçitleridir. Bu geçitler, özellikle HTTP, FTP ve diğer protokollerle ilgili güvenlik önlemleri alır."
+      },
+      {
+        "kavram": "Anonymity Networks (Anonimlik Ağları)",
+        "aciklama": "Kullanıcıların kimliklerini gizlemelerini sağlayan ağ yapılarıdır. Tor ve I2P gibi anonim ağlar, internet trafiğini şifreleyerek kullanıcının kimliğini anonim hale getirir."
+      },
+      {
+        "kavram": "Automated Defense Systems (Otomatik Savunma Sistemleri)",
+        "aciklama": "Bilgisayar sistemlerini, ağları veya uygulamaları güvenlik tehditlerine karşı otomatik olarak koruyan sistemlerdir. Bu sistemler, tehditleri tespit eder ve müdahale eder."
+      },
+      {
+        "kavram": "Advanced Network Security (Gelişmiş Ağ Güvenliği)",
+        "aciklama": "Ağların güvenliğini sağlamak için kullanılan sofistike teknikler ve stratejilerdir. Bu, şifreleme, VPN, firewall, IDS/IPS gibi teknolojileri içerir."
+      },
+      {
+        "kavram": "Anti-Forensics Techniques (Adli Bilişim Karşıtı Teknikler)",
+        "aciklama": "Adli bilişim araştırmalarını engellemeye yönelik yöntemlerdir. Bu teknikler, dijital izleri silmeyi, veriyi şifrelemeyi ve analiz süreçlerini zorlaştırmayı amaçlar."
+      },
+      {
+        "kavram": "Adaptive Security Architecture (Uyarlanabilir Güvenlik Mimarisi)",
+        "aciklama": "Tehditlerin dinamik ve sürekli değişen doğasına uyum sağlamak için tasarlanmış güvenlik altyapılarıdır. Bu mimari, tehditlere karşı savunma mekanizmalarını sürekli olarak günceller."
+      },
+      {
+        "kavram": "Attack Graphs (Saldırı Grafikleri)",
+        "aciklama": "Bir saldırganın sistem veya ağ üzerindeki zayıf noktalarına ulaşmak için kullanabileceği farklı yolları ve saldırı adımlarını temsil eden görselleştirilmiş grafiklerdir."
+      },
+      {
+        "kavram": "Application-Level Encryption (Uygulama Düzeyinde Şifreleme)",
+        "aciklama": "Uygulama seviyesinde verilerin şifrelenmesi, verinin sadece doğru kimlik bilgilerine sahip kullanıcılar tarafından erişilmesini sağlar. Bu, verinin iletim sırasında korunmasından bağımsız olarak yapılır."
+      },
+      {
+        "kavram": "Automated Configuration Management (Otomatik Yapılandırma Yönetimi)",
+        "aciklama": "Sistemlerin yapılandırma ayarlarının otomatik olarak yönetilmesi ve güncellenmesidir. Bu yöntem, özellikle büyük ve karmaşık altyapılarda güvenliği artırmak için kullanılır."
+      },
+      {
+        "kavram": "Application Sandboxing (Uygulama Kum Havuzu Oluşturma)",
+        "aciklama": "Bir uygulamanın, sistemin geri kalanından izole edilerek çalıştırılmasıdır. Kum havuzu, kötü amaçlı yazılımların sistemde yayılmasını önler."
+      },
+      {
+        "kavram": "Authentication Logs (Kimlik Doğrulama Günlükleri)",
+        "aciklama": "Bir sistemdeki kullanıcı girişlerinin ve kimlik doğrulama işlemlerinin kaydını tutan loglardır. Bu günlükler, şüpheli aktiviteleri tespit etmek ve güvenlik ihlallerine karşı önlem almak için kullanılır."
+      },
+      {
+        "kavram": "Availability Monitoring (Kullanılabilirlik İzleme)",
+        "aciklama": "Bir sistemin veya servisin sürekli olarak erişilebilir olup olmadığını izlemek için yapılan aktiviteler. Sistem arızaları, performans düşüşleri veya kesintiler tespit edilir."
+      },
+      {
+        "kavram": "Anonymous FTP (Anonim FTP)",
+        "aciklama": "FTP sunucularına, kullanıcı adı veya şifre gereksinimi olmadan bağlanmayı sağlayan bir protokoldür. Ancak, güvenlik riskleri nedeniyle genellikle tercih edilmez."
+      },
+      {
+        "kavram": "Adaptive Threat Intelligence (Uyarlanabilir Tehdit İstihbaratı)",
+        "aciklama": "Tehditleri anlamak ve onlara hızlı tepki vermek için kullanılan, dinamik bir tehdit izleme ve analiz sürecidir. Bu tür istihbarat, tehditlerin evrimsel doğasına ayak uydurur ve sürekli güncellenir."
+      },
+      {
+        "kavram": "ActiveX Security Risks (ActiveX Güvenlik Riskleri)",
+        "aciklama": "ActiveX bileşenleri, web tarayıcıları aracılığıyla bilgisayar sistemlerine zarar verebilecek zararlı yazılımları çalıştırabilecek risklere yol açabilir. Bu, özellikle eski ActiveX sürümleri ve güvenlik açıkları kullanılarak yapılan saldırılarda görülür."
+      },
+      {
+        "kavram": "Application Security Testing (Uygulama Güvenliği Testi)",
+        "aciklama": "Yazılım uygulamalarının güvenliğini değerlendirmenin bir yoludur. Bu testler, zayıf noktaların, güvenlik açıklarının ve kötü amaçlı yazılımların sistemdeki varlığını tespit etmeyi amaçlar."
+      },
+      {
+        "kavram": "Asset Tracking (Varlık Takibi)",
+        "aciklama": "Fiziksel ve dijital varlıkların izlenmesi ve yönetilmesi sürecidir. Bu, özellikle şirketlerin değerli donanım ve yazılımlarının kaybolmasını engellemeye yönelik güvenlik önlemleri içerir."
+      },
+      {
+        "kavram": "Authentication Tokens Storage (Kimlik Doğrulama Jetonlarının Depolanması)",
+        "aciklama": "Kimlik doğrulama sürecinde kullanılan token'ların güvenli bir şekilde saklanması önemlidir. Bu, veri ihlallerini engellemeye ve kötü amaçlı erişimi önlemeye yardımcı olur."
+      },
+      {
+        "kavram": "Adversary Simulation (Rakip Simülasyonu)",
+        "aciklama": "Gerçek dünya saldırganlarının saldırı yöntemlerini simüle etmek için yapılan testlerdir. Bu simülasyonlar, savunma sistemlerinin zayıf noktalarını ve iyileştirilmesi gereken alanları belirler."
+      },
+      {
+        "kavram": "Active Defense Mechanisms (Aktif Savunma Mekanizmaları)",
+        "aciklama": "Sistemlere yapılan saldırılara karşı, otomatik müdahaleler ve karşı saldırılarla yanıt vermek amacıyla kullanılan güvenlik yöntemleridir. Aktif savunma, tehditleri tespit edip hızlıca karşı koyar."
+      },
+      {
+        "kavram": "Anomaly Scores (Anomali Puanları)",
+        "aciklama": "Güvenlik izleme sistemlerinde, normal faaliyetlerden sapmaları ölçen skorlar. Anomali puanları, şüpheli aktiviteleri tespit etmek için kullanılır."
+      },
+      {
+        "kavram": "Authentication Context (Kimlik Doğrulama Bağlamı)",
+        "aciklama": "Kimlik doğrulama işlemi sırasında, kullanıcının kimliğini belirlemek ve oturum açma izinlerini sağlamak için kullanılan ek bilgilerdir. Örneğin, erişim izinleri ve oturum geçmişi gibi veriler bu bağlamda yer alır."
+      },
+      {
+        "kavram": "Automated Vulnerability Scanning (Otomatik Zayıflık Tarama)",
+        "aciklama": "Yazılım ve sistemlerdeki güvenlik açıklarını tespit etmek için otomatik araçların kullanılmasıdır. Bu, düzenli olarak yapılan zayıflık taramalarıyla yeni tehditlerin erken tespit edilmesine yardımcı olur."
+      },
+      {
+        "kavram": "Advanced Persistent Malware (Gelişmiş Sürekli Kötü Amaçlı Yazılım)",
+        "aciklama": "Sistemlere uzun vadeli gizli saldırılar yapabilen zararlı yazılımlardır. Bu tür yazılımlar, sızdığı sistemi yıllarca etkileyebilir."
+      },
+      {
+        "kavram": "Access Logs (Erişim Günlükleri)",
+        "aciklama": "Bir sisteme yapılan tüm erişimlerin kaydını tutan günlüklerdir. Bu günlükler, güvenlik ihlallerini tespit etmek ve kullanıcı aktivitelerini izlemek için kullanılır."
+      },
+      {
+        "kavram": "Application Dependencies (Uygulama Bağımlılıkları)",
+        "aciklama": "Bir uygulamanın çalışabilmesi için ihtiyaç duyduğu diğer yazılım ve bileşenlerdir. Bağımlılıklar, güvenlik açıkları taşıyabilir ve bu nedenle dikkatlice yönetilmelidir."
+      },
+      {
+        "kavram": "Adaptive Cyber Defense (Uyarlanabilir Siber Savunma)",
+        "aciklama": "Siber güvenlik sistemlerinin, yeni ve gelişen tehditlere karşı otomatik olarak uyum sağlayabilmesi için tasarlanmış bir savunma modelidir. Bu model, tehditlere dinamik bir şekilde yanıt verir."
+      },
+      {
+        "kavram": "Anti-Replay Attacks (Tekrar Saldırıları Karşıtı)",
+        "aciklama": "Saldırganların eski verileri tekrar kullanarak bir sistemi kandırması engellemeye yönelik tekniklerdir. Bu tür saldırılara karşı token zaman damgası ve bir kez kullanılabilir şifreleme gibi önlemler alınır."
+      },
+      {
+        "kavram": "Authentication Headers (Kimlik Doğrulama Başlıkları)",
+        "aciklama": "Web uygulamalarındaki kimlik doğrulama süreçlerinde, kullanıcı bilgilerini içeren HTTP başlıklarıdır. Bu başlıklar, güvenli iletişim için şifreleme ve doğrulama içerir."
+      },
+      {
+        "kavram": "Audit Events (Denetim Olayları)",
+        "aciklama": "Güvenlik denetimlerinde, önemli olayları ve sistem etkinliklerini kaydeden olaylardır. Bu olaylar, saldırıları veya güvenlik ihlallerini analiz etmek için kullanılır."
+      },
+      {
+        "kavram": "Advanced Threat Hunting (Gelişmiş Tehdit Avcılığı)",
+        "aciklama": "Bilgisayar ağlarında mevcut olmayan ama gelecekteki tehditlere dair izleri bulmak için yapılan aktif araştırmalardır. Bu, savunma sistemlerini önceden test etmek ve zayıf noktaları tespit etmek için yapılır."
+      },
+      {
+        "kavram": "Active Threat Analysis (Aktif Tehdit Analizi)",
+        "aciklama": "Gerçek zamanlı olarak tehditleri izlemek ve değerlendirmek için yapılan analizlerdir. Bu, saldırıların izini sürmek ve etkilerini en aza indirmek için kullanılır."
+      },
+      {
+        "kavram": "Asymmetric Signing (Asimetrik İmzalama)",
+        "aciklama": "Dijital imzalama işlemi için kullanılan asimetrik şifreleme yöntemidir. Asimetrik imzalama, özel bir anahtar ile imzalama ve genel anahtar ile doğrulama içerir."
+      },
+      {
+        "kavram": "Application Risk Assessment (Uygulama Risk Değerlendirmesi)",
+        "aciklama": "Bir uygulamanın potansiyel güvenlik risklerini değerlendirme sürecidir. Bu değerlendirme, uygulamanın zayıf noktalarını ve potansiyel tehditleri belirlemeye yardımcı olur."
+      },
+      {
+        "kavram": "Authentication Retry Mechanisms (Kimlik Doğrulama Tekrar Mekanizmaları)",
+        "aciklama": "Yanıt vermeyen veya hatalı kimlik doğrulama girişimlerinin ardından tekrar kimlik doğrulama yapılmasını sağlayan sistemlerdir."
+      },
+      {
+        "kavram": "Alert Prioritization (Uyarı Önceliklendirme)",
+        "aciklama": "Güvenlik uyarılarının ciddiyetine göre sıralanmasıdır. Bu, güvenlik uzmanlarının en acil tehditlere odaklanmalarını sağlar."
+      },
+      {
+        "kavram": "Anti-Fraud Systems (Dolandırıcılık Karşıtı Sistemler)",
+        "aciklama": "Dolandırıcılığı tespit etmek ve engellemek için kullanılan yazılım ve tekniklerdir. Bu sistemler, finansal dolandırıcılık, kimlik hırsızlığı gibi faaliyetleri izler."
+      },
+      {
+        "kavram": "Adaptive Security Policies (Uyarlanabilir Güvenlik Politikaları)",
+        "aciklama": "Sistemlerin tehditlere karşı uyum sağlamak amacıyla dinamik olarak değişen güvenlik kurallarıdır. Bu politikalar, yeni tehditlere karşı hızlı yanıt verebilmek için tasarlanır."
+      },
+      {
+        "kavram": "Advanced Social Engineering Techniques (Gelişmiş Sosyal Mühendislik Teknikleri)",
+        "aciklama": "İnsanları manipüle etmek ve güvenlik sistemlerini atlatmak için kullanılan gelişmiş psikolojik taktiklerdir. Bu teknikler, kişisel bilgiler edinmek veya ağlara erişim sağlamak amacıyla kullanılır."
+      },
+      {
+        "kavram": "Anti-Exploit Tools (Açık Karşıtı Araçlar)",
+        "aciklama": "Yazılım açıklarını tespit etmek ve bu açıklardan faydalanan kötü amaçlı yazılımları engellemek için kullanılan araçlardır. Bu araçlar, özellikle zero-day (sıfırıncı gün) açıklarına karşı koruma sağlar."
+      },
+      {
+        "kavram": "Application-level Threat Detection (Uygulama Düzeyinde Tehdit Tespiti)",
+        "aciklama": "Uygulama katmanında gerçekleştirilen saldırıları tespit etmek için kullanılan yöntemlerdir. Bu, SQL enjeksiyonları, XSS gibi uygulama düzeyindeki tehditleri belirlemek için kullanılır."
+      },
+      {
+        "kavram": "Anonymous Browsing (Anonim Gezinme)",
+        "aciklama": "Kullanıcıların kimliklerini ve aktivitelerini gizleyerek internet üzerinde gezinmelerini sağlayan bir tekniktir. Tor ağı ve VPN'ler gibi araçlar anonim gezinti sağlar."
+      },
+      {
+        "kavram": "Automated Security Assessments (Otomatik Güvenlik Değerlendirmeleri)",
+        "aciklama": "Güvenlik açıklarını tespit etmek ve savunma sistemlerini değerlendirmek için kullanılan otomatik araçlardır. Bu araçlar, düzenli olarak sistemleri tarayarak zayıflıkları ortaya çıkarır."
+      },
+      {
+        "kavram": "Attack Simulation Tools (Saldırı Simülasyonu Araçları)",
+        "aciklama": "Gerçek bir siber saldırıyı simüle ederek savunma sistemlerinin ne kadar etkili olduğunu test etmek için kullanılan yazılım araçlarıdır. Bu araçlar, sızma testleri ve kırılganlık analizleri sağlar."
+      },
+      {
+        "kavram": "Active Log Monitoring (Aktif Günlük İzleme)",
+        "aciklama": "Güvenlik sistemlerinde, kullanıcıların ve sistemlerin etkinliklerini izleyen bir yöntemdir. Şüpheli aktivitelerin tespit edilmesi amacıyla anlık olarak log verilerini analiz eder."
+      },
+      {
+        "kavram": "Application-layer DDoS Mitigation (Uygulama Katmanı DDoS Azaltma)",
+        "aciklama": "Uygulama katmanındaki DDoS saldırılarını engellemeye yönelik çözümler sunar. Bu, HTTP tabanlı saldırılara karşı savunma sağlar."
+      },
+      {
+        "kavram": "Adaptive Learning Algorithms (Uyarlanabilir Öğrenme Algoritmaları)",
+        "aciklama": "Verileri analiz ederek ve gelişen tehditleri öğrenerek, zaman içinde güvenlik sistemlerini iyileştiren algoritmalardır. Bu algoritmalar, tehditlere daha hızlı yanıt vermek için adaptasyon sağlar."
+      },
+      {
+        "kavram": "Anti-DDoS Protection (DDoS Karşıtı Koruma)",
+        "aciklama": "Dağıtık hizmet reddi (DDoS) saldırılarına karşı sistemlerin korunmasını sağlayan önlemler ve teknolojilerdir. Bu koruma, ağ seviyesinde ve uygulama seviyesinde gerçekleştirilebilir."
+      },
+      {
+        "kavram": "Authorization Bypass (Yetkilendirme Atlama)",
+        "aciklama": "Bir kullanıcının, yetkileri dışında bir kaynağa veya veriye erişmesini sağlayan saldırılardır. Bu, zayıf kimlik doğrulama ve erişim kontrol mekanizmalarından yararlanılarak yapılabilir."
+      },
+      {
+        "kavram": "Authentication Services (Kimlik Doğrulama Hizmetleri)",
+        "aciklama": "Kullanıcıların kimliklerini doğrulamak için kullanılan çeşitli hizmetlerdir. Bu hizmetler, parola, biyometrik veriler veya çok faktörlü doğrulama gibi yöntemleri içerir."
+      },
+      {
+        "kavram": "Asset Lifecycle Management (Varlık Yaşam Döngüsü Yönetimi)",
+        "aciklama": "Bir varlığın, tasarım, üretim, kullanım, bakım ve elden çıkarılma süreçlerini kapsayan yönetim sürecidir. Bu, varlıkların güvenli ve verimli bir şekilde yönetilmesini sağlar."
+      },
+      {
+        "kavram": "Algorithmic Transparency (Algoritmik Şeffaflık)",
+        "aciklama": "Algoritmaların nasıl çalıştığını ve kararlarını nasıl aldığını anlamayı sağlayan şeffaflık ilkesidir. Güvenlik ve adalet gibi konularda algoritmaların şeffaf olması önemlidir."
+      },
+      {
+        "kavram": "Active Data Masking (Aktif Veri Maskeleme)",
+        "aciklama": "Hassas verilerin, kullanıcılar veya sistemler tarafından yalnızca gerekli şekilde görülebilir olmasını sağlayan bir tekniktir. Bu, veri güvenliğini artırır ve gizlilik ihlallerini önler."
+      },
+      {
+        "kavram": "Anti-Spam Measures (Spam Karşıtı Önlemler)",
+        "aciklama": "E-posta, mesaj ve diğer dijital platformlardaki istenmeyen mesajları engellemeye yönelik kullanılan yöntemlerdir. Bu önlemler, spam filtreleri ve doğrulama yöntemlerini içerir."
+      },
+      {
+        "kavram": "Anomaly Detection Algorithms (Anomali Tespit Algoritmaları)",
+        "aciklama": "Normal davranışlardan sapmaları tespit etmeye yönelik algoritmalardır. Bu algoritmalar, güvenlik tehditlerinin erken aşamada tespit edilmesine yardımcı olur."
+      },
+      {
+        "kavram": "Advanced Encryption Frameworks (Gelişmiş Şifreleme Çerçeveleri)",
+        "aciklama": "Veri şifrelemesi için kullanılan güçlü ve gelişmiş şifreleme protokolleridir. Bu çerçeveler, verilerin gizliliğini ve bütünlüğünü korumak için kullanılır."
+      },
+      {
+        "kavram": "Attack Scenario Testing (Saldırı Senaryosu Testi)",
+        "aciklama": "Çeşitli saldırı türlerinin ve senaryolarının test edilmesi işlemidir. Bu testler, savunma sistemlerinin belirli tehditlere karşı ne kadar dayanıklı olduğunu ölçer."
+      },
+      {
+        "kavram": "Authentication Strategies (Kimlik Doğrulama Stratejileri)",
+        "aciklama": "Kullanıcı kimliklerini doğrulamak için kullanılan yöntemlerin planlanması ve uygulanmasıdır. Bu stratejiler, çok faktörlü doğrulama ve biyometrik veriler gibi güvenlik önlemlerini içerebilir."
+      },
+      {
+        "kavram": "Anonymous Reporting (Anonim Raporlama)",
+        "aciklama": "Kullanıcıların kimliklerini gizleyerek, şüpheli faaliyetler ve güvenlik açıkları hakkında bildirimde bulunmalarını sağlayan bir yöntemdir."
+      },
+      {
+        "kavram": "Advanced Threat Emulation (Gelişmiş Tehdit Taklidi)",
+        "aciklama": "Gerçek dünya saldırılarının ve tehditlerin taklit edilmesidir. Bu, savunma sistemlerinin gerçek tehditlere karşı ne kadar etkili olduğunu değerlendirmeyi amaçlar."
+      },
+      {
+        "kavram": "Anti-Tampering Mechanisms (Kurcalama Karşıtı Mekanizmalar)",
+        "aciklama": "Sistemlerin, verilerin veya donanımın izinsiz değiştirilmesini engellemeye yönelik güvenlik önlemleridir. Bu, verilerin bütünlüğünü korur."
+      },
+      {
+        "kavram": "Application Anomaly Detection (Uygulama Anomali Tespiti)",
+        "aciklama": "Uygulama katmanında meydana gelen anormal aktiviteleri tespit etmeye yönelik yöntemdir. Bu, güvenlik açıklarını ve kötü amaçlı yazılımları erken aşamalarda yakalar."
+      },
+      {
+        "kavram": "Authorization Logs (Yetkilendirme Günlükleri)",
+        "aciklama": "Kullanıcıların erişim izinlerini ve yetkilendirme işlemlerini kaydeden loglardır. Bu günlükler, şüpheli aktiviteleri tespit etmek ve denetim yapmak için kullanılır."
+      },
+      {
+        "kavram": "Advanced Malware Detection (Gelişmiş Kötü Amaçlı Yazılım Tespiti)",
+        "aciklama": "Kötü amaçlı yazılımların tespiti için kullanılan gelişmiş yöntemlerdir. Bu yöntemler, yeni türdeki zararlı yazılımları ve bilinmeyen tehditleri yakalamaya yöneliktir."
+      },
+      {
+        "kavram": "Adaptive Firewall Rules (Uyarlanabilir Güvenlik Duvarı Kuralları)",
+        "aciklama": "Güvenlik duvarı kurallarının, ağ trafiğine ve tehdit durumuna göre otomatik olarak uyum sağlamasını sağlayan yöntemlerdir. Bu kurallar, tehdit ortamına göre dinamik bir şekilde değişir."
+      },
+      {
+        "kavram": "Access Policy Enforcement (Erişim Politikası Uygulaması)",
+        "aciklama": "Kullanıcıların ve cihazların, belirlenen erişim politikalarına uygun olarak sisteme erişimini denetleyen yöntemlerdir."
+      },
+      {
+        "kavram": "Authentication Mechanisms (Kimlik Doğrulama Mekanizmaları)",
+        "aciklama": "Kullanıcıların kimliklerini doğrulamak için kullanılan teknikler ve prosedürlerdir. Bu, parolalar, biyometrik doğrulama veya donanım tabanlı doğrulama gibi yöntemleri içerebilir."
+      },
+      {
+        "kavram": "Asset Tagging (Varlık Etiketleme)",
+        "aciklama": "Fiziksel ve dijital varlıkların takibi için kullanılan etiketleme yöntemidir. Etiketler, varlıkların izlenmesini ve güvenli bir şekilde yönetilmesini sağlar."
+      },
+      {
+        "kavram": "Automated Forensic Analysis (Otomatik Adli Analiz)",
+        "aciklama": "Dijital olaylar ve güvenlik ihlallerinin otomatik olarak analiz edilmesi işlemidir. Bu analizler, suçluların izlerini sürmeye ve delil toplamaya yardımcı olur."
+      },
+      {
+        "kavram": "",
+        "aciklama": ""
+      }
+
+
+      
+
+    ]
+  }
+  

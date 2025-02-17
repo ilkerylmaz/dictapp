@@ -1,0 +1,299 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "Ransomware (Fidye Yazılımı)",
+            "aciklama": "Bilgisayar sistemlerini ele geçirip, dosyaları şifreleyerek veya erişimi engelleyerek kullanıcılardan fidye talep eden zararlı yazılım türü."
+          },
+          {
+            "kavram": "Risk Assessment (Risk Değerlendirmesi)",
+            "aciklama": "Bir organizasyonun güvenlik açıklarını, tehditleri ve zayıf noktalarını analiz ederek, potansiyel risklerin belirlenmesi ve değerlendirilmesi süreci."
+          },
+          {
+            "kavram": "Rootkit (Kökkit)",
+            "aciklama": "Bilgisayarın işletim sistemine gizlice yerleşen, genellikle kötü amaçlı yazılımları gizlemek için kullanılan bir tür zararlı yazılım."
+          },
+          {
+            "kavram": "Red Team (Kırmızı Ekip)",
+            "aciklama": "Güvenlik açıklarını tespit etmek amacıyla, organizasyonun savunmalarına karşı saldırılar düzenleyen, genellikle dışarıdan gelen sızma testleri yapan güvenlik uzmanları grubu."
+          },
+          {
+            "kavram": "Reconnaissance (Keşif)",
+            "aciklama": "Saldırganların hedef sistemin zayıf noktalarını ve açıklarını belirlemek için gerçekleştirdiği ön araştırma ve bilgi toplama süreci."
+          },
+          {
+            "kavram": "Rogue Software (Sahte Yazılım)",
+            "aciklama": "Gerçekten var olmayan veya sahte olan, kullanıcıyı kandırarak zarar vermek amacıyla kullanılan yazılım."
+          },
+          {
+            "kavram": "Replay Attack (Yineleme Saldırısı)",
+            "aciklama": "Önceden kaydedilmiş iletişim verilerinin tekrar iletilmesiyle yapılan saldırı türü. Bu saldırılar, oturum açma bilgilerini veya şifreleri ele geçirebilir."
+          },
+          {
+            "kavram": "Root Access (Kök Erişimi)",
+            "aciklama": "Bir sistemde, işletim sistemi veya ağ üzerinde tam kontrol sağlamak amacıyla kullanılan yönetici veya en yüksek yetki düzeyine sahip erişim."
+          },
+          {
+            "kavram": "RAT (Remote Access Trojan) (Uzaktan Erişim Truva Atı)",
+            "aciklama": "Bir kullanıcının bilgisayarına uzaktan erişim sağlayan kötü amaçlı yazılım. Genellikle gizli olarak çalışır ve saldırgana tam kontrol sunar."
+          },
+          {
+            "kavram": "Reputation-based Security (İtibar Temelli Güvenlik)",
+            "aciklama": "Güvenlik önlemlerinin, kullanıcıların, sitelerin veya kaynakların itibarı üzerine kurulu olduğu bir yaklaşım."
+          },
+          {
+            "kavram": "RADIUS (Remote Authentication Dial-In User Service) (Uzaktan Kimlik Doğrulama Bağlantı Kullanıcısı Servisi)",
+            "aciklama": "Ağ erişimi sağlamak isteyen kullanıcılara kimlik doğrulaması ve yetkilendirme hizmeti sunan protokol."
+          },
+          {
+            "kavram": "Redundancy (Yedeklilik)",
+            "aciklama": "Kritik sistemlerde, kesinti veya arıza durumunda yedek sistemlerin devreye girmesini sağlayan güvenlik önlemi."
+          },
+          {
+            "kavram": "Rogue Access Point (Sahte Erişim Noktası)",
+            "aciklama": "Yetkisiz bir ağ bağlantısı sağlayan, genellikle kötü amaçlı yazılımlarla entegre edilmiş sahte bir kablosuz erişim noktası."
+          },
+          {
+            "kavram": "Reverse Engineering (Tersine Mühendislik)",
+            "aciklama": "Bir ürünün yapısını veya işleyişini anlamak amacıyla, ürünün bileşenlerini analiz etme ve çözme süreci."
+          },
+          {
+            "kavram": "Rogueware (Sahte Yazılım)",
+            "aciklama": "Kullanıcıyı kötü amaçlı yazılımlar yüklemeye zorlayan, genellikle sahte virüs tespit yazılımlarıdır."
+          },
+          {
+            "kavram": "Risk Mitigation (Risk Azaltma)",
+            "aciklama": "Belirlenen risklerin etkisini minimize etmek için alınan önlemler veya yapılan değişiklikler."
+          },
+          {
+            "kavram": "Real-time Protection (Gerçek Zamanlı Koruma)",
+            "aciklama": "Sistemlere zarar verebilecek tehditlerin anında tespit edilip, engellenmesini sağlayan güvenlik önlemi."
+          },
+          {
+            "kavram": "Robust Security (Kuvvetli Güvenlik)",
+            "aciklama": "Saldırılara karşı yüksek derecede dayanıklı ve güvenli bir sistem sağlama çabası."
+          },
+          {
+            "kavram": "Reputation Management (İtibar Yönetimi)",
+            "aciklama": "Bir organizasyonun veya bireyin çevrimiçi itibarını koruma ve yönetme süreci."
+          },
+          {
+            "kavram": "RAM Scraping (RAM Kazıma)",
+            "aciklama": "Bellekteki verileri (genellikle kredi kartı bilgileri gibi hassas veriler) kötü amaçlı yazılımlar tarafından toplama işlemi."
+          },
+          {
+            "kavram": "Reverse Proxy (Ters Proxy)",
+            "aciklama": "Web sunucusuna gelen trafiği yönlendiren bir ağ aracı. Genellikle güvenlik, yük dengeleme veya performans iyileştirmeleri için kullanılır."
+          },
+          {
+            "kavram": "Ransomware-as-a-Service (RaaS) (Fidye Yazılımı Hizmet Olarak)",
+            "aciklama": "Saldırganların, fidye yazılımlarını başkalarına satmak veya kiralamak suretiyle kullanmalarını sağlayan hizmetler."
+          },
+          {
+            "kavram": "RSA Encryption (RSA Şifreleme)",
+            "aciklama": "Asimetrik anahtar kullanarak veri şifrelemek için yaygın olarak kullanılan bir algoritmadır."
+          },
+          {
+            "kavram": "Remote Desktop Protocol (RDP) (Uzaktan Masaüstü Protokolü)",
+            "aciklama": "Bir bilgisayara başka bir yerden erişim sağlamak için kullanılan bir protokol."
+          },
+          {
+            "kavram": "Redundancy Protocol (Yedeklilik Protokolü)",
+            "aciklama": "Ağda, sistemlerin güvenilirliğini artırmak için kullanılan protokoller."
+          },
+          {
+            "kavram": "Reassembly Attack (Yeniden Birleştirme Saldırısı)",
+            "aciklama": "Verilerin parçalarını yeniden birleştirerek, hedef sisteme zarar vermeye yönelik yapılan saldırı türü."
+          },
+          {
+            "kavram": "Reflected Cross-Site Scripting (XSS) (Yansıtılan Çapraz Site Scripti)",
+            "aciklama": "Saldırganın, zararlı kodu hedef kullanıcının tarayıcısında çalıştırmasını sağlayan bir güvenlik açığı türü."
+          },
+          {
+            "kavram": "Risk Register (Risk Kaydı)",
+            "aciklama": "Bir organizasyondaki risklerin izlendiği, kaydedildiği ve yönetildiği bir doküman."
+          },
+          {
+            "kavram": "Remote File Inclusion (RFI) (Uzaktan Dosya Dahil Etme)",
+            "aciklama": "Bir web uygulamasının, dışarıdan gelen dosyaları izinsiz bir şekilde içeri almasını sağlayan güvenlik açığı."
+          },
+          {
+            "kavram": "Root Access Control (Kök Erişimi Kontrolü)",
+            "aciklama": "Kök erişimine sahip kullanıcıların erişim haklarının yönetilmesi."
+          },
+          {
+            "kavram": "Rogue Device (Sahte Cihaz)",
+            "aciklama": "Yetkisiz bir şekilde bir ağda bağlanan ve zarar verme amacı güden cihaz."
+          },
+          {
+            "kavram": "Reputation-Based Filtering (İtibar Temelli Filtreleme)",
+            "aciklama": "Kaynakların itibarlarına göre zararlı içerikleri filtreleyen güvenlik önlemi."
+          },
+          {
+            "kavram": "Recovery Time Objective (RTO) (İyileşme Zamanı Hedefi)",
+            "aciklama": "Bir afet sonrası bir sistemin veya hizmetin tekrar çalışır hale gelmesi için gereken maksimum süre."
+          },
+          {
+            "kavram": "Red Teaming (Kırmızı Ekip Testi)",
+            "aciklama": "Güvenlik sistemlerinin etkinliğini test etmek amacıyla, dışardan bir grup tarafından yapılan simüle saldırılar."
+          },
+          {
+            "kavram": "Rollback Attack (Geriye Dönüş Saldırısı)",
+            "aciklama": "Bir saldırganın, sisteme eski bir sürüm yükleyerek, güvenlik açıklarından yararlanması."
+          },
+          {
+            "kavram": "Risk Transfer (Risk Transferi)",
+            "aciklama": "Bir organizasyonun karşılaştığı riskin başka bir tarafa devredilmesi, genellikle sigorta yoluyla."
+          },
+          {
+            "kavram": "Regulatory Compliance (Yasal Uyumluluk)",
+            "aciklama": "Bir organizasyonun, faaliyetlerini yasal düzenlemelere ve standartlara uygun bir şekilde yürütmesi."
+          },
+          {
+            "kavram": "Remote Code Execution (RCE) (Uzaktan Kod Çalıştırma)",
+            "aciklama": "Bir saldırganın, hedef sistemde kötü amaçlı kod çalıştırmasına olanak tanıyan bir güvenlik açığı."
+          },
+          {
+            "kavram": "Rogue DNS (Sahte DNS)",
+            "aciklama": "Güvenilir olmayan bir DNS sunucusu kullanarak, doğru olmayan adreslere yönlendirme yapan saldırı türü."
+          },
+          {
+            "kavram": "Role-Based Access Control (RBAC) (Rol Tabanlı Erişim Kontrolü)",
+            "aciklama": "Erişim haklarının, kullanıcının rolüne göre verildiği güvenlik yönetim modelidir."
+          },
+          {
+            "kavram": "Root Cause Analysis (Kök Neden Analizi)",
+            "aciklama": "Bir problem veya hatanın kaynağını belirlemek için yapılan analiz süreci."
+          },
+          {
+            "kavram": "Rate Limiting (Hız Sınırlaması)",
+            "aciklama": "Sistemdeki trafiği kontrol ederek, belirli bir süre içinde yapılabilecek işlem sayısını sınırlama yöntemi."
+          },
+          {
+            "kavram": "Remote Management (Uzaktan Yönetim)",
+            "aciklama": "Bir sistemin, uzak bir konumdan kontrol edilmesi ve yönetilmesi."
+          },
+          {
+            "kavram": "Routing Protocol (Yönlendirme Protokolü)",
+            "aciklama": "Ağdaki veri paketlerinin hedeflerine yönlendirilmesini sağlayan protokoller."
+          },
+          {
+            "kavram": "Reflected Denial of Service (RDoS) (Yansıtılan Hizmet Reddi)",
+            "aciklama": "Yansıtma yöntemiyle hedef sistemin trafiğini aşırı yükleyerek hizmet reddi saldırısı gerçekleştirme."
+          },
+          {
+            "kavram": "Recovery Point Objective (RPO) (İyileşme Noktası Hedefi)",
+            "aciklama": "Bir afet sonrası, kaybolan verilerin ne kadar geri getirilebileceği ile ilgili belirlenen hedef."
+          },
+          {
+            "kavram": "Redundancy Server (Yedek Sunucu)",
+            "aciklama": "Birincil sunucunun arızalanması durumunda devreye giren, aynı fonksiyonu gören ikinci bir sunucu."
+          },
+          {
+            "kavram": "Remote Access Service (RAS) (Uzaktan Erişim Servisi)",
+            "aciklama": "Bir ağdaki sisteme, uzaktan erişim sağlanmasını mümkün kılan hizmet."
+          },
+          {
+            "kavram": "Robustness Testing (Kuvvetlilik Testi)",
+            "aciklama": "Bir sistemin dayanıklılığını test etmek amacıyla yapılan, aşırı koşullar altında yapılan testler."
+          },
+          {
+            "kavram": "Risk Tolerance (Risk Toleransı)",
+            "aciklama": "Bir organizasyonun kabul edebileceği risk seviyesinin belirlenmesi."
+          },
+          {
+            "kavram": "Reputation-based Blocking (İtibar Temelli Engelleme)",
+            "aciklama": "Sistem veya ağ üzerindeki kötü amaçlı içerikleri, zararlı yazılımları veya saldırıları engellemek için itibar temelli bir değerlendirme yaparak engelleme yöntemidir."
+          },
+          {
+            "kavram": "Recovery Plan (İyileşme Planı)",
+            "aciklama": "Bir siber saldırı veya felaketten sonra, sistemlerin veya işletmelerin hızlıca toparlanabilmesi için oluşturulan plan."
+          },
+          {
+            "kavram": "Ransomware Infection (Fidye Yazılımı Enfeksiyonu)",
+            "aciklama": "Fidye yazılımı (ransomware) ile bir bilgisayar sisteminin, dosyaların şifrelenmesi yoluyla rehin alınması durumudur."
+          },
+          {
+            "kavram": "RAT (Remote Administration Tool) (Uzaktan Yönetim Aracı)",
+            "aciklama": "Bilgisayarlar arasında uzaktan yönetim sağlamak amacıyla kullanılan yazılımdır. Saldırganlar bu aracı kötü amaçlı olarak kullanabilir."
+          },
+          {
+            "kavram": "Response Time (Yanıt Süresi)",
+            "aciklama": "Bir sistemin, bir isteğe veya talebe yanıt verme süresi."
+          },
+          {
+            "kavram": "Redundancy Protocol (Yedeklilik Protokolü)",
+            "aciklama": "Bir sistemin çalışabilirliğini artırmak amacıyla, veri iletişimi ve ağlarda yedekliliği sağlayan protokoldür."
+          },
+          {
+            "kavram": "Reputation Scoring (İtibar Skorlama)",
+            "aciklama": "Bir hizmetin, kullanıcının, ürünün ya da sistemin itibarını ölçen bir değerlendirme sistemidir."
+          },
+          {
+            "kavram": "Real-time Analysis (Gerçek Zamanlı Analiz)",
+            "aciklama": "Verilerin anlık olarak analiz edilmesi ve olayların hemen tespit edilmesidir."
+          },
+          {
+            "kavram": "Rogue Element (Sahte Eleman)",
+            "aciklama": "Bir ağda veya sistemde güvenlik açığı oluşturabilecek, yasal olmayan bir bileşendir."
+          },
+          {
+            "kavram": "Rollback Procedure (Geriye Dönüş Prosedürü)",
+            "aciklama": "Bir sistemde yapılan değişikliklerin, olumsuz sonuçlar doğurduğunda geri alınması işlemidir."
+          },
+          {
+            "kavram": "Revocation List (İptal Listesi)",
+            "aciklama": "Sertifika veya dijital anahtarların geçersiz olduğuna dair bilgilerin yer aldığı listedir."
+          },
+          {
+            "kavram": "Risk Assessment Matrix (Risk Değerlendirme Matrisi)",
+            "aciklama": "Risklerin önem derecesine göre sınıflandırılmasını sağlayan bir analiz aracıdır."
+          },
+          {
+            "kavram": "Remote Vulnerability Detection (Uzaktan Zafiyet Tespiti)",
+            "aciklama": "Bir ağda veya sistemdeki güvenlik açıklarının, fiziksel erişim olmadan tespit edilmesidir."
+          },
+          {
+            "kavram": "Router Security (Yönlendirici Güvenliği)",
+            "aciklama": "Yönlendiricilerin, dış tehditlerden korunarak güvenli hale getirilmesidir."
+          },
+          {
+            "kavram": "Retina Scanner (Retina Tarayıcı)",
+            "aciklama": "Kullanıcının göz retinasını tarayarak biyometrik kimlik doğrulaması yapmayı sağlayan cihazdır."
+          },
+          {
+            "kavram": "Rule-Based Filtering (Kural Tabanlı Filtreleme)",
+            "aciklama": "Verilerin veya içeriklerin belirli kurallara göre süzülmesi işlemidir."
+          },
+          {
+            "kavram": "Ransomware Protection (Fidye Yazılımı Koruması)",
+            "aciklama": "Fidye yazılımlarına karşı alınan önlemler veya kullanılan yazılımlar."
+          },
+          {
+            "kavram": "Redundancy Planning (Yedeklilik Planlaması)",
+            "aciklama": "Bir sistemdeki kesinti ve arızalardan etkilenmemek için kritik bileşenlerin yedeklenmesi üzerine yapılan planlamadır."
+          },
+          {
+            "kavram": "RDP Brute Force (RDP Brute Force Saldırısı)",
+            "aciklama": "Uzaktan Masaüstü Protokolü (RDP) üzerinden şifreleri kırmaya yönelik yapılan saldırıdır."
+          },
+          {
+            "kavram": "Ransomware Protection Software (Fidye Yazılımı Koruma Yazılımı)",
+            "aciklama": "Fidye yazılımına karşı sistemleri koruyan yazılımlardır."
+          },
+          {
+            "kavram": "Remote System Monitoring (Uzaktan Sistem İzleme)",
+            "aciklama": "Bir sistemin, başka bir yerden izlenmesi ve yönetilmesidir."
+          },
+          {
+            "kavram": "Read-Only Memory (ROM) (Salt Okunur Bellek)",
+            "aciklama": "İçerikleri sadece okunabilen bellek türüdür, üzerine veri yazılamaz."
+          },
+          {
+            "kavram": "Reversal Algorithm (Tersine Algoritma)",
+            "aciklama": "Veriyi çözmek amacıyla kullanılan algoritmadır, şifre çözme işlemini gerçekleştirir."
+          }
+
+
+    ]
+}

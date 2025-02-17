@@ -1,0 +1,719 @@
+{
+    "siberGuvenlikKavramlari": [
+      {
+        "kavram": "Backdoor (Arka Kapı)",
+        "aciklama": "Bir sistemde, yetkisiz erişimi sağlamak için tasarlanmış gizli bir yol veya bağlantıdır. Saldırganlar, bu yöntemle sisteme giriş yapabilirler."
+      },
+      {
+        "kavram": "Backup (Yedekleme)",
+        "aciklama": "Verilerin korunması amacıyla yapılan yedekleme işlemi, verilerin kaybolmasını veya hasar görmesini önler. Düzenli yedekleme, felaket kurtarma stratejilerinin önemli bir parçasıdır."
+      },
+      {
+        "kavram": "Breach (Güvenlik İhlali)",
+        "aciklama": "Bir sisteme, ağ veya veritabanına yetkisiz erişim sağlanması durumudur. Bu, veri sızıntısı veya diğer kötü amaçlı etkinliklere yol açabilir."
+      },
+      {
+        "kavram": "Brute Force Attack (Kaba Kuvvet Saldırısı)",
+        "aciklama": "Bir şifreyi kırmak için tüm olası kombinasyonların denenmesiyle yapılan saldırıdır. Şifreleri kırmak için çok sayıda deneme yapılır."
+      },
+      {
+        "kavram": "Botnet (Bot Ağı)",
+        "aciklama": "İnternete bağlı ve zararlı amaçlarla kontrol edilen birden fazla cihazdan oluşan ağdır. Bu cihazlar, saldırılar gerçekleştirmek veya spam göndermek için kullanılır."
+      },
+      {
+        "kavram": "Bug (Hata)",
+        "aciklama": "Yazılımda veya sistemdeki istenmeyen bir durumdur. Genellikle yazılımdaki hatalı işlevsellik veya güvenlik açıklarından kaynaklanır."
+      },
+      {
+        "kavram": "Black Hat (Kara Şapka)",
+        "aciklama": "Kötü niyetli hacker'lara verilen isimdir. Sistemlere yetkisiz erişim sağlamak amacıyla yasa dışı faaliyetlerde bulunurlar."
+      },
+      {
+        "kavram": "Blue Team (Mavi Ekip)",
+        "aciklama": "Siber güvenlik alanında, sistemleri ve ağları korumak için savunma yapan güvenlik ekibidir. Mavi ekip, saldırıları tespit etmeye ve engellemeye çalışır."
+      },
+      {
+        "kavram": "Bypass (Atlatma)",
+        "aciklama": "Güvenlik önlemlerini geçmek veya ihlal etmek amacıyla yapılan işlemdir. Bu, çeşitli güvenlik mekanizmalarının güvenliğini aşmaya çalışmayı içerir."
+      },
+      {
+        "kavram": "Bridging (Köprüleme)",
+        "aciklama": "Ağlar arasında veri iletimini sağlayan bir yöntemdir. Farklı ağları birbirine bağlayarak veri trafiğini iletebilir."
+      },
+      {
+        "kavram": "Buffer Overflow (Tampon Taşması)",
+        "aciklama": "Bir programın bellek sınırlarını aşarak veri yazması sonucu ortaya çıkan güvenlik açığıdır. Bu, saldırganların kötü amaçlı kod çalıştırmasını mümkün kılabilir."
+      },
+      {
+        "kavram": "Blockchain (Blok Zinciri)",
+        "aciklama": "Verilerin şeffaf, güvenli ve değiştirilemez bir şekilde saklanmasını sağlayan bir teknolojidir. Genellikle dijital para birimlerinin temelini oluşturur."
+      },
+      {
+        "kavram": "Bot (Bota)",
+        "aciklama": "Otomatik işlem yapan yazılımdır. Genellikle kötü amaçlı yazılımlar için kullanılır, ancak bazen yararlı işler için de kullanılabilir."
+      },
+      {
+        "kavram": "Binary Exploit (İkili Sömürü)",
+        "aciklama": "Yazılımın ikili dosyasındaki zayıflıklardan faydalanarak yapılan saldırıdır. Bu tür saldırılar, yazılımın çalışmasını değiştirebilir veya kötü amaçlı yazılımların çalışmasını sağlar."
+      },
+      {
+        "kavram": "Business Continuity (İş Sürekliliği)",
+        "aciklama": "İşletmenin faaliyetlerinin, beklenmedik olaylar sonrasında kesintisiz bir şekilde devam etmesini sağlamak için uygulanan stratejilerdir."
+      },
+      {
+        "kavram": "Bot Attack (Bot Saldırısı)",
+        "aciklama": "Bir botnet kullanarak gerçekleştirilen saldırıdır. Bu tür saldırılar genellikle DDoS (Dağıtık Hizmet Engelleme) saldırıları şeklinde olur."
+      },
+      {
+        "kavram": "Blocklist (Engellenen Liste)",
+        "aciklama": "Belirli IP adresleri, e-posta adresleri veya domainler gibi kötü niyetli olabilecek öğelerin engellendiği listedir."
+      },
+      {
+        "kavram": "Bash (Bash)",
+        "aciklama": "Unix ve Linux tabanlı sistemlerde kullanılan komut satırı kabuğudur. Kullanıcıların sistem üzerinde işlem yapmasını sağlar."
+      },
+      {
+        "kavram": "Backdoor Trojan (Arka Kapı Truva Atı)",
+        "aciklama": "Sisteme gizlice erişim sağlamak için kullanılan zararlı yazılımdır. Arka kapı, kullanıcı farkında olmadan sisteme erişim sağlar."
+      },
+      {
+        "kavram": "Bandwidth (Bant Genişliği)",
+        "aciklama": "Bir ağda veri iletimi için kullanılan kapasitedir. Daha geniş bant genişliği, daha hızlı veri iletimi sağlar."
+      },
+      {
+        "kavram": "Baseline Security (Temel Güvenlik)",
+        "aciklama": "Bir sistemin güvenlik seviyesini belirleyen ve tüm güvenlik önlemleri için temel alınan bir düzeydir."
+      },
+      {
+        "kavram": "Bait and Switch (Cazip Teklif ve Değiştirme)",
+        "aciklama": "Kullanıcıyı cazip bir teklif ile kandırarak, sonunda beklediği şeyin yerine farklı bir şey sunma dolandırıcılık yöntemidir."
+      },
+      {
+        "kavram": "Backdoor Access (Arka Kapı Erişimi)",
+        "aciklama": "Sisteme gizlice erişim sağlamak için kullanılan özel bağlantıdır. Bu bağlantı, sistemin dışarıdan kontrol edilmesini sağlar."
+      },
+      {
+        "kavram": "Biometric Authentication (Biyometrik Kimlik Doğrulama)",
+        "aciklama": "Parmak izi, yüz tanıma, iris taraması gibi biyometrik özellikler kullanarak yapılan kimlik doğrulama yöntemidir."
+      },
+      {
+        "kavram": "Baiting (Tuzağa Düşürme)",
+        "aciklama": "Kullanıcıyı zararlı yazılım indirmeye veya sahtekarlığa uğramaya ikna etmek için yapılan bir sosyal mühendislik saldırısıdır."
+      },
+      {
+        "kavram": "BadUSB (Kötü USB)",
+        "aciklama": "USB cihazlarının, zararlı yazılımlarla manipüle edilerek kötü amaçlar için kullanılmasını ifade eder."
+      },
+      {
+        "kavram": "Backdoor Rootkit (Arka Kapı Rootkit)",
+        "aciklama": "Sisteme gizlice erişim sağlamak için kullanılan kötü amaçlı yazılım türüdür. Rootkit, sistemdeki tüm işlemleri gizleyerek fark edilmesini zorlaştırır."
+      },
+      {
+        "kavram": "Boundary Protection (Sınır Koruması)",
+        "aciklama": "Bir sistemin dış dünyadan gelen tehditlere karşı korunması amacıyla yapılan güvenlik önlemleri. Güvenlik duvarları bu tür korumaları sağlar."
+      },
+      {
+        "kavram": "Bug Bounty Program (Hata Ödül Programı)",
+        "aciklama": "Yazılım veya sistemlerdeki güvenlik açıklarını tespit eden kişilere ödül verilen programdır. Bu, topluluk tarafından yapılan katkıları teşvik eder."
+      },
+      {
+        "kavram": "Branch Prediction (Dallanma Tahmini)",
+        "aciklama": "Bilgisayar işlemcilerinin, gelecekteki bir işlem sırasını tahmin ederek işlem hızını artırmak amacıyla yaptığı bir tekniktir."
+      },
+      {
+        "kavram": "Broadcast Storm (Yayın Fırtınası)",
+        "aciklama": "Ağda, kontrolsüz bir şekilde yayılan çok sayıda paket nedeniyle ağ trafiğinin tıkanmasıdır. Bu, genellikle ağdaki cihazların bir hata nedeniyle birbirine sürekli veri göndermesinden kaynaklanır."
+      },
+      {
+        "kavram": "Base64 Encoding (Base64 Kodlaması)",
+        "aciklama": "Veriyi ASCII karakterleriyle temsil etmek amacıyla kullanılan bir şifreleme yöntemidir. Genellikle verilerin internet üzerinden güvenli bir şekilde iletilmesini sağlar."
+      },
+      {
+        "kavram": "Blockchain Technology (Blok Zinciri Teknolojisi)",
+        "aciklama": "Verilerin merkeziyetsiz bir şekilde saklandığı ve şeffaf bir şekilde paylaşıldığı teknolojidir. Çoğunlukla dijital para birimlerinde kullanılır."
+      },
+      {
+        "kavram": "Black Hole Routing (Kara Delik Yönlendirme)",
+        "aciklama": "Trafiği, bilinçli olarak yanlış yönlendirerek kaybolmasına sebep olan bir ağ saldırısıdır."
+      },
+      {
+        "kavram": "Blacklisting (Siyah Listeleme)",
+        "aciklama": "Belirli kullanıcılar, IP adresleri veya domainlerin erişiminin engellenmesidir."
+      },
+      {
+        "kavram": "Bluejacking (Bluejacking)",
+        "aciklama": "Bluetooth özellikli cihazları kullanarak başkalarına istenmeyen mesajlar gönderme eylemidir."
+      },
+      {
+        "kavram": "BlueSnarfing (BlueSnarfing)",
+        "aciklama": "Bluetooth cihazları üzerinden gizli verilerin izinsiz olarak çalınmasıdır."
+      },
+      {
+        "kavram": "Bounce Attack (Geri Dönüş Saldırısı)",
+        "aciklama": "Bir saldırganın kötü amaçlı yazılımlarını, hedefin ağına göndermek için başka bir cihazı kullanma tekniğidir."
+      },
+      {
+        "kavram": "Breach Detection System (İhlal Tespit Sistemi)",
+        "aciklama": "Sistemlere yapılan güvenlik ihlallerini izlemek ve tespit etmek için kullanılan bir güvenlik aracıdır."
+      },
+      {
+        "kavram": "Bitwise Operation (Bit Düzeyinde İşlem)",
+        "aciklama": "Veriler üzerinde, bit düzeyinde yapılan işlemlerdir. Bu tür işlemler, genellikle yazılımda verileri hızlı bir şekilde işlemek için kullanılır."
+      },
+      {
+        "kavram": "Binary Code (İkili Kod)",
+        "aciklama": "Verilerin 0 ve 1'ler şeklinde temsil edildiği, bilgisayarların anlayabileceği temel dil."
+      },
+      {
+        "kavram": "Basic Authentication (Temel Kimlik Doğrulama)",
+        "aciklama": "Kullanıcı adı ve şifre kombinasyonuyla yapılan, basit kimlik doğrulama yöntemidir."
+      },
+      {
+        "kavram": "Binary Search (İkili Arama)",
+        "aciklama": "Veri sıralı olduğunda, arama yapılacak değerin, sıralı dizinin ortasında olup olmadığını kontrol eden hızlı bir arama algoritması."
+      },
+      {
+        "kavram": "Brute Force Cryptanalysis (Kaba Kuvvet Kriptoanalizi)",
+        "aciklama": "Şifreli bir mesajı çözmek için, tüm olası anahtarları deneyerek yapılan saldırı yöntemidir."
+      },
+      {
+        "kavram": "Bug Fixing (Hata Düzeltme)",
+        "aciklama": "Yazılımdaki hataların tespit edilip giderilmesi sürecidir."
+      },
+      {
+        "kavram": "Binary Protocol (İkili Protokol)",
+        "aciklama": "Verilerin, metin yerine ikili biçimde iletildiği bir iletişim protokolüdür."
+      },
+      {
+        "kavram": "BluePill (BluePill)",
+        "aciklama": "Sanallaştırma yazılımında kullanılan ve sistemin tam kontrolünü ele geçirebilen kötü amaçlı yazılım türüdür."
+      },
+      {
+        "kavram": "Bot Herder (Bot Yönetici)",
+        "aciklama": "Bir botnetin kontrolünü elinde bulunduran kişi veya yazılım."
+      },
+      {
+        "kavram": "Bug Report (Hata Raporu)",
+        "aciklama": "Yazılımda bulunan bir hatanın tespiti ve bildirilmesi amacıyla oluşturulan rapordur."
+      },
+      {
+        "kavram": "Backpropagation (Geribesleme)",
+        "aciklama": "Yapay sinir ağlarında, hataların geri yayılmasıyla ağırlıkların ayarlandığı bir öğrenme algoritmasıdır."
+      },
+      {
+        "kavram": "Blue Screen of Death (BSOD) (Ölü Mavi Ekran)",
+        "aciklama": "Windows işletim sistemlerinde karşılaşılan, ciddi sistem hatalarını gösteren ve bilgisayarın çalışmayı durdurmasına sebep olan ekran hatası."
+      },
+      {
+        "kavram": "Behavioral Analytics (Davranışsal Analitik)",
+        "aciklama": "Kullanıcıların çevrimiçi davranışlarını analiz ederek, güvenlik tehditlerini tespit etmeye yönelik analiz yöntemidir."
+      },
+      {
+        "kavram": "Browser Exploit (Tarayıcı Sömürüsü)",
+        "aciklama": "Bir tarayıcıdaki güvenlik açığını kullanarak, zararlı yazılımlar yüklemeye yönelik saldırıdır."
+      },
+      {
+        "kavram": "Backdoor Trojan Horse (Arka Kapı Truva Atı)",
+        "aciklama": "Sisteme gizlice erişim sağlamak için kullanılan, kullanıcıyı kandırarak içeriye sızan zararlı yazılımdır."
+      },
+      {
+        "kavram": "Bot Farm (Bot Çiftliği)",
+        "aciklama": "Birden fazla botun bir arada kullanıldığı, genellikle zararlı amaçlar için yönetilen sistemdir."
+      },
+      {
+        "kavram": "BitTorrent (BitTorrent)",
+        "aciklama": "Dosya paylaşımını dağıtık bir şekilde gerçekleştiren bir protokoldür. Kullanıcılar birbirlerinden veri alıp verebilirler."
+      },
+      {
+        "kavram": "Blockchain Consensus (Blok Zinciri Konsensüsü)",
+        "aciklama": "Blok zincirindeki işlemlerin geçerliliğini onaylamak için katılımcıların mutabakat sağladığı bir yöntemdir."
+      },
+      {
+        "kavram": "Black Box Testing (Kara Kutu Testi)",
+        "aciklama": "Yazılımın iç yapısını bilmeden, sadece çıktıları analiz ederek yapılan test türüdür."
+      },
+      {
+        "kavram": "Blacklist Filtering (Siyah Liste Filtreleme)",
+        "aciklama": "Kötü niyetli veya istenmeyen öğelerin, listelendiği ve engellendiği filtreleme yöntemidir."
+      },
+      {
+        "kavram": "Basic Input/Output System (BIOS) (Temel Giriş/Çıkış Sistemi)",
+        "aciklama": "Bilgisayarın başlatılmasından sorumlu olan ve donanım ile işletim sistemi arasındaki iletişimi sağlayan yazılımdır."
+      },
+      {
+        "kavram": "Broadcast Domain (Yayın Alanı)",
+        "aciklama": "Ağdaki, tüm cihazların birbirleriyle iletişim kurabildiği alanı ifade eder."
+      },
+      {
+        "kavram": "Boundary Scan (Sınır Tarama)",
+        "aciklama": "Elektronik devrelerde, bileşenlerin doğru bir şekilde bağlandığını doğrulamak için yapılan test yöntemidir."
+      },
+      {
+        "kavram": "Bait-and-Switch Attack (Cazip Teklif ve Değiştirme Saldırısı)",
+        "aciklama": "Kullanıcıyı çekmek için cazip bir teklif sunup, sonrasında beklenmeyen bir şekilde daha farklı bir şey sunarak yapılan saldırıdır."
+      },
+      {
+        "kavram": "Buffer Overflow Attack (Tampon Taşması Saldırısı)",
+        "aciklama": "Bir programın bellek sınırlarını aşarak veri yazması sonucu sistemin ele geçirilmesine yol açabilen saldırıdır."
+      },
+      {
+        "kavram": "Black Hat SEO (Kara Şapka SEO)",
+        "aciklama": "Arama motoru sıralamalarını hileli yollarla yükseltmeye yönelik yasa dışı tekniklerin kullanılmasıdır."
+      },
+      {
+        "kavram": "Biometric Device (Biyometrik Cihaz)",
+        "aciklama": "Kullanıcıların parmak izi, yüz tanıma gibi biyometrik verilerini kullanarak kimlik doğrulama yapan cihazdır."
+      },
+      {
+        "kavram": "Bandwidth Throttling (Bant Genişliği Sınırlaması)",
+        "aciklama": "Bir ağdaki veri iletim hızının, özellikle kötüye kullanım veya aşırı yüklenme durumlarında sınırlanmasıdır."
+      },
+      {
+        "kavram": "Blockchain Fork (Blok Zinciri Çatallanması)",
+        "aciklama": "Blok zincirinin iki veya daha fazla yola ayrılmasıdır, genellikle bir güncelleme veya protokol değişikliği sonrası olur."
+      },
+      {
+        "kavram": "Botnet C&C (Command and Control) (Botnet Komut ve Kontrol)",
+        "aciklama": "Bir botnetin yöneticisinin, botları uzaktan kontrol etmesini sağlayan komut ve kontrol altyapısıdır."
+      },
+      {
+        "kavram": "Buffer Overflow Exploit (Tampon Taşması Sömürüsü)",
+        "aciklama": "Tampon taşması açığını kullanarak sistemin güvenliğini ihlal etmeye yönelik yapılan saldırıdır."
+      },
+      {
+        "kavram": "Big Data Analytics (Büyük Veri Analitiği)",
+        "aciklama": "Devasa veri setlerinin analiz edilerek, önemli bilgiler ve eğilimlerin keşfedilmesidir."
+      },
+      {
+        "kavram": "Behavioral Detection (Davranışsal Tespit)",
+        "aciklama": "Bir kullanıcı veya sistemdeki şüpheli davranışları analiz ederek, potansiyel tehditleri tespit etmeye yönelik bir güvenlik yöntemidir."
+      },
+      {
+        "kavram": "Bandwidth Attack (Bant Genişliği Saldırısı)",
+        "aciklama": "Bir ağın bant genişliğini aşırı yükleyerek, hizmetin kesilmesine yol açan saldırıdır."
+      },
+      {
+        "kavram": "Backdoor Access Point (Arka Kapı Erişim Noktası)",
+        "aciklama": "Bir sisteme gizlice erişim sağlamak için kullanılan bağlantı noktasıdır."
+      },
+      {
+        "kavram": "Blockchain Validator (Blok Zinciri Doğrulayıcı)",
+        "aciklama": "Blok zincirinde yapılan işlemleri onaylayan ve geçerliliğini kontrol eden node'dur."
+      },
+      {
+        "kavram": "Banner Grabbing (Afiş Yakalama)",
+        "aciklama": "Bir sistemin, ağ veya sunucusunun kimlik bilgilerini toplamak amacıyla yapılan bilgi toplama tekniğidir."
+      },
+      {
+        "kavram": "Backdoor Keylogger (Arka Kapı Keylogger)",
+        "aciklama": "Bir kullanıcının tuş vuruşlarını izleyerek gizlice verileri toplayan kötü amaçlı yazılımdır."
+      },
+      {
+        "kavram": "Bait and Hook (Tuzağa Düşürme ve Kanca)",
+        "aciklama": "Kullanıcıyı tuzağa düşürüp, ardından onları kötü amaçlarla kullanmak için başkalarına yönlendiren bir dolandırıcılık tekniğidir."
+      },
+      {
+        "kavram": "Blackhat SEO Tactics (Kara Şapka SEO Taktikleri)",
+        "aciklama": "Arama motoru optimizasyonu için, etik olmayan tekniklerin kullanılmasıdır."
+      },
+      {
+        "kavram": "Backdoor Trojans and Viruses (Arka Kapı Truva Atları ve Virüsler)",
+        "aciklama": "Sisteme gizlice erişim sağlamak için kullanılan zararlı yazılımlar ve virüslerdir."
+      },
+      {
+        "kavram": "Bounty Hunter (Ödül Avcısı)",
+        "aciklama": "Bir hata ödül programında, güvenlik açıklarını tespit edip raporlayarak ödül kazanan kişidir. Bu, güvenlik uzmanlarının teşvik edilmesini amaçlayan bir uygulamadır."
+      },
+      {
+        "kavram": "Boot Sector Virus (Önyükleme Sektörü Virüsü)",
+        "aciklama": "Bilgisayarın açılışında, özellikle sabit disk veya USB gibi depolama aygıtlarının önyükleme sektörüne bulaşan kötü amaçlı yazılımdır. Bu virüs, bilgisayar açılmadan önce çalışır."
+      },
+      {
+        "kavram": "Browser Hijacker (Tarayıcı Korsanı)",
+        "aciklama": "Kullanıcının web tarayıcısını istenmeyen yönlendirmeler yapmak için kontrol altına alan kötü amaçlı yazılımdır. Bu tür yazılımlar, tarayıcı ayarlarını değiştirerek kullanıcıyı zararlı sitelere yönlendirebilir."
+      },
+      {
+        "kavram": "Backdoor Shell (Arka Kapı Kabuk)",
+        "aciklama": "Bir bilgisayara veya ağ sistemine gizlice erişim sağlamak amacıyla kurulan bir komut satırı arabirimidir. Arka kapı kabukları, saldırganların kontrolü ele geçirmesine olanak tanır."
+      },
+      {
+        "kavram": "Brute Force Decryption (Kaba Kuvvet Şifre Çözme)",
+        "aciklama": "Şifreleri, tüm olası şifreleme anahtarları veya kombinasyonlarını deneyerek çözme işlemidir. Bu yöntem genellikle güçlü şifreleme algoritmalarını aşmak için kullanılır."
+      },
+      {
+        "kavram": "Bash Scripting (Bash Betiği)",
+        "aciklama": "Bash komut satırı kabuğunda yazılan otomatikleştirilmiş komut dosyalarıdır. Sistem yönetimi ve otomatik görevler için yaygın olarak kullanılır."
+      },
+      {
+        "kavram": "Bytecode (Bayt Kodu)",
+        "aciklama": "Derlenmiş bir programın, makineye bağımlı olmayan bir biçimdeki kodudur. Çoğu zaman, bir programı çalıştırmak için yorumlayıcı tarafından işlenmesi gereken ara bir format olarak kullanılır."
+      },
+      {
+        "kavram": "Bytecode Injection (Bayt Kodu Enjeksiyonu)",
+        "aciklama": "Bayt kodu içinde kötü amaçlı kod eklemek için yapılan saldırıdır. Bu saldırı, yazılımın beklenmedik bir şekilde davranmasına yol açabilir."
+      },
+      {
+        "kavram": "Biometric Data Theft (Biyometrik Veri Hırsızlığı)",
+        "aciklama": "Kullanıcıların parmak izi, yüz taraması, retina taraması gibi biyometrik verilerinin çalınmasıdır. Bu tür verilerin kötüye kullanılması büyük güvenlik riskleri oluşturur."
+      },
+      {
+        "kavram": "Beacons (Işınlar)",
+        "aciklama": "Fiziksel veya dijital ortamda, bir cihazın konumunu, kimliğini veya verisini belirten sinyallerdir. Mobil cihazlarda genellikle konum tabanlı hizmetler için kullanılır."
+      },
+      {
+        "kavram": "Breakthrough Attack (Çığır Açan Saldırı)",
+        "aciklama": "Güvenlik sistemlerinde büyük bir açığı veya zayıflığı keşfederek, önceki savunma yöntemlerini aşan saldırıdır. Bu tür saldırılar, genellikle yenilikçi teknikler içerir."
+      },
+      {
+        "kavram": "Bit Error Rate (Bit Hata Oranı)",
+        "aciklama": "Bir veri iletim kanalındaki hata oranını ölçen bir metriktir. Yüksek bit hata oranı, iletişimin kalitesiz olduğunu gösterir."
+      },
+      {
+        "kavram": "Biometric Data Authentication (Biyometrik Veri Kimlik Doğrulama)",
+        "aciklama": "Biyometrik özellikler kullanılarak yapılan kimlik doğrulama işlemidir. Örnek olarak, parmak izi veya yüz tanıma kullanılır."
+      },
+      {
+        "kavram": "Binary Analysis (İkili Analiz)",
+        "aciklama": "İkili dosyalar üzerinde yapılan analizdir. Bu analiz, kötü amaçlı yazılımların tespiti veya yazılım hatalarının bulunması için yapılır."
+      },
+      {
+        "kavram": "Blackout Attack (Elektrik Kesintisi Saldırısı)",
+        "aciklama": "Bir bölgedeki enerji altyapısına yönelik saldırıdır. Bu tür saldırılar, elektriği keserek büyük ölçüde kaosa yol açabilir."
+      },
+      {
+        "kavram": "Bandwidth Management (Bant Genişliği Yönetimi)",
+        "aciklama": "Ağda mevcut bant genişliğinin daha verimli kullanılması için yapılan yönetimdir. Trafiği dengeleyerek ağın daha stabil çalışmasını sağlar."
+      },
+      {
+        "kavram": "Bit-level Encryption (Bit Düzeyinde Şifreleme)",
+        "aciklama": "Verilerin şifrelenmesi için kullanılan, her bitin ayrı ayrı şifrelendiği yöntemdir. Bu tür şifreleme, yüksek güvenlik sağlar."
+      },
+      {
+        "kavram": "Bitrate (Bit Hızı)",
+        "aciklama": "Verilerin birim zamanda iletilme hızını belirtir. Yüksek bit hızı, daha hızlı veri iletimi anlamına gelir."
+      },
+      {
+        "kavram": "Brute Force Algorithm (Kaba Kuvvet Algoritması)",
+        "aciklama": "Her olasılığı deneyerek bir problemi çözmeye çalışan algoritmadır. Özellikle şifre çözme gibi güvenlik sorunlarında kullanılır."
+      },
+      {
+        "kavram": "Bytecode Obfuscation (Bayt Kodu Gizleme)",
+        "aciklama": "Bayt kodunun anlaşılmasını zorlaştırmak amacıyla yapılan işlemdir. Bu, yazılımın tersine mühendislik yoluyla analiz edilmesini engellemeye çalışır."
+      },
+      {
+        "kavram": "Backdoor Channel (Arka Kapı Kanalı)",
+        "aciklama": "Bir ağ veya sistemde, güvenlik önlemlerini aşarak gizli bir iletişim kanalının oluşturulmasıdır. Saldırganlar bu kanalı kullanarak sisteme erişebilirler."
+      },
+      {
+        "kavram": "Boundary Detection (Sınır Tespiti)",
+        "aciklama": "Ağ güvenliği bağlamında, bir ağın iç ve dış sınırlarını tanımlama sürecidir. Bu, güvenlik duvarları ve diğer önlemlerle korunur."
+      },
+      {
+        "kavram": "Buffer Overflow Protection (Tampon Taşması Koruması)",
+        "aciklama": "Bellek hatalarını ve saldırıları engellemeye yönelik güvenlik önlemleridir. Bu koruma, programların bellek sınırlarını aşmasını engeller."
+      },
+      {
+        "kavram": "Block Cipher (Blok Şifreleme)",
+        "aciklama": "Veriyi sabit uzunluktaki bloklar halinde şifreleyen bir şifreleme yöntemidir. Genellikle yüksek güvenlik sağlar ve veriyi sistematik bir şekilde şifreler."
+      },
+      {
+        "kavram": "Blockchain Wallet (Blok Zinciri Cüzdanı)",
+        "aciklama": "Kripto para birimlerinin depolandığı ve işlem yapılabilen bir dijital cüzdandır. Blockchain teknolojisini kullanır."
+      },
+      {
+        "kavram": "Banner Injection (Afiş Enjeksiyonu)",
+        "aciklama": "Web uygulamalarına, genellikle sistemdeki güvenlik açıklarından yararlanarak zararlı afiş veya mesaj ekleme saldırısıdır."
+      },
+      {
+        "kavram": "Blockchain Technology Stack (Blok Zinciri Teknoloji Yığını)",
+        "aciklama": "Blockchain teknolojisi için kullanılan araçlar ve altyapı bileşenlerinin toplamıdır. Bu, yazılım geliştirmeyi ve işlemleri yönetmeyi kolaylaştırır."
+      },
+      {
+        "kavram": "Bait-and-Switch Scam (Cazip Teklif ve Değiştirme Dolandırıcılığı)",
+        "aciklama": "Kullanıcılara cazip teklifler sunarak, sonunda beklediklerinden farklı bir şey vermek suretiyle yapılan dolandırıcılıktır."
+      },
+      {
+        "kavram": "Binary Code Injection (İkili Kod Enjeksiyonu)",
+        "aciklama": "Yazılıma veya sisteme kötü amaçlı ikili kod eklemek için yapılan saldırıdır. Bu tür bir saldırı, yazılımın davranışlarını değiştirebilir."
+      },
+      {
+        "kavram": "Botnet Malware (Botnet Zararlı Yazılımı)",
+        "aciklama": "Botnet'i oluşturmak için kullanılan kötü amaçlı yazılımdır. Bu yazılım, hedef bilgisayarı uzaktan kontrol etmek ve saldırılar yapmak için kullanılır."
+      },
+      {
+        "kavram": "Browser Privacy Settings (Tarayıcı Gizlilik Ayarları)",
+        "aciklama": "Web tarayıcısında kullanıcıların gizliliğini korumak için yapılan ayarlardır. Bunlar, çerezleri engellemeyi veya izleyicileri devre dışı bırakmayı içerebilir."
+      },
+      {
+        "kavram": "Boundary Firewall (Sınır Güvenlik Duvarı)",
+        "aciklama": "Ağ sınırındaki cihazları koruyan güvenlik duvarıdır. Bu tür bir güvenlik duvarı, ağdaki tüm trafiği izler ve zararlı veriyi engeller."
+      },
+      {
+        "kavram": "Backdoor System (Arka Kapı Sistemi)",
+        "aciklama": "Bir bilgisayar veya ağda, güvenlik önlemleri aşarak gizli erişim sağlanmasına olanak tanır. Bu sistemler, saldırganların sisteme erişmesini sağlar."
+      },
+      {
+        "kavram": "Botnet Mining (Botnet Madenciliği)",
+        "aciklama": "Botnet kullanarak, bilgisayarların işlem gücünü kripto para madenciliği yapmak için kullanma işlemidir. Bu, sistem sahiplerinin bilgisi dışında gerçekleşir."
+      },
+      {
+        "kavram": "Bandwidth Utilization (Bant Genişliği Kullanımı)",
+        "aciklama": "Ağda kullanılan bant genişliğinin miktarıdır. Yüksek bant genişliği kullanımı, daha hızlı veri iletimi anlamına gelir."
+      },
+      {
+        "kavram": "Bandwidth Snooping (Bant Genişliği İzleme)",
+        "aciklama": "Ağdaki veri iletimini izleyerek, özellikle gizli verilerin ele geçirilmesi amacıyla yapılan işlemdir."
+      },
+      {
+        "kavram": "Black Market Software (Kara Pazar Yazılımı)",
+        "aciklama": "Yasadışı yollarla edinilen yazılımlar veya lisanslar. Genellikle korsan yazılım veya cracklenmiş programları içerir."
+      },
+      {
+        "kavram": "Bitwise AND Operation (Bit Düzeyinde VE İşlemi)",
+        "aciklama": "İki ikili değerin bit düzeyinde karşılaştırılmasıdır. Bu işlemde yalnızca her iki bit de 1 olduğunda sonuç 1 olur."
+      },
+      {
+        "kavram": "Boundary Security Protocols (Sınır Güvenlik Protokolleri)",
+        "aciklama": "Bir ağın dış sınırlarını korumak amacıyla kullanılan güvenlik protokolleridir. Bunlar, genellikle ağ trafiğini izler ve engeller."
+      },
+      {
+        "kavram": "Bug Prevention (Hata Öncesi Koruma)",
+        "aciklama": "Yazılım hatalarını engellemek için alınan önlemler ve yöntemlerdir. Bu, geliştiricilerin daha sağlam yazılımlar oluşturmasına yardımcı olur."
+      },
+      {
+        "kavram": "Bug Fix (Hata Düzeltme)",
+        "aciklama": "Yazılımlarda bulunan hataların tespit edilip giderilmesi işlemidir."
+      },
+      {
+        "kavram": "Brute Force Countermeasures (Kaba Kuvvet Karşı Önlemler)",
+        "aciklama": "Kaba kuvvet saldırılarının etkisini azaltmak için şifre denemeleri sınırlama, gecikme ekleme gibi güvenlik önlemleri."
+      },
+      {
+        "kavram": "Base Station (Baz İstasyonu)",
+        "aciklama": "Mobil cihazların iletişim kurduğu, kablosuz ağların temel elemanı olan sabit istasyon."
+      },
+      {
+        "kavram": "Baseband Processor (Bazbandı İşlemci)",
+        "aciklama": "Mobil cihazların ağlarla iletişimini sağlayan ve sinyalleri işleyen düşük seviyeli işlemci."
+      },
+      {
+        "kavram": "Backdoor Server (Arka Kapı Sunucusu)",
+        "aciklama": "Yetkisiz erişim sağlamak amacıyla kurulmuş ve sisteme gizli yollarla bağlanılabilen bir sunucu."
+      },
+      {
+        "kavram": "Browser Plugin (Tarayıcı Eklentisi)",
+        "aciklama": "Web tarayıcılarına yeni özellikler veya işlevler eklemek için kullanılan küçük yazılım bileşenleri."
+      },
+      {
+        "kavram": "Blockchain Ledger (Blok Zinciri Defteri)",
+        "aciklama": "Dağıtık bir yapıda, verilerin güvenli şekilde kaydedildiği ve değiştirilemez bir dijital defter."
+      },
+      {
+        "kavram": "Backdoor Access Code (Arka Kapı Erişim Kodu)",
+        "aciklama": "Sisteme gizlice erişim sağlamak için kullanılan özel bir erişim kodu."
+      },
+      {
+        "kavram": "Buffer Overflow Protection (Tampon Taşması Koruması)",
+        "aciklama": "Bellek taşmalarının önüne geçmek ve kötü amaçlı kod çalıştırılmasını engellemek için alınan güvenlik önlemleri."
+      },
+      {
+        "kavram": "Biometric Spoofing (Biyometrik Taklit)",
+        "aciklama": "Gerçek biyometrik verilerin taklit edilmesi yoluyla güvenlik sistemlerini atlatma saldırısı."
+      },
+      {
+        "kavram": "Binary-to-Decimal Conversion (İkili'den Onlu'ya Dönüşüm)",
+        "aciklama": "İkili sayı sistemindeki verilerin, ondalıklı (decimal) sayı sistemine dönüştürülmesi işlemi."
+      },
+      {
+        "kavram": "Bait-and-Switch Phishing (Tuzağa Düşürme ve Değiştirme Phishing'i)",
+        "aciklama": "Kullanıcıyı yanıltarak sahte bağlantılar veya teklifler ile kişisel bilgilerini çalma yöntemi."
+      },
+      {
+        "kavram": "Bandwidth Usage (Bant Genişliği Kullanımı)",
+        "aciklama": "Bir ağda kullanılan toplam veri iletimi miktarı, genellikle internet hızını etkileyen önemli bir faktördür."
+      },
+      {
+        "kavram": "Boot-time Scan (Önyükleme Zamanı Taraması)",
+        "aciklama": "Sistem açılmadan önce yapılan, kötü amaçlı yazılımlar veya güvenlik açıklarını tarayan bir güvenlik taraması."
+      },
+      {
+        "kavram": "Backdoor Script (Arka Kapı Betiği)",
+        "aciklama": "Sistem üzerinde gizli erişim sağlamak için yazılmış kötü amaçlı yazılımlar."
+      },
+      {
+        "kavram": "Beryllium-based Encryption (Berilyum Tabanlı Şifreleme)",
+        "aciklama": "Verilerin şifrelenmesi için berilyum elementine dayalı bir yöntem kullanılması."
+      },
+      {
+        "kavram": "Brute Force Dictionary Attack (Kaba Kuvvet Sözlük Saldırısı)",
+        "aciklama": "Şifreyi kırmak için yaygın kelimeler ve terimler içeren bir sözlük kullanarak yapılan kaba kuvvet saldırısı."
+      },
+      {
+        "kavram": "Basic Network Security Protocols (Temel Ağ Güvenliği Protokolleri)",
+        "aciklama": "Ağ güvenliğini sağlamak için temel şifreleme, kimlik doğrulama ve iletişim protokollerinin kullanılması."
+      },
+      {
+        "kavram": "Buffer Overflow Attack Detection (Tampon Taşması Saldırısı Tespiti)",
+        "aciklama": "Bellek taşması saldırılarının tespit edilmesi ve önlenmesi için kullanılan yöntemler."
+      },
+      {
+        "kavram": "Boot Sector Code (Önyükleme Sektörü Kodu)",
+        "aciklama": "Bilgisayarın açılışında ilk çalıştırılan ve işletim sisteminin yüklenmesini sağlayan yazılım kodu."
+      },
+      {
+        "kavram": "Bait-and-Switch Advertising (Cazip Teklif ve Değiştirme Reklamı)",
+        "aciklama": "Tüketiciyi düşük fiyatla cezbetme ve sonra ürünü farklı, daha pahalı bir ürünle değiştirme reklam stratejisi."
+      },
+      {
+        "kavram": "Bandwidth Utilization Rate (Bant Genişliği Kullanım Oranı)",
+        "aciklama": "Ağda mevcut bant genişliğinin ne kadarının veri iletimi için kullanıldığını gösteren oran."
+      },
+      {
+        "kavram": "Bytecode Reader (Bayt Kodu Okuyucu)",
+        "aciklama": "Derlenmiş bir programın bayt kodlarını analiz eden veya çalıştıran yazılım."
+      },
+      {
+        "kavram": "Binary Exploitation (İkili Sömürü)",
+        "aciklama": "İkili dosyalar üzerindeki güvenlik açıklarından faydalanarak sisteme zarar verme veya yetkisiz erişim sağlama."
+      },
+      {
+        "kavram": "Basic Authentication Protocol (Temel Kimlik Doğrulama Protokolü)",
+        "aciklama": "Kullanıcı adı ve şifre ile basit bir kimlik doğrulama sağlamak için kullanılan protokol."
+      },
+      {
+        "kavram": "Broadcast Network Attack (Yayın Ağı Saldırısı)",
+        "aciklama": "Ağa yayılan veri paketlerini kullanarak gerçekleştirilen saldırılar, genellikle tüm ağı etkileyebilir."
+      },
+      {
+        "kavram": "Backdoor File (Arka Kapı Dosyası)",
+        "aciklama": "Gizli erişim sağlamak amacıyla sisteme yerleştirilen dosya, kötü amaçlı yazılım içerebilir."
+      },
+      {
+        "kavram": "Biometric Authentication Failure (Biyometrik Kimlik Doğrulama Hatası)",
+        "aciklama": "Biyometrik doğrulama sisteminde hatalı tanımlama veya başarısızlık durumu."
+      },
+      {
+        "kavram": "Brute Force Cracking (Kaba Kuvvet Kırma)",
+        "aciklama": "Şifreyi rastgele tüm olasılıkları deneyerek çözmeye çalışan bir saldırı tekniği."
+      },
+      {
+        "kavram": "Browser Exploitation Framework (Tarayıcı Sömürüsü Çerçevesi)",
+        "aciklama": "Tarayıcıdaki güvenlik açıklarını kullanarak yapılan saldırılara yönelik bir araç çerçevesi."
+      },
+      {
+        "kavram": "Bandwidth Compression (Bant Genişliği Sıkıştırma)",
+        "aciklama": "Veri iletiminde bant genişliğinden tasarruf sağlamak için verilerin sıkıştırılması işlemi."
+      },
+      {
+        "kavram": "Blacklist Protocol (Siyah Liste Protokolü)",
+        "aciklama": "Güvenilmeyen veya zararlı olan cihazları, IP adreslerini veya kullanıcıları engellemek için kullanılan protokol."
+      },
+      {
+        "kavram": "Backdoor Ransomware (Arka Kapı Fidye Yazılımı)",
+        "aciklama": "Sisteme gizlice erişim sağlayan ve dosyaları şifreleyerek fidye isteyen kötü amaçlı yazılım."
+      },
+      {
+        "kavram": "Beacon-based Attack (Işın Tabanlı Saldırı)",
+        "aciklama": "Sisteme zarar vermek veya gizli veri toplamak için belirli aralıklarla ışın (beacon) gönderen saldırı türü."
+      },
+      {
+        "kavram": "Binary Signatures (İkili İmzalar)",
+        "aciklama": "Bir dosyanın veya yazılımın tanımlanmasında kullanılan, benzersiz ikili işaretler."
+      },
+      {
+        "kavram": "Botnet Detection (Botnet Tespiti)",
+        "aciklama": "Kötü amaçlı yazılımlarla kontrol edilen, çok sayıda bağlı cihazdan oluşan bir botnet’in tespiti."
+      },
+      {
+        "kavram": "Backup and Disaster Recovery (Yedekleme ve Afet Kurtarma)",
+        "aciklama": "Verilerin yedeklenmesi ve bir felaket durumunda sistemlerin veya verilerin geri yüklenmesi süreci."
+      },
+      {
+        "kavram": "Basic Authentication Failure (Temel Kimlik Doğrulama Hatası)",
+        "aciklama": "Kullanıcı adı ve şifre ile yapılan kimlik doğrulama sırasında oluşan başarısızlık."
+      },
+      {
+        "kavram": "Block Attack (Blok Saldırısı)",
+        "aciklama": "Verilerin bloklar halinde engellenmesi ya da manipüle edilmesi saldırısı."
+      },
+      {
+        "kavram": "Biometric System Flaw (Biyometrik Sistem Hatası)",
+        "aciklama": "Biyometrik doğrulama sistemlerinde bulunan güvenlik açıkları veya hatalar."
+      },
+      {
+        "kavram": "Broken Authentication (Bozulmuş Kimlik Doğrulama)",
+        "aciklama": "Kullanıcıların kimliklerini doğrulamak için kullanılan sistemlerin hatalı yapılandırılması veya zayıf güvenlik önlemleri nedeniyle yetkisiz erişime olanak tanıyan güvenlik açığı."
+      },
+      {
+        "kavram": "Bandwidth Overload (Bant Genişliği Aşırı Yüklenmesi)",
+        "aciklama": "Ağ üzerindeki veri iletimi kapasitesinin aşılması sonucu, ağın yavaşlaması veya hizmetin kesilmesi durumudur."
+      },
+      {
+        "kavram": "Botnet Command Channel (Botnet Komut Kanalı)",
+        "aciklama": "Botnet ağındaki zararlı yazılımlarına komut göndermek için kullanılan gizli iletişim kanalını ifade eder."
+      },
+      {
+        "kavram": "Brute Force Mitigation (Kaba Kuvvet Hafifletme)",
+        "aciklama": "Kaba kuvvet saldırılarının etkisini azaltmak için kullanılan teknikler, örneğin şifre denemeleri sayısını sınırlamak veya gecikme eklemek."
+      },
+      {
+        "kavram": "Broadcast Encryption (Yayın Şifrelemesi)",
+        "aciklama": "Birçok alıcıya veri gönderirken, yalnızca yetkilendirilmiş alıcıların bu veriyi çözebilmesini sağlamak için kullanılan şifreleme yöntemidir."
+      },
+      {
+        "kavram": "Backdoor Trojan Detection (Arka Kapı Truva Atı Tespiti)",
+        "aciklama": "Bilgisayar sistemlerine gizli şekilde erişim sağlamak için kullanılan arka kapı truva atlarını tespit etmek amacıyla yapılan güvenlik taramaları."
+      },
+      {
+        "kavram": "Brute Force Attack Resistance (Kaba Kuvvet Saldırısı Direnci)",
+        "aciklama": "Sistemlerin, kaba kuvvet saldırılarına karşı dayanıklılık gösterme kapasitesini artırmak için kullanılan güvenlik önlemleri."
+      },
+      {
+        "kavram": "Bitstream (Bit Akışı)",
+        "aciklama": "Dijital verinin ardışık bitler olarak iletilmesi veya depolanması yöntemidir."
+      },
+      {
+        "kavram": "Byte Overflow (Bayt Taşması)",
+        "aciklama": "Bir bellekte belirli bir bayt kapasitesinin aşılması sonucu veri kaybı veya kötü amaçlı yazılımın çalıştırılmasına neden olan durumdur."
+      },
+      {
+        "kavram": "Brute Force Cyber Attack (Kaba Kuvvet Siber Saldırısı)",
+        "aciklama": "Şifreleri çözmek için sistematik bir şekilde tüm olasılıkları deneyerek yapılan bir siber saldırı türüdür."
+      },
+      {
+        "kavram": "Binary File Format (İkili Dosya Formatı)",
+        "aciklama": "Bilgisayarlar tarafından işlenebilen ve genellikle yazılım uygulamaları tarafından kullanılan, ikili kodlarla biçimlendirilmiş dosya formatıdır."
+      },
+      {
+        "kavram": "Backdoor Payload (Arka Kapı Yükü)",
+        "aciklama": "Bir zararlı yazılımın sisteme gizli erişim sağlamak amacıyla yerleştirilen kısmıdır; genellikle truva atı şeklinde gelir."
+      },
+      {
+        "kavram": "Blocklist Maintenance (Bloklist Bakımı)",
+        "aciklama": "Güvenlik tehditlerinden veya zararlı aktivitelerden şüphelenilen kullanıcılar, IP adresleri veya cihazları listeye ekleyip bu listeyi düzenli olarak güncelleme işlemi."
+      },
+      {
+        "kavram": "Binary Search Algorithm (İkili Arama Algoritması)",
+        "aciklama": "Sıralanmış verilerde belirli bir öğeyi bulmak için kullanılan verimli bir algoritma, her adımda arama alanını ikiye böler."
+      },
+      {
+        "kavram": "Bit Error Correction (Bit Hata Düzeltme)",
+        "aciklama": "Veri iletimi sırasında oluşan hatalı bitlerin düzeltilmesi için kullanılan yöntemler."
+      },
+      {
+        "kavram": "Binary Tree Attack (İkili Ağaç Saldırısı)",
+        "aciklama": "Veri yapılarındaki ikili ağaçları hedef alarak yapılan saldırılar; genellikle ağaç yapılarının dengesizleştirilmesi veya bozulması amacıyla kullanılır."
+      },
+      {
+        "kavram": "Bandwidth Scaling (Bant Genişliği Ölçeklendirme)",
+        "aciklama": "Artan trafik yükünü karşılamak amacıyla ağ kapasitesinin dinamik olarak artırılması işlemidir."
+      },
+      {
+        "kavram": "Biometric Authentication Method (Biyometrik Kimlik Doğrulama Yöntemi)",
+        "aciklama": "Kullanıcı kimliğini doğrulamak için parmak izi, yüz tanıma veya iris taraması gibi biyometrik özelliklerin kullanıldığı güvenlik yöntemidir."
+      }
+
+
+    ]
+  }
+  

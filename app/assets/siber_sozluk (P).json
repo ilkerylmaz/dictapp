@@ -1,0 +1,575 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "Packet Filtering (Paket Filtreleme)",
+            "aciklama": "Ağ üzerinde geçen verileri, belirli kurallara göre (örneğin IP adresi, port numarası) filtreleyen bir güvenlik önlemi."
+          },
+          {
+            "kavram": "Password Cracking (Şifre Kırma)",
+            "aciklama": "Şifreyi çözmek için yapılan denemeler, genellikle zayıf şifrelerin kırılmasını sağlar."
+          },
+          {
+            "kavram": "Penetration Testing (Pen Test) (Penetrasyon Testi)",
+            "aciklama": "Bir sistemin güvenliğini test etmek için yapılan, sızma testi. Amaç, sistemin zayıf noktalarını keşfetmektir."
+          },
+          {
+            "kavram": "Phishing (Kimlik Avı)",
+            "aciklama": "Kandırıcı e-posta veya web siteleriyle, kullanıcıların kişisel bilgilerini çalmaya yönelik yapılan saldırılar."
+          },
+          {
+            "kavram": "Private Key (Özel Anahtar)",
+            "aciklama": "Şifreleme ve dijital imzalama için kullanılan, yalnızca sahibi tarafından bilinen anahtar."
+          },
+          {
+            "kavram": "Public Key (Açık Anahtar)",
+            "aciklama": "Şifreleme için kullanılan ve herkes tarafından erişilebilen anahtar, genellikle özel anahtarla eşleşir."
+          },
+          {
+            "kavram": "Public Key Infrastructure (PKI) (Açık Anahtar Altyapısı)",
+            "aciklama": "Şifreleme ve dijital imza işlemleri için kullanılan altyapı ve protokoller bütünüdür."
+          },
+          {
+            "kavram": "Patch Management (Yama Yönetimi)",
+            "aciklama": "Yazılım ve sistemler için çıkan güvenlik yamalarının düzenli olarak uygulanması."
+          },
+          {
+            "kavram": "Privileged Access Management (PAM) (Özel Erişim Yönetimi)",
+            "aciklama": "Sistemdeki özel erişim yetkileri ve ayrıcalıklı hesapların yönetilmesi."
+          },
+          {
+            "kavram": "Public Key Encryption (Açık Anahtar Şifrelemesi)",
+            "aciklama": "Verilerin, açık anahtar ile şifrelenip yalnızca özel anahtar ile çözülebilmesiyle yapılan şifreleme türü."
+          },
+          {
+            "kavram": "Perimeter Security (Çevre Güvenliği)",
+            "aciklama": "Bir ağın dış sınırlarında, ağın güvenliğini sağlamak için kullanılan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Policy Enforcement (Politika Uygulaması)",
+            "aciklama": "Güvenlik politikalarının, kuralların ve yönergelerin sisteme uygulanması."
+          },
+          {
+            "kavram": "Pharming (Pharming)",
+            "aciklama": "Kullanıcıları sahte web sitelerine yönlendirerek kişisel bilgilerini çalmaya yönelik bir saldırı türü."
+          },
+          {
+            "kavram": "Proxy Server (Proxy Sunucusu)",
+            "aciklama": "İnternet trafiğini yönlendiren ve kullanıcının gerçek IP adresini gizleyen bir sunucu."
+          },
+          {
+            "kavram": "Patching (Yama)",
+            "aciklama": "Yazılımda veya sistemdeki güvenlik açıklarını düzeltmek için yapılan güncelleme veya yamanın uygulanması."
+          },
+          {
+            "kavram": "Payload (Yük)",
+            "aciklama": "Kötü amaçlı yazılımların hedef sisteme taşıdığı zararlı kod veya veriler."
+          },
+          {
+            "kavram": "Packet Sniffing (Paket Koklama)",
+            "aciklama": "Ağ üzerindeki veri paketlerini izlemek ve analiz etmek amacıyla yapılan işlem."
+          },
+          {
+            "kavram": "Penetration Testing Tools (Penetrasyon Testi Araçları)",
+            "aciklama": "Penetrasyon testi yapmak için kullanılan yazılım ve araçlar."
+          },
+          {
+            "kavram": "Process Isolation (Süreç İzolasyonu)",
+            "aciklama": "Bir sistemdeki farklı süreçlerin birbirinden bağımsız çalışmasını sağlayarak güvenliği artıran bir yöntem."
+          },
+          {
+            "kavram": "Privilege Escalation (Ayrıcalık Yükseltme)",
+            "aciklama": "Düşük seviyedeki kullanıcı haklarını, sistemde daha yüksek erişim seviyelerine yükseltmeye yönelik saldırılar."
+          },
+          {
+            "kavram": "P2P (Peer-to-Peer) (Eşten Eşe)",
+            "aciklama": "Bilgisayarların, birbirlerine doğrudan bağlanarak dosya paylaşımları yaptığı bir ağ yapısı."
+          },
+          {
+            "kavram": "Payload Delivery (Yük Dağıtımı)",
+            "aciklama": "Kötü amaçlı yazılımın, hedef sisteme ulaştırılması ve dağıtılması işlemi."
+          },
+          {
+            "kavram": "Password Management (Şifre Yönetimi)",
+            "aciklama": "Şifrelerin güvenli bir şekilde saklanması, yönetilmesi ve korunması için uygulanan stratejiler."
+          },
+          {
+            "kavram": "Public-Key Cryptography (Açık Anahtar Kriptografisi)",
+            "aciklama": "Şifreleme işlemleri için açık anahtar ve özel anahtar çiftini kullanan kriptografi yöntemi."
+          },
+          {
+            "kavram": "Privileged User (Ayrıcalıklı Kullanıcı)",
+            "aciklama": "Sistemde yüksek erişim yetkilerine sahip olan kullanıcı."
+          },
+          {
+            "kavram": "Patch (Yama)",
+            "aciklama": "Yazılımda veya sistemdeki güvenlik açığını düzelten küçük güncellemeler."
+          },
+          {
+            "kavram": "Privacy Policy (Gizlilik Politikası)",
+            "aciklama": "Kullanıcıların kişisel verilerinin nasıl toplandığını, saklandığını ve kullanıldığını açıklayan politika."
+          },
+          {
+            "kavram": "PDU (Protocol Data Unit) (Protokol Veri Birimi)",
+            "aciklama": "Bir ağ protokolü üzerinden iletilen veri birimi. Genellikle paket olarak adlandırılır."
+          },
+          {
+            "kavram": "PowerShell (PowerShell)",
+            "aciklama": "Microsoft Windows işletim sistemi için komut satırı ve otomasyon aracıdır."
+          },
+          {
+            "kavram": "Proxy Chain (Proxy Zinciri)",
+            "aciklama": "İnternet trafiğinin birden fazla proxy sunucusu üzerinden geçirilerek gizliliğin artırılması."
+          },
+          {
+            "kavram": "Preventive Security (Önleyici Güvenlik)",
+            "aciklama": "Potansiyel tehditleri ve saldırıları önceden tespit edip engellemeye yönelik güvenlik önlemleri."
+          },
+          {
+            "kavram": "Principle of Least Privilege (PoLP) (En Az Ayrıcalık İlkesi)",
+            "aciklama": "Kullanıcılara ve sistemlere, işlevlerini yerine getirebilmeleri için gereken en az erişim ve ayrıcalıkların verilmesi."
+          },
+          {
+            "kavram": "Public Disclosure (Kamusal Açıklama)",
+            "aciklama": "Güvenlik açığının, ilgili kurumlar veya kamuoyu ile paylaşılması."
+          },
+          {
+            "kavram": "Private Cloud (Özel Bulut)",
+            "aciklama": "Yalnızca belirli bir organizasyon tarafından kullanılan, diğer kullanıcılardan izole edilmiş bulut ortamı."
+          },
+          {
+            "kavram": "Privileged Access (Ayrıcalıklı Erişim)",
+            "aciklama": "Sistem veya ağda yüksek güvenlik düzeyine sahip kaynaklara erişim sağlama hakkı."
+          },
+          {
+            "kavram": "Payload Analysis (Yük Analizi)",
+            "aciklama": "Kötü amaçlı yazılımın hedef sisteme gönderdiği veri yüklerinin (payload) analiz edilmesi, bu yazılımların zarar verme potansiyelini anlamak için yapılan bir güvenlik işlemi."
+          },
+          {
+            "kavram": "Perimeter Defense (Çevre Savunması)",
+            "aciklama": "Bir ağın dış sınırlarını korumak amacıyla uygulanan güvenlik önlemleri. Bu, güvenlik duvarları, proxy sunucular ve diğer ağ güvenlik araçlarını içerebilir."
+          },
+          {
+            "kavram": "Phishing Attack (Kimlik Avı Saldırısı)",
+            "aciklama": "Kullanıcıların kişisel bilgilerini (örneğin şifreler, kredi kartı numaraları) aldatıcı e-posta, web sitesi veya telefon aramaları yoluyla çalmayı amaçlayan bir saldırı türü."
+          },
+          {
+            "kavram": "Password Policy (Şifre Politikası)",
+            "aciklama": "Kullanıcıların şifrelerini nasıl belirlemesi gerektiği, şifrelerin ne kadar sürede değiştirilmesi gerektiği gibi güvenlik kurallarını içeren politika."
+          },
+          {
+            "kavram": "Power Failure Attack (Güç Kesintisi Saldırısı)",
+            "aciklama": "Bir sistemin elektriksel güç kaynağını hedef alarak, sistemin kapanması veya düzgün çalışmaması sağlanan saldırı türü."
+          },
+          {
+            "kavram": "Privacy Enhancing Technologies (PETs) (Gizlilik Artırıcı Teknolojiler)",
+            "aciklama": "Kullanıcıların kişisel verilerini gizlemek ve korumak amacıyla kullanılan teknolojiler."
+          },
+          {
+            "kavram": "Password Hashing (Şifre Karma)",
+            "aciklama": "Şifrelerin düz metin halinde depolanmaması için bir algoritma kullanılarak karma (hash) haline getirilmesi. Bu işlem şifrenin güvenli bir şekilde saklanmasını sağlar."
+          },
+          {
+            "kavram": "Packet Loss (Paket Kaybı)",
+            "aciklama": "Ağ üzerinden gönderilen veri paketlerinin, hedefe ulaşmadan kaybolması durumu. Bu, ağdaki gecikmelere veya bağlantı sorunlarına yol açabilir."
+          },
+          {
+            "kavram": "Patch Tuesday (Yama Salı)",
+            "aciklama": "Microsoft'un her ayın ikinci Salı günü, yazılımlarında bulunan güvenlik açıklarını kapatmak için yayınladığı güvenlik güncellemelerinin adı."
+          },
+          {
+            "kavram": "Port Scanning (Port Tarama)",
+            "aciklama": "Bir ağdaki açık portları tespit etmek amacıyla yapılan işlem. Bu, potansiyel güvenlik açıklarını keşfetmek için kullanılır."
+          },
+          {
+            "kavram": "Phishing Scam (Kimlik Avı Dolandırıcılığı)",
+            "aciklama": "Kimlik avı saldırılarının bir türü. Kullanıcıları kandırarak kişisel bilgilerini çalmaya yönelik yapılan dolandırıcılık girişimidir."
+          },
+          {
+            "kavram": "Privilege Abuse (Ayrıcalık Suistimali)",
+            "aciklama": "Bir kullanıcının, kendisine verilmiş yüksek erişim yetkilerini kötüye kullanması, sistemde zarar verici işlemler yapması."
+          },
+          {
+            "kavram": "Personal Firewall (Kişisel Güvenlik Duvarı)",
+            "aciklama": "Bireylerin bilgisayarları veya cihazları için, gelen ve giden trafiği kontrol eden ve zararlı etkinlikleri engellemeye çalışan yazılım veya donanım tabanlı güvenlik aracı."
+          },
+          {
+            "kavram": "Penetration Testing Methodology (Penetrasyon Testi Metodolojisi)",
+            "aciklama": "Bir sistemin güvenlik açıklarını keşfetmek amacıyla yapılan sızma testlerinin nasıl yapılacağına dair izlenen adımların ve yaklaşımların bütünüdür."
+          },
+          {
+            "kavram": "Public Key Certificate (Açık Anahtar Sertifikası)",
+            "aciklama": "Bir organizasyonun kimliğini doğrulamak için kullanılan, açık anahtar kriptografisiyle çalışan dijital sertifika."
+          },
+          {
+            "kavram": "Pre-emptive Attack (Önleyici Saldırı)",
+            "aciklama": "Bir tehdit veya saldırı başlamadan önce, saldırıyı engellemeye yönelik yapılan saldırı türü."
+          },
+          {
+            "kavram": "Password Guessing (Şifre Tahmin Etme)",
+            "aciklama": "Bir kullanıcının şifresini, olasılıkları tahmin ederek çözmeye çalışmak. Genellikle zayıf şifreler hedef alınır."
+          },
+          {
+            "kavram": "Post Exploitation (Sömürünün Ardından)",
+            "aciklama": "Bir saldırganın, bir sisteme sızdıktan sonra gerçekleştirdiği faaliyetler. Bu aşamada, saldırgan daha fazla bilgi toplayabilir veya zarar verebilir."
+          },
+          {
+            "kavram": "Privacy Breach (Gizlilik İhlali)",
+            "aciklama": "Bir organizasyonun kullanıcılarının kişisel bilgilerini izinsiz bir şekilde açıklaması veya sızdırması."
+          },
+          {
+            "kavram": "Phishing Email (Kimlik Avı E-postası)",
+            "aciklama": "Kullanıcıları aldatmaya yönelik, sahte bir kaynaktan gönderilen ve kişisel bilgilerini çalmaya çalışan e-posta mesajı."
+          },
+          {
+            "kavram": "Privilege Delegation (Ayrıcalık Delege Etme)",
+            "aciklama": "Bir kullanıcının, sahip olduğu erişim haklarını geçici olarak başka bir kullanıcıya devretmesi."
+          },
+          {
+            "kavram": "Password Expiry (Şifre Süresi Dolma)",
+            "aciklama": "Şifrelerin belirli bir süre sonra geçerliliğini kaybetmesi ve yeni bir şifre oluşturulması gerekliliği."
+          },
+          {
+            "kavram": "Packet Switched Network (Paket Anahtarlı Ağ)",
+            "aciklama": "Verilerin, paketler halinde farklı yollarla iletildiği ağ yapısı. İnternet, paket anahtarlı ağ örneğidir."
+          },
+          {
+            "kavram": "Public Key Infrastructure Management (Açık Anahtar Altyapısı Yönetimi)",
+            "aciklama": "Dijital sertifikalar, anahtarlar ve diğer güvenlik bilgilerini yönetme ve düzenleme süreci."
+          },
+          {
+            "kavram": "Peer-to-Peer (P2P) Attack (Eşten Eşe Saldırı)",
+            "aciklama": "Eşler arası ağlarda yapılan ve genellikle bir kullanıcının başka bir kullanıcıya saldırarak, kötü amaçlı yazılım yayması veya bilgi çalması."
+          },
+          {
+            "kavram": "Power Analysis Attack (Güç Analiz Saldırısı)",
+            "aciklama": "Elektronik cihazların güç tüketimini analiz ederek, şifreleme anahtarlarını veya diğer gizli bilgileri elde etmeye yönelik saldırılar."
+          },
+          {
+            "kavram": "Private Key Infrastructure (Özel Anahtar Altyapısı)",
+            "aciklama": "Özel anahtarların yönetildiği ve güvenli bir şekilde saklandığı altyapı."
+          },
+          {
+            "kavram": "Planned Security Audit (Planlı Güvenlik Denetimi)",
+            "aciklama": "Bir sistemin veya organizasyonun güvenlik önlemlerinin ve prosedürlerinin düzenli olarak incelenmesi."
+          },
+          {
+            "kavram": "Performance Monitoring (Performans İzleme)",
+            "aciklama": "Sistemlerin, ağların veya uygulamaların verimli çalışıp çalışmadığının izlenmesi ve gerektiğinde iyileştirme yapılması."
+          },
+          {
+            "kavram": "Pseudocode (Psödokod)",
+            "aciklama": "Bir algoritmanın, programlama diline benzer ama daha basit bir şekilde yazıldığı, kodun mantığını açıklayan yalın bir yazım şekli."
+          },
+          {
+            "kavram": "Public IP Address (Açık IP Adresi)",
+            "aciklama": "İnternetteki her cihazın benzersiz olarak tanımlanmasını sağlayan, herkese açık IP adresi."
+          },
+          {
+            "kavram": "Port Forwarding (Port Yönlendirme)",
+            "aciklama": "Gelen internet trafiğini, belirli bir cihazın içindeki belirli bir porta yönlendiren ağ ayarı."
+          },
+          {
+            "kavram": "Passive Attack (Pasif Saldırı)",
+            "aciklama": "Bir saldırganın, sistemdeki bilgileri gizlice toplayarak zarar vermek amacıyla hareket etmesi, genellikle verileri izleyerek gerçekleştirilir."
+          },
+          {
+            "kavram": "Privacy-Enhancing Software (Gizliliği Artırıcı Yazılım)",
+            "aciklama": "Kullanıcıların kişisel bilgilerini koruyarak gizliliklerini artıran yazılımlar."
+          },
+          {
+            "kavram": "Privilege Separation (Ayrıcalık Ayrımı)",
+            "aciklama": "Sistemdeki farklı görevleri, farklı güvenlik seviyelerinde çalışacak şekilde ayırmak, böylece potansiyel zararları sınırlamak."
+          },
+          {
+            "kavram": "Public Key Authentication (Açık Anahtar Kimlik Doğrulaması)",
+            "aciklama": "Bir kullanıcının kimliğini doğrulamak için açık anahtar şifrelemesi kullanılan yöntem. Kullanıcı, kendisine ait özel anahtarı kullanarak bir doğrulama sürecine girer."
+          },
+          {
+            "kavram": "Persistent Threat (Kalıcı Tehdit)",
+            "aciklama": "Bir siber tehdit, hedef sistemde uzun süre kalmayı ve devamlı olarak saldırı yapmayı hedefleyen tehdit türüdür. Bu tür tehditler genellikle gelişmiş ve kaynakları bol olan saldırganlar tarafından kullanılır."
+          },
+          {
+            "kavram": "Penetration Testing Scope (Penetrasyon Testi Kapsamı)",
+            "aciklama": "Penetrasyon testinin ne kadar geniş olacağını belirleyen çerçeve. Testin hangi sistemleri, ağları veya uygulamaları kapsayacağı bu kapsamda belirlenir."
+          },
+          {
+            "kavram": "Public Vulnerability Database (Açık Güvenlik Açığı Veritabanı)",
+            "aciklama": "Bilgisayar sistemleri veya yazılımlardaki güvenlik açıklarının kaydedildiği ve herkesin erişimine açık olan veritabanı."
+          },
+          {
+            "kavram": "Patching Level (Yama Seviyesi)",
+            "aciklama": "Bir sistemde veya yazılımda uygulanan güvenlik yamalarının ne kadar güncel olduğunu gösteren seviyedir. Yama seviyesi, sistemin ne kadar güvenli olduğunu belirleyen önemli bir faktördür."
+          },
+          {
+            "kavram": "Phishing Detection (Kimlik Avı Tespiti)",
+            "aciklama": "Kimlik avı saldırılarının tespit edilmesi. Bu, kullanıcıları kandırarak kişisel bilgilerini çalmaya yönelik sahte e-postalar veya web siteleri tespit etmek amacıyla kullanılan teknolojiler veya araçlardır."
+          },
+          {
+            "kavram": "Post-Quantum Cryptography (Kuantum Sonrası Kriptografi)",
+            "aciklama": "Kuantum bilgisayarlarının kriptografik sistemleri kırma yeteneğine karşı güvenli bir şifreleme yöntemini geliştirmeyi amaçlayan kriptografi alanıdır."
+          },
+          {
+            "kavram": "Privacy Violation (Gizlilik İhlali)",
+            "aciklama": "Kişisel verilerin izinsiz bir şekilde açığa çıkması veya kullanılmasına gizlilik ihlali denir. Bu durum, yasal sonuçlar doğurabilir."
+          },
+          {
+            "kavram": "Private Key Encryption (Özel Anahtar Şifrelemesi)",
+            "aciklama": "Şifreli veriyi yalnızca özel anahtar ile çözülebilen, genellikle verilerin gizliliğini sağlamak için kullanılan şifreleme yöntemidir."
+          },
+          {
+            "kavram": "Proxy MitM (Man-in-the-Middle) (Proxy Man-in-the-Middle)",
+            "aciklama": "Bir proxy sunucusu üzerinden yapılan saldırı türüdür, burada saldırgan, iki taraf arasındaki iletişimi gizlice izler ve değiştirir. Bu saldırı, veri gizliliği ihlallerine yol açabilir."
+          },
+          {
+            "kavram": "PaaS (Platform as a Service) (Hizmet Olarak Platform)",
+            "aciklama": "Kullanıcıların, yazılım geliştirme ve dağıtımı için ihtiyaç duydukları platformları internet üzerinden kiraladığı bir bulut bilişim modelidir."
+          },
+          {
+            "kavram": "Packet Injection (Paket Enjeksiyonu)",
+            "aciklama": "Ağa, zararlı veya manipüle edilmiş veri paketlerinin (packets) yerleştirilmesi. Bu, ağ saldırıları veya sistem manipülasyonları yapmak amacıyla kullanılabilir."
+          },
+          {
+            "kavram": "Proactive Monitoring (Proaktif İzleme)",
+            "aciklama": "Sistemin performansını ve güvenliğini sürekli olarak izlemek, sorunları veya saldırıları önceden tespit edip engellemeye yönelik yapılan bir izleme türüdür."
+          },
+          {
+            "kavram": "Packet Duplication (Paket Çoğaltma)",
+            "aciklama": "Bir ağdaki veri paketlerinin çoğaltılarak ağda istenmeyen bir şekilde çoğaltılmasına veya tekrarına sebep olunması."
+          },
+          {
+            "kavram": "Phishing Simulation (Kimlik Avı Simülasyonu)",
+            "aciklama": "Bir organizasyonun çalışanlarını eğitmek amacıyla yapılan sahte kimlik avı saldırılarının simüle edilmesidir. Bu, kullanıcıların kimlik avı saldırılarına karşı daha dikkatli olmalarını sağlar."
+          },
+          {
+            "kavram": "Private Key Management (Özel Anahtar Yönetimi)",
+            "aciklama": "Özel anahtarların güvenli bir şekilde depolanması, korunması ve gerektiğinde erişilmesi için kullanılan yöntemler ve araçlar."
+          },
+          {
+            "kavram": "Public Key Algorithm (Açık Anahtar Algoritması)",
+            "aciklama": "Verilerin güvenli bir şekilde şifrelenmesini ve iletilmesini sağlamak için kullanılan matematiksel algoritmalar. Genellikle açık anahtar şifrelemesi ile ilişkilidir."
+          },
+          {
+            "kavram": "Public IP Addressing (Açık IP Adresi Kullanımı)",
+            "aciklama": "İnternetteki cihazların, herkesin erişebileceği bir IP adresi ile tanımlanmasıdır. Bu, cihazların internete bağlantı kurabilmesini sağlar."
+          },
+          {
+            "kavram": "Post-mortem Analysis (Ölüm Sonrası Analiz)",
+            "aciklama": "Bir güvenlik olayının veya saldırısının ardından yapılan analiz. Bu analiz, saldırının nasıl gerçekleştiğini anlamak ve gelecekte benzer saldırılardan korunmak için yapılır."
+          },
+          {
+            "kavram": "Packet Replay (Paket Tekrarı)",
+            "aciklama": "Daha önce gönderilmiş bir veri paketinin tekrar iletilmesi. Bu saldırı, verilerin bütünlüğünü bozmak ve kimlik doğrulamasını atlatmak için kullanılabilir."
+          },
+          {
+            "kavram": "Poisoning Attack (Zehirleme Saldırısı)",
+            "aciklama": "Ağda, sistemdeki verileri veya bilgileri yanlış veya zararlı bir şekilde değiştirmek amacıyla yapılan saldırıdır. Örnekler arasında DNS zehirlenmesi bulunur."
+          },
+          {
+            "kavram": "Process Injection (Süreç Enjeksiyonu)",
+            "aciklama": "Bir yazılımın, başka bir yazılımın çalıştırdığı işlemlere müdahale etmesi ve kendi kodunu enjekte etmesi işlemidir. Bu, kötü amaçlı yazılım saldırılarında kullanılır."
+          },
+          {
+            "kavram": "Proxies for Anonymity (Anonimlik için Proxy'ler)",
+            "aciklama": "Kullanıcıların kimliklerini gizlemek için kullanılan proxy sunucuları. Bu sunucular, internet trafiğini başka bir IP adresi üzerinden yönlendirerek anonimlik sağlar."
+          },
+          {
+            "kavram": "Pollution Attacks (Kirlenme Saldırıları)",
+            "aciklama": "Ağda veya sistemde yanlış verilerin (veya kirli verilerin) yerleştirilmesi. Bu, bilgi sistemlerinin doğru çalışmasını engelleyebilir."
+          },
+          {
+            "kavram": "Privileged Identity Management (Ayrıcalıklı Kimlik Yönetimi)",
+            "aciklama": "Sistemlere ve verilere yüksek erişim hakkı olan kullanıcı kimliklerinin güvenli bir şekilde yönetilmesidir. Bu, şifrelerin, izinlerin ve erişimlerin denetlenmesini içerir."
+          },
+          {
+            "kavram": "Private Browsing (Özel Tarama)",
+            "aciklama": "İnternet tarayıcılarında, ziyaret edilen sitelerin geçmişinin, çerezlerin veya geçici dosyaların kaydedilmemesini sağlayan bir özellik. Kullanıcıların gizliliklerini korur."
+          },
+          {
+            "kavram": "Phishing Link (Kimlik Avı Bağlantısı)",
+            "aciklama": "Kullanıcıları sahte bir siteye yönlendiren, kimlik avı saldırısı amaçlayan URL. Bu bağlantılar genellikle kişisel bilgileri çalmaya yöneliktir."
+          },
+          {
+            "kavram": "Patching Schedule (Yama Zamanlaması)",
+            "aciklama": "Yazılımlar veya sistemler için güncellemelerin düzenli aralıklarla uygulanması için belirlenen zaman planıdır."
+          },
+          {
+            "kavram": "Public-Key Signature (Açık Anahtar İmzası)",
+            "aciklama": "Dijital imza, açık anahtar algoritması kullanarak yapılan bir güvenlik işlemidir. Bir belgenin veya mesajın doğruluğunu ve bütünlüğünü doğrulamak için kullanılır."
+          },
+          {
+            "kavram": "Password Reset Attack (Şifre Sıfırlama Saldırısı)",
+            "aciklama": "Bir saldırganın, kullanıcıların şifrelerini sıfırlamak için sosyal mühendislik veya diğer yöntemlerle sistem üzerinde işlem yapması."
+          },
+          {
+            "kavram": "Process Termination (Süreç Sonlandırma)",
+            "aciklama": "Bir işlemi veya programı sonlandırmak, çalışmasını durdurmak için yapılan işlem. Sistem yöneticileri genellikle bu işlemi güvenlik nedenleriyle yaparlar."
+          },
+          {
+            "kavram": "Penetration Testing Tools List (Penetrasyon Testi Araçları Listesi)",
+            "aciklama": "Penetrasyon testi yaparken kullanılan yazılım ve araçların listesidir. Bu araçlar, güvenlik açıklarını keşfetmek için kullanılır."
+          },
+          {
+            "kavram": "Prevention Techniques (Önleme Teknikleri)",
+            "aciklama": "Bir güvenlik olayının gerçekleşmeden önce alınan tedbirler. Bunlar, saldırıların önlenmesi veya minimize edilmesi için yapılan hazırlıklardır."
+          },
+          {
+            "kavram": "Poisoning of DNS (DNS Zehirlenmesi)",
+            "aciklama": "DNS (Domain Name System) veritabanlarının, yanlış veya zararlı bilgilerle değiştirilmesi. Bu, kullanıcıları sahte web sitelerine yönlendirmek için kullanılır."
+          },
+          {
+            "kavram": "Pseudorandom Number Generation (Psödo Rastgele Sayı Üretimi)",
+            "aciklama": "Bilgisayarlar tarafından üretilen, matematiksel algoritmalara dayalı rastgele sayılar. Gerçek rastgele sayıların yerine geçer ve kriptografi gibi alanlarda kullanılır."
+          },
+          {
+            "kavram": "Phishing Campaign (Kimlik Avı Kampanyası)",
+            "aciklama": "Kullanıcıları sahte web siteleri veya e-postalarla kandırarak kişisel bilgilerini çalmaya yönelik organize edilmiş saldırılar. Genellikle e-posta, SMS veya sosyal medya aracılığıyla yapılır."
+          },
+          {
+            "kavram": "Patching Software Vulnerabilities (Yazılım Güvenlik Açıklarını Yama)",
+            "aciklama": "Yazılımda bulunan güvenlik açıklarının giderilmesi için gerekli güncellemelerin yapılması. Bu işlemler, yazılımın güvenliğini artırmaya yönelik önemlidir."
+          },
+          {
+            "kavram": "Privilege Management (Ayrıcalık Yönetimi)",
+            "aciklama": "Kullanıcılara ve gruplara verilecek erişim haklarının belirlenmesi ve yönetilmesi süreci. Bu, sistemin güvenliğini sağlamak için kritik bir adımdır."
+          },
+          {
+            "kavram": "Private Internet Access (PIA) (Özel İnternet Erişimi)",
+            "aciklama": "İnternetteki aktiviteleri gizleyerek kullanıcının kimliğini koruyan bir hizmettir. VPN (Virtual Private Network) kullanarak interneti anonim bir şekilde erişmeyi sağlar."
+          },
+          {
+            "kavram": "P2P Vulnerabilities (Eşten Eşe Güvenlik Açıkları)",
+            "aciklama": "P2P (Peer-to-Peer) ağlarında bulunan güvenlik açıklarıdır. Bu tür ağlar, cihazlar arasında doğrudan bağlantılar kurar ve bazı güvenlik açıkları zararlı yazılımlar tarafından kullanılabilir."
+          },
+          {
+            "kavram": "Public Key Certificate Chain (Açık Anahtar Sertifika Zinciri)",
+            "aciklama": "Bir dijital sertifika, bir dizi güvenilir sertifika otoritesinden (CA) alınarak doğrulanır. Bu, bir sertifikanın güvenilirliğini sağlamak için kullanılan bir zincirdir."
+          },
+          {
+            "kavram": "Password Protection Mechanism (Şifre Koruma Mekanizması)",
+            "aciklama": "Şifrelerin güvenli bir şekilde saklanması ve korunması için kullanılan sistemler. Bu mekanizmalar, şifrelerin şifrelenmesini, karma hale getirilmesini içerir."
+          },
+          {
+            "kavram": "Packer (Paketleyici)",
+            "aciklama": "Yazılımları sıkıştırarak veya şifreleyerek koruyan araçlardır. Genellikle kötü amaçlı yazılımlar, tespit edilmemek için packer kullanarak gizlenir."
+          },
+          {
+            "kavram": "Portable Executable (PE) Files (Taşınabilir Yürütülebilir Dosyalar)",
+            "aciklama": "Windows işletim sisteminde kullanılan yürütülebilir dosya formatıdır. .exe, .dll gibi dosyalar PE formatında olabilir."
+          },
+          {
+            "kavram": "Patch Management System (Yama Yönetim Sistemi)",
+            "aciklama": "Yazılım güncellemelerini ve güvenlik yamalarını yönetmek için kullanılan bir sistemdir. Bu sistem, tüm ağda yazılımın güncel tutulmasını sağlar."
+          },
+          {
+            "kavram": "Physical Security (Fiziksel Güvenlik)",
+            "aciklama": "Bilgisayarlar, sunucular ve diğer ağ cihazlarının fiziksel güvenliğini sağlamaya yönelik önlemler. Bunlar, hırsızlık, yangın, su hasarı ve diğer fiziksel tehditlere karşı korunmayı içerir."
+          },
+          {
+            "kavram": "Poisoning the Cache (Önbelleği Zehirleme)",
+            "aciklama": "Bir sistemin veya ağın önbelleğini yanlış veya zararlı verilerle doldurmak, böylece kullanıcıları yanlış bilgilere yönlendirmek. Özellikle DNS önbelleği zehirlenmesi yaygın bir örnektir."
+          },
+          {
+            "kavram": "P2P Attack on Network (Ağ Üzerinde Eşten Eşe Saldırı)",
+            "aciklama": "Eşten eşe ağlarında, cihazlar arasında güvenlik açıklarını kullanarak saldırı yapmak. Bu tür saldırılar, dosya paylaşım ağlarını hedef alabilir."
+          },
+          {
+            "kavram": "Proportional Share Scheduling (Orantılı Paylaşım Zamanlaması)",
+            "aciklama": "Sistem kaynaklarını, her bir işleme hakkaniyetli bir şekilde dağıtan zamanlama algoritmasıdır. Bu, her işlemin CPU zamanı gibi kaynaklardan pay almasını sağlar."
+          },
+          {
+            "kavram": "Pre-Authentication (Ön Kimlik Doğrulama)",
+            "aciklama": "Kullanıcı veya sistemin kimlik doğrulama işlemine başlamadan önce yapılan doğrulama süreçleridir. Bu aşama, sisteme güvenli erişimi sağlamayı amaçlar."
+          },
+          {
+            "kavram": "Post-Exploitation Framework (Sömürü Sonrası Çerçeve)",
+            "aciklama": "Bir saldırganın sistemdeki güvenlik açıklarını sömürdükten sonra kullanabileceği araçlar ve teknikler. Bu çerçeve, sistemi daha fazla ele geçirmek veya kontrol altına almak için kullanılır."
+          },
+          {
+            "kavram": "Proxy Bypass (Proxy Bypass)",
+            "aciklama": "Bir proxy sunucusunun güvenlik önlemlerini atlatmak amacıyla yapılan işlem. Bu, genellikle internete kısıtlı erişimi olan kullanıcılar için yapılır."
+          },
+          {
+            "kavram": "Password Expiration Policy (Şifre Süresi Dolma Politikası)",
+            "aciklama": "Şifrelerin belirli bir süre sonra geçerliliğini yitirecek şekilde yapılandırılması. Bu politika, güvenliği artırmak için şifrelerin periyodik olarak değiştirilmesini sağlar."
+          },
+          {
+            "kavram": "Packet Fragmentation (Paket Parçalama)",
+            "aciklama": "Büyük veri paketlerinin, ağ üzerinden daha küçük parçalara bölünerek gönderilmesidir. Bu işlem, ağdaki veri iletimini kolaylaştırır."
+          },
+          {
+            "kavram": "Patching Automation (Yama Otomasyonu)",
+            "aciklama": "Yazılım güncellemelerinin ve güvenlik yamalarının otomatik olarak uygulanmasını sağlayan sistemler. Bu, özellikle büyük ağlarda zaman ve iş gücü tasarrufu sağlar."
+          },
+          {
+            "kavram": "Persistence Mechanism (Süreklilik Mekanizması)",
+            "aciklama": "Kötü amaçlı yazılımlar veya saldırganlar tarafından kullanılan, sistemde uzun süre kalabilmeyi sağlayan tekniklerdir. Bu mekanizmalar, cihazın yeniden başlatılması gibi durumlarda bile zararlı yazılımlarının aktif kalmasını sağlar."
+          },
+          {
+            "kavram": "Pen Testing Tools (Pen Test Araçları)",
+            "aciklama": "Penetrasyon testi yapmak için kullanılan yazılım ve araçlar. Bu araçlar, bir sistemin güvenlik açıklarını tespit etmeye ve test etmeye yarar."
+          },
+          {
+            "kavram": "Peer-to-Peer File Sharing (Eşten Eşe Dosya Paylaşımı)",
+            "aciklama": "İnternette dosya paylaşımı yapmak için kullanıcıların birbirine doğrudan bağlandığı bir ağ modelidir. Bu model, merkezi sunuculara ihtiyaç duymaz."
+          },
+          {
+            "kavram": "Patching the Kernel (Çekirdeği Yama)",
+            "aciklama": "Bir işletim sisteminin çekirdeğinde (kernel) bulunan güvenlik açıklarının düzeltilmesi için yapılan yamanın uygulanmasıdır."
+          },
+          {
+            "kavram": "Public Key Infrastructure (PKI) Certificates (Açık Anahtar Altyapısı Sertifikaları)",
+            "aciklama": "Güvenli iletişim sağlamak için açık anahtar şifrelemesi kullanılan bir altyapıdır. PKI, dijital sertifikalar ve anahtarlar ile güvenli veri iletimi sağlar."
+          },
+          {
+            "kavram": "Post-Synchronization (Senkranizasyon Sonrası)",
+            "aciklama": "Sistemler veya veriler senkronize edildikten sonraki aşama. Bu işlem, veri uyumsuzluklarını ve çakışmaları önlemeyi amaçlar."
+          },
+          {
+            "kavram": "Path Traversal Attack (Yol Geçişi Saldırısı)",
+            "aciklama": "Bir saldırganın, bir web uygulamasının dosya sistemi yolunu manipüle ederek, sisteme yetkisiz erişim sağlamasıdır. Bu saldırı, genellikle uygulamanın dosya yollarını doğru şekilde doğrulamaması sonucu gerçekleşir."
+          },
+          {
+            "kavram": "Private Network (Özel Ağ)",
+            "aciklama": "Sadece belirli cihazlar veya kullanıcılar tarafından erişilebilen, dış dünyadan izole edilmiş ağdır. Güvenliği genellikle yüksek seviyededir."
+          },
+          {
+            "kavram": "Payload Handler (Yük İşleyici)",
+            "aciklama": "Bir saldırı aracında, zararlı yazılımın hedef sisteme zarar vermesi için kullanılan, saldırının gerçekleşmesi sırasında kullanılan aracı."
+          },
+          {
+            "kavram": "Packet Transmission (Paket İletimi)",
+            "aciklama": "Ağ üzerinden veri paketlerinin gönderilmesidir. Bu, ağ iletişiminin temel bir bileşeni olup, verilerin iletilmesini sağlar."
+          },
+          {
+            "kavram": "Phishing Protection (Kimlik Avı Koruması)",
+            "aciklama": "Kimlik avı saldırılarına karşı alınan önlemlerdir. Bunlar, kullanıcıların şüpheli e-posta veya web sitelerinden korunmasını sağlamak için kullanılan teknolojiler olabilir."
+          },
+          {
+            "kavram": "Push Notification Security (Bildirim Güvenliği)",
+            "aciklama": "Mobil cihazlar veya uygulamalar aracılığıyla gönderilen bildirimlerin güvenliğini sağlamak amacıyla yapılan önlemler."
+          },
+          {
+            "kavram": "Process Monitoring (Süreç İzleme)",
+            "aciklama": "Sistem veya ağ üzerindeki işlemlerin izlenmesi ve kontrol edilmesi. Bu, olası güvenlik ihlallerini tespit etmek için yapılır."
+          },
+          {
+            "kavram": "Passive Network Monitoring (Pasif Ağ İzleme)",
+            "aciklama": "Ağ trafiğinin izlenmesi ancak ağ üzerinde herhangi bir müdahale yapılmaması işlemidir. Bu, ağdaki olası tehditlerin tespitine yardımcı olur."
+          },
+          {
+            "kavram": "Public Key Encryption Algorithm (Açık Anahtar Şifreleme Algoritması)",
+            "aciklama": "Verileri şifrelemek için açık anahtar şifrelemesi kullanan matematiksel algoritmadır. Bu algoritmalar, verilerin güvenli bir şekilde iletilmesini sağlar."
+          },
+          {
+            "kavram": "Password Storage Mechanism (Şifre Depolama Mekanizması)",
+            "aciklama": "Şifrelerin güvenli bir şekilde saklanması için kullanılan tekniklerdir. Bu, şifrelerin şifreli veya karma bir biçimde saklanmasını içerir."
+          },
+          {
+            "kavram": "Public Key Certificate Authority (Açık Anahtar Sertifika Otoritesi)",
+            "aciklama": "Dijital sertifikaları sağlayan ve doğrulayan otorite. Bu otorite, kullanıcıların kimliklerini doğrulamak için dijital sertifikalar sunar."
+          }
+
+
+    ]
+}

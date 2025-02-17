@@ -1,0 +1,692 @@
+{
+    "siberGuvenlikKavramlari": [
+  {
+    "kavram": "Cache Poisoning (Önbellek Zehirlenmesi)",
+    "aciklama": "Web tarayıcıları veya proxy sunucuları gibi önbellekleri hedef alarak, kötü amaçlı verilerin önbelleğe yazılması ve doğru olmayan verilerin gösterilmesi sağlanır."
+  },
+  {
+    "kavram": "Captcha (CAPTCHA)",
+    "aciklama": "İnsanları otomatik botlardan ayırmak için kullanılan bir güvenlik testi, genellikle harf ve rakamları tanıma veya şekilleri seçme gibi görevlerle uygulanır."
+  },
+  {
+    "kavram": "Catching (Yakalama)",
+    "aciklama": "Ağda geçen verilerin veya bilgilerin dinlenmesi veya alınması işlemidir, genellikle veri hırsızlığı için kullanılır."
+  },
+  {
+    "kavram": "Certificate Authority (Sertifika Yetkilisi)",
+    "aciklama": "Dijital sertifikaları sağlayan ve güvenilirliğini onaylayan bir otorite; genellikle HTTPS ve diğer güvenli iletişim protokollerinde kullanılır."
+  },
+  {
+    "kavram": "Cipher (Şifreleme)",
+    "aciklama": "Veriyi şifreleyerek, onu anlaşılmaz hale getiren matematiksel algoritmalardır, gizliliği sağlamak için kullanılır."
+  },
+  {
+    "kavram": "Ciphertext (Şifreli Metin)",
+    "aciklama": "Şifreleme işlemi sonrası elde edilen, okunması mümkün olmayan metin; sadece doğru anahtar ile çözülebilir."
+  },
+  {
+    "kavram": "Cipher Block Chaining (CBC) (Şifre Blok Bağlantılandırması)",
+    "aciklama": "Şifreleme algoritmasında her bir veri bloğunun, önceki bloğun şifreli haliyle XOR işlemi yapılarak şifrelenmesi yöntemidir."
+  },
+  {
+    "kavram": "Circuit-Level Gateway (Devre Seviyesi Geçidi)",
+    "aciklama": "Ağ güvenliğinde, veri iletimi devrelerini kontrol eden güvenlik cihazıdır; bağlantı kurma aşamasında güvenlik sağlar."
+  },
+  {
+    "kavram": "Clickjacking (Tıklama Tuzağı)",
+    "aciklama": "Kullanıcıyı, farkında olmadan zararlı bir işlem yapmaya zorlayan kötü amaçlı bir saldırıdır; genellikle gizli bir öğeye tıklatılır."
+  },
+  {
+    "kavram": "Cloud Computing (Bulut Bilişim)",
+    "aciklama": "İnternet üzerinden veri depolama ve işlem yapma hizmetlerini sağlamak için kullanılan teknolojidir; sunucu, yazılım ve depolama kaynakları bulut üzerinden erişilir."
+  },
+  {
+    "kavram": "Cloud Security (Bulut Güvenliği)",
+    "aciklama": "Bulut bilişim hizmetlerinde verilerin güvenliğini sağlamak için kullanılan yöntem ve protokollerin tümü."
+  },
+  {
+    "kavram": "Clustering (Kümeleme)",
+    "aciklama": "Benzer özelliklere sahip verileri veya bilgisayarları bir araya getirerek bir grup oluşturma işlemi; genellikle veri madenciliği ve yüksek performanslı hesaplama için kullanılır."
+  },
+  {
+    "kavram": "Code Injection (Kod Enjeksiyonu)",
+    "aciklama": "Kötü amaçlı kodun bir uygulamaya dahil edilmesi ve bu kodun sistemde istenmeyen işlemleri yapmasına yol açmasıdır."
+  },
+  {
+    "kavram": "Code Obfuscation (Kod Gizleme)",
+    "aciklama": "Yazılımın kaynak kodunun, okunabilirliğini ve tersine mühendislik yapılmasını zorlaştıracak şekilde değiştirilmesidir."
+  },
+  {
+    "kavram": "Command and Control (C&C) (Komut ve Kontrol)",
+    "aciklama": "Botnet'lerde kullanılan bir yöntem; saldırganın zararlı yazılımlara komut gönderip kontrol etmesine olanak tanır."
+  },
+  {
+    "kavram": "Command Injection (Komut Enjeksiyonu)",
+    "aciklama": "Kullanıcının sağladığı verilerle, sistemde çalışan komutları manipüle ederek kötü amaçlı komutlar çalıştırma saldırısıdır."
+  },
+  {
+    "kavram": "Common Vulnerability Exposure (CVE) (Yaygın Zafiyet Maruziyeti)",
+    "aciklama": "Güvenlik açıklarının tanımlanması ve kataloglanması için kullanılan global bir sistemdir, yazılım ve sistem zafiyetlerini belirtir."
+  },
+  {
+    "kavram": "Common Gateway Interface (CGI) (Yaygın Geçit Arabirimi)",
+    "aciklama": "Web sunucusuyla etkileşime giren dış uygulamaların çalıştırılmasını sağlayan protokoldür; dinamik içerik sağlamak için kullanılır."
+  },
+  {
+    "kavram": "Compartmentalization (Bölme)",
+    "aciklama": "Verilerin, sistemlerin veya ağların daha küçük, izole edilmiş bölgelere ayrılması; bir bölgedeki güvenlik açığının diğerlerini etkilemesini önler."
+  },
+  {
+    "kavram": "Compiler (Derleyici)",
+    "aciklama": "Kaynak kodunu makine diline çeviren yazılım aracıdır; genellikle programlama dillerinin çalıştırılabilir dosyalara dönüştürülmesinde kullanılır."
+  },
+  {
+    "kavram": "Compliant Encryption (Uyumlu Şifreleme)",
+    "aciklama": "Verilerin şifrelenmesi için belirli güvenlik standartlarına ve yasal düzenlemelere uygun olan şifreleme yöntemidir."
+  },
+  {
+    "kavram": "Compromise (Zafiyet)",
+    "aciklama": "Sistem veya verilerin kötü amaçlı bir kişi tarafından ele geçirilmesi, genellikle güvenlik açığı kullanılarak yapılır."
+  },
+  {
+    "kavram": "Confidentiality (Gizlilik)",
+    "aciklama": "Bilgilerin yalnızca yetkilendirilmiş kişiler tarafından erişilmesini sağlamak amacıyla uygulanan güvenlik önlemi."
+  },
+  {
+    "kavram": "Confidentiality Breach (Gizlilik İhlali)",
+    "aciklama": "Gizli bilgilere yetkisiz erişimin sağlanması; kişisel verilerin sızması gibi güvenlik ihlallerine yol açabilir."
+  },
+  {
+    "kavram": "Confusion (Karışıklık)",
+    "aciklama": "Şifreleme algoritmalarında, şifreli metnin rastgele ve anlaşılmaz hale getirilmesi amacıyla uygulanan bir ilkedir."
+  },
+  {
+    "kavram": "Congestion Control (Tıkanıklık Kontrolü)",
+    "aciklama": "Ağda veri iletiminin tıkanmasına engel olmak için uygulanan mekanizmalar, genellikle ağ yoğunluğunun yönetilmesine odaklanır."
+  },
+  {
+    "kavram": "Connectionless Protocol (Bağlantısız Protokol)",
+    "aciklama": "İletişim başlatmadan önce bağlantı kurulmasına gerek olmayan protokollerdir; örneğin, UDP."
+  },
+  {
+    "kavram": "Connection-Oriented Protocol (Bağlantı Odaklı Protokol)",
+    "aciklama": "İletişim öncesinde bağlantı kurulması gereken protokollerdir; örneğin, TCP."
+  },
+  {
+    "kavram": "Console (Konsol)",
+    "aciklama": "Sistem yönetimi ve denetimi için kullanılan komut satırı arayüzüdür; genellikle sunucularda ve ağ cihazlarında kullanılır."
+  },
+  {
+    "kavram": "Container Security (Kapsayıcı Güvenliği)",
+    "aciklama": "Uygulamaların ve verilerin kapsayıcılar içinde güvenli bir şekilde çalışmasını sağlamak için uygulanan güvenlik önlemleridir."
+  },
+  {
+    "kavram": "Continuous Authentication (Sürekli Kimlik Doğrulama)",
+    "aciklama": "Kullanıcının kimliğini sürekli olarak doğrulayan ve her oturumda güvenliği sağlayan bir kimlik doğrulama yöntemidir."
+  },
+  {
+    "kavram": "Contextual Authentication (Bağlamsal Kimlik Doğrulama)",
+    "aciklama": "Kullanıcının kimliği, bağlama dayalı olarak doğrulanır; örneğin, cihaz, coğrafi konum ve oturum süresi gibi faktörler dikkate alınır."
+  },
+  {
+    "kavram": "Contract Security (Sözleşme Güvenliği)",
+    "aciklama": "İşlem veya hizmet sağlayıcıları arasındaki anlaşmaların güvenli bir şekilde yapılması için uygulanan güvenlik önlemleridir."
+  },
+  {
+    "kavram": "Convergence (Yakınsama)",
+    "aciklama": "Farklı teknolojilerin ve sistemlerin bir arada çalışabilir hale gelmesi süreci; genellikle ağ yapılarında kullanılır."
+  },
+  {
+    "kavram": "Cookie (Çerez)",
+    "aciklama": "Web siteleri tarafından kullanıcı bilgilerini depolamak amacıyla tarayıcıda tutulan küçük veri dosyalarıdır."
+  },
+  {
+    "kavram": "Covert Channel (Gizli Kanal)",
+    "aciklama": "Veri iletimi için resmi olmayan yolların kullanılması, genellikle güvenlik duvarlarını aşmak amacıyla gizli iletişim sağlar."
+  },
+  {
+    "kavram": "Covert Malware (Gizli Kötü Amaçlı Yazılım)",
+    "aciklama": "Sisteme gizlice sızarak, kullanıcı fark etmeden zararlı işlemler gerçekleştiren kötü amaçlı yazılımdır."
+  },
+  {
+    "kavram": "Cracker (Kırıcı)",
+    "aciklama": "Güvenlik önlemlerini aşarak sisteme izinsiz erişim sağlayan kişi; genellikle kötü amaçlıdır."
+  },
+  {
+    "kavram": "Cross-Site Scripting (XSS) (Siteler Arası Komut Enjeksiyonu)",
+    "aciklama": "Kullanıcıdan alınan verilerin bir web sayfasında çalıştırılması için yerleştirilen kötü amaçlı JavaScript kodudur."
+  },
+  {
+    "kavram": "Cross-Site Request Forgery (CSRF) (Siteler Arası İstek Sahtekarlığı)",
+    "aciklama": "Kullanıcının istemediği işlemleri gerçekleştirmesi için hedef bir web sitesi üzerinde kötü amaçlı bir işlem tetikleyen saldırıdır."
+  },
+  {
+    "kavram": "Cryptanalysis (Kriptanaliz)",
+    "aciklama": "Şifreleme yöntemlerinin kırılması veya zayıf noktalarının bulunması amacıyla yapılan bilimsel inceleme ve analizler."
+  },
+  {
+    "kavram": "Cryptography (Kriptografi)",
+    "aciklama": "Verilerin gizliliğini, bütünlüğünü ve doğruluğunu sağlamak amacıyla yapılan şifreleme ve şifre çözme işlemleridir."
+  },
+  {
+    "kavram": "Cryptographic Hash Function (Kriptografik Özet Fonksiyonu)",
+    "aciklama": "Bir veri kümesinin sabit uzunlukta benzersiz bir temsilini (özetini) üretmek için kullanılan fonksiyonlardır, genellikle veri doğrulama ve güvenlik için kullanılır."
+  },
+  {
+    "kavram": "Cryptographic Key (Kriptografik Anahtar)",
+    "aciklama": "Şifreleme ve şifre çözme işlemleri için kullanılan, belirli bir algoritmanın güvenliğini sağlayan anahtardır."
+  },
+  {
+    "kavram": "Cryptographic Protocol (Kriptografik Protokol)",
+    "aciklama": "Şifreleme ve güvenli iletişim sağlamak için belirlenen kurallar bütünüdür."
+  },
+  {
+    "kavram": "Cryptographic Standard (Kriptografik Standart)",
+    "aciklama": "Kriptografik algoritmalar ve protokoller için belirlenen uluslararası kabul görmüş standartlardır."
+  },
+  {
+    "kavram": "Cryptojacking (Kripto Hırsızlık)",
+    "aciklama": "Kötü amaçlı yazılımlar tarafından, başkalarının cihazlarını izinsiz kullanarak kripto para madenciliği yapılmasıdır."
+  },
+  {
+    "kavram": "Cryptomining (Kripto Madenciliği)",
+    "aciklama": "Kripto para birimlerinin işlemleri onaylamak ve yeni coin'ler üretmek amacıyla yapılan hesaplama işlemidir."
+  },
+  {
+    "kavram": "Cryptocurrency (Kripto Para)",
+    "aciklama": "Dijital veya sanal para birimidir, kriptografi ile güvence altına alınır ve genellikle merkezi olmayan sistemlerle çalışır."
+  },
+  {
+    "kavram": "CSRF Token (CSRF Token)",
+    "aciklama": "Siteler arası istek sahtekarlığı (CSRF) saldırılarını önlemek için kullanılan, her form gönderimiyle eşleşen güvenlik belirtecidir."
+  },
+  {
+    "kavram": "CVE Database (CVE Veritabanı)",
+    "aciklama": "Yaygın güvenlik açıkları ve zafiyetleri tanımlayan ve kataloglayan bir veritabanıdır."
+  },
+  {
+    "kavram": "Cabling Security (Kablolama Güvenliği)",
+    "aciklama": "Fiziksel ağ bağlantılarının güvenliğini sağlamak için uygulanan önlemler; kabloların izinsiz erişime karşı korunması gibi."
+  },
+  {
+    "kavram": "Carpet Bombing (Halı Bombalama)",
+    "aciklama": "Bir ağdaki tüm hedefleri geniş çapta hedef almak amacıyla kullanılan saldırı tekniği; çok sayıda sistem aynı anda hedef alınır."
+  },
+  {
+    "kavram": "Carrier Authentication (Taşıyıcı Kimlik Doğrulaması)",
+    "aciklama": "Taşıyıcı ağlarının, iletişim hizmetleri sunarken kimlik doğrulama sürecidir."
+  },
+  {
+    "kavram": "CASB (Cloud Access Security Broker) (Bulut Erişim Güvenliği Aracı)",
+    "aciklama": "Bulut servis sağlayıcıları ile bulut hizmetlerine erişim arasında güvenlik sağlayan yazılım veya hizmettir."
+  },
+  {
+    "kavram": "Cascading Style Sheets (CSS) (Basamaklı Stil Sayfaları)",
+    "aciklama": "Web sayfalarının görsel stilini belirlemek için kullanılan stil tanımlama dilidir."
+  },
+  {
+    "kavram": "Case Study (Vaka Çalışması)",
+    "aciklama": "Bir durumun ayrıntılı olarak incelendiği, genellikle bir sorunun çözümüne yönelik yapılan araştırmadır."
+  },
+  {
+    "kavram": "Certificate Pinning (Sertifika Sabitleme)",
+    "aciklama": "Bir uygulamanın belirli bir sertifikayı kabul etmesini sağlamak amacıyla uygulanan güvenlik önlemidir."
+  },
+  {
+    "kavram": "Certificate Revocation List (CRL) (Sertifika İptal Listesi)",
+    "aciklama": "İptal edilen dijital sertifikaların listesi, bir sertifika yetkilisi tarafından yayınlanır."
+  },
+  {
+    "kavram": "CFS (Counter-Flow Security) (Karşı Akış Güvenliği)",
+    "aciklama": "Bilgilerin yalnızca tek yönlü akışını sağlamak amacıyla uygulanan güvenlik önlemidir."
+  },
+  {
+    "kavram": "Chained Exploit (Zincirleme Sömürü)",
+    "aciklama": "Birden fazla güvenlik açığının bir arada kullanılarak daha büyük bir saldırı oluşturulmasıdır."
+  },
+  {
+    "kavram": "Channel Hopping (Kanal Atlama)",
+    "aciklama": "Kablosuz iletişimde, sinyal karışıklığını önlemek için kanallar arasında geçiş yapma yöntemidir."
+  },
+  {
+    "kavram": "Chaos Theory (Kaos Teorisi)",
+    "aciklama": "Küçük değişikliklerin, karmaşık sistemlerde büyük ve tahmin edilemez sonuçlar doğurabileceğini öne süren teoridir."
+  },
+  {
+    "kavram": "Checksum (Denetim Toplamı)",
+    "aciklama": "Veri bütünlüğünü kontrol etmek için kullanılan matematiksel bir fonksiyondur; verideki hataları tespit etmek amacıyla kullanılır."
+  },
+  {
+    "kavram": "Child Process (Çocuk Süreci)",
+    "aciklama": "Bir ana süreç tarafından başlatılan ve onun alt görevi olarak çalışan bir süreçtir."
+  },
+  {
+    "kavram": "Chroot Jail (Chroot Zindanı)",
+    "aciklama": "Bir kullanıcı veya programın, belirli bir dosya sisteminin alt dizinlerine erişmesini kısıtlamak için kullanılan bir güvenlik önlemidir."
+  },
+  {
+    "kavram": "Cipher Suite (Şifreleme Takımı)",
+    "aciklama": "Şifreleme algoritmalarının ve protokollerinin birleşimidir; veri şifreleme ve güvenliği sağlamak için kullanılır."
+  },
+  {
+    "kavram": "CIFS (Common Internet File System) (Yaygın İnternet Dosya Sistemi)",
+    "aciklama": "Dosya paylaşımı için kullanılan bir ağ protokolüdür, özellikle Microsoft Windows sistemlerinde yaygındır."
+  },
+  {
+    "kavram": "Circuit Switching (Devre Yönlendirme)",
+    "aciklama": "İletişim kanalının, iletişim tamamlanana kadar sadece iki cihaz arasında kullanıldığı ağ iletişim tekniğidir."
+  },
+  {
+    "kavram": "CISO (Chief Information Security Officer) (Baş Bilgi Güvenliği Sorumlusu)",
+    "aciklama": "Bir organizasyonda bilgi güvenliğinden sorumlu en üst düzey yöneticidir."
+  },
+  {
+    "kavram": "Clear Text (Açık Metin)",
+    "aciklama": "Şifrelenmemiş veya korunmamış metin; genellikle güvenli olmayan ağlar üzerinden gönderilir."
+  },
+  {
+    "kavram": "Client Authentication (İstemci Kimlik Doğrulama)",
+    "aciklama": "Bir istemcinin kimliğini doğrulamak için uygulanan güvenlik sürecidir; kullanıcı adı, şifre veya dijital sertifikalar kullanılabilir."
+  },
+  {
+    "kavram": "Client-Side Encryption (İstemci Tarafı Şifreleme)",
+    "aciklama": "Verilerin istemci cihazında şifrelenmesi, böylece yalnızca şifre çözücüsü olan kullanıcı tarafından erişilebilmesi sağlanır."
+  },
+  {
+    "kavram": "Clock Skew (Saat Sapması)",
+    "aciklama": "Bir ağda bulunan cihazların saatlerinin birbirine uyumsuz olması durumudur; zaman senkronizasyonu hatalarına yol açabilir."
+  },
+  {
+    "kavram": "Cloud Access Security (Bulut Erişim Güvenliği)",
+    "aciklama": "Bulut hizmetlerine erişimi korumak amacıyla uygulanan güvenlik önlemleri ve teknolojileridir."
+  },
+  {
+    "kavram": "Cloud Encryption (Bulut Şifrelemesi)",
+    "aciklama": "Bulut ortamında verilerin şifrelenmesi, verilerin güvenliğini sağlamak amacıyla kullanılır."
+  },
+  {
+    "kavram": "Cloud Forensics (Bulut Adli Tıp)",
+    "aciklama": "Bulut ortamlarındaki dijital verileri inceleyerek, suçluları tespit etmek ve delil toplamak amacıyla yapılan analizdir."
+  },
+  {
+    "kavram": "Cloud Security Architecture (Bulut Güvenlik Mimarisi)",
+    "aciklama": "Bulut sistemlerinin güvenliğini sağlamak amacıyla kullanılan yapı ve protokoller bütünü."
+  },
+  {
+    "kavram": "Cloud Security Posture Management (CSPM) (Bulut Güvenlik Durum Yönetimi)",
+    "aciklama": "Bulut güvenliğini sürekli olarak izleyen, riskleri analiz eden ve güvenlik açıklarını kapatan yönetim uygulamalarıdır."
+  },
+  {
+    "kavram": "Cloud Service Provider (Bulut Servis Sağlayıcı)",
+    "aciklama": "Bulut tabanlı hizmetleri sağlayan ve yöneten firmadır; örneğin, Amazon Web Services (AWS), Microsoft Azure."
+  },
+  {
+    "kavram": "Cluster Bombing (Küme Bombalama)",
+    "aciklama": "Çok sayıda hedefin aynı anda saldırıya uğraması, genellikle bir ağda çok sayıda cihazın hedef alındığı saldırıdır."
+  },
+  {
+    "kavram": "Covert Data Channel (Gizli Veri Kanalı)",
+    "aciklama": "Verilerin izinsiz bir şekilde bir iletişim kanalından başka bir kanala aktarılmasıdır, genellikle kötü amaçlı faaliyetlerde kullanılır."
+  },
+  {
+    "kavram": "Credential Stuffing (Kimlik Bilgisi Doldurma)",
+    "aciklama": "Çalınmış kimlik bilgileri ile kullanıcı hesaplarına otomatik giriş yapmaya çalışan bir saldırı türüdür."
+  },
+  {
+    "kavram": "Cryptography Standard (Kriptografi Standardı)",
+    "aciklama": "Kriptografik yöntemler ve algoritmalar için belirlenen resmi standartlardır."
+  },
+  {
+    "kavram": "Cross-Platform Attack (Çapraz Platform Saldırısı)",
+    "aciklama": "Farklı işletim sistemleri ve platformlarda aynı anda saldırılar gerçekleştiren tehditlerdir."
+  },
+  {
+    "kavram": "CSS (Cascading Style Sheets) (Basamaklı Stil Sayfaları)",
+    "aciklama": "Web sayfalarının görünümünü düzenlemek için kullanılan stil tanımlama dilidir."
+  },
+  {
+    "kavram": "Cross-Site Request Forgery (CSRF) (Siteler Arası İstek Sahtekarlığı)",
+    "aciklama": "Bir kullanıcının, kimliği doğrulanmış olduğu bir site üzerinden istenmeyen bir işlem yapılmasını sağlamak amacıyla gerçekleştirilen saldırıdır."
+  },
+  {
+    "kavram": "Cloud Security Policies (Bulut Güvenliği Politikaları)",
+    "aciklama": "Bulut ortamlarında güvenliği sağlamak için oluşturulan kurallar ve yönergelerdir."
+  },
+  {
+    "kavram": "Combinatorial Encryption (Kombinasyonel Şifreleme)",
+    "aciklama": "Veriyi şifrelerken, birden fazla şifreleme yönteminin birleşik kullanılmasıyla daha güçlü güvenlik sağlanmasıdır."
+  },
+  {
+    "kavram": "Cloud Key Management (Bulut Anahtar Yönetimi)",
+    "aciklama": "Bulut ortamındaki şifreleme anahtarlarını güvenli bir şekilde yönetme işlemidir."
+  },
+  {
+    "kavram": "Cross-Platform Malware (Çapraz Platform Kötü Amaçlı Yazılım)",
+    "aciklama": "Farklı işletim sistemlerinde çalışan kötü amaçlı yazılımlar."
+  },
+  {
+    "kavram": "Content Security Policy (CSP) (İçerik Güvenliği Politikası)",
+    "aciklama": "Web sayfalarının, içeriklerini yalnızca belirli güvenilir kaynaklardan yüklemesini sağlayan bir güvenlik protokolüdür."
+  },
+  {
+    "kavram": "Counterfeit Attack (Sahtecilik Saldırısı)",
+    "aciklama": "Bir ürünün, hizmetin veya yazılımın sahte bir versiyonunun yaratılması ve yayılmasıdır."
+  },
+  {
+    "kavram": "Cloud Security Operations (Bulut Güvenlik Operasyonları)",
+    "aciklama": "Bulut ortamlarındaki güvenlik tehditlerine karşı alınan önlemler ve uygulanan güvenlik operasyonlarıdır."
+  },
+  {
+    "kavram": "Compliant Authentication (Uyumlu Kimlik Doğrulama)",
+    "aciklama": "Yasal ve güvenlik standartlarına uygun kimlik doğrulama yöntemlerinin kullanılmasıdır."
+  },
+  {
+    "kavram": "Clojure (Clojure)",
+    "aciklama": "Fonksiyonel programlama dillerinden biri olan ve JVM üzerinde çalışan bir dildir."
+  },
+  {
+    "kavram": "Client-Side Scripting (İstemci Tarafı Betikleme)",
+    "aciklama": "Web sayfalarında tarayıcıda çalışan JavaScript veya başka betik dillerinin kullanılmasıdır."
+  },
+  {
+    "kavram": "Cluster-based Attack (Küme Tabanlı Saldırı)",
+    "aciklama": "Birden fazla cihaz veya kaynak kullanarak gerçekleştirilen dağıtık saldırılardır."
+  },
+  {
+    "kavram": "Code Red Worm (Kod Kırmızı Solucanı)",
+    "aciklama": "2001'de yayılan, Microsoft IIS sunucularındaki güvenlik açığını hedef alan bir solucandır."
+  },
+  {
+    "kavram": "Clear Channel Assessment (Açık Kanal Değerlendirmesi)",
+    "aciklama": "Kablosuz ağlarda, kanalın kullanılabilirliğini kontrol etmek için yapılan bir değerlendirme işlemi."
+  },
+  {
+    "kavram": "Classless Inter-Domain Routing (CIDR) (Sınıfsız Arası Alan Yönlendirme)",
+    "aciklama": "IP adreslerinin daha verimli bir şekilde yönlendirilmesini sağlayan bir yöntemdir."
+  },
+  {
+    "kavram": "CLOP Ransomware (CLOP Fidye Yazılımı)",
+    "aciklama": "Verileri şifreleyip, kullanıcıdan fidye talep eden bir tür kötü amaçlı yazılımdır."
+  },
+  {
+    "kavram": "Cryptographic Salt (Kriptografik Tuz)",
+    "aciklama": "Şifreleme işlemlerinde, her şifre için benzersiz olan ve verinin şifreli halini güçlendiren rastgele bir veri eklenmesidir."
+  },
+  {
+    "kavram": "Covert Data Exfiltration (Gizli Veri Çıkartma)",
+    "aciklama": "Bilgilerin, fark edilmeden bir sistemden dışarı çıkarılmasıdır."
+  },
+  {
+    "kavram": "Cross-Site Scripting Vulnerability (Siteler Arası Komut Enjeksiyon Zafiyeti)",
+    "aciklama": "Web uygulamalarında kullanıcıların kötü niyetli komutları web sayfasına enjekte etmesine olanak veren güvenlik açığıdır."
+  },
+  {
+    "kavram": "CSO (Chief Security Officer) (Baş Güvenlik Sorumlusu)",
+    "aciklama": "Bir organizasyonun genel güvenliğinden sorumlu olan üst düzey yöneticidir."
+  },
+  {
+    "kavram": "Cloud Access Security Broker (Bulut Erişim Güvenliği Aracı)",
+    "aciklama": "Bulut hizmetlerine erişimi güvence altına almak için kullanılan bir güvenlik aracıdır."
+  },
+  {
+    "kavram": "Circular Dependency (Dairesel Bağımlılık)",
+    "aciklama": "Bir yazılım veya sistemde, iki veya daha fazla bileşenin birbirine bağlı ve birbirine bağımlı olması durumudur."
+  },
+  {
+    "kavram": "Cryptocurrency Exchange (Kripto Para Borsası)",
+    "aciklama": "Kripto para alım satımı yapmaya olanak tanıyan platformdur."
+  },
+  {
+    "kavram": "Cloud Compliance (Bulut Uyumluluğu)",
+    "aciklama": "Bulut tabanlı hizmetlerin, yasal düzenlemeler ve güvenlik standartlarına uygunluğu sağlamaktır."
+  },
+  {
+    "kavram": "Containerization (Kapsayıcılaştırma)",
+    "aciklama": "Uygulamaların bağımsız bir ortamda çalışmasını sağlayan ve sanallaştırmadan farklı olarak daha verimli çalışan bir teknolojidir."
+  },
+  {
+    "kavram": "Cold Boot Attack (Soğuk Başlatma Saldırısı)",
+    "aciklama": "Bir bilgisayarın RAM'ini ele geçirerek şifreleme anahtarlarını çalmayı amaçlayan bir saldırıdır."
+  },
+  {
+    "kavram": "Content Management System (CMS) (İçerik Yönetim Sistemi)",
+    "aciklama": "Web sitelerinin içeriklerini oluşturmak, düzenlemek ve yönetmek için kullanılan yazılımdır."
+  },
+  {
+    "kavram": "Cryptographic Key Management (Kriptografik Anahtar Yönetimi)",
+    "aciklama": "Şifreleme anahtarlarının güvenli bir şekilde depolanması, dağıtılması ve yönetilmesidir."
+  },
+  {
+    "kavram": "Critical Infrastructure (Kritik Altyapı)",
+    "aciklama": "Bir ülkenin veya bölgenin işleyişi için önemli olan ve saldırılara karşı korunması gereken altyapı sistemleridir."
+  },
+  {
+    "kavram": "Counterfeit Software (Sahte Yazılım)",
+    "aciklama": "Yasal olmayan yollarla üretilen ve orijinal gibi gösterilen yazılımdır."
+  },
+  {
+    "kavram": "Cloud Backup (Bulut Yedekleme)",
+    "aciklama": "Verilerin, internet üzerinden uzak bir sunucuya yedeklenmesidir."
+  },
+  {
+    "kavram": "Credential Management (Kimlik Bilgisi Yönetimi)",
+    "aciklama": "Kullanıcı adı, şifre gibi kimlik bilgilerini güvenli bir şekilde saklama ve yönetme işlemidir."
+  },
+  {
+    "kavram": "Crawling (Tarama)",
+    "aciklama": "Web sayfalarını otomatik olarak tarayarak içerik toplama işlemidir, genellikle arama motorları tarafından kullanılır."
+  },
+  {
+    "kavram": "Cyber Hygiene (Siber Hijyen)",
+    "aciklama": "Kişilerin ve organizasyonların, bilgisayar güvenliğini sağlamak amacıyla uyguladığı temel güvenlik önlemleri ve iyi alışkanlıklardır."
+  },
+  {
+    "kavram": "Click Fraud (Tıklama Dolandırıcılığı)",
+    "aciklama": "Reklam gelirlerini haksız şekilde artırmak amacıyla sahte tıklamalar yapmaktır."
+  },
+  {
+    "kavram": "Cyber Espionage (Siber Casusluk)",
+    "aciklama": "Devletler, kuruluşlar veya bireyler tarafından, bilgi toplamak amacıyla internet üzerinden yapılan yasadışı casusluk faaliyetleridir."
+  },
+  {
+    "kavram": "Connection Tracking (Bağlantı İzleme)",
+    "aciklama": "Ağ bağlantılarının izlenmesi, ağ güvenliğini sağlamaya yönelik bağlantı durumu ve trafiğin analiz edilmesidir."
+  },
+  {
+    "kavram": "Cryptographic Algorithm (Kriptografik Algoritma)",
+    "aciklama": "Veriyi şifrelemek veya şifreyi çözmek için kullanılan matematiksel bir prosedürdür."
+  },
+  {
+    "kavram": "Computer Security Incident Response Team (CSIRT) (Bilgisayar Güvenliği Olay Müdahale Ekibi)",
+    "aciklama": "Güvenlik olaylarına karşı hızla müdahale etmek için oluşturulan profesyonel bir ekip."
+  },
+  {
+    "kavram": "Cloud Storage (Bulut Depolama)",
+    "aciklama": "Verilerin internet üzerinden, uzak sunucularda depolanmasıdır."
+  },
+  {
+    "kavram": "Click Fraud Detection (Tıklama Dolandırıcılığı Tespiti)",
+    "aciklama": "İnternet reklamlarının tıklanma sayılarını yapay şekilde artıran dolandırıcılık faaliyetlerini tespit etme yöntemidir."
+  },
+  {
+    "kavram": "Code Signing (Kod İmzalama)",
+    "aciklama": "Yazılımın doğruluğunu ve güvenliğini sağlamak amacıyla dijital imza ile yazılım kodunun onaylanmasıdır."
+  },
+  {
+    "kavram": "Cluster Attack (Küme Saldırısı)",
+    "aciklama": "Birden fazla kaynağın bir hedefe aynı anda saldırarak daha büyük bir etki yaratmak için organize olmasıdır."
+  },
+  {
+    "kavram": "Client-Side Attack (İstemci Tarafı Saldırısı)",
+    "aciklama": "Kötü amaçlı yazılımların, hedefin cihazında, yani istemci tarafında çalışarak güvenlik açıklarını istismar etmesidir."
+  },
+  {
+    "kavram": "Container Security Platform (Kapsayıcı Güvenliği Platformu)",
+    "aciklama": "Kapsayıcı tabanlı uygulamaların güvenliğini sağlamak için kullanılan güvenlik araçları ve platformlarıdır."
+  },
+  {
+    "kavram": "Cloud Firewall (Bulut Güvenlik Duvarı)",
+    "aciklama": "Bulut ortamlarında, gelen ve giden ağ trafiğini denetleyip güvenlik sağlayan bir güvenlik duvarıdır."
+  },
+  {
+    "kavram": "Container Security Orchestration (Kapsayıcı Güvenliği Orkestrasyonu)",
+    "aciklama": "Kapsayıcıların güvenliğini sağlamak için farklı güvenlik araçlarının ve politikalarının entegre şekilde yönetilmesidir."
+  },
+  {
+    "kavram": "Change Management (Değişim Yönetimi)",
+    "aciklama": "Sistemlerde yapılacak değişikliklerin planlanması, izlenmesi ve denetlenmesidir."
+  },
+  {
+    "kavram": "Cloud Encryption Key (Bulut Şifreleme Anahtarı)",
+    "aciklama": "Bulut ortamında şifreleme işlemleri için kullanılan anahtardır."
+  },
+  {
+    "kavram": "Cloud Security Monitoring (Bulut Güvenlik İzleme)",
+    "aciklama": "Bulut ortamlarında güvenlik tehditlerini izlemek ve analiz etmek için kullanılan izleme sistemleridir."
+  },
+  {
+    "kavram": "Connection Pooling (Bağlantı Havuzu)",
+    "aciklama": "Veritabanı bağlantıları gibi kaynakların verimli bir şekilde yönetilmesi için bağlantıların gruplanıp yeniden kullanılmasını sağlayan tekniktir."
+  },
+  {
+    "kavram": "Continuous Integration (Sürekli Entegrasyon)",
+    "aciklama": "Yazılım geliştirme sürecinde, her değişikliğin anında test edilmesi ve entegre edilmesidir."
+  },
+  {
+    "kavram": "Cross-Site Scripting Prevention (Siteler Arası Komut Enjeksiyonunu Önleme)",
+    "aciklama": "Web uygulamalarında kullanıcıdan gelen zararlı komutların engellenmesi için uygulanan güvenlik önlemleridir."
+  },
+  {
+    "kavram": "Ciphers and Hash Functions (Şifrelemeler ve Özet Fonksiyonları)",
+    "aciklama": "Veriyi güvenli hale getirmek amacıyla kullanılan algoritmalar ve verinin sabit boyutlu özetini çıkartan fonksiyonlardır."
+  },
+  {
+    "kavram": "Compliance Auditing (Uyum Denetimi)",
+    "aciklama": "Bir kuruluşun, yasal düzenlemelere ve güvenlik standartlarına uyumunu denetleme işlemidir."
+  },
+  {
+    "kavram": "Client-Side Malware (İstemci Tarafı Kötü Amaçlı Yazılım)",
+    "aciklama": "İstemci cihazlarına bulaşan kötü amaçlı yazılımlar, genellikle tarayıcı tabanlıdır."
+  },
+  {
+    "kavram": "Communication Encryption (İletişim Şifrelemesi)",
+    "aciklama": "Verilerin, gönderim sırasında gizliliğini sağlamak amacıyla şifrelenmesidir."
+  },
+  {
+    "kavram": "Centralized Logging (Merkezi Günlükleme)",
+    "aciklama": "Farklı sistemlerden gelen günlüklerin tek bir merkezi noktada toplanmasıdır."
+  },
+  {
+    "kavram": "Cryptographic Signature (Kriptografik İmza)",
+    "aciklama": "Verilerin değiştirilmediğini ve kaynağının doğruluğunu kanıtlamak amacıyla kullanılan dijital imza yöntemidir."
+  },
+  {
+    "kavram": "Cognitive Security (Bilişsel Güvenlik)",
+    "aciklama": "İnsan zekasını taklit ederek tehditleri tespit ve analiz etme yöntemlerini içeren güvenlik teknolojisidir."
+  },
+  {
+    "kavram": "Cloud-native Security (Bulut Yerel Güvenlik)",
+    "aciklama": "Bulut ortamında uygulamaların güvenliği için tasarlanmış güvenlik çözümleri ve teknolojileridir."
+  },
+  {
+    "kavram": "CSPM (Cloud Security Posture Management) (Bulut Güvenlik Durum Yönetimi)",
+    "aciklama": "Bulut ortamlarının güvenliğini izleyen, yöneten ve iyileştiren bir güvenlik yönetimi yaklaşımıdır."
+  },
+  {
+    "kavram": "Cloud Traffic Analysis (Bulut Trafiği Analizi)",
+    "aciklama": "Bulut altyapısındaki ağ trafiğini izleyerek potansiyel tehditleri tespit etme işlemidir."
+  },
+  {
+    "kavram": "Cloud-hosted Security (Bulutta Barındırılan Güvenlik)",
+    "aciklama": "Güvenlik hizmetlerinin bulut ortamlarında sunulmasıdır."
+  },
+  {
+    "kavram": "Centrally Managed Security (Merkezi Yönetilen Güvenlik)",
+    "aciklama": "Bir organizasyonun tüm güvenlik altyapısının merkezi bir noktadan yönetilmesidir."
+  },
+  {
+    "kavram": "Coded Message (Kodlanmış Mesaj)",
+    "aciklama": "Anlamlı bilgilerin şifrelenerek gönderilmesidir."
+  },
+  {
+    "kavram": "Cluster Security (Küme Güvenliği)",
+    "aciklama": "Birden fazla sunucunun oluşturduğu kümelerde güvenliğin sağlanmasıdır."
+  },
+  {
+    "kavram": "Cloud Application Security (Bulut Uygulama Güvenliği)",
+    "aciklama": "Bulut üzerinde çalışan uygulamaların güvenliğinin sağlanmasıdır."
+  },
+  {
+    "kavram": "Critical Security Vulnerabilities (Kritik Güvenlik Zafiyetleri)",
+    "aciklama": "Sistemlerin güvenliğini ciddi şekilde tehdit eden, acilen düzeltilmesi gereken zafiyetlerdir."
+  },
+  {
+    "kavram": "Comprehensive Security (Kapsamlı Güvenlik)",
+    "aciklama": "Bir organizasyonun tüm güvenlik risklerini kapsayan ve tüm alanlarda güvenlik önlemleri almayı amaçlayan yaklaşımdır."
+  },
+  {
+    "kavram": "Cloud Governance (Bulut Yönetişimi)",
+    "aciklama": "Bulut ortamlarının yönetilmesi, denetlenmesi ve güvenliğinin sağlanması için belirlenen kurallar ve süreçlerdir."
+  },
+  {
+    "kavram": "Combinatorial Encryption Algorithm (Kombinasyonel Şifreleme Algoritması)",
+    "aciklama": "Birden fazla şifreleme metodunun birleşik bir şekilde kullanılmasıyla güçlü güvenlik sağlayan algoritmadır."
+  },
+  {
+    "kavram": "Client-Side Data Breach (İstemci Tarafı Veri İhlali)",
+    "aciklama": "İstemci cihazlarında gerçekleşen veri ihlali ve gizliliğin tehlikeye girmesidir."
+  },
+  {
+    "kavram": "Cloud Resource Management (Bulut Kaynak Yönetimi)",
+    "aciklama": "Bulut ortamındaki kaynakların, verimli bir şekilde yönetilmesi işlemidir."
+  },
+  {
+    "kavram": "Certificate Revocation (Sertifika İptali)",
+    "aciklama": "Güvenlik sertifikalarının geçerliliğinin sona erdirilmesi işlemidir."
+  },
+  {
+    "kavram": "Cryptographic Key Infrastructure (Kriptografik Anahtar Altyapısı)",
+    "aciklama": "Şifreleme anahtarlarının yönetildiği ve güvenli bir şekilde depolandığı altyapıdır."
+  },
+  {
+    "kavram": "Compliant Web Security (Uyumlu Web Güvenliği)",
+    "aciklama": "Web güvenliği standartlarına ve yasal düzenlemelere uyumlu güvenlik önlemleri almaktır."
+  },
+  {
+    "kavram": "Cryptographic Reversible Hash (Kriptografik Geri Dönüşlü Özet)",
+    "aciklama": "Bir hash fonksiyonunun tersine çevrilebilen versiyonudur."
+  },
+  {
+    "kavram": "Cascading Data Leak (Basamaklı Veri Sızıntısı)",
+    "aciklama": "Verilerin sistemler arası, birden çok aşamada sızmasıdır."
+  },
+  {
+    "kavram": "Connectionless Protocol Design (Bağlantısız Protokol Tasarımı)",
+    "aciklama": "Verilerin bağlantı gerektirmeden iletilmesini sağlayan iletişim protokollerinin tasarımını ifade eder."
+  },
+  {
+    "kavram": "Collaborative Security (İşbirlikçi Güvenlik)",
+    "aciklama": "Birçok organizasyonun ve bireyin birlikte çalışarak güvenlik tehditlerine karşı ortak çözüm geliştirmesidir."
+  },
+  {
+    "kavram": "Censorship Resistance (Sansür Direnci)",
+    "aciklama": "Bilgiye erişimi engellemeye çalışan sansüre karşı koyan sistemlerdir."
+  },
+  {
+    "kavram": "Cloud Intelligence (Bulut Zekası)",
+    "aciklama": "Bulut tabanlı hizmetlerin ve verilerin analiz edilerek daha akıllıca kararlar almayı sağlayan yapay zeka sistemleridir."
+  },
+  {
+    "kavram": "Continuous Monitoring (Sürekli İzleme)",
+    "aciklama": "Sistemlerin, ağların ve uygulamaların güvenliğini sürekli olarak izleyen süreçtir."
+  },
+  {
+    "kavram": "Cyclic Redundancy Check (CRC) (Dönüşümlü Fazlalık Kontrolü)",
+    "aciklama": "Veri iletim hatalarını tespit etmek için kullanılan bir hata denetim algoritmasıdır."
+  }
+
+
+
+
+]
+}

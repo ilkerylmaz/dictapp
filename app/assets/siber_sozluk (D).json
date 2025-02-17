@@ -1,0 +1,717 @@
+{
+    "siberGuvenlikKavramlari": [
+  {
+    "kavram": "Data Breach (Veri İhlali)",
+    "aciklama": "Kişisel veya hassas verilerin yetkisiz kişiler tarafından ele geçirilmesi."
+  },
+  {
+    "kavram": "Data Loss Prevention (DLP) (Veri Kaybı Önleme)",
+    "aciklama": "Verilerin kaybını engellemek için uygulanan güvenlik yöntemleri."
+  },
+  {
+    "kavram": "Data Encryption (Veri Şifreleme)",
+    "aciklama": "Verilerin yalnızca yetkili kişiler tarafından erişilebilir olmasını sağlamak için şifrelenmesi."
+  },
+  {
+    "kavram": "Data Integrity (Veri Bütünlüğü)",
+    "aciklama": "Verilerin doğru, eksiksiz ve değişmeden kalmasını sağlama durumu."
+  },
+  {
+    "kavram": "Data Masking (Veri Maskeleme)",
+    "aciklama": "Hassas verilerin gizlenerek ya da değiştirilerek gösterilmesi."
+  },
+  {
+    "kavram": "Data Mining (Veri Madenciliği)",
+    "aciklama": "Büyük veri kümelerinden anlamlı desenler ve bilgiler çıkarmak."
+  },
+  {
+    "kavram": "Data Retention (Veri Saklama)",
+    "aciklama": "Verilerin belirli bir süre boyunca saklanması."
+  },
+  {
+    "kavram": "Data Sanitization (Veri Temizleme)",
+    "aciklama": "Verilerin güvenli bir şekilde silinmesi veya yok edilmesi."
+  },
+  {
+    "kavram": "Data Security (Veri Güvenliği)",
+    "aciklama": "Verilerin yetkisiz erişime, değiştirilmesine veya kaybolmasına karşı korunması."
+  },
+  {
+    "kavram": "Data Steganography (Veri Steganografisi)",
+    "aciklama": "Verinin başka bir veri içinde gizlenmesi."
+  },
+  {
+    "kavram": "Data Throttling (Veri Kısıtlaması)",
+    "aciklama": "Veri transfer hızının kasıtlı olarak sınırlanması."
+  },
+  {
+    "kavram": "Database Security (Veritabanı Güvenliği)",
+    "aciklama": "Veritabanı içindeki verilerin korunması için alınan önlemler."
+  },
+  {
+    "kavram": "Database Management System (DBMS) (Veritabanı Yönetim Sistemi)",
+    "aciklama": "Veritabanlarını yönetmek, depolamak ve erişmek için kullanılan yazılım."
+  },
+  {
+    "kavram": "DDoS Attack (Distributed Denial of Service) (Dağıtılmış Hizmet Reddi Saldırısı)",
+    "aciklama": "Bir ağı veya sunucuyu aşırı trafikle doldurarak erişilemez hale getirme saldırısı."
+  },
+  {
+    "kavram": "Decryption (Şifre Çözme)",
+    "aciklama": "Şifreli veriyi orijinal haline getirmek için yapılan işlem."
+  },
+  {
+    "kavram": "Defense-in-Depth (Derinlikte Savunma)",
+    "aciklama": "Birçok güvenlik katmanının kullanıldığı savunma stratejisi."
+  },
+  {
+    "kavram": "Defacement (Sahtecilik)",
+    "aciklama": "Bir web sitesinin tasarımının izinsiz olarak değiştirilmesi."
+  },
+  {
+    "kavram": "Defender (Savunucu)",
+    "aciklama": "Bir güvenlik sistemini koruyan yazılım ya da donanım."
+  },
+  {
+    "kavram": "Delegated Access (Devredilen Erişim)",
+    "aciklama": "Bir kullanıcının başka birine, belirli kaynaklara erişim hakkı vermesi."
+  },
+  {
+    "kavram": "Demilitarized Zone (DMZ) (Askersiz Bölge)",
+    "aciklama": "Bir ağda dış dünyadan gelen trafiğin izole edildiği güvenlik alanı."
+  },
+  {
+    "kavram": "Denial of Service (DoS) (Hizmet Reddi Saldırısı)",
+    "aciklama": "Bir sistemi aşırı yükleyerek ya da hatalarla çalışamaz hale getirme saldırısı."
+  },
+  {
+    "kavram": "Detect and Respond (Tespit Et ve Yanıtla)",
+    "aciklama": "Güvenlik tehditlerini tespit etmek ve bunlara karşı hızlıca yanıt vermek."
+  },
+  {
+    "kavram": "Detection System (Tespit Sistemi)",
+    "aciklama": "Tehditleri ya da saldırıları tespit etmeye yönelik kullanılan sistem."
+  },
+  {
+    "kavram": "Detection Techniques (Tespit Teknikleri)",
+    "aciklama": "Güvenlik tehditlerini tespit etmek için kullanılan çeşitli yöntemler."
+  },
+  {
+    "kavram": "Digital Forensics (Dijital Adli Bilişim)",
+    "aciklama": "Dijital cihazlardan elde edilen verilerin adli inceleme amaçlı analiz edilmesi."
+  },
+  {
+    "kavram": "Digital Signature (Dijital İmza)",
+    "aciklama": "Bir verinin kaynağını ve doğruluğunu doğrulamak için kullanılan dijital bir imza."
+  },
+  {
+    "kavram": "Digital Rights Management (DRM) (Dijital Hak Yönetimi)",
+    "aciklama": "Dijital içeriklerin izinsiz kullanımını önlemek için kullanılan teknolojiler."
+  },
+  {
+    "kavram": "DLP (Data Loss Prevention) (Veri Kaybı Önleme)",
+    "aciklama": "Veri kaybını önlemek için uygulanan politikalar ve yazılımlar."
+  },
+  {
+    "kavram": "DNS Spoofing (DNS Sahteciliği)",
+    "aciklama": "DNS yanıtlarının değiştirilerek kullanıcıları yanlış yönlendirme saldırısı."
+  },
+  {
+    "kavram": "DNSSEC (Domain Name System Security Extensions) (Alan Adı Sistemi Güvenliği Uzantıları)",
+    "aciklama": "DNS sorgularının güvenliğini sağlamak için kullanılan bir güvenlik protokolü."
+  },
+  {
+    "kavram": "Domain Hijacking (Alan Adı Kaçırma)",
+    "aciklama": "Bir alan adının sahipliği izinsiz olarak ele geçirilmesi."
+  },
+  {
+    "kavram": "Domain Name System (DNS) (Alan Adı Sistemi)",
+    "aciklama": "İnternetteki alan adlarının, IP adreslerine dönüştürülmesini sağlayan sistem."
+  },
+  {
+    "kavram": "Domain Name Service (Alan Adı Hizmeti)",
+    "aciklama": "Alan adı ile IP adresi eşleştirmesi sağlayan hizmet."
+  },
+  {
+    "kavram": "Doorway Page (Kapı Sayfası)",
+    "aciklama": "Arama motoru optimizasyonu amacıyla oluşturulmuş ve kullanıcıyı başka sayfalara yönlendiren web sayfası."
+  },
+  {
+    "kavram": "DOS (Denial of Service) (Hizmet Reddi)",
+    "aciklama": "Bir kaynağa yapılan saldırı sonucu hizmetin engellenmesi."
+  },
+  {
+    "kavram": "Downlink Encryption (İndirgenen Şifreleme)",
+    "aciklama": "Verilerin alıcıya iletilmeden önce şifrelenmesi."
+  },
+  {
+    "kavram": "Downloadable Malware (İndirilebilen Kötü Amaçlı Yazılım)",
+    "aciklama": "İnternet üzerinden indirilebilen ve zararlı etkiler yaratabilen yazılım."
+  },
+  {
+    "kavram": "Drive-By Download (Drive-By İndirme)",
+    "aciklama": "Kullanıcının bilgisayarına kötü amaçlı yazılımın otomatik olarak indirildiği saldırı."
+  },
+  {
+    "kavram": "Dropper (Yükleyici)",
+    "aciklama": "Kötü amaçlı yazılımın bir sistemde yayılmasını sağlayan yazılım."
+  },
+  {
+    "kavram": "Dual Control (Çift Kontrol)",
+    "aciklama": "Bir işlemin güvenliğini sağlamak için iki farklı yetkili kişinin kontrol etmesi gerekliliği."
+  },
+  {
+    "kavram": "Dumb Terminal (Aptal Terminal)",
+    "aciklama": "İşlemciye sahip olmayan ve merkezi bir sunucuya bağlanan bilgisayar."
+  },
+  {
+    "kavram": "Dumb User (Aptal Kullanıcı)",
+    "aciklama": "Bilgisayar veya internet güvenliği hakkında bilgisiz olan kullanıcı."
+  },
+  {
+    "kavram": "Dynamic Analysis (Dinamik Analiz)",
+    "aciklama": "Yazılımın çalışma zamanında analiz edilmesi."
+  },
+  {
+    "kavram": "Dynamic Link Library (DLL) (Dinamik Bağlantı Kütüphanesi)",
+    "aciklama": "Windows işletim sistemlerinde kullanılan ve farklı programlar tarafından paylaşılan yazılım kütüphanesi."
+  },
+  {
+    "kavram": "Dynamic Protection (Dinamik Koruma)",
+    "aciklama": "Sistemlerin güvenliğini sağlamak için gerçek zamanlı koruma yöntemlerinin kullanılması."
+  },
+  {
+    "kavram": "Dynamic Software Analysis (Dinamik Yazılım Analizi)",
+    "aciklama": "Yazılımın çalışma sırasında analiz edilmesi, davranışlarının incelenmesi."
+  },
+  {
+    "kavram": "Dynamic Signature (Dinamik İmza)",
+    "aciklama": "Yazılım veya verinin zaman içinde değişen özelleşmiş imzası."
+  },
+  {
+    "kavram": "Dynamically Generated Content (Dinamik Olarak Üretilen İçerik)",
+    "aciklama": "Kullanıcı etkileşimleri veya sistem olaylarına göre anlık olarak üretilen içerik."
+  },
+  {
+    "kavram": "Dwell Time (Bekleme Süresi)",
+    "aciklama": "Bir tehdit ya da zararlı yazılımın bir sistemde ne kadar süreyle tespit edilmeden kalması."
+  },
+  {
+    "kavram": "Distributed Database (Dağıtık Veritabanı)",
+    "aciklama": "Veritabanı verilerinin farklı lokasyonlarda dağılmış şekilde depolanması."
+  },
+  {
+    "kavram": "Distributed File System (DFS) (Dağıtık Dosya Sistemi)",
+    "aciklama": "Dosyaların ağ üzerindeki farklı makinelerde depolanmasını sağlayan sistem."
+  },
+  {
+    "kavram": "Distributed Honeypot (Dağıtık Tuzak)",
+    "aciklama": "Dağıtık ağlarda kötü amaçlı aktiviteleri tespit etmek için kullanılan tuzaklar."
+  },
+  {
+    "kavram": "Distributed Ledger Technology (DLT) (Dağıtık Defter Teknolojisi)",
+    "aciklama": "Veri ve işlemlerin dağıtık bir ağda şeffaf ve güvenli şekilde saklanmasını sağlayan teknoloji."
+  },
+  {
+    "kavram": "Distributed Network (Dağıtık Ağ)",
+    "aciklama": "Çeşitli lokasyonlarda bulunan cihazların birbirine bağlandığı ağ yapısı."
+  },
+  {
+    "kavram": "Distributed Reflective Denial of Service (DRDoS) (Dağıtık Yansıtmalı Hizmet Reddi Saldırısı)",
+    "aciklama": "Bir saldırganın, hedefi aşırı trafiğe boğarak etkisiz hale getirmek amacıyla başka sistemleri kullanması."
+  },
+  {
+    "kavram": "Distributed Denial of Service Attack (DDoS) (Dağıtık Hizmet Reddi Saldırısı)",
+    "aciklama": "Bir hedefi çok sayıda cihazla yapılan trafik saldırılarıyla erişilemez hale getirme."
+  },
+  {
+    "kavram": "Data Aggregation (Veri Toplama)",
+    "aciklama": "Farklı kaynaklardan toplanan verilerin bir araya getirilmesi."
+  },
+  {
+    "kavram": "Data Anonymization (Veri Anonimleştirme)",
+    "aciklama": "Verilerin kişisel bilgilerden arındırılarak anonim hale getirilmesi."
+  },
+  {
+    "kavram": "Data Breach Response (Veri İhlali Yanıtı)",
+    "aciklama": "Bir veri ihlali durumunda alınan önlemler ve yapılan müdahaleler."
+  },
+  {
+    "kavram": "Data Encryption Standard (DES) (Veri Şifreleme Standardı)",
+    "aciklama": "Eski bir veri şifreleme algoritması, artık modern güvenlik standartlarına göre daha az güvenli."
+  },
+  {
+    "kavram": "Data Poisoning (Veri Zehirlenmesi)",
+    "aciklama": "Veritabanına veya makine öğrenimi modellerine yanlış veya yanıltıcı veri eklenmesi."
+  },
+  {
+    "kavram": "Data Privacy (Veri Gizliliği)",
+    "aciklama": "Kişisel verilerin yetkisiz erişimden korunması ve gizliliğin sağlanması."
+  },
+  {
+    "kavram": "Data Recovery (Veri Kurtarma)",
+    "aciklama": "Kayıp veya bozulmuş verilerin geri getirilmesi."
+  },
+  {
+    "kavram": "Data Redundancy (Veri Yedekliliği)",
+    "aciklama": "Verilerin birden fazla kopyasının saklanarak kayıplara karşı korunması."
+  },
+  {
+    "kavram": "Data Remanence (Veri Kalanı)",
+    "aciklama": "Bir veri silindikten sonra bile bazı cihazlarda izlerinin kalması."
+  },
+  {
+    "kavram": "Data Scrubbing (Veri Temizleme)",
+    "aciklama": "Verilerin yanlış veya eksik bilgilerden arındırılması."
+  },
+  {
+    "kavram": "Data Synchronization (Veri Senkronizasyonu)",
+    "aciklama": "Farklı sistemler arasında verilerin tutarlı ve eş zamanlı hale getirilmesi."
+  },
+  {
+    "kavram": "Data Theft (Veri Hırsızlığı)",
+    "aciklama": "Kişisel veya hassas verilerin izinsiz olarak çalınması."
+  },
+  {
+    "kavram": "Data Transmission (Veri İletimi)",
+    "aciklama": "Verilerin bir noktadan diğerine aktarılması."
+  },
+  {
+    "kavram": "Data Validation (Veri Doğrulama)",
+    "aciklama": "Verilerin doğru, geçerli ve güvenli olup olmadığının kontrol edilmesi."
+  },
+  {
+    "kavram": "Database Attack (Veritabanı Saldırısı)",
+    "aciklama": "Veritabanlarına yapılan kötü amaçlı saldırılar, örneğin SQL enjeksiyonları."
+  },
+  {
+    "kavram": "Database Breach (Veritabanı İhlali)",
+    "aciklama": "Veritabanındaki hassas verilere izinsiz erişim sağlanması."
+  },
+  {
+    "kavram": "Database Injection (Veritabanı Enjeksiyonu)",
+    "aciklama": "Veritabanına zararlı komutların sokulması yolu ile yapılan saldırı."
+  },
+  {
+    "kavram": "Database Integrity (Veritabanı Bütünlüğü)",
+    "aciklama": "Veritabanındaki verilerin tutarlılığı ve doğruluğunun korunması."
+  },
+  {
+    "kavram": "Database Management (Veritabanı Yönetimi)",
+    "aciklama": "Veritabanlarının düzenli olarak yönetilmesi, bakımı ve korunması."
+  },
+  {
+    "kavram": "Database Replication (Veritabanı Çoğaltma)",
+    "aciklama": "Veritabanı verilerinin birden fazla kopyasının tutulması ve güncellenmesi."
+  },
+  {
+    "kavram": "Data Warehouse (Veri Ambarı)",
+    "aciklama": "Farklı kaynaklardan gelen verilerin merkezi bir yerde depolandığı büyük veri saklama alanı."
+  },
+  {
+    "kavram": "DDoS Mitigation (DDoS Azaltma)",
+    "aciklama": "Dağıtık Hizmet Reddi Saldırılarının etkilerinin azaltılmasını amaçlayan yöntemler."
+  },
+  {
+    "kavram": "Deep Packet Inspection (DPI) (Derin Paket Denetimi)",
+    "aciklama": "Ağ trafiğini ayrıntılı olarak inceleyerek veri paketlerinin içeriğinin analiz edilmesi."
+  },
+  {
+    "kavram": "Deep Learning (Derin Öğrenme)",
+    "aciklama": "Yapay zekâ alanında, verilerden derin ve karmaşık özellikler öğrenmeyi sağlayan makine öğrenimi tekniği."
+  },
+  {
+    "kavram": "Defrag (Birleştirme)",
+    "aciklama": "Sabit diskteki dosyaların parçalarının birleştirilmesi, daha hızlı erişim sağlanması amacıyla yapılan işlem."
+  },
+  {
+    "kavram": "Denial-of-Service (DoS) Attack (Hizmet Reddi Saldırısı)",
+    "aciklama": "Bir hedefin sistem kaynaklarını tüketerek erişilemez hale getirilmesi."
+  },
+  {
+    "kavram": "Deployable Software (Dağıtılabilir Yazılım)",
+    "aciklama": "Herhangi bir sisteme kolayca kurulup çalıştırılabilen yazılım."
+  },
+  {
+    "kavram": "Destructive Malware (Yıkıcı Kötü Amaçlı Yazılım)",
+    "aciklama": "Bilgisayar sistemlerine zarar vererek veri kaybı veya bozulması yaratan zararlı yazılım."
+  },
+  {
+    "kavram": "Destructive Attack (Yıkıcı Saldırı)",
+    "aciklama": "Sistemleri, verileri veya altyapıyı yok etmeyi amaçlayan saldırı."
+  },
+  {
+    "kavram": "Detection Algorithms (Tespit Algoritmaları)",
+    "aciklama": "Güvenlik tehditlerini algılamak için kullanılan matematiksel ve bilgisayarlaştırılmış algoritmalar."
+  },
+  {
+    "kavram": "Detection System (Tespit Sistemi)",
+    "aciklama": "Saldırıları, kötü amaçlı yazılımları veya anormal aktiviteleri tespit etmeyi amaçlayan sistem."
+  },
+  {
+    "kavram": "Decryption (Şifre Çözme)",
+    "aciklama": "Şifrelenmiş verinin, orijinal haliyle geri getirilmesi işlemi."
+  },
+  {
+    "kavram": "Decryption Key (Şifre Çözme Anahtarı)",
+    "aciklama": "Şifrelenmiş veriyi açmak için kullanılan anahtar."
+  },
+  {
+    "kavram": "Defensive Programming (Savunmacı Programlama)",
+    "aciklama": "Yazılımın olası hataları, istisnaları ve kötü niyetli girişimlere karşı güvenli hale getirilmesi."
+  },
+  {
+    "kavram": "Digital Wallet (Dijital Cüzdan)",
+    "aciklama": "Kullanıcıların ödeme bilgilerini dijital ortamda saklamalarına ve alışveriş yapmalarına olanak tanıyan uygulama veya sistem."
+  },
+  {
+    "kavram": "Digital Footprint (Dijital Ayak İzi)",
+    "aciklama": "İnternetteki aktiviteler ve etkileşimler sonucu oluşan dijital izler."
+  },
+  {
+    "kavram": "Digital Rights (Dijital Haklar)",
+    "aciklama": "Dijital içeriklerin kullanımına, dağıtımına ve erişimine ilişkin yasal haklar."
+  },
+  {
+    "kavram": "Digital Payment (Dijital Ödeme)",
+    "aciklama": "Elektronik ortamda yapılan ödeme işlemleri."
+  },
+  {
+    "kavram": "Disk Encryption (Disk Şifrelemesi)",
+    "aciklama": "Bilgisayarın sabit diskindeki verilerin şifrelenerek güvenli hale getirilmesi."
+  },
+  {
+    "kavram": "Disk Imaging (Disk Görüntülemesi)",
+    "aciklama": "Bir diskin tam kopyasının alınarak yedeklenmesi."
+  },
+  {
+    "kavram": "Disk Scrubbing (Disk Temizleme)",
+    "aciklama": "Diskteki eski verilerin silinerek geri getirilemez hale getirilmesi."
+  },
+  {
+    "kavram": "Disk-based Firewall (Disk Tabanlı Güvenlik Duvarı)",
+    "aciklama": "Bilgisayarın diskine dayalı olarak çalışan güvenlik duvarı."
+  },
+  {
+    "kavram": "Disaster Recovery (Felaket Kurtarma)",
+    "aciklama": "Bir felaket durumunda, sistemlerin, verilerin ve altyapının yeniden çalışır hale getirilmesi."
+  },
+  {
+    "kavram": "Disaster Recovery Plan (DRP) (Felaket Kurtarma Planı)",
+    "aciklama": "Felaket sonrası hizmetin hızlı bir şekilde yeniden başlatılmasını sağlayacak plan."
+  },
+  {
+    "kavram": "Distributed Attack (Dağıtık Saldırı)",
+    "aciklama": "Birden fazla kaynaktan aynı hedefe yönelik yapılan saldırılar."
+  },
+  {
+    "kavram": "Distributed Computing (Dağıtık Hesaplama)",
+    "aciklama": "Hesaplama gücünün birden fazla makinaya dağıtıldığı sistemler."
+  },
+  {
+    "kavram": "Distributed Denial of Service Protection (Dağıtık Hizmet Reddi Saldırısı Koruması)",
+    "aciklama": "DDoS saldırılarına karşı koruma önlemleri."
+  },
+  {
+    "kavram": "Distributed Systems (Dağıtık Sistemler)",
+    "aciklama": "Farklı lokasyonlarda bulunan bilgisayarlar ve cihazlar arasında koordineli çalışan sistemler."
+  },
+  {
+    "kavram": "Domain Name Server (DNS) (Alan Adı Sunucusu)",
+    "aciklama": "Alan adı sistemine (DNS) ait sunucu, alan adlarını IP adreslerine çevirir."
+  },
+  {
+    "kavram": "Domain Spoofing (Alan Adı Sahteciliği)",
+    "aciklama": "Gerçek olmayan bir alan adı kullanarak kullanıcıları yanıltma."
+  },
+  {
+    "kavram": "Domain-based Message Authentication Reporting and Conformance (DMARC) (Alan Adı Tabanlı Mesaj Kimlik Doğrulama Raporlama ve Uyumluluk)",
+    "aciklama": "E-posta güvenliği için kullanılan, alan adı doğrulama ve raporlama sistemidir."
+  },
+  {
+    "kavram": "Downloadable Content (DLC) (İndirilebilir İçerik)",
+    "aciklama": "Oyunlar veya uygulamalar için internetten indirilebilen içerikler."
+  },
+  {
+    "kavram": "Drive-by Download (Drive-by İndirme)",
+    "aciklama": "Kullanıcı farkında olmadan zararlı yazılımın bir web sayfasından indirildiği saldırı türü."
+  },
+  {
+    "kavram": "Drive Encryption (Sürücü Şifrelemesi)",
+    "aciklama": "Bir sürücünün (hard disk, SSD vb.) şifrelenmesiyle veri güvenliği sağlanması."
+  },
+  {
+    "kavram": "Dual Factor Authentication (2FA) (Çift Faktörlü Kimlik Doğrulama)",
+    "aciklama": "Kullanıcı kimliğini doğrulamak için iki farklı yöntem kullanma (örneğin, şifre ve SMS doğrulaması)."
+  },
+  {
+    "kavram": "Dual Control Access (Çift Kontrol Erişimi)",
+    "aciklama": "Sisteme erişimin yalnızca iki veya daha fazla kişinin onayıyla yapılabileceği güvenlik yöntemi."
+  },
+  {
+    "kavram": "Dumping Data (Veri Boşaltma)",
+    "aciklama": "Verilerin sistemden başka bir sisteme veya dosyaya aktarılması veya depolanması."
+  },
+  {
+    "kavram": "Dynamic Link Library (DLL) Injection (Dinamik Bağlantı Kütüphanesi Enjeksiyonu)",
+    "aciklama": "Bir programın çalışması sırasında, zararlı DLL dosyasının enjekte edilmesi."
+  },
+  {
+    "kavram": "Dynamic Malware Analysis (Dinamik Kötü Amaçlı Yazılım Analizi)",
+    "aciklama": "Zararlı yazılımların çalışma zamanında incelenmesi."
+  },
+  {
+    "kavram": "Dynamic Network (Dinamik Ağ)",
+    "aciklama": "Ağ topolojisinin ve yapılandırmasının zaman içinde değişebildiği ağ yapısı."
+  },
+  {
+    "kavram": "Dynamic Data Masking (Dinamik Veri Maskeleme)",
+    "aciklama": "Verilerin sadece yetkili kullanıcılar tarafından görülebilmesi için gizlenmesi."
+  },
+  {
+    "kavram": "Dynamic Host Configuration Protocol (DHCP) (Dinamik Ana Makine Yapılandırma Protokolü)",
+    "aciklama": "IP adreslerinin otomatik olarak ağdaki cihazlara atanmasını sağlayan protokol."
+  },
+  {
+    "kavram": "Data Leakage Prevention (Veri Sızdırma Önleme)",
+    "aciklama": "Önemli verilerin izinsiz bir şekilde dışarıya çıkmasını engelleyen önlemler."
+  },
+  {
+    "kavram": "Data Governance (Veri Yönetişimi)",
+    "aciklama": "Verilerin yönetilmesi, güvenliği ve yasal uyumunun sağlanması süreçlerinin tamamı."
+  },
+  {
+    "kavram": "Denial of Service Mitigation (Hizmet Reddi Azaltma)",
+    "aciklama": "Hizmet reddi saldırılarının etkilerini azaltmaya yönelik önlemler."
+  },
+  {
+    "kavram": "Denial of Service Attack Prevention (Hizmet Reddi Saldırısı Önleme)",
+    "aciklama": "Hizmet reddi saldırılarının önlenmesi için kullanılan yöntemler."
+  },
+  {
+    "kavram": "Digital Signature Algorithm (Dijital İmza Algoritması)",
+    "aciklama": "Dijital imza oluşturma ve doğrulama için kullanılan matematiksel algoritma."
+  },
+  {
+    "kavram": "Digital Token (Dijital Jeton)",
+    "aciklama": "Bir kullanıcının kimliğini doğrulamak veya yetkilendirmek için kullanılan dijital temsil."
+  },
+  {
+    "kavram": "Domain Controller (Alan Denetleyicisi)",
+    "aciklama": "Ağdaki tüm kullanıcıları ve bilgisayarları yöneten ve kimlik doğrulama işlemleri gerçekleştiren sunucu."
+  },
+  {
+    "kavram": "Domain Privacy (Alan Adı Gizliliği)",
+    "aciklama": "Alan adı sahiplerinin kişisel bilgilerini gizleyen hizmet."
+  },
+  {
+    "kavram": "Digital Forensics Tool (Dijital Adli Bilişim Aracı)",
+    "aciklama": "Dijital delilleri toplamak ve incelemek için kullanılan yazılım araçları."
+  },
+  {
+    "kavram": "Doxing (Doxing)",
+    "aciklama": "Bir kişinin özel bilgilerini internette yayınlamak amacıyla ifşa etme."
+  },
+  {
+    "kavram": "Drift Detection (Sürüklenme Tespiti)",
+    "aciklama": "Verilerin veya sistemlerin başlangıç durumundan sapmalarını tespit etme."
+  },
+  {
+    "kavram": "Dumb Terminal (Aptal Terminal)",
+    "aciklama": "Bağımsız işlem gücü olmayan, sadece merkezi bilgisayarlarla iletişim kurabilen cihaz."
+  },
+  {
+    "kavram": "Dump Analysis (Döküm Analizi)",
+    "aciklama": "Sistem belleği veya disk alanındaki veri dökümlerinin incelenmesi ve analiz edilmesi, genellikle hata ayıklama veya kötü amaçlı yazılım tespiti için yapılır."
+  },
+  {
+    "kavram": "Decoy Server (Düzmece Sunucu)",
+    "aciklama": "Saldırganları yanıltmak amacıyla kurulan, gerçek veriler veya sistemler üzerinde zararlı etkiler yaratmayan, sahte sunucular."
+  },
+  {
+    "kavram": "Decryption Key (Şifre Çözme Anahtarı)",
+    "aciklama": "Şifrelenmiş verileri çözüp okunabilir hale getiren anahtar."
+  },
+  {
+    "kavram": "Data Corruption (Veri Bozulması)",
+    "aciklama": "Verilerin yanlış, eksik veya hatalı bir şekilde işlenmesi veya depolanması sonucu oluşan bozulmalar."
+  },
+  {
+    "kavram": "Data Breach Detection (Veri İhlali Tespiti)",
+    "aciklama": "Sistemlerdeki güvenlik açıklarını, veri ihlallerini veya yetkisiz erişimleri tespit etmek için kullanılan araçlar ve yöntemler."
+  },
+  {
+    "kavram": "Digital Currency (Dijital Para)",
+    "aciklama": "Elektronik ortamda işlem görebilen ve dijital platformlarda kullanılan para birimleri (örneğin, Bitcoin)."
+  },
+  {
+    "kavram": "Data Storage Security (Veri Depolama Güvenliği)",
+    "aciklama": "Verilerin saklandığı ortamlarda güvenliğin sağlanması ve yetkisiz erişimlere karşı korunması."
+  },
+  {
+    "kavram": "Disruption Attack (Kesinti Saldırısı)",
+    "aciklama": "Hizmetlerin veya sistemlerin aksamasına neden olan saldırılar."
+  },
+  {
+    "kavram": "Data Synchronization Risk (Veri Senkronizasyonu Riski)",
+    "aciklama": "Farklı sistemler arasında veri senkronizasyonunun bozulması ve verilerin uyumsuz hale gelmesi riski."
+  },
+  {
+    "kavram": "Data Masking Risk (Veri Maskeleme Riski)",
+    "aciklama": "Hassas verilerin gizlenmesi sırasında maskelenmiş verilerin yanlış kullanımı veya yanlışlıkla açığa çıkması riski."
+  },
+  {
+    "kavram": "Data Integrity Attack (Veri Bütünlüğü Saldırısı)",
+    "aciklama": "Verilerin bozulmasına veya değiştirilmesine yönelik saldırılar."
+  },
+  {
+    "kavram": "DDoS Amplification (DDoS Yükseltme)",
+    "aciklama": "Dağıtık Hizmet Reddi (DDoS) saldırılarının, çeşitli teknikler kullanılarak daha güçlü hale getirilmesi."
+  },
+  {
+    "kavram": "DLP Software (Veri Kaybı Önleme Yazılımı)",
+    "aciklama": "Kurumların hassas verilerin sızmasını engellemek için kullandığı yazılım."
+  },
+  {
+    "kavram": "Database Authentication (Veritabanı Kimlik Doğrulaması)",
+    "aciklama": "Veritabanına erişim sağlamak için kullanıcıların kimliklerini doğrulama süreci."
+  },
+  {
+    "kavram": "Dynamic Data Encryption (Dinamik Veri Şifreleme)",
+    "aciklama": "Veriler üzerinde yapılan işlemler sırasında otomatik olarak şifreleme yapma yöntemi."
+  },
+  {
+    "kavram": "Digital Identity Protection (Dijital Kimlik Koruma)",
+    "aciklama": "Kullanıcıların dijital kimliklerini izinsiz erişimlerden koruma önlemleri."
+  },
+  {
+    "kavram": "Digital Rights Protection (Dijital Haklar Koruma)",
+    "aciklama": "Dijital içeriklerin telif hakları ve kullanım haklarının korunmasını sağlamak için alınan önlemler."
+  },
+  {
+    "kavram": "Detection-Based Prevention (Tespit Temelli Önleme)",
+    "aciklama": "Güvenlik tehditlerinin tespit edilmesi ve ardından bu tehditlere karşı önlem alınması."
+  },
+  {
+    "kavram": "Digital Certificate Revocation (Dijital Sertifika İptali)",
+    "aciklama": "Dijital sertifikaların geçersiz hale getirilmesi ve sertifikanın güvenli olmayan durumda iptal edilmesi."
+  },
+  {
+    "kavram": "DLP Strategy (Veri Kaybı Önleme Stratejisi)",
+    "aciklama": "Veri kaybını önlemek için kurumlar tarafından oluşturulan ve uygulamaya konulan stratejiler."
+  },
+  {
+    "kavram": "DoS Prevention (Hizmet Reddi Önleme)",
+    "aciklama": "Hizmet Reddi (DoS) saldırılarının önlenmesi için kullanılan çeşitli güvenlik önlemleri."
+  },
+  {
+    "kavram": "Deep Learning for Security (Güvenlik için Derin Öğrenme)",
+    "aciklama": "Güvenlik tehditlerini tanımak ve analiz etmek için derin öğrenme tekniklerinin kullanılması."
+  },
+  {
+    "kavram": "Dynamic Adaptive Firewall (Dinamik Uyarlanabilir Güvenlik Duvarı)",
+    "aciklama": "Trafiği sürekli analiz eden ve değişen koşullara göre güvenlik duvarını uyarlayan bir güvenlik aracı."
+  },
+  {
+    "kavram": "Disaster Recovery as a Service (DRaaS) (Felaket Kurtarma Hizmeti Olarak)",
+    "aciklama": "Felaket kurtarma hizmetlerinin bulut üzerinden sağlanması."
+  },
+  {
+    "kavram": "Denial of Service Detection (Hizmet Reddi Tespiti)",
+    "aciklama": "Hizmet reddi saldırılarının erken tespiti için kullanılan araçlar ve yöntemler."
+  },
+  {
+    "kavram": "Data Breach Investigation (Veri İhlali Araştırması)",
+    "aciklama": "Veri ihlallerini inceleme ve bu ihlallerin nedenlerini ve etkilerini araştırma süreci."
+  },
+  {
+    "kavram": "Darknet Monitoring (Darknet İzleme)",
+    "aciklama": "Darknet üzerinde, izinsiz satışlar veya zararlı aktiviteleri tespit etmek için yapılan izleme işlemi."
+  },
+  {
+    "kavram": "Dart-Based Authentication (Dart Tabanlı Kimlik Doğrulama)",
+    "aciklama": "Dart programlama dilini kullanarak kimlik doğrulama işlemi yapma yöntemi."
+  },
+  {
+    "kavram": "Denial of Service Attack Vector (Hizmet Reddi Saldırısı Vektörü)",
+    "aciklama": "Hizmet reddi saldırılarının gerçekleştirilebileceği yollar veya teknikler."
+  },
+  {
+    "kavram": "Digital Tokenization (Dijital Tokenizasyon)",
+    "aciklama": "Gerçek varlıkların veya değerlerin dijital tokenlar aracılığıyla temsil edilmesi."
+  },
+  {
+    "kavram": "Dynamic Buffer Overflow Detection (Dinamik Bellek Aşımı Tespiti)",
+    "aciklama": "Bellek aşımına yol açan hataları dinamik olarak tespit etme ve engelleme."
+  },
+  {
+    "kavram": "Data Theft Prevention (Veri Hırsızlığı Önleme)",
+    "aciklama": "Kişisel veya kurumsal verilerin çalınmasını engellemek için alınan önlemler."
+  },
+  {
+    "kavram": "Detection and Response (DAR) (Tespit ve Yanıt)",
+    "aciklama": "Güvenlik tehditlerinin tespiti ve bu tehditlere hızlı bir şekilde yanıt verilmesi."
+  },
+  {
+    "kavram": "Data Masking Technique (Veri Maskeleme Tekniği)",
+    "aciklama": "Hassas verilerin gizlenmesi veya maskelenmesi için kullanılan yöntemler."
+  },
+  {
+    "kavram": "Domain Security (Alan Güvenliği)",
+    "aciklama": "Alan adı ile ilişkili güvenlik önlemleri ve koruma stratejileri."
+  },
+  {
+    "kavram": "DLP Technologies (DLP Teknolojileri)",
+    "aciklama": "Veri kaybı önleme (DLP) sistemlerini oluşturan yazılım ve donanım teknolojileri."
+  },
+  {
+    "kavram": "DDoS Attack Vector (DDoS Saldırısı Vektörü)",
+    "aciklama": "DDoS saldırılarının gerçekleştirildiği yollar veya teknikler."
+  },
+  {
+    "kavram": "Data-Centric Security (Veri Merkezli Güvenlik)",
+    "aciklama": "Verilerin korunmasını, sınıflandırılmasını ve yönetilmesini ön plana çıkaran güvenlik yaklaşımı."
+  },
+  {
+    "kavram": "Data Integrity Verification (Veri Bütünlüğü Doğrulama)",
+    "aciklama": "Verilerin doğruluğunu ve bütünlüğünü kontrol etme süreci."
+  },
+  {
+    "kavram": "Data Security Tools (Veri Güvenliği Araçları)",
+    "aciklama": "Verilerin güvenliğini sağlamak için kullanılan yazılım ve donanım araçları."
+  },
+  {
+    "kavram": "Digital Transaction Security (Dijital İşlem Güvenliği)",
+    "aciklama": "Elektronik işlemlerin güvenliğini sağlamak için kullanılan güvenlik önlemleri."
+  },
+  {
+    "kavram": "Deep Packet Inspection Tools (Derin Paket Denetimi Araçları)",
+    "aciklama": "Ağ trafiğini detaylı bir şekilde analiz etmek için kullanılan yazılım araçları."
+  },
+  {
+    "kavram": "Database Backdoor (Veritabanı Arka Kapısı)",
+    "aciklama": "Veritabanına izinsiz giriş yapılmasını sağlayan gizli giriş noktaları."
+  },
+  {
+    "kavram": "Digital Key Management (Dijital Anahtar Yönetimi)",
+    "aciklama": "Dijital anahtarların oluşturulması, saklanması ve yönetilmesi süreçlerinin güvenli bir şekilde yapılması."
+  },
+  {
+    "kavram": "Data Dependency Mapping (Veri Bağımlılık Haritalama)",
+    "aciklama": "Verilerin, sistemlerin veya süreçlerin birbirine olan bağımlılıklarının haritalanması."
+  },
+  {
+    "kavram": "Digital Identification (Dijital Kimlik)",
+    "aciklama": "Kullanıcıların dijital ortamda tanımlanmasını sağlayan kimlik bilgileri ve doğrulama süreçleri."
+  },
+  {
+    "kavram": "Data Retention Policy (Veri Saklama Politikası)",
+    "aciklama": "Verilerin ne kadar süreyle saklanacağına dair kurallar ve düzenlemeler."
+  },
+  {
+    "kavram": "Dynamic Security Policy (Dinamik Güvenlik Politikası)",
+    "aciklama": "Güvenlik politikalarının değişen tehditlere ve durumlara göre uyarlanabilir hale getirilmesi."
+  }
+
+]
+}

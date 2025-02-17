@@ -1,0 +1,407 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "UDP (User Datagram Protocol) - Kullanıcı Veri Paketi Protokolü",
+            "aciklama": "İnternet üzerindeki verilerin, güvenli bağlantılar olmadan hızla iletilmesini sağlayan bir iletişim protokolüdür. Verinin alıcıya hızlıca gönderilmesini sağlar ancak veri kaybı olabilir."
+          },
+          {
+            "kavram": "URL (Uniform Resource Locator) - Evrensel Kaynak Bulucu",
+            "aciklama": "İnternetteki her bir kaynağın (web sitesi, dosya vb.) adresini belirtmek için kullanılan bir standarttır. Genellikle 'bağlantı' veya 'link' olarak bilinir."
+          },
+          {
+            "kavram": "Uptime - Çalışma Süresi",
+            "aciklama": "Bir sistemin, cihazın veya servisin aktif ve çalışır durumda olduğu süreyi ifade eder."
+          },
+          {
+            "kavram": "User Authentication - Kullanıcı Kimlik Doğrulama",
+            "aciklama": "Bir kullanıcının sistemde işlem yapabilmesi için kimliğini doğrulamak amacıyla yapılan güvenlik işlemidir."
+          },
+          {
+            "kavram": "User Access Control - Kullanıcı Erişim Kontrolü",
+            "aciklama": "Sistemlere veya verilere erişim sağlayan kullanıcıların yetkilerinin belirlenmesi ve sınırlanması işlemi."
+          },
+          {
+            "kavram": "User Account - Kullanıcı Hesabı",
+            "aciklama": "Bir kullanıcının sisteme giriş yapabilmesi ve kişisel ayarlarını, verilerini yönetebilmesi için oluşturulan hesap."
+          },
+          {
+            "kavram": "User Profile - Kullanıcı Profili",
+            "aciklama": "Bir kullanıcının kişisel bilgilerini, tercihlerini ve diğer verilerini içeren bilgi kümesi."
+          },
+          {
+            "kavram": "Unauthorized Access - Yetkisiz Erişim",
+            "aciklama": "Bir kullanıcının veya sistemin, erişim izni olmadığı verilere veya kaynaklara erişmesi."
+          },
+          {
+            "kavram": "User Behavior Analytics (UBA) - Kullanıcı Davranış Analitiği",
+            "aciklama": "Kullanıcıların sistemdeki davranışlarını analiz ederek anormal hareketleri tespit etmeyi amaçlayan güvenlik teknolojisidir."
+          },
+          {
+            "kavram": "USB (Universal Serial Bus) - Evrensel Seri Yuva",
+            "aciklama": "Bilgisayarlar ve cihazlar arasında veri transferi ve güç iletimi için kullanılan yaygın bir bağlantı standardıdır."
+          },
+          {
+            "kavram": "User Data - Kullanıcı Verisi",
+            "aciklama": "Kullanıcıların sistemlerde oluşturduğu, depoladığı veya paylaştığı veriler."
+          },
+          {
+            "kavram": "Unified Threat Management (UTM) - Birleşik Tehdit Yönetimi",
+            "aciklama": "Bir ağda tüm güvenlik tehditlerini (virüsler, saldırılar, kötü amaçlı yazılımlar vb.) tek bir cihaz veya platform üzerinden yönetmek amacıyla kullanılan bir güvenlik yaklaşımı."
+          },
+          {
+            "kavram": "Update - Güncelleme",
+            "aciklama": "Yazılım, donanım veya sistemde yapılan iyileştirmeler veya hata düzeltmeleri."
+          },
+          {
+            "kavram": "Unencrypted - Şifresiz",
+            "aciklama": "Verilerin güvenlik amacıyla şifrelenmeden iletilmesi."
+          },
+          {
+            "kavram": "Unpatched - Yamananmamış",
+            "aciklama": "Yazılım veya sistemdeki güvenlik açıklarının giderilmeden bırakılması."
+          },
+          {
+            "kavram": "Underground Market - Yeraltı Pazarı",
+            "aciklama": "İnternette, yasadışı veya illegal olarak ürün ve hizmetlerin alınıp satıldığı platformlar."
+          },
+          {
+            "kavram": "Ubiquitous Computing - Her Yerde Bilgisayar Kullanımı",
+            "aciklama": "Teknolojinin hayatın her alanında sürekli ve yaygın şekilde kullanılması."
+          },
+          {
+            "kavram": "UDP Flood - UDP Taşkını",
+            "aciklama": "Bir ağ sistemine aşırı miktarda UDP paketleri göndererek sistemi aşırı yükleme saldırısı."
+          },
+          {
+            "kavram": "Universal Plug and Play (UPnP) - Evrensel Tak ve Çalıştır",
+            "aciklama": "Cihazların otomatik olarak bir ağa bağlanmasını sağlayan ve kullanıcı müdahalesi gerektirmeyen bir protokoldür."
+          },
+          {
+            "kavram": "User Rights - Kullanıcı Hakları",
+            "aciklama": "Bir kullanıcının sistemde hangi işlemleri yapabileceğini belirleyen izinler veya yetkiler."
+          },
+          {
+            "kavram": "User-Defined Rules - Kullanıcı Tanımlı Kurallar",
+            "aciklama": "Kullanıcıların belirlediği, belirli bir sistemdeki işlemler veya etkinlikler için oluşturdukları kurallar."
+          },
+          {
+            "kavram": "Unusual Activity - Sıra Dışı Aktivite",
+            "aciklama": "Bir sistemde normal olmayan, anormal veya şüpheli faaliyetler."
+          },
+          {
+            "kavram": "Unresolved Vulnerability - Çözülmemiş Güvenlik Açığı",
+            "aciklama": "Bir yazılım veya sistemde tespit edilen, fakat henüz düzeltilmeyen güvenlik açığı."
+          },
+          {
+            "kavram": "Untrusted Network - Güvensiz Ağ",
+            "aciklama": "Güvenlik önlemleri yeterli olmayan ve dışarıdan gelen tehditlere açık olan ağ."
+          },
+          {
+            "kavram": "Universal Security Platform - Evrensel Güvenlik Platformu",
+            "aciklama": "Tüm güvenlik tehditlerini yönetebilen, çoklu güvenlik özelliklerine sahip merkezi bir platform."
+          },
+          {
+            "kavram": "Universal Resource Identifier (URI) - Evrensel Kaynak Tanımlayıcısı",
+            "aciklama": "İnternetteki her türlü kaynağa benzersiz şekilde işaret eden adresleme sistemidir, URL'nin daha geniş kapsamlı halidir."
+          },
+          {
+            "kavram": "Unclassified Information - Sınıflandırılmamış Bilgi",
+            "aciklama": "Güvenlik açısından herhangi bir sınıflandırmaya tabi olmayan bilgi."
+          },
+          {
+            "kavram": "Urgent Software Patch - Acil Yazılım Yaması",
+            "aciklama": "Yazılımda tespit edilen acil güvenlik açıklarını kapatmak için yayımlanan düzeltme."
+          },
+          {
+            "kavram": "URL Filtering - URL Filtreleme",
+            "aciklama": "İnternet üzerindeki URL'leri kontrol ederek istenmeyen veya zararlı sitelere erişimi engelleme işlemidir."
+          },
+          {
+            "kavram": "User Credential - Kullanıcı Kimlik Bilgisi",
+            "aciklama": "Kullanıcının sisteme giriş yapabilmesi için gerekli olan bilgiler (kullanıcı adı, şifre vb.)."
+          },
+          {
+            "kavram": "URL Spoofing - URL Sahteciliği",
+            "aciklama": "Gerçek bir URL'nin taklit edilerek kullanıcıların zararlı sitelere yönlendirilmesi saldırısı."
+          },
+          {
+            "kavram": "User Identification - Kullanıcı Tanımlaması",
+            "aciklama": "Bir kullanıcının kimliğinin belirlenmesi işlemi."
+          },
+          {
+            "kavram": "Undetected Malware - Tespit Edilemeyen Kötü Amaçlı Yazılım",
+            "aciklama": "Güvenlik sistemleri tarafından henüz fark edilemeyen zararlı yazılımlar."
+          },
+          {
+            "kavram": "Uniform Security Protocol - Tekdüze Güvenlik Protokolü",
+            "aciklama": "Çeşitli güvenlik önlemlerini ve kurallarını belirleyen ve standardize eden bir güvenlik protokolüdür."
+          },
+          {
+            "kavram": "Uninterrupted Power Supply (UPS) - Kesintisiz Güç Kaynağı",
+            "aciklama": "Elektrik kesintisi durumunda cihazların çalışmaya devam etmesini sağlayan güç kaynağı."
+          },
+          {
+            "kavram": "Upstream - Yukarı Akış",
+            "aciklama": "İnternet veya ağda veri iletiminin kaynağına doğru yön."
+          },
+          {
+            "kavram": "Unsolicited Data - Talep Edilmeyen Veri",
+            "aciklama": "Kullanıcılar tarafından istenmeyen veya beklenmeyen veri iletimi."
+          },
+          {
+            "kavram": "User Tracking - Kullanıcı Takibi",
+            "aciklama": "Kullanıcıların internet üzerindeki hareketlerinin izlenmesi ve kaydedilmesi."
+          },
+          {
+            "kavram": "Uptime Monitoring - Çalışma Süresi İzleme",
+            "aciklama": "Bir sistemin çalışma süresinin izlenmesi ve herhangi bir kesinti durumunun tespit edilmesi."
+          },
+          {
+            "kavram": "Uniform Resource Name (URN) - Evrensel Kaynak Adı",
+            "aciklama": "Kaynağın tam adını tanımlayan ve URL'den farklı olarak kaynağın fiziksel yerini belirlemeyen sistem."
+          },
+          {
+            "kavram": "Untrusted Source - Güvensiz Kaynak",
+            "aciklama": "Güvenilmeyen ve doğruluğundan emin olunamayan bir kaynaktan gelen veriler."
+          },
+          {
+            "kavram": "Universal Access Control - Evrensel Erişim Kontrolü",
+            "aciklama": "Erişim haklarını ve yetkilerini merkezi bir şekilde yöneten sistem."
+          },
+          {
+            "kavram": "USB Security - USB Güvenliği",
+            "aciklama": "USB cihazları ile veri transferi sırasında güvenliği sağlamak için uygulanan önlemler."
+          },
+          {
+            "kavram": "Undetected Threat - Tespit Edilemeyen Tehdit",
+            "aciklama": "Güvenlik sistemlerinin henüz fark edemediği tehditler."
+          },
+          {
+            "kavram": "User Access Review - Kullanıcı Erişimi İncelemesi",
+            "aciklama": "Sistemdeki kullanıcıların erişim haklarının düzenli olarak gözden geçirilmesi."
+          },
+          {
+            "kavram": "Usability Testing - Kullanılabilirlik Testi",
+            "aciklama": "Bir ürünün veya sistemin kullanıcı dostu olup olmadığının test edilmesi."
+          },
+          {
+            "kavram": "Unified Endpoint Management (UEM) - Birleşik Uç Nokta Yönetimi",
+            "aciklama": "Tüm cihazların (telefonlar, bilgisayarlar, tabletler vb.) güvenliğini ve yönetimini merkezi bir sistemden yapmak."
+          },
+          {
+            "kavram": "User Impersonation - Kullanıcı Taklidi",
+            "aciklama": "Bir kullanıcının kimliğini taklit ederek sisteme yetkisiz erişim sağlama."
+          },
+          {
+            "kavram": "Undocumented Feature - Belgesiz Özellik",
+            "aciklama": "Yazılımda belgelenmemiş, fakat kullanıcılar tarafından keşfedilen özellikler."
+          },
+          {
+            "kavram": "Untraceable Attack - İzlenemez Saldırı",
+            "aciklama": "İz bırakmadan yapılan saldırılar, genellikle anonimlik ve gizlilik sağlamak için tasarlanır."
+          },
+          {
+            "kavram": "Undermining Security",
+            "aciklama": "Bir sistemin güvenliğini tehlikeye atma, zayıflatarak saldırılara açık hale getirme eylemi."
+          },
+          {
+            "kavram": "URL Rewriting",
+            "aciklama": "Web adreslerinin yapısının değiştirilmesi, genellikle güvenlik amacıyla ya da arama motoru optimizasyonu (SEO) için yapılır."
+          },
+          {
+            "kavram": "Use Case Security",
+            "aciklama": "Bir sistemin kullanım senaryolarının güvenliğini sağlama, belirli kullanım koşullarında güvenlik açıklarının önlenmesi."
+          },
+          {
+            "kavram": "Unencrypted Traffic",
+            "aciklama": "Verilerin şifrelenmeden iletilmesi, bu da verilerin üçüncü şahıslar tarafından kolayca erişilebileceği anlamına gelir."
+          },
+          {
+            "kavram": "Unintentional Disclosure",
+            "aciklama": "Bilgi ya da verilerin kazara veya istenmeden açığa çıkması."
+          },
+          {
+            "kavram": "User Mode",
+            "aciklama": "Bir işletim sisteminde, kullanıcıların uygulamalarını çalıştırdığı, sistem kaynaklarına sınırlı erişimi olduğu mod."
+          },
+          {
+            "kavram": "User Privileges",
+            "aciklama": "Bir kullanıcının sisteme veya verilere erişim düzeyi, yetkileri."
+          },
+          {
+            "kavram": "Utility Malware",
+            "aciklama": "Sistemi optimize etmek veya 'yardımcı' gibi görünerek çalışan kötü amaçlı yazılımlar."
+          },
+          {
+            "kavram": "Universal Threat Detection",
+            "aciklama": "Farklı türdeki güvenlik tehditlerini tespit etmek için kullanılan kapsamlı sistemler."
+          },
+          {
+            "kavram": "Unauthorized Software",
+            "aciklama": "Bir sistemde çalışan ve izin verilmeyen yazılımlar."
+          },
+          {
+            "kavram": "Upstream Security",
+            "aciklama": "Bir ağdaki veri akışının yukarı yönlü kısmındaki güvenlik, genellikle internet servis sağlayıcıları (ISP) ile ilgili güvenlik önlemleri."
+          },
+          {
+            "kavram": "User Permissions",
+            "aciklama": "Bir kullanıcının bir sistemde yapabileceği işlemleri belirleyen haklar ve izinler."
+          },
+          {
+            "kavram": "User Role",
+            "aciklama": "Sistemdeki kullanıcının yetkilerini ve sorumluluklarını belirleyen profil."
+          },
+          {
+            "kavram": "Unintended Consequences",
+            "aciklama": "Bir eylemin ya da kararın, beklenmedik ve istenmeyen sonuçlar doğurması."
+          },
+          {
+            "kavram": "Uptime Guarantee",
+            "aciklama": "Bir hizmetin ya da sistemin belirli bir süre boyunca kesintisiz çalışacağını garanti eden taahhüt."
+          },
+          {
+            "kavram": "Unified Authentication",
+            "aciklama": "Farklı sistem ve platformlarda kimlik doğrulama işlemlerinin birleşik ve tek bir yöntemle yapılması."
+          },
+          {
+            "kavram": "Undercover Operations",
+            "aciklama": "Güvenlik veya istihbarat amacıyla gizli olarak yapılan operasyonlar."
+          },
+          {
+            "kavram": "User Session",
+            "aciklama": "Bir kullanıcının sisteme giriş yapıp çıktığı süre zarfındaki etkileşimleri."
+          },
+          {
+            "kavram": "User Session Hijacking",
+            "aciklama": "Bir kullanıcının aktif oturumuna yetkisiz bir şekilde erişim sağlama."
+          },
+          {
+            "kavram": "USB Attack",
+            "aciklama": "USB cihazları kullanarak yapılan saldırılar, genellikle kötü amaçlı yazılım taşıyan cihazlarla."
+          },
+          {
+            "kavram": "Uplink Security",
+            "aciklama": "Bir ağdaki veri akışının, genellikle sunuculara veya ana ağlara doğru olan kısmının güvenliğini sağlama."
+          },
+          {
+            "kavram": "User Information Disclosure",
+            "aciklama": "Kullanıcıya ait kişisel ya da gizli bilgilerin yetkisiz kişilerce açıklanması."
+          },
+          {
+            "kavram": "Undercover Malware",
+            "aciklama": "Sistemde gizlice çalışan ve tespit edilmeyen kötü amaçlı yazılım."
+          },
+          {
+            "kavram": "Universal Secure Network",
+            "aciklama": "Tüm ağların güvenliğini sağlayan ve her tür cihaza uyumlu ağ yapıları."
+          },
+          {
+            "kavram": "Unmasking Attack",
+            "aciklama": "Bir saldırganın gizli kimliğini ya da kaynağını açığa çıkarmak için yaptığı saldırı."
+          },
+          {
+            "kavram": "Unidirectional Security",
+            "aciklama": "Verilerin yalnızca tek bir yönlü olarak güvenli bir şekilde akmasını sağlamak."
+          },
+          {
+            "kavram": "User Data Loss Prevention (UDLP)",
+            "aciklama": "Kullanıcı verilerinin kaybolmasını veya yetkisiz erişimi engellemeye yönelik önlemler."
+          },
+          {
+            "kavram": "Undetectable Ransomware",
+            "aciklama": "Tespit edilmesi zor olan ve kullanıcılardan fidye talep eden kötü amaçlı yazılım türü."
+          },
+          {
+            "kavram": "User-Mode Malware",
+            "aciklama": "Kullanıcı modunda çalışan, sistemin çekirdek modunda çalışmayan ancak yine de zararlı olan yazılım."
+          },
+          {
+            "kavram": "Universal Encryption",
+            "aciklama": "Tüm verilerin şifrelenmesini sağlayan evrensel bir güvenlik önlemi."
+          },
+          {
+            "kavram": "Universal Firewall",
+            "aciklama": "Her tür ağ ve cihazda kullanılan güvenlik duvarı, şüpheli trafiği engellemek için."
+          },
+          {
+            "kavram": "Update Vulnerability",
+            "aciklama": "Bir yazılımın güncellenmesi sırasında ortaya çıkan güvenlik açığı."
+          },
+          {
+            "kavram": "User Activity Log",
+            "aciklama": "Bir kullanıcının sisteme girişlerinden yaptığı tüm işlemler ve aktiviteler kaydedilen günlük."
+          },
+          {
+            "kavram": "Utility Computing",
+            "aciklama": "Kullanıcılara bilgisayar kaynaklarının, gerektiğinde bir hizmet olarak sunulması."
+          },
+          {
+            "kavram": "Unmasking Technique",
+            "aciklama": "Kimliği gizlemek ya da yanlış bilgi vermek için kullanılan teknikler."
+          },
+          {
+            "kavram": "Undisclosed Vulnerability",
+            "aciklama": "Henüz kamuya duyurulmamış ve keşfedilmemiş güvenlik açıkları."
+          },
+          {
+            "kavram": "User Management System",
+            "aciklama": "Bir organizasyonun tüm kullanıcılarını yönetmek, izinleri ve erişim düzeylerini denetlemek için kullanılan sistem."
+          },
+          {
+            "kavram": "Underground Cyber Network",
+            "aciklama": "Yasadışı faaliyetler için kullanılan gizli ve güvenlik önlemleriyle korunan siber ağlar."
+          },
+          {
+            "kavram": "User Authentication Token",
+            "aciklama": "Kullanıcının kimliğini doğrulamak için kullanılan geçici bir dijital anahtar veya jeton."
+          },
+          {
+            "kavram": "Unencrypted Communication",
+            "aciklama": "Verilerin şifreleme kullanılmadan iletilmesi, güvenlik açısından risklidir."
+          },
+          {
+            "kavram": "User Behavior Analytics (UBA) Tool",
+            "aciklama": "Kullanıcı davranışlarını izleyerek anormal veya şüpheli aktiviteleri tespit etmeye yardımcı olan araç."
+          },
+          {
+            "kavram": "Unpredictable Threats",
+            "aciklama": "Öngörülemeyen ve aniden ortaya çıkan güvenlik tehditleri."
+          },
+          {
+            "kavram": "User Interface (UI) Security",
+            "aciklama": "Kullanıcı arayüzlerinin güvenliğini sağlamak, kullanıcının yanlışlıkla güvenlik açıkları oluşturmasını engellemek."
+          },
+          {
+            "kavram": "Untrusted Application",
+            "aciklama": "Bilgisayar sistemine zarar verebilecek, güvenilmeyen yazılım."
+          },
+          {
+            "kavram": "Unauthorized Network Access",
+            "aciklama": "Bir ağ sistemine, izin alınmadan veya yanlış kimlik bilgileriyle erişilmesi."
+          },
+          {
+            "kavram": "User-Agent Spoofing",
+            "aciklama": "Bir kullanıcının, ağda kimliğini gizlemek için kullanılan sahte bir kullanıcı aracısı (user-agent) verisi."
+          },
+          {
+            "kavram": "User Isolation",
+            "aciklama": "Bir kullanıcıyı diğerlerinden izole ederek güvenlik risklerini en aza indirme işlemi."
+          },
+          {
+            "kavram": "Universal Security Agent",
+            "aciklama": "Tüm cihaz ve ağları güvence altına almak için kullanılan yazılım aracı."
+          },
+          {
+            "kavram": "Untraceable Network",
+            "aciklama": "Bilgisayarlar veya cihazlar arasında, izlenmesi veya tespit edilmesi zor olan bir ağ."
+          },
+          {
+            "kavram": "User Privacy Protection",
+            "aciklama": "Kullanıcıların kişisel verilerinin korunması için alınan güvenlik önlemleri ve yasalar."
+          }
+
+
+    ]
+}

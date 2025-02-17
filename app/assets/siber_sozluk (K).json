@@ -1,0 +1,306 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "Keylogger (Tuş Kaydedici)",
+            "aciklama": "Kullanıcının klavyede yazdığı tüm tuş vuruşlarını kaydeden kötü amaçlı bir yazılım veya donanım. Genellikle hassas bilgiler (şifre, kredi kartı numarası) çalmak için kullanılır."
+          },
+          {
+            "kavram": "Kerberos (Kerberos Protokolü)",
+            "aciklama": "Bir ağ kimlik doğrulama protokolüdür. Güvenilir bir üçüncü taraf (Anahtar Dağıtım Merkezi) aracılığıyla kullanıcıların ve hizmetlerin kimliklerini doğrular."
+          },
+          {
+            "kavram": "Key Management (Anahtar Yönetimi)",
+            "aciklama": "Kriptografik anahtarların oluşturulması, saklanması, dağıtılması, değiştirilmesi ve iptali süreçlerini kapsayan yönetim sistemi."
+          },
+          {
+            "kavram": "Kill Chain (Saldırı Zinciri)",
+            "aciklama": "Bir siber saldırının aşamalarını temsil eden bir modeldir. Saldırganın hedefe ulaşma ve zarar verme süreci analiz edilir."
+          },
+          {
+            "kavram": "Key Exchange (Anahtar Değişimi)",
+            "aciklama": "İki tarafın güvenli bir şekilde şifreleme anahtarlarını paylaştığı süreç. Örneğin, Diffie-Hellman Anahtar Değişimi."
+          },
+          {
+            "kavram": "Kali Linux (Kali Linux)",
+            "aciklama": "Siber güvenlik uzmanları tarafından yaygın olarak kullanılan bir penetrasyon testi ve etik hackleme işletim sistemi."
+          },
+          {
+            "kavram": "Key Rotation (Anahtar Döndürme)",
+            "aciklama": "Güvenliği artırmak için kriptografik anahtarların belirli aralıklarla değiştirilmesi işlemi."
+          },
+          {
+            "kavram": "Kernel Exploit (Çekirdek Açığı Kullanımı)",
+            "aciklama": "Bir işletim sistemi çekirdeğindeki güvenlik açıklarından yararlanarak kötü amaçlı işlemler gerçekleştirme."
+          },
+          {
+            "kavram": "Key Escrow (Anahtar Emaneti)",
+            "aciklama": "Kriptografik anahtarların bir üçüncü tarafa emanet edilmesi. Bu, veri kurtarma veya yasal düzenlemeler için yapılabilir."
+          },
+          {
+            "kavram": "Key Pair (Anahtar Çifti)",
+            "aciklama": "Birbirine matematiksel olarak bağlı, genellikle bir açık anahtar ve bir özel anahtardan oluşan çift. Açık anahtar şifreleme ve özel anahtar çözme işlemleri için kullanılır."
+          },
+          {
+            "kavram": "Keystroke Dynamics (Tuş Vuruş Dinamiği)",
+            "aciklama": "Kullanıcının yazma hızını, ritmini ve tuş basma alışkanlıklarını analiz eden biyometrik bir kimlik doğrulama yöntemi."
+          },
+          {
+            "kavram": "Key Revocation (Anahtar İptali)",
+            "aciklama": "Bir kriptografik anahtarın artık geçerli olmadığını belirtmek ve sistemde kullanımını engellemek için yapılan işlem."
+          },
+          {
+            "kavram": "Kernel Panic (Çekirdek Panik Hatası)",
+            "aciklama": "Bir işletim sistemi çekirdeğinin ciddi bir hatadan dolayı işlemleri durdurduğu durum. Genellikle sistem çökmesine neden olur."
+          },
+          {
+            "kavram": "Key Distribution (Anahtar Dağıtımı)",
+            "aciklama": "Kriptografik anahtarların güvenli bir şekilde dağıtılmasını sağlama süreci."
+          },
+          {
+            "kavram": "Key-Based Authentication (Anahtar Tabanlı Kimlik Doğrulama)",
+            "aciklama": "Parola yerine açık anahtar-özel anahtar çifti kullanılarak yapılan kimlik doğrulama yöntemi. Örneğin, SSH bağlantıları."
+          },
+          {
+            "kavram": "Key Derivation Function (KDF) (Anahtar Türetme Fonksiyonu)",
+            "aciklama": "Bir anahtarın türetilmesi için kullanılan kriptografik fonksiyon. Parolaları güvenli anahtarlara dönüştürmek için sıkça kullanılır."
+          },
+          {
+            "kavram": "Kernel-Level Security (Çekirdek Seviyesi Güvenlik)",
+            "aciklama": "İşletim sistemi çekirdeğinde uygulanan güvenlik önlemleri. Örneğin, çekirdek modundaki kötü amaçlı kodları tespit etme."
+          },
+          {
+            "kavram": "Key Wrapping (Anahtar Paketleme)",
+            "aciklama": "Bir anahtarı başka bir anahtarla şifreleme işlemi. Güvenli anahtar saklama ve iletimi için kullanılır."
+          },
+          {
+            "kavram": "Key Recovery (Anahtar Kurtarma)",
+            "aciklama": "Kayıp veya unutulmuş kriptografik anahtarların geri kazanılması süreci."
+          },
+          {
+            "kavram": "Kerberos Authentication (Kerberos Kimlik Doğrulama)",
+            "aciklama": "Kerberos protokolü ile yapılan kimlik doğrulama. Hem kullanıcının hem de hizmetin kimliklerini doğrular."
+          },
+          {
+            "kavram": "Key Injection (Anahtar Enjeksiyonu)",
+            "aciklama": "Bir kriptografik anahtarın güvenli bir şekilde bir cihaza veya sisteme yerleştirilmesi işlemi."
+          },
+          {
+            "kavram": "Keylogger Detection (Tuş Kaydedici Tespiti)",
+            "aciklama": "Tuş kaydedici yazılımları veya cihazları tespit etmek için kullanılan yöntemler."
+          },
+          {
+            "kavram": "Kernel Debugging (Çekirdek Hata Ayıklama)",
+            "aciklama": "Bir işletim sistemi çekirdeğindeki hataları tespit etmek ve düzeltmek için yapılan teknik analiz."
+          },
+          {
+            "kavram": "Key Signing (Anahtar İmzalama)",
+            "aciklama": "Bir kriptografik anahtarın geçerliliğini doğrulamak için başka bir anahtarla imzalanması işlemi."
+          },
+          {
+            "kavram": "Key Splitting (Anahtar Bölme)",
+            "aciklama": "Bir anahtarın parçalara ayrılarak güvenli bir şekilde saklanması veya paylaşılması işlemi."
+          },
+          {
+            "kavram": "K-Anonymity (K-Anonimlik)",
+            "aciklama": "Veri anonimleştirme yöntemlerinden biri. Bir bireyin kimliğini tanımlamak için en az K kişi arasında ayırt edilemez olması hedeflenir."
+          },
+          {
+            "kavram": "Key Hardening (Anahtar Güçlendirme)",
+            "aciklama": "Bir anahtarın saldırılara karşı daha dayanıklı hale getirilmesi için kullanılan teknikler."
+          },
+          {
+            "kavram": "Kernel Integrity Check (Çekirdek Bütünlük Kontrolü)",
+            "aciklama": "İşletim sistemi çekirdeğinin bütünlüğünü ve güvenliğini sağlamak için yapılan kontroller."
+          },
+          {
+            "kavram": "Key Leakage (Anahtar Sızıntısı)",
+            "aciklama": "Bir kriptografik anahtarın yetkisiz kişilere sızması durumu."
+          },
+          {
+            "kavram": "Key Agreement Protocol (Anahtar Anlaşma Protokolü)",
+            "aciklama": "İki tarafın güvenli bir şekilde ortak bir şifreleme anahtarı üzerinde anlaşmasını sağlayan protokol."
+          },
+          {
+            "kavram": "Keyed Hash (Anahtarlı Hash)",
+            "aciklama": "Bir mesajın doğruluğunu ve bütünlüğünü kontrol etmek için kullanılan, bir anahtar ile desteklenen kriptografik hash fonksiyonu."
+          },
+          {
+            "kavram": "Key Usage Policy (Anahtar Kullanım Politikası)",
+            "aciklama": "Bir anahtarın nasıl ve hangi koşullar altında kullanılacağını belirleyen politika."
+          },
+          {
+            "kavram": "Key Escrow Encryption (Anahtar Emaneti Şifrelemesi)",
+            "aciklama": "Kriptografik anahtarların belirli bir kurum veya üçüncü taraf tarafından saklanması ve gerektiğinde erişim sağlanması."
+          },
+          {
+            "kavram": "Kernel Exploit Prevention (Çekirdek Açığı Önleme)",
+            "aciklama": "İşletim sistemi çekirdeğindeki güvenlik açıklarını engellemek için alınan önlemler."
+          },
+          {
+            "kavram": "Kernel Rootkit (Çekirdek Rootkit)",
+            "aciklama": "İşletim sistemi çekirdeğinde çalışan kötü amaçlı bir yazılım. Genellikle tespit edilmesi zordur."
+          },
+          {
+            "kavram": "Key Material (Anahtar Malzemesi)",
+            "aciklama": "Şifreleme için kullanılan ham anahtar bileşenleri."
+          },
+          {
+            "kavram": "Key Stretching (Anahtar Uzatma)",
+            "aciklama": "Zayıf şifrelerin güvenliğini artırmak için kullanılan bir teknik. Şifre, karmaşık bir işlevden tekrar tekrar geçirilir."
+          },
+          {
+            "kavram": "Kernel Mode (Çekirdek Modu)",
+            "aciklama": "İşletim sisteminde çekirdek seviyesinde çalışan işlemlerin bulunduğu mod. Donanım ve sistem kaynaklarına tam erişim sağlar."
+          },
+          {
+            "kavram": "Keyphrase Encryption (Anahtar Kelime Şifrelemesi)",
+            "aciklama": "Anahtar kelimelerin şifreleme mekanizması olarak kullanıldığı bir teknik."
+          },
+          {
+            "kavram": "Kernel Bypass (Çekirdek Atlama)",
+            "aciklama": "Bir uygulamanın, performansı artırmak için işletim sistemi çekirdeğini atlayarak doğrudan donanıma erişmesi."
+          },
+          {
+            "kavram": "Kerberos Ticket (Kerberos Bileti)",
+            "aciklama": "Kerberos protokolünde kullanılan, kimlik doğrulama için gerekli olan zaman sınırlı bir token."
+          },
+          {
+            "kavram": "Key Backup (Anahtar Yedekleme)",
+            "aciklama": "Kriptografik anahtarların kaybolmasını önlemek için yedeklenmesi işlemidir. Yedek anahtarlar genellikle güvenli bir ortamda saklanır ve sadece yetkili kişilerce erişilebilir."
+          },
+          {
+            "kavram": "Key Usage Restrictions (Anahtar Kullanım Kısıtlamaları)",
+            "aciklama": "Bir anahtarın yalnızca belirli amaçlarla kullanılmasını sağlayan güvenlik politikalarıdır. Örneğin, bir anahtar yalnızca şifreleme, dijital imza veya kimlik doğrulama için kullanılabilir."
+          },
+          {
+            "kavram": "Kernel Patch Protection (Çekirdek Yama Koruması)",
+            "aciklama": "Windows işletim sistemlerinde çekirdeğin izinsiz değiştirilmesini engelleyen bir güvenlik özelliğidir. 'PatchGuard' olarak da bilinir."
+          },
+          {
+            "kavram": "Keyed Cipher (Anahtarlı Şifreleme)",
+            "aciklama": "Bir anahtarın, bir şifreleme algoritmasıyla birlikte kullanılarak veri şifreleme işleminin gerçekleştirilmesini ifade eder. Bu tür algoritmalar genellikle simetrik şifreleme protokollerinde kullanılır."
+          },
+          {
+            "kavram": "Keystroke Injection (Tuş Vuruşu Enjeksiyonu)",
+            "aciklama": "Bir sisteme zararlı komutlar veya girdiler göndermek için klavye taklidi yapan bir saldırı türüdür. Genellikle USB cihazları veya kötü niyetli yazılımlar kullanılarak gerçekleştirilir."
+          },
+          {
+            "kavram": "Kernel Sandboxing (Çekirdek Korumalı Alanı)",
+            "aciklama": "Çekirdek işlemlerini, güvenli olmayan işlemlerden izole ederek güvenlik açıklarını azaltmayı amaçlayan bir güvenlik yöntemidir."
+          },
+          {
+            "kavram": "Key Derivation Algorithm (Anahtar Türetme Algoritması)",
+            "aciklama": "Anahtar materyalinden kriptografik anahtarlar türetmek için kullanılan bir algoritmadır. Örneğin, bir ana paroladan şifreleme anahtarı oluşturmak için kullanılır."
+          },
+          {
+            "kavram": "Keylogger Malware (Tuş Kaydedici Zararlısı)",
+            "aciklama": "Kullanıcıların klavye ile yazdığı verileri kaydeden zararlı yazılımdır. Bu tür yazılımlar genellikle kullanıcı adı ve şifreleri çalmak için kullanılır."
+          },
+          {
+            "kavram": "Kernel Module (Çekirdek Modülü)",
+            "aciklama": "Bir işletim sistemi çekirdeğinin fonksiyonlarını genişletmek için kullanılan bağımsız bir yazılım bileşenidir. Örneğin, donanım sürücüleri çekirdek modülleridir."
+          },
+          {
+            "kavram": "Key Obfuscation (Anahtar Karartma)",
+            "aciklama": "Anahtarların, kötü niyetli kişiler tarafından ele geçirilmesini zorlaştırmak için kodlanması veya saklanması yöntemidir."
+          },
+          {
+            "kavram": "Kerberos Realm (Kerberos Alanı)",
+            "aciklama": "Kerberos protokolünde bir oturum açma etki alanıdır. Genellikle bir ağ içindeki kullanıcılar ve hizmetler için kimlik doğrulama işlemlerini düzenler."
+          },
+          {
+            "kavram": "Key Disclosure (Anahtar Açıklaması)",
+            "aciklama": "Bir kriptografik anahtarın yetkisiz kişiler tarafından ele geçirilmesi veya ifşa edilmesidir. Bu durum, güvenlik açıklarına yol açabilir."
+          },
+          {
+            "kavram": "Key Attestation (Anahtar Doğrulama)",
+            "aciklama": "Bir anahtarın orijinalliğini ve bütünlüğünü doğrulamak için yapılan bir süreçtir. Genellikle donanım güvenlik modülleri (HSM) tarafından desteklenir."
+          },
+          {
+            "kavram": "Kernel Memory Protection (Çekirdek Bellek Koruması)",
+            "aciklama": "Çekirdek belleğinde yetkisiz erişim veya değişiklikleri önlemek için uygulanan güvenlik önlemleridir."
+          },
+          {
+            "kavram": "Key Lifecycle Management (Anahtar Yaşam Döngüsü Yönetimi)",
+            "aciklama": "Kriptografik anahtarların oluşturulması, saklanması, kullanımı ve imhasını içeren süreçlerin tamamını ifade eder."
+          },
+          {
+            "kavram": "Kernel-Level Exploitation (Çekirdek Seviyesi Sömürme)",
+            "aciklama": "Çekirdek düzeyinde güvenlik açıklarından faydalanarak bir sistemi ele geçirme yöntemidir. Bu saldırılar genellikle sistemin tüm kontrolünü elde etmek için kullanılır."
+          },
+          {
+            "kavram": "Key Escrow System (Anahtar Emaneti Sistemi)",
+            "aciklama": "Şifreleme anahtarlarının güvenli bir üçüncü taraf tarafından saklandığı bir sistemdir. Genellikle yasal talepler veya veri kurtarma durumları için kullanılır."
+          },
+          {
+            "kavram": "Kerberos Encryption (Kerberos Şifreleme)",
+            "aciklama": "Kerberos protokolünde kullanılan, kullanıcıların kimliğini doğrulamak ve güvenli iletişim sağlamak için tasarlanmış şifreleme yöntemleridir."
+          },
+          {
+            "kavram": "Keystroke Logger (Tuş Kaydedici Yazılım)",
+            "aciklama": "Kullanıcıların klavye tuşlarına bastıklarında oluşan girdileri kaydeden bir yazılımdır. Bu, genellikle kötü niyetli amaçlarla kullanılan bir casus yazılım türüdür."
+          },
+          {
+            "kavram": "Kernel API (Çekirdek API'si)",
+            "aciklama": "Çekirdek ve kullanıcı alanı arasında iletişim sağlamak için işletim sistemi tarafından sağlanan bir dizi programlama arayüzüdür."
+          },
+          {
+            "kavram": "Key Binding (Anahtar Bağlama)",
+            "aciklama": "Bir komutun veya işlemin belirli bir tuş veya tuş kombinasyonu ile ilişkilendirilmesidir. Özellikle klavye kısayollarında kullanılır."
+          },
+          {
+            "kavram": "Key Value Store Security (Anahtar-Değer Deposu Güvenliği)",
+            "aciklama": "Anahtar-değer çiftleri ile çalışan veri depolarının güvenliğini sağlamaya yönelik önlemlerdir. Örneğin, Redis gibi sistemlerde veri şifreleme kullanılabilir."
+          },
+          {
+            "kavram": "Key Verification (Anahtar Doğrulama)",
+            "aciklama": "Bir anahtarın doğruluğunu ve bütünlüğünü kontrol etmek için yapılan işlemdir. Bu genellikle dijital sertifikalarla yapılır."
+          },
+          {
+            "kavram": "Kernel Randomization (Çekirdek Rastgeleleştirme)",
+            "aciklama": "Çekirdek kodunun hafızadaki yerini rastgele seçerek sömürme risklerini azaltan bir güvenlik tekniğidir."
+          },
+          {
+            "kavram": "Key Strengthening (Anahtar Güçlendirme)",
+            "aciklama": "Anahtarın güvenliğini artırmak için çeşitli teknikler kullanılmasıdır. Örneğin, bir anahtarın türetilmesi sırasında iterasyon sayısının artırılması."
+          },
+          {
+            "kavram": "Kernel Driver (Çekirdek Sürücüsü)",
+            "aciklama": "Donanım ile işletim sistemi arasında iletişimi sağlayan yazılım bileşenleridir. Örneğin, grafik kartı sürücüleri."
+          },
+          {
+            "kavram": "Key Revocation List (Anahtar İptal Listesi)",
+            "aciklama": "İptal edilen ve artık kullanılmaması gereken kriptografik anahtarların listesidir."
+          },
+          {
+            "kavram": "Kernel Exploitation Framework (Çekirdek Sömürme Çerçevesi)",
+            "aciklama": "Çekirdek açıklarını test etmek veya sömürmek için kullanılan araç ve yöntemler bütünüdür. Genellikle saldırı simülasyonlarında kullanılır."
+          },
+          {
+            "kavram": "Key Generation Algorithm (Anahtar Oluşturma Algoritması)",
+            "aciklama": "Kriptografik anahtarlar üretmek için kullanılan matematiksel algoritmalardır. Örneğin, RSA veya ECC algoritmaları."
+          },
+          {
+            "kavram": "Key Injection Attack (Anahtar Enjeksiyon Saldırısı)",
+            "aciklama": "Bir sistemde kullanılan anahtarın manipüle edilmesi veya değiştirilmesi yoluyla yapılan saldırılardır."
+          },
+          {
+            "kavram": "Key Schedule (Anahtar Planı)",
+            "aciklama": "Bir anahtardan farklı türev anahtarlar oluşturmak için kullanılan algoritmalardır. Özellikle blok şifreleme algoritmalarında kullanılır."
+          },
+          {
+            "kavram": "Kernel Protection Mechanisms (Çekirdek Koruma Mekanizmaları)",
+            "aciklama": "Çekirdeği zararlı yazılım ve saldırılardan korumak için kullanılan güvenlik yöntemleridir."
+          },
+          {
+            "kavram": "Kerberos Security Token (Kerberos Güvenlik Belirteci)",
+            "aciklama": "Kerberos protokolünde kullanıcıların kimliğini doğrulamak için kullanılan dijital bir belirteçtir."
+          },
+          {
+            "kavram": "Kernel Module Injection (Çekirdek Modül Enjeksiyonu)",
+            "aciklama": "Yetkisiz çekirdek modüllerini sisteme yükleyerek yapılan saldırılardır. Bu tür saldırılar genellikle sistemin kontrolünü ele geçirmek için kullanılır."
+          }
+
+    ]
+}

@@ -1,0 +1,577 @@
+{
+    "siberGuvenlikKavramlari": [
+        {
+            "kavram": "Identity Management (Kimlik Yönetimi)",
+            "aciklama": "Kullanıcıların kimlik bilgilerini yönetmek ve doğrulamak için uygulanan süreçler ve teknolojiler."
+          },
+          {
+            "kavram": "Incident Response (Olay Yanıtı)",
+            "aciklama": "Bilgi güvenliği olaylarına karşı alınacak aksiyonları planlayan ve yöneten süreç."
+          },
+          {
+            "kavram": "Intrusion Detection System (İzinsiz Giriş Tespit Sistemi)",
+            "aciklama": "Bilgisayar sistemlerine izinsiz erişimi tespit etmek için kullanılan yazılım veya donanım sistemleri."
+          },
+          {
+            "kavram": "Information Security (Bilgi Güvenliği)",
+            "aciklama": "Bilgilerin gizliliğini, bütünlüğünü ve erişilebilirliğini koruma amacı güden sistem ve uygulamalar."
+          },
+          {
+            "kavram": "Intrusion Prevention System (İzinsiz Giriş Önleme Sistemi)",
+            "aciklama": "İzin verilmeyen erişimlerin önlenmesi için tasarlanmış sistemler."
+          },
+          {
+            "kavram": "Internet of Things Security (Nesnelerin İnterneti Güvenliği)",
+            "aciklama": "Nesnelerin İnterneti (IoT) cihazlarının güvenliğini sağlamak için kullanılan strateji ve çözümler."
+          },
+          {
+            "kavram": "Information Assurance (Bilgi Güvencesi)",
+            "aciklama": "Verilerin güvenliğini sağlamak için alınan önlemler ve uygulamalar."
+          },
+          {
+            "kavram": "Identity Theft (Kimlik Hırsızlığı)",
+            "aciklama": "Birinin kişisel bilgilerini, genellikle finansal yarar sağlamak amacıyla izinsiz kullanma eylemi."
+          },
+          {
+            "kavram": "Industrial Control System Security (Endüstriyel Kontrol Sistemi Güvenliği)",
+            "aciklama": "Endüstriyel otomasyon ve kontrol sistemlerinin siber saldırılara karşı korunması."
+          },
+          {
+            "kavram": "IP Spoofing (IP Taklit Etme)",
+            "aciklama": "Bir cihazın IP adresini başka bir cihazın IP adresiymiş gibi göstermek suretiyle kimlik sahteciliği yapma."
+          },
+          {
+            "kavram": "Insecure Direct Object Reference (IDOR) (Güvensiz Doğrudan Nesne Referansı)",
+            "aciklama": "Kullanıcıların erişim yetkisi olmayan kaynaklara doğrudan URL ile erişmesi, güvenlik açığına yol açar."
+          },
+          {
+            "kavram": "Internal Threats (İç Tehditler)",
+            "aciklama": "Bir organizasyonun içindeki çalışanlar veya yetkili kişiler tarafından gerçekleştirilen güvenlik tehditleri."
+          },
+          {
+            "kavram": "Information Disclosure (Bilgi Açığa Çıkması)",
+            "aciklama": "Gizli veya hassas bilgilerin izinsiz bir şekilde ifşa edilmesi."
+          },
+          {
+            "kavram": "IPSec (IP Güvenliği Protokolü)",
+            "aciklama": "İnternet üzerinden güvenli veri iletimi sağlamak için kullanılan bir protokoldür."
+          },
+          {
+            "kavram": "Internet Security (İnternet Güvenliği)",
+            "aciklama": "İnternetteki veri iletimi ve uygulamaların güvenliğini sağlamak amacıyla alınan önlemler."
+          },
+          {
+            "kavram": "Intellectual Property Protection (Fikri Mülkiyet Koruması)",
+            "aciklama": "Yaratıcı çalışmaların (patentler, markalar, telif hakları vb.) korunması."
+          },
+          {
+            "kavram": "Information Classification (Bilgi Sınıflandırması)",
+            "aciklama": "Verilerin hassasiyetine göre sınıflandırılmasına yönelik bir süreç."
+          },
+          {
+            "kavram": "Injection Attack (Enjeksiyon Saldırısı)",
+            "aciklama": "Kötü niyetli verilerin, bir uygulamanın veri girişi alanlarına yerleştirilerek sistemin manipüle edilmesi."
+          },
+          {
+            "kavram": "Information Governance (Bilgi Yönetişimi)",
+            "aciklama": "Bilgilerin doğru şekilde yönetilmesi, düzenlenmesi ve korunmasına yönelik bir çerçeve."
+          },
+          {
+            "kavram": "Information Risk Management (Bilgi Risk Yönetimi)",
+            "aciklama": "Bilgi sistemlerindeki risklerin tanımlanması ve bu risklerin azaltılması için alınan önlemler."
+          },
+          {
+            "kavram": "Incident Handling (Olay Yönetimi)",
+            "aciklama": "Güvenlik olaylarının doğru şekilde ele alınması ve çözülmesi için bir dizi prosedür."
+          },
+          {
+            "kavram": "Identity Authentication (Kimlik Doğrulama)",
+            "aciklama": "Kullanıcıların kimliklerini doğrulamak için kullanılan teknikler ve yöntemler."
+          },
+          {
+            "kavram": "Input Validation (Girdi Doğrulama)",
+            "aciklama": "Bir uygulamanın aldığı verilerin doğruluğunun ve geçerliliğinin kontrol edilmesi."
+          },
+          {
+            "kavram": "Isolation (İzole Etme)",
+            "aciklama": "Güvenlik tehditlerinden korunmak amacıyla bir sistemin veya ağın ayrılması."
+          },
+          {
+            "kavram": "Integrity Check (Bütünlük Kontrolü)",
+            "aciklama": "Verilerin değiştirilmediğini doğrulamak için yapılan denetimler."
+          },
+          {
+            "kavram": "Identity Federation (Kimlik Federasyonu)",
+            "aciklama": "Birden fazla organizasyonun kimlik doğrulama bilgilerini paylaşarak tek bir kimlik doğrulama kullanabilmesi."
+          },
+          {
+            "kavram": "Interactive Security (Etkileşimli Güvenlik)",
+            "aciklama": "Kullanıcıların doğrudan etkileşimde bulunduğu güvenlik önlemleri ve uygulamalar."
+          },
+          {
+            "kavram": "Invisible Watermarking (Görünmeyen Filigranlama)",
+            "aciklama": "Dijital içeriklerin korunmasını sağlamak için görünmeyen bir işaret eklemek."
+          },
+          {
+            "kavram": "Increased Privilege (Yükseltilmiş Ayrıcalık)",
+            "aciklama": "Kullanıcının mevcut yetkilerinin ötesinde bir erişim hakkı kazanması."
+          },
+          {
+            "kavram": "Internet Protocol Security (İnternet Protokolü Güvenliği)",
+            "aciklama": "İnternet üzerindeki veri iletiminin güvenliğini sağlamak için kullanılan protokol seti."
+          },
+          {
+            "kavram": "Information Encryption (Bilgi Şifreleme)",
+            "aciklama": "Verilerin yetkisiz erişimden korunmasını sağlamak amacıyla şifrelenmesi."
+          },
+          {
+            "kavram": "Infrastructure Security (Altyapı Güvenliği)",
+            "aciklama": "Fiziksel ve sanal altyapıların güvenliğinin sağlanması."
+          },
+          {
+            "kavram": "Intelligent Intrusion Detection (Akıllı İzinsiz Giriş Tespiti)",
+            "aciklama": "Öğrenen algoritmalar kullanarak izinsiz girişleri tespit etme sistemi."
+          },
+          {
+            "kavram": "Information Theft (Bilgi Hırsızlığı)",
+            "aciklama": "Gizli verilerin izinsiz bir şekilde çalınması."
+          },
+          {
+            "kavram": "Intruder (Saldırgan)",
+            "aciklama": "Bilgisayar sistemlerine izinsiz olarak erişim sağlamaya çalışan kişi veya yazılım."
+          },
+          {
+            "kavram": "Incident Detection (Olay Tespiti)",
+            "aciklama": "Güvenlik olaylarının hızlı bir şekilde fark edilmesi ve tanımlanması."
+          },
+          {
+            "kavram": "Intrusion Detection and Prevention (İzinsiz Giriş Tespiti ve Önlenmesi)",
+            "aciklama": "Sistemlere yönelik saldırıları tespit etme ve bu saldırıları engelleme yöntemleri."
+          },
+          {
+            "kavram": "Identity Governance (Kimlik Yönetişimi)",
+            "aciklama": "Kullanıcı kimliklerinin yönetimi ve denetimi."
+          },
+          {
+            "kavram": "Incident Management System (Olay Yönetim Sistemi)",
+            "aciklama": "Güvenlik olaylarını izlemek, yönetmek ve çözmek için kullanılan yazılım veya sistem."
+          },
+          {
+            "kavram": "Internet Access Control (İnternet Erişim Kontrolü)",
+            "aciklama": "İnternet erişiminin denetlenmesi ve kontrol edilmesi."
+          },
+          {
+            "kavram": "IP Address Filtering (IP Adresi Filtreleme)",
+            "aciklama": "IP adresleri üzerinden gelen trafiğin izlenmesi ve yönetilmesi."
+          },
+          {
+            "kavram": "Intrusion Signature (İzinsiz Giriş İmzası)",
+            "aciklama": "İzinsiz girişleri tanımlayan belirli desenler veya imzalar."
+          },
+          {
+            "kavram": "Information System Security (Bilgi Sistemi Güvenliği)",
+            "aciklama": "Bilgi sistemlerinin dış tehditlere karşı korunmasını sağlayan güvenlik önlemleri."
+          },
+          {
+            "kavram": "In-memory Malware (Bellek İçindeki Kötü Amaçlı Yazılım)",
+            "aciklama": "Bilgisayarın belleğinde bulunan ve çalışırken tespit edilmeyen kötü amaçlı yazılım."
+          },
+          {
+            "kavram": "Internal Audits (İç Denetimler)",
+            "aciklama": "Organizasyon içinde yapılan güvenlik denetimleri."
+          },
+          {
+            "kavram": "Incident Reporting (Olay Bildirimi)",
+            "aciklama": "Güvenlik olayları ve tehditlerin yetkili birimlere bildirilmesi."
+          },
+          {
+            "kavram": "Information Leak (Bilgi Sızması)",
+            "aciklama": "Gizli bilgilerin izinsiz bir şekilde dışarı sızması."
+          },
+          {
+            "kavram": "IP Reputation (IP İtibarı)",
+            "aciklama": "IP adreslerinin, kötüye kullanım ya da siber saldırı geçmişine göre değerlendirilmesi."
+          },
+          {
+            "kavram": "Intruder Alert (Saldırgan Uyarısı)",
+            "aciklama": "Sistem veya ağda izinsiz giriş tespit edildiğinde verilen uyarı."
+          },
+          {
+            "kavram": "Intelligent Security (Akıllı Güvenlik)",
+            "aciklama": "Yapay zeka ve makine öğrenmesi kullanarak güvenlik tehditlerini proaktif şekilde tespit etme."
+          },
+          {
+            "kavram": "Image Authentication (Görüntü Kimlik Doğrulama)",
+            "aciklama": "Görsellerin doğruluğunu onaylamak amacıyla yapılan kimlik doğrulama işlemleri."
+          },
+          {
+            "kavram": "Integrated Security Solutions (Entegre Güvenlik Çözümleri)",
+            "aciklama": "Birden fazla güvenlik teknolojisinin bir arada kullanıldığı bütünsel güvenlik çözümleri."
+          },
+          {
+            "kavram": "Intrusion Alarm (İzinsiz Giriş Alarmı)",
+            "aciklama": "İzinsiz giriş tespit edilen sistemlerde çalışan alarm sistemleri."
+          },
+          {
+            "kavram": "Identity Theft Protection (Kimlik Hırsızlığı Koruması)",
+            "aciklama": "Kimlik hırsızlığına karşı kullanıcıyı korumaya yönelik stratejiler ve çözümler."
+          },
+          {
+            "kavram": "Intelligence Sharing (İstihbarat Paylaşımı)",
+            "aciklama": "Güvenlik tehditleri hakkında bilgi paylaşımı yaparak kolektif savunma sağlama."
+          },
+          {
+            "kavram": "Information Security Governance (Bilgi Güvenliği Yönetişimi)",
+            "aciklama": "Organizasyonun bilgi güvenliği stratejilerinin ve politikalarının oluşturulması ve yönetilmesi."
+          },
+          {
+            "kavram": "Infiltration Detection (Sızma Tespiti)",
+            "aciklama": "Bilgisayar ağlarına veya sistemlerine yapılan gizli girişlerin tespit edilmesi."
+          },
+          {
+            "kavram": "Information Privacy (Bilgi Mahremiyeti)",
+            "aciklama": "Kişisel verilerin korunması ve kullanıcı mahremiyetinin sağlanması."
+          },
+          {
+            "kavram": "Internal Security (İç Güvenlik)",
+            "aciklama": "Organizasyon içindeki potansiyel tehditlere karşı alınan güvenlik önlemleri."
+          },
+          {
+            "kavram": "IP Taklit Saldırısı (IP Spoofing Attack)",
+            "aciklama": "Saldırganların, hedef sistemi yanıltmak amacıyla, kendi IP adresini başka bir kaynağa aitmiş gibi gösterdiği saldırı türüdür. Bu, genellikle kimlik doğrulama ve güvenlik önlemlerini aşmak için kullanılır."
+          },
+          {
+            "kavram": "Olay Yanıtı Planı (Incident Response Plan)",
+            "aciklama": "Güvenlik olaylarına (örneğin, siber saldırılar veya veri ihlalleri) yanıt verme ve çözme sürecini tanımlayan bir plan. Etkin bir olay yanıtı planı, zararları en aza indirgemek için kritik öneme sahiptir."
+          },
+          {
+            "kavram": "IP Filtreleme (IP Filtering)",
+            "aciklama": "Ağa gelen veya giden trafiği belirli bir IP adresi veya adres aralığına göre sınırlamak. Bu, ağın güvenliğini artırmak için IP adreslerine dayalı erişim kontrolü sağlar."
+          },
+          {
+            "kavram": "Bilgi Sistemi Denetimi (Information System Auditing)",
+            "aciklama": "Bir bilgi sisteminin güvenlik, gizlilik ve işlevsellik açısından düzenli olarak kontrol edilmesi. Bu denetim, potansiyel zayıf noktaları ve uyumsuzlukları tespit etmeye yardımcı olur."
+          },
+          {
+            "kavram": "Saldırgan Tespiti (Intruder Detection)",
+            "aciklama": "Bilgisayar ağlarına izinsiz giriş yapmaya çalışan saldırganları tespit etme süreci. Bu, saldırganların eylemleri hakkında bilgi edinmek ve erken uyarı sağlamak için önemlidir."
+          },
+          {
+            "kavram": "Entegre Güvenlik Yönetimi (Integrated Security Management)",
+            "aciklama": "Fiziksel, ağ ve bilgi güvenliği önlemlerini birleştirerek kapsamlı bir güvenlik yönetimi sağlama yaklaşımı."
+          },
+          {
+            "kavram": "Fikri Mülkiyet Hırsızlığı (Intellectual Property Theft)",
+            "aciklama": "Bir kişinin, kurumun veya kuruluşun fikri mülkiyet haklarına sahip olduğu yaratıcı çalışmalarını izinsiz şekilde çalma veya kötüye kullanma eylemi."
+          },
+          {
+            "kavram": "İç Tehditler (Insider Threats)",
+            "aciklama": "Organizasyon içindeki çalışanlar, tedarikçiler veya diğer güvenilir kişiler tarafından gerçekleştirilen, güvenlik ihlallerine veya veri sızıntılarına yol açan tehditler."
+          },
+          {
+            "kavram": "İstihbarat Analizi (Intelligence Analysis)",
+            "aciklama": "Toplanan verileri inceleyerek potansiyel tehditler hakkında bilgi oluşturma süreci. Bu analiz, güvenlik stratejilerinin belirlenmesine yardımcı olur."
+          },
+          {
+            "kavram": "İlk Erişim (Initial Access)",
+            "aciklama": "Bir saldırganın, bir sistem veya ağa ilk defa girmesi. Bu genellikle kimlik avı, kötü amaçlı yazılım veya sistem açıkları kullanılarak yapılır."
+          },
+          {
+            "kavram": "Bilgi Risk Analizi (Information Risk Analysis)",
+            "aciklama": "Bilgi sistemlerine yönelik tehditler ve zayıf noktaların belirlenmesi ve bu risklerin yönetilmesi için yapılan analiz."
+          },
+          {
+            "kavram": "Bilgi Güvenliği Politikası (Information Security Policy)",
+            "aciklama": "Bir organizasyonun bilgi güvenliği konusunda belirlediği kurallar ve yönergeler. Bu politika, verilerin korunmasını ve güvenlik önlemlerinin uygulanmasını sağlar."
+          },
+          {
+            "kavram": "IP Adresi Taklidi (IP Address Spoofing)",
+            "aciklama": "Bir saldırganın, başka bir cihazın IP adresini taklit ederek kimlik doğrulama ve güvenlik önlemlerini aşmaya çalıştığı bir saldırı türü."
+          },
+          {
+            "kavram": "Saldırgan Tespit Sistemi (Intruder Detection System)",
+            "aciklama": "Ağda veya sistemdeki potansiyel saldırganları tespit etmek için kullanılan yazılım veya donanım tabanlı bir sistem."
+          },
+          {
+            "kavram": "Olay İzleme (Incident Monitoring)",
+            "aciklama": "Güvenlik olaylarının sürekli olarak izlenmesi ve bu olaylara hızlı bir şekilde müdahale edilmesi. Olay izleme, tehditlerin erken tespiti için önemlidir."
+          },
+          {
+            "kavram": "İç Ağ Güvenliği (Internal Network Security)",
+            "aciklama": "Bir organizasyonun iç ağındaki verilerin ve sistemlerin korunmasına yönelik alınan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Bilgi Denetimi (Information Audit)",
+            "aciklama": "Bilgi sistemlerinin güvenlik, uyumluluk ve yönetim açısından denetlenmesi. Bu, organizasyonun bilgi güvenliği stratejilerinin etkinliğini değerlendirmeye yardımcı olur."
+          },
+          {
+            "kavram": "Kimlik Doğrulama (Identity Verification)",
+            "aciklama": "Bir kişinin, sistem veya ağda bir işlem gerçekleştirmeden önce kimliğinin doğrulanması işlemi."
+          },
+          {
+            "kavram": "Görünmeyen Kimlik Doğrulama (Invisible Authentication)",
+            "aciklama": "Kullanıcıların kimliklerini doğrulamak için görsel ipuçları veya kullanıcı müdahalesi gerektirmeyen yöntemlerin kullanılması."
+          },
+          {
+            "kavram": "Entegre Güvenlik Duvarı (Integrated Firewall)",
+            "aciklama": "Ağa gelen ve giden veriyi izleyen ve güvenlik tehditlerini önlemek için entegre bir şekilde çalışan güvenlik duvarı."
+          },
+          {
+            "kavram": "Anlık Mesajlaşma Güvenliği (Instant Messaging Security)",
+            "aciklama": "Anlık mesajlaşma servislerinde kullanıcıların iletişimlerini güvenli hale getiren önlemler. Bu, mesajların şifrelenmesi ve kimlik doğrulama süreçlerini içerebilir."
+          },
+          {
+            "kavram": "Bilgi Gizleme (Information Hiding)",
+            "aciklama": "Verilerin, izinsiz erişimlerden korunması için gizlenmesi. Bu teknik, verilerin sadece yetkili kullanıcılar tarafından erişilmesini sağlar."
+          },
+          {
+            "kavram": "Bilgi Koruma (Information Protection)",
+            "aciklama": "Bilgilerin izinsiz erişim, değişiklik veya ifşaya karşı korunması amacıyla alınan güvenlik önlemleri."
+          },
+          {
+            "kavram": "IP Adresi İzleme (IP Address Tracing)",
+            "aciklama": "Bir IP adresinden kaynaklanan ağ trafiğinin izlenmesi. Bu, bir saldırganın izini sürmek veya ağdaki sorunları tespit etmek için kullanılabilir."
+          },
+          {
+            "kavram": "Kimlik Doğrulama (Identity Proofing)",
+            "aciklama": "Bir kişinin kimliğini doğrulamak için kullanılan süreç ve teknikler. Bu, genellikle güvenli bir ortamda yapılan kimlik kontrolünü içerir."
+          },
+          {
+            "kavram": "İnternet Sansürü (Internet Censorship)",
+            "aciklama": "İnternetteki içeriklerin, belirli hükümetler veya kuruluşlar tarafından sansürlenmesi ve sınırlanması."
+          },
+          {
+            "kavram": "Kimlik Hırsızlığı Tespiti (Identity Theft Detection)",
+            "aciklama": "Kimlik hırsızlığına karşı koruma sağlamak için kullanılan teknikler ve yöntemler. Bu, genellikle kişisel bilgilerin izinsiz kullanımı hakkında erken uyarılar içerir."
+          },
+          {
+            "kavram": "Olay Soruşturması (Incident Investigation)",
+            "aciklama": "Bir güvenlik olayı sonrasında, olayın nasıl gerçekleştiği ve olayı çözmek için yapılacak adımların belirlenmesi süreci."
+          },
+          {
+            "kavram": "Enfekte Dosyalar (Infected Files)",
+            "aciklama": "Kötü amaçlı yazılım veya virüs içeren dosyalar. Bu dosyalar bilgisayar sistemlerine zarar verebilir."
+          },
+          {
+            "kavram": "Saldırgan Önleme (Intruder Prevention)",
+            "aciklama": "Saldırganların sisteme veya ağlara izinsiz giriş yapmalarını engellemek için alınan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Bellek İçindeki Kötü Amaçlı Yazılım Tespiti (In-memory Malware Detection)",
+            "aciklama": "Sistem belleğinde çalışan kötü amaçlı yazılımları tespit etme süreci. Bu tür yazılımlar genellikle dosya sistemine kaydedilmeden çalıştırılır."
+          },
+          {
+            "kavram": "Bilgi Sistemi Risk Değerlendirmesi (Information System Risk Assessment)",
+            "aciklama": "Bilgi sistemlerinin karşı karşıya olduğu potansiyel tehditlerin ve risklerin değerlendirilmesi süreci."
+          },
+          {
+            "kavram": "İnternet Trafiği Analizi (Internet Traffic Analysis)",
+            "aciklama": "İnternet üzerinden akan veri trafiğini inceleyerek, şüpheli faaliyetleri veya potansiyel güvenlik ihlallerini tespit etme süreci."
+          },
+          {
+            "kavram": "Entegre Güvenlik Mimarisi (Integrated Security Architecture)",
+            "aciklama": "Güvenlik çözümlerinin birleştirilerek tüm organizasyonu kapsayan bir güvenlik yapısının oluşturulması."
+          },
+          {
+            "kavram": "Kimlik ve Erişim Yönetimi (IAM)",
+            "aciklama": "Kullanıcı kimliklerinin doğrulanması ve erişim haklarının yönetilmesi süreci. Bu, güvenliğin sağlanmasında önemli bir rol oynar."
+          },
+          {
+            "kavram": "Intelligent Threat Detection (Akıllı Tehdit Tespiti)",
+            "aciklama": "Gelişmiş algoritmalar ve yapay zeka kullanarak güvenlik tehditlerini tespit etme yöntemi. Bu sistem, potansiyel tehditleri doğru şekilde belirleyerek zamanında müdahale edilmesini sağlar."
+          },
+          {
+            "kavram": "Identity and Privacy Protection (Kimlik ve Mahremiyet Koruması)",
+            "aciklama": "Bireylerin kimliklerinin ve kişisel verilerinin gizliliğini sağlamak için uygulanan güvenlik önlemleri."
+          },
+          {
+            "kavram": "Information Collection (Bilgi Toplama)",
+            "aciklama": "Bilgi güvenliği süreçlerinde, tehditleri analiz etmek veya kararlar almak için verilerin toplanması işlemi."
+          },
+          {
+            "kavram": "Identity Matching (Kimlik Eşleştirme)",
+            "aciklama": "Bir kullanıcının kimlik bilgilerini doğrulamak amacıyla, farklı kaynaklardan alınan verilerin karşılaştırılması."
+          },
+          {
+            "kavram": "IP Address Allocation (IP Adresi Tahsisi)",
+            "aciklama": "Ağlarda cihazlara IP adreslerinin atanması süreci. Bu, ağdaki cihazların birbirleriyle iletişim kurabilmesi için gereklidir."
+          },
+          {
+            "kavram": "Information Policy (Bilgi Politikası)",
+            "aciklama": "Bir organizasyonun bilgileri nasıl yöneteceğini ve koruyacağını belirleyen kurallar ve yönergeler."
+          },
+          {
+            "kavram": "Integrated Incident Response (Entegre Olay Yanıtı)",
+            "aciklama": "Olaylara müdahale etmek için farklı güvenlik araçlarının ve yöntemlerinin birleştirilmesiyle oluşturulan etkili bir yanıt sistemi."
+          },
+          {
+            "kavram": "Image Authentication Software (Görüntü Kimlik Doğrulama Yazılımı)",
+            "aciklama": "Dijital görüntülerin doğruluğunu ve bütünlüğünü kontrol etmek amacıyla kullanılan yazılımlar."
+          },
+          {
+            "kavram": "Internal Malware Detection (İç Kötü Amaçlı Yazılım Tespiti)",
+            "aciklama": "Bir organizasyonun iç sistemlerinde kötü amaçlı yazılımları tespit etmeye yönelik yazılım araçları."
+          },
+          {
+            "kavram": "Intelligent Firewall (Akıllı Güvenlik Duvarı)",
+            "aciklama": "Trafiği analiz eden ve yalnızca güvenli ve yetkilendirilmiş verilerin geçmesine izin veren, yapay zeka destekli güvenlik duvarı sistemleri."
+          },
+          {
+            "kavram": "Internet Filtering (İnternet Filtreleme)",
+            "aciklama": "Kullanıcıların erişebileceği internet içeriğini sınırlamak için kullanılan teknoloji, genellikle zararlı veya istenmeyen içerikleri engeller."
+          },
+          {
+            "kavram": "Intruder Traceability (Saldırgan İzlenebilirliği)",
+            "aciklama": "Bir siber saldırganın izlerini takip etmek için kullanılan araçlar ve teknikler, saldırganın kimliğini tespit etmeye yönelik çalışmalardır."
+          },
+          {
+            "kavram": "Identity Anonymization (Kimlik Anonimleştirme)",
+            "aciklama": "Bireylerin kimliklerini gizlemek için uygulanan bir yöntem. Özellikle gizlilik koruma amacıyla kullanılır."
+          },
+          {
+            "kavram": "Information Extraction (Bilgi Çıkartma)",
+            "aciklama": "Büyük veri setlerinden anlamlı ve yararlı bilgilerin çıkarılması işlemi."
+          },
+          {
+            "kavram": "Incident Prevention (Olay Öncesi Önlem)",
+            "aciklama": "Güvenlik olaylarının gerçekleşmeden önce alınan önlemler, potansiyel tehditleri engellemeye yönelik stratejilerdir."
+          },
+          {
+            "kavram": "IP Address Spoofing Attack (IP Adresi Taklidi Saldırısı)",
+            "aciklama": "Bir saldırganın kendi IP adresini, başka bir kaynağa aitmiş gibi gösterdiği saldırı türü."
+          },
+          {
+            "kavram": "Internet Filtering Techniques (İnternet Filtreleme Teknikleri)",
+            "aciklama": "İnternet üzerinden gelen kötü niyetli içerikleri engellemek için kullanılan çeşitli teknikler ve yöntemler."
+          },
+          {
+            "kavram": "Interactive Security Testing (Etkileşimli Güvenlik Testi)",
+            "aciklama": "Kullanıcıların veya sistemlerin güvenlik seviyelerini etkileşimli olarak test etmeyi amaçlayan güvenlik testleri."
+          },
+          {
+            "kavram": "Identity Lifecycle Management (Kimlik Yaşam Döngüsü Yönetimi)",
+            "aciklama": "Bireylerin kimlik bilgilerini yaratma, güncelleme, yönetme ve silme süreçlerinin yönetilmesi."
+          },
+          {
+            "kavram": "Intruder Detection System (IDS) (İzinsiz Giriş Tespit Sistemi)",
+            "aciklama": "Ağdaki veya sistemdeki izinsiz girişleri tespit etmeye yönelik kullanılan yazılımlar ve donanımlar."
+          },
+          {
+            "kavram": "Identity Deception (Kimlik Aldatmacası)",
+            "aciklama": "Bir kişinin kimliğini taklit ederek dolandırıcılık yapmaya yönelik faaliyet."
+          },
+          {
+            "kavram": "Insider Threat Prevention (İç Tehdit Öncesi Önlem)",
+            "aciklama": "Çalışanlar veya iç kullanıcılar tarafından yapılan potansiyel zararları engellemeye yönelik alınan önlemler."
+          },
+          {
+            "kavram": "Incident Management Framework (Olay Yönetim Çerçevesi)",
+            "aciklama": "Güvenlik olaylarına müdahale etmek ve yönetmek için bir organizasyonun uyguladığı prosedürler ve sistemler."
+          },
+          {
+            "kavram": "Intrusion Prevention System (IPS) (İzinsiz Giriş Önleme Sistemi)",
+            "aciklama": "Ağlara veya sistemlere yapılan izinsiz girişleri önlemeye yönelik teknolojik sistemler."
+          },
+          {
+            "kavram": "Internet Security Solutions (İnternet Güvenliği Çözümleri)",
+            "aciklama": "İnternet üzerinde gerçekleştirilen işlemleri güvence altına almak için kullanılan yazılım ve donanım çözümleri."
+          },
+          {
+            "kavram": "Intelligent Malware Detection (Akıllı Kötü Amaçlı Yazılım Tespiti)",
+            "aciklama": "Kötü amaçlı yazılımların tespitini akıllı algoritmalarla yapan sistemler."
+          },
+          {
+            "kavram": "Incident Logging (Olay Kaydı)",
+            "aciklama": "Olayların ve güvenlik tehditlerinin kaydedilmesi ve izlenmesi için tutulan günlükler."
+          },
+          {
+            "kavram": "Identity Management Solutions (Kimlik Yönetimi Çözümleri)",
+            "aciklama": "Bireylerin dijital kimlik bilgilerini yönetmek ve denetlemek için kullanılan yazılım çözümleri."
+          },
+          {
+            "kavram": "Information Leakage Prevention (Bilgi Sızıntısı Önleme)",
+            "aciklama": "Bilgilerin istenmeyen şekilde dışarıya sızmasını engellemeye yönelik alınan önlemler."
+          },
+          {
+            "kavram": "Intranet Security (İntranet Güvenliği)",
+            "aciklama": "Kurum içi ağların güvenliğini sağlamak için uygulanan güvenlik önlemleri."
+          },
+          {
+            "kavram": "IP Address Blocking (IP Adresi Engelleme)",
+            "aciklama": "Belirli bir IP adresinden gelen trafiği engelleme işlemi, bu genellikle saldırıları önlemek için yapılır."
+          },
+          {
+            "kavram": "Intellectual Property Theft Detection (Fikri Mülkiyet Hırsızlığı Tespiti)",
+            "aciklama": "Fikri mülkiyetin izinsiz kullanımını veya çalınmasını tespit etmeye yönelik teknolojiler."
+          },
+          {
+            "kavram": "Information Preservation (Bilgi Koruma)",
+            "aciklama": "Bilgilerin güvenliğini sağlamak için alınan önlemler ve bilgilerinin bütünlüğünü koruma süreci."
+          },
+          {
+            "kavram": "Incident Recovery (Olay Kurtarma)",
+            "aciklama": "Güvenlik olaylarının ardından sistemi eski haline getirmek için yapılan çalışmalar."
+          },
+          {
+            "kavram": "Information Access Control (Bilgi Erişim Kontrolü)",
+            "aciklama": "Bilgilere kimlerin erişebileceğini belirleyen güvenlik politikaları."
+          },
+          {
+            "kavram": "Identity and Access Control (Kimlik ve Erişim Kontrolü)",
+            "aciklama": "Kullanıcı kimliklerinin doğrulanması ve erişim izinlerinin yönetilmesi işlemi."
+          },
+          {
+            "kavram": "Information System Configuration (Bilgi Sistemi Yapılandırması)",
+            "aciklama": "Bilgi sistemlerinin doğru çalışması için yapılan yapılandırma işlemleri."
+          },
+          {
+            "kavram": "Internet Behavior Analytics (İnternet Davranış Analitiği)",
+            "aciklama": "Kullanıcıların internet üzerindeki davranışlarını analiz ederek anormal aktiviteleri tespit etmek için kullanılan araçlar."
+          },
+          {
+            "kavram": "Intelligent Network Security (Akıllı Ağ Güvenliği)",
+            "aciklama": "Ağ trafiğini analiz eden ve potansiyel tehditleri akıllıca belirleyerek güvenliği artıran ağ güvenlik sistemleri."
+          },
+          {
+            "kavram": "Identity Abuse (Kimlik İstismarı)",
+            "aciklama": "Bir kişinin kimlik bilgilerini kötüye kullanma durumu."
+          },
+          {
+            "kavram": "Incident Severity Classification (Olay Ciddiyet Sınıflandırması)",
+            "aciklama": "Olayların ciddiyetine göre sınıflandırılması ve önceliklendirilmesi."
+          },
+          {
+            "kavram": "Incident Remediation (Olay Düzeltmesi)",
+            "aciklama": "Olay sonrası hataların düzeltilmesi ve sistemin tekrar güvenli hale getirilmesi."
+          },
+          {
+            "kavram": "Insider Threat Detection (İç Tehdit Tespiti)",
+            "aciklama": "Kurum içindeki çalışanlar veya kişiler tarafından gerçekleştirilen tehditlerin tespit edilmesi."
+          },
+          {
+            "kavram": "Incident Communication (Olay İletişimi)",
+            "aciklama": "Olayla ilgili bilgilendirmenin yapılması, paydaşlara ve ilgili birimlere olayın durumu hakkında bilgi verilmesi."
+          },
+          {
+            "kavram": "Internet Behavior Monitoring (İnternet Davranışı İzleme)",
+            "aciklama": "İnternet üzerindeki kullanıcı davranışlarını izleyerek anormal aktiviteleri tespit etmek için kullanılan teknik."
+          },
+          {
+            "kavram": "Information Hiding Methods (Bilgi Gizleme Yöntemleri)",
+            "aciklama": "Bilgilerin gizli kalmasını sağlamak için kullanılan teknikler."
+          },
+          {
+            "kavram": "In-memory Malware Removal (Bellek İçindeki Kötü Amaçlı Yazılım Temizliği)",
+            "aciklama": "Bilgisayarın belleğinde bulunan kötü amaçlı yazılımların tespit edilip temizlenmesi."
+          },
+          {
+            "kavram": "Information Integrity (Bilgi Bütünlüğü)",
+            "aciklama": "Bilgilerin doğru, eksiksiz ve değiştirilmemiş olmasını sağlama süreci."
+          },
+          {
+            "kavram": "Intelligent Malware Analysis (Akıllı Kötü Amaçlı Yazılım Analizi)",
+            "aciklama": "Kötü amaçlı yazılımların davranışlarını analiz ederek tespit edilmesini sağlayan gelişmiş sistemler."
+          }
+
+    ]
+}

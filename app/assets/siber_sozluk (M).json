@@ -1,0 +1,406 @@
+{
+    "siberGuvenlikKavramlari": [
+
+        {
+            "kavram": "Malware (Kötü Amaçlı Yazılım)",
+            "aciklama": "Bilgisayarlar, ağlar veya mobil cihazlar üzerinde zarar vermek amacıyla tasarlanmış yazılımlar. Virüsler, truva atları, solucanlar ve diğer türler bu kategoriye girer."
+          },
+          {
+            "kavram": "Man-in-the-Middle Attack (MITM) (Ortadaki Adam Saldırısı)",
+            "aciklama": "İletişim yapan iki taraf arasında gizlice müdahale ederek, verileri dinleme, değiştirme veya yönlendirme amacıyla gerçekleştirilen bir saldırı."
+          },
+          {
+            "kavram": "Malicious Software (Kötü Niyetli Yazılım)",
+            "aciklama": "Kullanıcının veya sistemin zarar görmesine neden olan yazılımlar. Bu, genellikle kullanıcı bilgilerini çalmak, sistemleri bozmak veya casusluk yapmak amacıyla kullanılır."
+          },
+          {
+            "kavram": "Machine Learning Security (Makine Öğrenimi Güvenliği)",
+            "aciklama": "Makine öğrenimi algoritmalarını ve uygulamalarını güvenli hale getirmeyi amaçlayan bir güvenlik alanıdır. Bu, saldırılara karşı savunmalar geliştirmeyi ve modelin güvenliğini sağlamayı içerir."
+          },
+          {
+            "kavram": "Mobile Security (Mobil Güvenlik)",
+            "aciklama": "Mobil cihazların ve uygulamaların güvenliğini sağlamak için kullanılan yöntemler ve teknolojiler. Bu, kötü amaçlı yazılımlardan, veri hırsızlıklarından ve diğer tehditlerden korunmayı içerir."
+          },
+          {
+            "kavram": "Managed Security Service Provider (MSSP) (Yönetilen Güvenlik Hizmeti Sağlayıcı)",
+            "aciklama": "Kuruluşlara ağ güvenliği, tehdit tespiti, izleme ve müdahale gibi hizmetleri sağlayan üçüncü taraf hizmet sağlayıcıları."
+          },
+          {
+            "kavram": "Multifactor Authentication (MFA) (Çok Faktörlü Kimlik Doğrulama)",
+            "aciklama": "Kullanıcıların kimliğini doğrulamak için birden fazla doğrulama faktörü (şifre, telefon, biyometrik veri gibi) kullanan güvenlik yöntemi."
+          },
+          {
+            "kavram": "Memory Corruption (Bellek Bozulması)",
+            "aciklama": "Bir programın belleğini yanlış bir şekilde yönetmesi sonucu, programın hatalı çalışmasına veya sistemin çökmesine neden olan durum."
+          },
+          {
+            "kavram": "Metasploit (Penetrasyon Testi Aracı)",
+            "aciklama": "Güvenlik açıklarını tespit etmek ve test etmek için kullanılan popüler bir penetrasyon testi aracıdır. Güvenlik uzmanları, yazılımları analiz ederken bu araçla saldırılar gerçekleştirir."
+          },
+          {
+            "kavram": "Malicious Code (Kötü Niyetli Kod)",
+            "aciklama": "Sistemi kötü amaçlarla etkilemek amacıyla yazılmış, kullanıcıların bilgisini çalmaya, sisteme zarar vermeye veya yetkisiz erişim sağlamaya yönelik kod parçaları."
+          },
+          {
+            "kavram": "Media Access Control (MAC) (Medya Erişim Kontrolü)",
+            "aciklama": "Ağda cihazların birbirleriyle iletişim kurabilmesi için her bir cihaza atanan benzersiz kimlik numarası. Genellikle Ethernet veya Wi-Fi cihazlarında kullanılır."
+          },
+          {
+            "kavram": "Mobile Device Management (MDM) (Mobil Cihaz Yönetimi)",
+            "aciklama": "Kurumların mobil cihazları yönetebilmesi için kullanılan bir teknoloji. MDM, cihazların güvenliğini sağlar ve uzaktan yönetimini mümkün kılar."
+          },
+          {
+            "kavram": "MITM Proxy (Ortadaki Adam Proxy)",
+            "aciklama": "Ortadaki adam saldırılarında kullanılan bir tür proxy sunucu. İletişimi izler ve gerekirse değiştirir."
+          },
+          {
+            "kavram": "Malware Analysis (Kötü Amaçlı Yazılım Analizi)",
+            "aciklama": "Kötü amaçlı yazılımların çalışma biçimini anlamak amacıyla yapılan analiz. Bu analiz, yazılımın zararlarını, davranışlarını ve savunma önlemlerini anlamaya yardımcı olur."
+          },
+          {
+            "kavram": "Man-in-the-Browser Attack (Tarayıcıdaki Ortadaki Adam Saldırısı)",
+            "aciklama": "Bir kullanıcının web tarayıcısına sızarak, işlemler sırasında gizlice müdahale eden bir tür MITM saldırısı."
+          },
+          {
+            "kavram": "Memory Dump (Bellek Dökümü)",
+            "aciklama": "Bilgisayarın belleğinde o anki verilerin yedeğinin alınması. Bu, sistem hataları, çökme veya bellekle ilgili sorunlar hakkında bilgi sağlamak amacıyla kullanılır."
+          },
+          {
+            "kavram": "Malicious Payload (Kötü Amaçlı Yük)",
+            "aciklama": "Kötü amaçlı yazılımın, hedef sisteme zarar vermek veya veri çalmak için taşıdığı zararlı kod."
+          },
+          {
+            "kavram": "Memory Forensics (Bellek Adli Tıbbı)",
+            "aciklama": "Bir bilgisayarın belleğindeki verileri inceleyerek, sistemdeki güvenlik ihlallerini, saldırıları veya diğer suçları araştırmak."
+          },
+          {
+            "kavram": "Mobile Malware (Mobil Kötü Amaçlı Yazılım)",
+            "aciklama": "Mobil cihazlara yönelik tasarlanmış kötü amaçlı yazılımlar. Bu yazılımlar, kullanıcıların kişisel verilerini çalmak, cihazı ele geçirmek veya diğer zararları vermek için kullanılır."
+          },
+          {
+            "kavram": "MedeAnalytics (Medikal Veri Analitiği)",
+            "aciklama": "Sağlık verilerini analiz etmek ve bu verilerden anlamlı bilgiler çıkarmak için kullanılan analiz yöntemleri."
+          },
+          {
+            "kavram": "Microsandboxing (Mikro Sandboxing)",
+            "aciklama": "Kötü amaçlı yazılımları izole etmek için kullanılan, daha küçük ve sınırlı bir sandbox (güvenli test ortamı) yöntemi."
+          },
+          {
+            "kavram": "Mobile Threat Defense (Mobil Tehdit Savunması)",
+            "aciklama": "Mobil cihazları hedef alan kötü amaçlı yazılımlar ve diğer tehditlerden korunmasını sağlamak için kullanılan güvenlik yöntemleri."
+          },
+          {
+            "kavram": "Malicious Link (Kötü Amaçlı Bağlantı)",
+            "aciklama": "Bir kullanıcının tıkladığında kötü amaçlı yazılım, virüs veya kimlik avı saldırısı başlatan bağlantılar."
+          },
+          {
+            "kavram": "Mobile Application Security (Mobil Uygulama Güvenliği)",
+            "aciklama": "Mobil uygulamaların güvenliğini sağlamak için uygulanan güvenlik önlemleri. Bu, kullanıcı verilerini korumayı, kötü amaçlı yazılımları engellemeyi ve güvenlik açıklarını azaltmayı içerir."
+          },
+          {
+            "kavram": "Modern Encryption (Modern Şifreleme)",
+            "aciklama": "Verileri şifreleyerek yetkisiz erişimi engellemeyi amaçlayan yeni nesil şifreleme teknikleri. Bu teknikler, güvenlik ve gizlilik için geliştirilmiştir."
+          },
+          {
+            "kavram": "Message Integrity (Mesaj Bütünlüğü)",
+            "aciklama": "Verilen mesajın değiştirilmediğinin doğrulanması. Bu, mesajların iletilmesi sırasında doğruluğun korunmasını sağlar."
+          },
+          {
+            "kavram": "Machine-to-Machine Communication (M2M) (Makine-Makine İletişimi)",
+            "aciklama": "İki veya daha fazla makinenin, insanlar müdahale etmeden birbirleriyle iletişim kurmasını sağlayan sistem."
+          },
+          {
+            "kavram": "Media Encryption (Medya Şifrelemesi)",
+            "aciklama": "Veri depolama ve iletimi sırasında medyanın şifrelenmesi, böylece verinin yalnızca yetkilendirilmiş kullanıcılar tarafından erişilebilmesini sağlar."
+          },
+          {
+            "kavram": "Mobile Operating System Security (Mobil İşletim Sistemi Güvenliği)",
+            "aciklama": "Mobil işletim sistemlerinin (Android, iOS) güvenliğini sağlamak için kullanılan teknolojiler ve yöntemler."
+          },
+          {
+            "kavram": "Mediocre Security (Ortalama Güvenlik)",
+            "aciklama": "Güvenlik önlemlerinin yeterince güçlü olmaması durumunu tanımlar. Genellikle sadece temel güvenlik önlemleri alındığında bu durum ortaya çıkar."
+          },
+          {
+            "kavram": "Memory-Based Attack (Bellek Tabanlı Saldırı)",
+            "aciklama": "Sistemin belleğinde açıklar veya zayıflıklar kullanarak yapılan saldırılar."
+          },
+          {
+            "kavram": "Monitored Security Zone (İzlenen Güvenlik Bölgesi)",
+            "aciklama": "Bir ağ veya sistemin, güvenlik tehditlerine karşı izlenen ve korunmaya alınan bölgesi."
+          },
+          {
+            "kavram": "Modular Malware (Modüler Kötü Amaçlı Yazılım)",
+            "aciklama": "Birçok modülden oluşan ve her biri ayrı bir görev yapan kötü amaçlı yazılım türü."
+          },
+          {
+            "kavram": "Masquerading Attack (Maskeleme Saldırısı)",
+            "aciklama": "Bir saldırganın, kimliğini gizleyerek başka bir kullanıcı veya cihaz gibi görünmesi ve sistemin güvenlik önlemlerini aşması."
+          },
+          {
+            "kavram": "Malware Distribution (Kötü Amaçlı Yazılım Dağıtımı)",
+            "aciklama": "Kötü amaçlı yazılımların farklı cihazlara veya ağlara yayılması. Bu, genellikle e-posta ekleri, indirme bağlantıları veya zararlı web siteleri aracılığıyla yapılır."
+          },
+          {
+            "kavram": "Manipulation Attack (Manipülasyon Saldırısı)",
+            "aciklama": "Bir saldırganın, veriyi veya sistemi manipüle ederek, genellikle bilgiyi değiştirmeyi, yanıltmayı veya yetkisiz erişim sağlamayı amaçladığı saldırı türü."
+          },
+          {
+            "kavram": "Malware as a Service (MaaS) (Kötü Amaçlı Yazılım Hizmet Olarak)",
+            "aciklama": "Kötü amaçlı yazılımların kiralanarak başkalarına hizmet olarak sunulması. Bu, kötü niyetli kullanıcıların saldırılar yapmasını sağlayan bir modeldir."
+          },
+          {
+            "kavram": "Mobile VPN (Mobil VPN)",
+            "aciklama": "Mobil cihazlar üzerinden interneti güvenli bir şekilde kullanmak için oluşturulan sanal özel ağ (VPN). Kullanıcıların internete şifreli bir bağlantı üzerinden erişmesini sağlar."
+          },
+          {
+            "kavram": "Machine Learning Model Poisoning (Makine Öğrenimi Modeli Zehirlenmesi)",
+            "aciklama": "Makine öğrenimi modellerine yanlış veya kötü amaçlı verilerin eklenmesi, modelin doğru çalışmasını engelleyerek sistemin hatalı sonuçlar üretmesine neden olma saldırısı."
+          },
+          {
+            "kavram": "Managed Detection and Response (MDR) (Yönetilen Tespit ve Yanıt)",
+            "aciklama": "Güvenlik tehditlerinin sürekli izlenmesi, tespit edilmesi ve bu tehditlere karşı hızlı bir şekilde yanıt verilmesini sağlayan bir hizmet."
+          },
+          {
+            "kavram": "Modified Authentication (Değiştirilmiş Kimlik Doğrulama)",
+            "aciklama": "Kimlik doğrulama sisteminin değiştirilmesi veya kötü amaçlı bir şekilde manipüle edilmesi. Bu, yetkisiz kişilerin sisteme girmesini sağlamak için yapılır."
+          },
+          {
+            "kavram": "Maturity Model (Olgunluk Modeli)",
+            "aciklama": "Bir organizasyonun güvenlik veya süreç olgunluğunu değerlendiren bir model. Organizasyonun güvenlik seviyesini değerlendirmek ve geliştirmek için kullanılır."
+          },
+          {
+            "kavram": "Malicious Script (Kötü Amaçlı Betik)",
+            "aciklama": "Bir saldırgan tarafından yazılmış, zararlı eylemler gerçekleştiren bir yazılım betiği. Web sayfalarında veya diğer yazılımlarda kullanıcıyı zarar vermek amacıyla çalıştırılabilir."
+          },
+          {
+            "kavram": "Metadata (Meta Verisi)",
+            "aciklama": "Verinin kendisi dışında, veriye dair bilgileri tanımlayan veriler. Örneğin, bir fotoğrafın çekildiği yer, tarih ve cihaz bilgileri gibi."
+          },
+          {
+            "kavram": "Multiple Layer Security (Birden Fazla Katmanlı Güvenlik)",
+            "aciklama": "Güvenlik önlemlerinin, birden fazla katmanla (örneğin, ağ güvenliği, uygulama güvenliği, erişim kontrolü) uygulanması. Bu yaklaşım, güvenliği artırmayı amaçlar."
+          },
+          {
+            "kavram": "Malicious User Behavior (Kötü Amaçlı Kullanıcı Davranışı)",
+            "aciklama": "Kullanıcıların kötü niyetli veya zararlı davranışlar sergileyerek sisteme zarar vermesi veya verileri çalması."
+          },
+          {
+            "kavram": "Metadata Spoofing (Meta Verisi Taklit Etme)",
+            "aciklama": "Gerçek meta verisini taklit ederek, orijinal verinin kimliğini gizlemeyi amaçlayan saldırı türü."
+          },
+          {
+            "kavram": "Man-In-the-App Attack (Uygulamadaki Ortadaki Adam Saldırısı)",
+            "aciklama": "Kullanıcı ve bir uygulama arasındaki iletişime gizlice müdahale eden saldırı türü. Saldırgan, uygulama ile kullanıcı arasındaki veri alışverişini izler veya değiştirir."
+          },
+          {
+            "kavram": "Mainframe Security (Ana Çerçeve Güvenliği)",
+            "aciklama": "Büyük, merkezi bilgisayar sistemleri olan ana çerçevelerin güvenliğini sağlama süreci. Bu, büyük ölçekli veri işleme ve depolama sistemlerinin güvenliğini korur."
+          },
+          {
+            "kavram": "Memory Leak (Bellek Sızıntısı)",
+            "aciklama": "Bir programın kullandığı bellek alanını serbest bırakmaması sonucu zamanla bellek tüketiminin artması. Bu durum, sistemin performansını düşürür ve çökmesine yol açabilir."
+          },
+          {
+            "kavram": "Managed IT Services (Yönetilen BT Hizmetleri)",
+            "aciklama": "Bilgi teknolojisi hizmetlerinin dış bir sağlayıcı tarafından yönetilmesi. Şirketler, BT altyapılarını ve süreçlerini daha verimli yönetebilmek için bu hizmetleri kullanır."
+          },
+          {
+            "kavram": "Multilateral Encryption (Çok Taraflı Şifreleme)",
+            "aciklama": "Birden fazla tarafın şifreleme kullanarak birbirleriyle güvenli iletişim kurmasını sağlayan şifreleme türü."
+          },
+          {
+            "kavram": "Malware Removal (Kötü Amaçlı Yazılım Kaldırma)",
+            "aciklama": "Sistemdeki kötü amaçlı yazılımların tespit edilip kaldırılması süreci. Bu işlem, bilgisayarın tekrar güvenli hale gelmesini sağlar."
+          },
+          {
+            "kavram": "Microsystem Security (Mikrosistem Güvenliği)",
+            "aciklama": "Küçük sistemler veya cihazların güvenliğini sağlama. Bu, genellikle IoT (Nesnelerin İnterneti) cihazlarının güvenliğini kapsar."
+          },
+          {
+            "kavram": "Modifying Device Access (Cihaz Erişimini Değiştirme)",
+            "aciklama": "Bir cihazın güvenlik ayarlarının değiştirilmesi veya cihazın yetkisiz bir şekilde kontrol edilmesi. Bu, cihazın kötü amaçlı kullanımını sağlar."
+          },
+          {
+            "kavram": "Massive Data Breach (Büyük Veri İhlali)",
+            "aciklama": "Çok büyük miktarda verinin çalınması, sızdırılması veya yanlışlıkla ifşa edilmesi. Bu tür bir ihlal, genellikle çok sayıda kişiyi veya organizasyonu etkiler."
+          },
+          {
+            "kavram": "Malware Propagation (Kötü Amaçlı Yazılım Yayılımı)",
+            "aciklama": "Kötü amaçlı yazılımların bir ağ veya cihaz üzerinden yayılmasını sağlama süreci. Bu, genellikle birden fazla cihazın enfekte edilmesiyle gerçekleşir."
+          },
+          {
+            "kavram": "Media Access Control Address (MAC Address) (Medya Erişim Kontrolü Adresi)",
+            "aciklama": "Her cihazın ağ üzerinden tanımlanmasını sağlayan benzersiz adres. Genellikle ağ donanımlarında kullanılır."
+          },
+          {
+            "kavram": "Mobile App Penetration Testing (Mobil Uygulama Penetrasyon Testi)",
+            "aciklama": "Mobil uygulamaların güvenliğini test etmek için yapılan sızma testi. Bu test, uygulamanın potansiyel güvenlik açıklarını belirlemeyi amaçlar."
+          },
+          {
+            "kavram": "MALP (Modüler Uygulama Çerçevesi)",
+            "aciklama": "Uygulama geliştirmede kullanılan, modüler yapıya sahip bir çerçeve. Uygulama bileşenleri bağımsız olarak geliştirilip birleştirilebilir."
+          },
+          {
+            "kavram": "Mobile Forensics (Mobil Adli Tıp)",
+            "aciklama": "Mobil cihazlardaki dijital izleri inceleyerek, suçları çözmek veya kanıt toplamak amacıyla yapılan analizler."
+          },
+          {
+            "kavram": "Mobile Security Threat (Mobil Güvenlik Tehdidi)",
+            "aciklama": "Mobil cihazları hedef alan her türlü güvenlik tehdidi. Kötü amaçlı yazılımlar, kimlik avı saldırıları ve cihaz hırsızlıkları bu tehditlere örnektir."
+          },
+          {
+            "kavram": "MIME Type (MIME Türü)",
+            "aciklama": "İnternetteki dosya türlerini tanımlayan bir standart. Örneğin, bir görüntü dosyasının türü 'image/jpeg' olarak belirlenir."
+          },
+          {
+            "kavram": "Malicious DNS (Kötü Amaçlı DNS)",
+            "aciklama": "DNS (Domain Name System) üzerinden yapılan kötü niyetli saldırılar. Saldırganlar, kullanıcının trafiğini yönlendirmek için DNS sorgularını değiştirir."
+          },
+          {
+            "kavram": "Minimum Access Control (Minimum Erişim Kontrolü)",
+            "aciklama": "Kullanıcıların yalnızca görevlerini yerine getirebilmek için gerekli olan verilere erişimini sağlayan güvenlik ilkesi."
+          },
+          {
+            "kavram": "Modem Security (Modem Güvenliği)",
+            "aciklama": "İnternet bağlantısını sağlayan modemlerin güvenliğini korumaya yönelik önlemler. Bu, şifreleme, parola yönetimi ve yazılım güncellemeleri gibi yöntemleri içerir."
+          },
+          {
+            "kavram": "Monitoring Systems (İzleme Sistemleri)",
+            "aciklama": "Bir organizasyonun ağlarını, sistemlerini ve uygulamalarını sürekli olarak izleyen sistemler. Bu, güvenlik tehditlerini erken tespit etmeyi sağlar."
+          },
+          {
+            "kavram": "Mail Server Security (E-posta Sunucu Güvenliği)",
+            "aciklama": "E-posta sunucularının güvenliğini sağlamak amacıyla alınan önlemler. Bu, spam filtreleme, şifreleme ve kimlik doğrulama yöntemlerini içerir."
+          },
+          {
+            "kavram": "Malicious URL (Kötü Amaçlı URL)",
+            "aciklama": "Kullanıcıları kötü amaçlı web sitelerine yönlendiren zararlı bağlantılar. Bu URL'ler, phishing (kimlik avı) saldırıları veya kötü amaçlı yazılım bulaştırmak için kullanılabilir."
+          },
+          {
+            "kavram": "Machine Language (Makine Dili)",
+            "aciklama": "Bilgisayarın anlayabileceği, 0 ve 1'lerden oluşan düşük seviyeli dil. Makine dili, yazılımın donanım ile doğrudan etkileşimde bulunmasını sağlar."
+          },
+          {
+            "kavram": "Multi-factor Authentication (MFA)",
+            "aciklama": "Kullanıcıların kimliklerini doğrulamak için birden fazla yöntem kullanılması. Genellikle bir şifre ve biyometrik veriler gibi iki veya daha fazla faktör gerektirir, güvenliği artırır."
+          },
+          {
+            "kavram": "Masquerade Attack (Maskeleme Saldırısı)",
+            "aciklama": "Saldırganın, başka bir kişinin kimliğini taklit ederek sisteme sızmaya çalıştığı saldırı türü. Bu, kullanıcı adı ve şifre çalmayı içerebilir."
+          },
+          {
+            "kavram": "Modular Firewalls (Modüler Güvenlik Duvarları)",
+            "aciklama": "Yapılandırılabilir ve özelleştirilebilir güvenlik duvarları. Farklı güvenlik modülleri, ağ trafiğini kontrol etmek için modüler olarak eklenebilir."
+          },
+          {
+            "kavram": "Malicious Email (Kötü Amaçlı E-posta)",
+            "aciklama": "Saldırganların zararlı yazılımlar, kimlik avı (phishing) veya diğer kötü amaçlı içerikleri yaymak için kullandığı e-postalar."
+          },
+          {
+            "kavram": "Monitoring Malware Activity (Kötü Amaçlı Yazılım Aktivitesini İzleme)",
+            "aciklama": "Bir sistemdeki kötü amaçlı yazılımların faaliyetlerini izleyerek, bunların tespiti ve etkisiz hale getirilmesi amacıyla yapılan işlemler."
+          },
+          {
+            "kavram": "Managed Services (Yönetilen Hizmetler)",
+            "aciklama": "Bir hizmet sağlayıcısının, bir organizasyonun BT altyapısını ve operasyonlarını yönetmesi. Bu, genellikle ağ yönetimi, güvenlik ve veri yedekleme gibi hizmetleri içerir."
+          },
+          {
+            "kavram": "Memory Forensics Tools (Bellek Adli Tıp Araçları)",
+            "aciklama": "Bilgisayarın belleğindeki verilerin analiz edilmesini sağlayan araçlar. Bu araçlar, kötü amaçlı yazılım, veri sızıntıları ve güvenlik ihlallerini tespit etmek için kullanılır."
+          },
+          {
+            "kavram": "Mobile Payment Security (Mobil Ödeme Güvenliği)",
+            "aciklama": "Mobil cihazlar üzerinden yapılan ödemelerin güvenliğini sağlamak için kullanılan teknolojiler ve yöntemler. Bu, şifreleme, biyometrik doğrulama gibi teknikleri içerir."
+          },
+          {
+            "kavram": "Mobile Network Security (Mobil Ağ Güvenliği)",
+            "aciklama": "Mobil cihazların bağlandığı ağların güvenliğini sağlamak amacıyla alınan önlemler. Bu, veri şifreleme, VPN kullanımı ve ağ izleme gibi yöntemleri kapsar."
+          },
+          {
+            "kavram": "MPLS VPN (MPLS VPN)",
+            "aciklama": "Multi-Protocol Label Switching (MPLS) kullanarak sanal özel ağ (VPN) oluşturulması. MPLS, ağ trafiğini daha hızlı ve güvenli bir şekilde yönlendirmek için kullanılır."
+          },
+          {
+            "kavram": "Multicast Transmission (Çoklu Yayın İletimi)",
+            "aciklama": "Aynı veriyi birden fazla alıcıya aynı anda göndermeye yarayan iletişim yöntemi. Bu, özellikle video ve ses yayınlarında yaygın olarak kullanılır."
+          },
+          {
+            "kavram": "Master Boot Record (MBR) (Ana Önyükleme Kaydı)",
+            "aciklama": "Bir bilgisayarın sabit diskinde, işletim sisteminin yüklenmesi için gerekli bilgileri içeren bir bölümdür. MBR, bilgisayarın açılışında çalıştırılan ilk programı belirtir."
+          },
+          {
+            "kavram": "Machine Learning Anomaly Detection (Makine Öğrenimi Anomali Tespiti)",
+            "aciklama": "Makine öğrenimi tekniklerini kullanarak normal davranıştan sapmaları tespit etme süreci. Bu, güvenlik tehditlerini, dolandırıcılığı veya ağ anormalliklerini tespit etmek için kullanılır."
+          },
+          {
+            "kavram": "Mobile Application Management (MAM) (Mobil Uygulama Yönetimi)",
+            "aciklama": "Mobil cihazlarda çalışan uygulamaların yönetilmesi ve güvenliğinin sağlanması. Bu, uygulama güncellemeleri, erişim kontrolleri ve veri güvenliğini içerir."
+          },
+          {
+            "kavram": "Multicast Routing (Çoklu Yayın Yönlendirmesi)",
+            "aciklama": "Birçok alıcıya veri göndermek için ağda yönlendirme yapılan bir teknik. Bu, çoklu yayın (multicast) trafiğini etkin bir şekilde yönlendirmek için kullanılır."
+          },
+          {
+            "kavram": "MedeAnalytics (Medikal Veri Analitiği)",
+            "aciklama": "Sağlık verilerinin analiz edilmesi ve anlamlı bilgiler çıkarılması süreci. Bu, hastalıkların izlenmesi, tedavi sonuçlarının değerlendirilmesi gibi alanlarda kullanılır."
+          },
+          {
+            "kavram": "Mitigation Strategies (Azaltma Stratejileri)",
+            "aciklama": "Güvenlik tehditlerinin etkilerini azaltmak amacıyla alınan önlemler. Bu, risklerin yönetilmesi ve olası zararların en aza indirilmesi için kullanılan stratejilerdir."
+          },
+          {
+            "kavram": "Model Integrity (Model Bütünlüğü)",
+            "aciklama": "Makine öğrenimi veya diğer sistemlerde kullanılan modelin doğruluğunu ve güvenilirliğini koruma süreci. Modelin değiştirilmesi veya manipüle edilmesi engellenir."
+          },
+          {
+            "kavram": "Mobile Device Security Solutions (Mobil Cihaz Güvenliği Çözümleri)",
+            "aciklama": "Mobil cihazların güvenliğini sağlamak için kullanılan yazılımlar ve teknikler. Bu, cihaz şifreleme, güvenlik duvarı, kötü amaçlı yazılım tarayıcıları gibi araçları içerir."
+          },
+          {
+            "kavram": "Man in the Browser Attack (Tarayıcıdaki Ortadaki Adam Saldırısı)",
+            "aciklama": "Kullanıcının tarayıcısı ile sunucu arasındaki iletişimi gizlice izleyen ve değiştiren saldırı türü. Bu, genellikle kötü amaçlı eklentiler veya yazılımlar aracılığıyla gerçekleştirilir."
+          },
+          {
+            "kavram": "Mass Malware Attack (Kitlesel Kötü Amaçlı Yazılım Saldırısı)",
+            "aciklama": "Çok sayıda cihazı hedef alan, geniş çaplı kötü amaçlı yazılım saldırıları. Bu tür saldırılar genellikle virüsler veya botnet ağları aracılığıyla yapılır."
+          },
+          {
+            "kavram": "Monitoring Tools (İzleme Araçları)",
+            "aciklama": "Sistemlerin, ağların veya uygulamaların durumunu izlemek için kullanılan yazılım araçları. Bu araçlar, potansiyel tehditleri tespit etmeye ve sistem performansını izlemeye yarar."
+          },
+          {
+            "kavram": "Microservices Security (Mikroservisler Güvenliği)",
+            "aciklama": "Mikroservis mimarisiyle çalışan uygulamaların güvenliğini sağlamak için alınan önlemler. Bu, her servisin ayrı ayrı güvenlik denetimlerinden geçmesini gerektirir."
+          },
+          {
+            "kavram": "Multilayered Defense (Çok Katmanlı Savunma)",
+            "aciklama": "Güvenlik tehditlerine karşı birden fazla güvenlik katmanı kullanarak savunma yapılması. Bu, ağ güvenliği, uygulama güvenliği, kullanıcı doğrulama gibi katmanları içerir."
+          },
+          {
+            "kavram": "Mobile Device Forensics (Mobil Cihaz Adli Tıbbı)",
+            "aciklama": "Mobil cihazlarda dijital kanıtların toplanması ve analiz edilmesi. Bu süreç, suçların çözülmesinde ve dijital delil toplamada kullanılır."
+          },
+          {
+            "kavram": "Malicious Insider (Kötü Niyetli İçeriden Tehdit)",
+            "aciklama": "Bir organizasyon içindeki bir çalışan veya yetkili kişinin, organizasyona zarar vermek amacıyla kötü niyetli faaliyetlerde bulunması."
+          },
+          {
+            "kavram": "Mobile Network Attacks (Mobil Ağ Saldırıları)",
+            "aciklama": "Mobil ağlar üzerinde gerçekleştirilen siber saldırılar. Bu saldırılar, veri hırsızlığı, ağ izleme ve kimlik doğrulama zafiyetlerini içerebilir."
+          },
+          {
+            "kavram": "Malware Protection Mechanisms (Kötü Amaçlı Yazılım Koruma Mekanizmaları)",
+            "aciklama": "Kötü amaçlı yazılımların sistemlere zarar vermesini engellemek için kullanılan güvenlik teknikleri. Bu, antivirüs yazılımları, güvenlik duvarları ve izleme araçları gibi önlemleri içerir."
+          },
+          {
+            "kavram": "Mass Email Attack (Kitlesel E-posta Saldırısı)",
+            "aciklama": "Çok sayıda e-posta göndererek saldırı gerçekleştiren türdeki kötü amaçlı yazılım saldırıları. Bu saldırılar genellikle kimlik avı amaçlıdır."
+          },
+          {
+            "kavram": "MitM Proxy Server (Ortadaki Adam Proxy Sunucu)",
+            "aciklama": "Ortadaki Adam saldırısı gerçekleştirerek, bir kullanıcının ve bir sunucunun arasındaki iletişimi izleyen ve değiştiren proxy sunucu. Bu tür sunucular, verilerin çalınmasına ve değiştirilmesine olanak tanır."
+          }
+
+    ]
+}

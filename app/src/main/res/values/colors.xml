@@ -35,4 +35,7 @@
     <!-- Standart Renkler -->
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
+    
+    <!-- Mevcut renklere ek olarak -->
+    <color name="hint_gray">#9EAAB8</color>
 </resources>
